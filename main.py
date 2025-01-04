@@ -64,8 +64,10 @@ def compare_cjkv_bsc_and_a_and_cmp_with_msWubiChars():
             if cjkv_bsc_and_a_and_cmp[i] not in msWubiChars:
                 file.write(cjkv_bsc_and_a_and_cmp[i] + '\n')
 
+
 def generate_sogou_pinyin_custom_phrases():
     # 生成导入搜狗拼音自定义短语的txt文件
+    return None
 
 
 if __name__ == "__main__":
