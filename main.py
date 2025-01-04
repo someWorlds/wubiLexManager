@@ -65,8 +65,18 @@ def compare_cjkv_bsc_and_a_and_cmp_with_msWubiChars():
                 file.write(cjkv_bsc_and_a_and_cmp[i] + '\n')
 
 
-def generate_sogou_pinyin_custom_phrases():
-    # 生成导入搜狗拼音自定义短语的txt文件
+def generate_custPhrases_sogouPy():
+    # 生成导入PC搜狗拼音自定义短语的txt文件
+    return None
+
+
+def generate_custScheme_sogouWb():
+    # 生成导入PC搜狗五笔的自定义码表、用户短语、自定义短语的txt文件
+    return None
+
+
+def generate_custScheme_mobileSogou():
+    # 生成导入手机搜狗输入法的自定义五笔方案的txt文件
     return None
 
 
