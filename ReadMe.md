@@ -3,7 +3,7 @@
 本程序用于管理五笔输入法的码表。
 
 > 字根图基于86五笔方案，加入部分繁体字根，并修正错误字根，e.g. 麸 gqfw $\to$ gtfw，囱 tlq $\to$ tlt。
-![五笔字根表](./images/images/wubiRadicals_86_加入繁体字根_易读版.jpg)
+![五笔字根表](./images/wubiRadicals_86_加入繁体字根_易读版.jpg)
 
 ## 功能
 - 添加新词条
