@@ -65,24 +65,323 @@ def compare_cjkv_bsc_and_a_and_cmp_with_msWubiChars():
                 file.write(cjkv_bsc_and_a_and_cmp[i] + '\n')
 
 
-def generate_custPhrases_sogouPy():
+def read_chars_1keySim():
+    chars_1keySim = []
+    with open("./custWubiCodes/chars_1keySim.yaml", 'r',
+              encoding='utf-8') as file:
+        data = file.readlines()
+        for line in data:
+            if line[0] != '#' and line[0] != '\n':
+                chars_1keySim.append(line.split())
+    return chars_1keySim
+
+
+def read_chars_2keySim():
+    chars_2keySim = []
+    with open("./custWubiCodes/chars_2keySim.yaml", 'r',
+              encoding='utf-8') as file:
+        data = file.readlines()
+        for line in data:
+            if line[0] != '#' and line[0] != '\n':
+                chars_2keySim.append(line.split())
+    return chars_2keySim
+
+
+def read_chars_3keySim():
+    chars_3keySim = []
+    with open("./custWubiCodes/chars_3keySim.yaml", 'r',
+              encoding='utf-8') as file:
+        data = file.readlines()
+        for line in data:
+            if line[0] != '#' and line[0] != '\n':
+                chars_3keySim.append(line.split())
+    return chars_3keySim
+
+
+def read_chars_3keyFull():
+    chars_3keyFull = []
+    with open("./custWubiCodes/chars_3keyFull.yaml", 'r',
+              encoding='utf-8') as file:
+        data = file.readlines()
+        for line in data:
+            if line[0] != '#' and line[0] != '\n':
+                chars_3keyFull.append(line.split())
+    return chars_3keyFull
+
+
+def read_chars_4keyFull():
+    chars_4keyFull = []
+    with open("./custWubiCodes/chars_4keyFull.yaml", 'r',
+              encoding='utf-8') as file:
+        data = file.readlines()
+        for line in data:
+            if line[0] != '#' and line[0] != '\n':
+                chars_4keyFull.append(line.split())
+    return chars_4keyFull
+
+
+def read_pi():
+    personalInfo = []
+    with open("./custWubiCodes/pi.yaml", 'r', encoding='utf-8') as file:
+        data = file.readlines()
+        for line in data:
+            if line[0] != '#' and line[0] != '\n':
+                personalInfo.append(line.split())
+    return personalInfo
+
+
+def read_syms():
+    symbols = []
+    with open("./custWubiCodes/syms.yaml", 'r', encoding='utf-8') as file:
+        data = file.readlines()
+        for line in data:
+            if line[0] != '#' and line[0] != '\n':
+                symbols.append(line.split())
+    return symbols
+
+
+def read_words_2keySim():
+    words_2keySim = []
+    with open("./custWubiCodes/words_2keySim.yaml", 'r',
+              encoding='utf-8') as file:
+        data = file.readlines()
+        for line in data:
+            if line[0] != '#' and line[0] != '\n':
+                words_2keySim.append(line.split())
+    return words_2keySim
+
+
+def read_words_4keyFull():
+    words_4keyFull = []
+    with open("./custWubiCodes/words_4keyFull.yaml", 'r',
+              encoding='utf-8') as file:
+        data = file.readlines()
+        for line in data:
+            if line[0] != '#' and line[0] != '\n':
+                words_4keyFull.append(line.split())
+    return words_4keyFull
+
+
+def get_custWubiCodes():
+    custWubiCodes = []
+    custWubiCodes.extend(read_chars_1keySim())
+    custWubiCodes.extend(read_chars_2keySim())
+    custWubiCodes.extend(read_chars_3keySim())
+    custWubiCodes.extend(read_chars_3keyFull())
+    custWubiCodes.extend(read_chars_4keyFull())
+    custWubiCodes.extend(read_pi())
+    custWubiCodes.extend(read_syms())
+    custWubiCodes.extend(read_words_2keySim())
+    custWubiCodes.extend(read_words_4keyFull())
+    custWubiCodes.sort(key=lambda x: int(x[2]))
+    custWubiCodes.sort(key=lambda x: x[0])
+    return custWubiCodes
+
+
+def get_custWubiCodes_chars():
+    custWubiCodes_chars = []
+    custWubiCodes_chars.extend(read_chars_1keySim())
+    custWubiCodes_chars.extend(read_chars_2keySim())
+    custWubiCodes_chars.extend(read_chars_3keySim())
+    custWubiCodes_chars.extend(read_chars_3keyFull())
+    custWubiCodes_chars.extend(read_chars_4keyFull())
+    custWubiCodes_chars.sort(key=lambda x: int(x[2]))
+    custWubiCodes_chars.sort(key=lambda x: x[0])
+    return custWubiCodes_chars
+
+
+def get_custWubiCodes_words():
+    custWubiCodes_words = []
+    custWubiCodes_words.extend(read_words_4keyFull())
+    custWubiCodes_words.sort(key=lambda x: int(x[2]))
+    custWubiCodes_words.sort(key=lambda x: x[0])
+    return custWubiCodes_words
+
+
+def get_custWubiCodes_phrases():
+    custWubiCodes_phrases = []
+    custWubiCodes_phrases.extend(read_words_2keySim())
+    custWubiCodes_phrases.extend(read_pi())
+    custWubiCodes_phrases.extend(read_syms())
+    custWubiCodes_phrases.sort(key=lambda x: int(x[2]))
+    custWubiCodes_phrases.sort(key=lambda x: x[0])
+    return custWubiCodes_phrases
+
+
+def generate_custPhrases_sogouPy(custWubiCodes: list):
     # 生成导入PC搜狗拼音自定义短语的txt文件
+    with open('./outputFiles/custPhrases_sogouPy.txt', 'w',
+              encoding='utf-8') as file:
+        file.write(""";  搜狗输入法--自定义短语配置文件
+
+;  自定义短语说明：
+;  1、自定义短语支持多行、空格、指定位置。
+;  2、每条自定义短语最多支持30000个汉字，总共支持100000条自定义短语。
+;  3、自定义短语的格式如下：
+
+;  单行的格式：
+;  字符串+英文逗号+数字（指定排序位置）=短语
+
+;  多行的格式：
+;  字符串+英文逗号+数字（指定排序位置）=
+;  多行短语
+
+;  具体格式可以参考下面的实例。
+;  4、最多支持100000行自定义短语。
+;  5、自定义短语的用途有：快捷输入手机号、邮箱、诗词、小短文等，大家可以自由发挥。
+;  6、时间函数功能。具体定义格式如下：;  字符串+英文逗号+数字（ 指定排序位置）=#表达式
+;  注意：表达式以英文#开头，后面的表达式中的每一个函数的前面都包含有英文$。
+;  函数表如下：
+;  函数         含义            举例
+;  $year        年(4位)         2006、2008
+;  $year_yy     年(2位)         06、08
+;  $month       月              12、8、3
+;  $month_mm    月              12、08、03              //此函数在输入法3.1版之后（含）有效
+;  $day         日              3、13、22
+;  $day_dd      日             03、13、22       //此函数在输入法3.1版之后（含）有效
+;  $weekday     星期            0、1、2、5、6
+;  $fullhour    时(24小时制)    2、8、13、23
+;  $fullhour_hh 时(24小时制)    02、08、13、23          //此函数在输入法3.1版之后（含）有效
+;  $halfhour    时(12小时制)    2、8、10、11
+;  $halfhour_hh 时(12小时制)    02、08、10、11          //此函数在输入法3.1版之后（含）有效
+;  $ampm        AM、PM(英)      AM、PM（大写）
+;  $minute      分              02、08、15、28
+;  $second      秒              02、08、15、28
+;  $year_cn     年(中文4位)     二〇〇六
+;  $year_yy_cn  年(中文2位)     〇六
+;  $month_cn    月(中文)        十二、八、三
+;  $day_cn      日(中文)        三、十三、二十二
+;  $weekday_cn  星期(中文)      日、一、二、五、六
+;  $fullhour_cn 时(中文24时制)  二、八、十三、二十三
+;  $halfhour_cn 时(中文12时制)  二、八、一、十一
+;  $ampm_cn     上午下午(中文)  上午、下午
+;  $minute_cn   分(中文)        零二、零八、十五、二十八
+;  $second_cn   秒(中文)        零二、零八、十五、二十八
+;  具体你可以参考这个文件最下面的例子，实际体验一下就明白了。
+;  你可以用自定义短语来做一个带动态时间的多行回信落款。
+;  ss,1=#$year年$month月$day_dd日 $fullhour:$minute:$second
+
+""")
+        num = 0
+        for i in range(len(custWubiCodes)):
+            num += 1
+            if 0 == i or custWubiCodes[i][0] == custWubiCodes[i - 1][0]:
+                file.write(custWubiCodes[i][0] + ',' + str(num) + '=' +
+                           custWubiCodes[i][1] + '\n')
+            else:
+                num = 1
+                file.write(custWubiCodes[i][0] + ',' + str(num) + '=' +
+                           custWubiCodes[i][1] + '\n')
     return None
 
 
-def generate_custScheme_sogouWb():
-    # 生成导入PC搜狗五笔的自定义码表、用户短语、自定义短语的txt文件
-    return None
-
-
-def generate_custScheme_mobileSogou():
+def generate_custScheme_mobileSogouWb(custWubiCodes: list):
     # 生成导入手机搜狗输入法的自定义五笔方案的txt文件
+    with open('./outputFiles/custScheme_mobileSogouWb.txt',
+              'w',
+              encoding='utf-8') as file:
+        for i in range(len(custWubiCodes)):
+            file.write(custWubiCodes[i][0] + '\t' + custWubiCodes[i][1] + '\n')
+    return None
+
+
+def generate_custChars_sogouWb(custWubiCodes_chars: list):
+    # 生成导入PC搜狗五笔的自定义单字码表的txt文件
+    with open('./outputFiles/custChars_sogouWb.txt', 'w',
+              encoding='utf-8') as file:
+        for i in range(len(custWubiCodes_chars)):
+            file.write(custWubiCodes_chars[i][0] + '\t' +
+                       custWubiCodes_chars[i][1] + '\n')
+    return None
+
+
+def generate_custWords_sogouWb(custWubiCodes_words: list):
+    # 生成导入PC搜狗五笔的用户短语的txt文件
+    with open('./outputFiles/custWords_sogouWb.txt', 'w',
+              encoding='utf-8') as file:
+        for i in range(len(custWubiCodes_words)):
+            file.write(custWubiCodes_words[i][0] + '\t' +
+                       custWubiCodes_words[i][1] + '\n')
+    return None
+
+
+def generate_custPhrases_sogouWb(custWubiCodes_phrases: list):
+    # 生成导入PC搜狗五笔的自定义短语的txt文件
+    with open('./outputFiles/custPhrases_sogouWb.txt', 'w',
+              encoding='utf-8') as file:
+        for i in range(len(custWubiCodes_phrases)):
+            file.write(custWubiCodes_phrases[i][0] + '\t' +
+                       custWubiCodes_phrases[i][1] + '\n')
+    return None
+
+
+def generate_outputFiles():
+    custWubiCodes = get_custWubiCodes()
+    generate_custPhrases_sogouPy(custWubiCodes)
+    generate_custScheme_mobileSogouWb(custWubiCodes)
+    generate_custChars_sogouWb(get_custWubiCodes_chars())
+    generate_custWords_sogouWb(get_custWubiCodes_words())
+    generate_custPhrases_sogouWb(get_custWubiCodes_phrases())
+    return None
+
+
+def read_multi_line_input():
+    print("请输入多行字符串（输入空行结束）：")
+    print("输入示例1：你好 1    # 中间用空格或者制表符隔开，数字指定候选词排列位置")
+    print("输入示例2：您好      # 无数字时，不指定排列位置，根据微软五笔码表自动计算频率")
+    print("输入示例3：它好 0    # 0表示要删除该词")
+    print("输入示例4：饱   9    # 9表示后置到底，数字1 ，表示要添加该词")
+    lines = []
+    while True:
+        line = input()
+        if line == "":
+            break
+        lines.append(line.split())
+    return lines
+
+
+def judge_string_if_is_in_cjkv_bsc_and_a_and_cmp(inputString: str):
+    for char in inputString:
+        if ord(char) >= ord('㐀') and ord(char) <= ord('䶿'):
+            continue
+        elif ord(char) >= ord('一') and ord(char) <= ord('鿿'):
+            continue
+        elif ord(char) == ord('〇'):
+            continue
+        else:
+            return False
+    return True
+
+
+def changeFreq_custWubiCodes():
+    lines = read_multi_line_input()
+    chars_to_change = []
+    words_to_change = []
+    phrases_to_change = []
+    for i in range(len(lines)):
+        if len(lines[i]) == 1:
+            if judge_string_if_is_in_cjkv_bsc_and_a_and_cmp(
+                    lines[i][0]) is True:
+                chars_to_change.append(lines[i])
+            else:
+                phrases_to_change.append(lines[i])
+        elif len(lines[i]) > 1:
+            if judge_string_if_is_in_cjkv_bsc_and_a_and_cmp(
+                    lines[i][0]) is True:
+                words_to_change.append(lines[i])
+            else:
+                phrases_to_change.append(lines[i])
+
     return None
 
 
 if __name__ == "__main__":
     startTime = time.time()
-    compare_cjkv_bsc_and_a_and_cmp_with_msWubiChars()
-    compare_msWubiChars_with_cjkv_bsc_and_a_and_cmp()
+    print('{}'.format(startTime))
+
+    a = read_multi_line_input()
+    print(a)
+
     endTime = time.time()
+    print('{}'.format(endTime))
     print('{}'.format(endTime - startTime))
