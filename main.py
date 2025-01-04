@@ -120,14 +120,14 @@ def read_chars_4keyFull():
     return chars_4keyFull
 
 
-def read_pi():
-    personalInfo = []
-    with open("./custWubiCodes/pi.yaml", 'r', encoding='utf-8') as file:
+def read_syms_pi():
+    syms_pi = []
+    with open("./custWubiCodes/syms_pi.yaml", 'r', encoding='utf-8') as file:
         data = file.readlines()
         for line in data:
             if line[0] != '#' and line[0] != '\n':
-                personalInfo.append(line.split())
-    return personalInfo
+                syms_pi.append(line.split())
+    return syms_pi
 
 
 def read_syms():
@@ -162,17 +162,29 @@ def read_words_4keyFull():
     return words_4keyFull
 
 
-def get_custWubiCodes():
+def read_words_pi():
+    words_pi = []
+    with open("./custWubiCodes/words_pi.yaml", 'r', encoding='utf-8') as file:
+        data = file.readlines()
+        for line in data:
+            if line[0] != '#' and line[0] != '\n':
+                words_pi.append(line.split())
+    return words_pi
+
+
+def get_custWubiCodes(withPi: bool = False):
     custWubiCodes = []
     custWubiCodes.extend(read_chars_1keySim())
     custWubiCodes.extend(read_chars_2keySim())
     custWubiCodes.extend(read_chars_3keySim())
     custWubiCodes.extend(read_chars_3keyFull())
     custWubiCodes.extend(read_chars_4keyFull())
-    custWubiCodes.extend(read_pi())
     custWubiCodes.extend(read_syms())
     custWubiCodes.extend(read_words_2keySim())
     custWubiCodes.extend(read_words_4keyFull())
+    if withPi is True:
+        custWubiCodes.extend(read_syms_pi())
+        custWubiCodes.extend(read_words_pi())
     custWubiCodes.sort(key=lambda x: int(x[2]))
     custWubiCodes.sort(key=lambda x: x[0])
     return custWubiCodes
@@ -190,29 +202,34 @@ def get_custWubiCodes_chars():
     return custWubiCodes_chars
 
 
-def get_custWubiCodes_words():
+def get_custWubiCodes_words(withPi: bool = False, onMobile: bool = False):
     custWubiCodes_words = []
     custWubiCodes_words.extend(read_words_4keyFull())
+    if withPi is True:
+        custWubiCodes_words.extend(read_words_pi())
+    if onMobile is True:
+        custWubiCodes_words.extend(read_words_2keySim())
     custWubiCodes_words.sort(key=lambda x: int(x[2]))
     custWubiCodes_words.sort(key=lambda x: x[0])
     return custWubiCodes_words
 
 
-def get_custWubiCodes_phrases():
+def get_custWubiCodes_phrases(withPi: bool = False, onMobile: bool = False):
     custWubiCodes_phrases = []
-    custWubiCodes_phrases.extend(read_words_2keySim())
-    custWubiCodes_phrases.extend(read_pi())
     custWubiCodes_phrases.extend(read_syms())
+    if withPi is True:
+        custWubiCodes_phrases.extend(read_syms_pi())
+    if onMobile is False:
+        custWubiCodes_phrases.extend(read_words_2keySim())
     custWubiCodes_phrases.sort(key=lambda x: int(x[2]))
     custWubiCodes_phrases.sort(key=lambda x: x[0])
     return custWubiCodes_phrases
 
 
-def generate_custPhrases_sogouPy(custWubiCodes: list):
-    # 生成导入PC搜狗拼音自定义短语的txt文件
-    with open('./outputFiles/custPhrases_sogouPy.txt', 'w',
-              encoding='utf-8') as file:
-        file.write(""";  搜狗输入法--自定义短语配置文件
+def write_custPhrases_sogouPy(
+        filepath: str = './outputFiles/custPhrases_sogouPy.txt',
+        custWubiCodes: list = []):
+    default_statement = """;  搜狗输入法--自定义短语配置文件
 
 ;  自定义短语说明：
 ;  1、自定义短语支持多行、空格、指定位置。
@@ -261,7 +278,9 @@ def generate_custPhrases_sogouPy(custWubiCodes: list):
 ;  你可以用自定义短语来做一个带动态时间的多行回信落款。
 ;  ss,1=#$year年$month月$day_dd日 $fullhour:$minute:$second
 
-""")
+"""
+    with open(filepath, 'w', encoding='utf-8') as file:
+        file.write(default_statement)
         num = 0
         for i in range(len(custWubiCodes)):
             num += 1
@@ -272,65 +291,101 @@ def generate_custPhrases_sogouPy(custWubiCodes: list):
                 num = 1
                 file.write(custWubiCodes[i][0] + ',' + str(num) + '=' +
                            custWubiCodes[i][1] + '\n')
-    return None
 
 
-def generate_custScheme_mobileSogouWb(custWubiCodes: list):
-    # 生成导入手机搜狗输入法的自定义五笔方案的txt文件
-    with open('./outputFiles/custScheme_mobileSogouWb.txt',
-              'w',
-              encoding='utf-8') as file:
-        for i in range(len(custWubiCodes)):
-            file.write(custWubiCodes[i][0] + '\t' + custWubiCodes[i][1] + '\n')
-    return None
+def generate_custCodes_sogouPy():
+    # 生成导入PC搜狗拼音自定义短语的txt文件
+    filepath = [
+        "./outputFiles/custPhrases_sogouPy.txt",
+        "./outputFiles/custPhrases_sogouPy_withPi.txt"
+    ]
+    try:
+        for i in range(len(filepath)):
+            write_custPhrases_sogouPy(
+                filepath=filepath[i],
+                custWubiCodes=get_custWubiCodes(withPi=bool(i)))
+    except FileNotFoundError:
+        return None
 
 
-def generate_custChars_sogouWb(custWubiCodes_chars: list):
-    # 生成导入PC搜狗五笔的自定义单字码表的txt文件
-    with open('./outputFiles/custChars_sogouWb.txt', 'w',
-              encoding='utf-8') as file:
-        for i in range(len(custWubiCodes_chars)):
-            file.write(custWubiCodes_chars[i][0] + '\t' +
-                       custWubiCodes_chars[i][1] + '\n')
-    return None
+def generate_custCodes_mobileSogou():
+    # 生成导入手机搜狗输入法的自定义五笔方案的txt文件，以及常用语的csv文件
+    filepaths = [
+        './outputFiles/custScheme_mobileSogou.txt',
+        './outputFiles/custScheme_mobileSogou_withPi.txt'
+    ]
+    try:
+        for i in range(len(filepaths)):
+            with open(filepaths[i], 'w', encoding='utf-8') as file:
+                custWubiCodes = get_custWubiCodes_chars()
+                custWubiCodes.extend(
+                    get_custWubiCodes_words(withPi=bool(i), onMobile=True))
+                custWubiCodes.sort(key=lambda x: int(x[2]))
+                custWubiCodes.sort(key=lambda x: x[0])
+                for i in range(len(custWubiCodes)):
+                    file.write(custWubiCodes[i][0] + '\t' +
+                               custWubiCodes[i][1] + '\n')
+    except FileNotFoundError:
+        None
+    filepaths = [
+        './outputFiles/custPhrases_mobileSogou.csv',
+        './outputFiles/custPhrases_mobileSogou_withPi.csv'
+    ]
+    try:
+        for i in range(len(filepaths)):
+            with open(filepaths[i], 'w', encoding='utf-8') as file:
+                custWubiCodes = get_custWubiCodes_phrases(withPi=bool(i),
+                                                          onMobile=True)
+                custWubiCodes.sort(key=lambda x: int(x[2]))
+                custWubiCodes.sort(key=lambda x: x[0])
+                for i in range(len(custWubiCodes)):
+                    custWubiCodes[i].pop(2)
+                    file.writelines(','.join(map(str, custWubiCodes[i])) +
+                                    '\n')
+    except FileNotFoundError:
+        None
 
 
-def generate_custWords_sogouWb(custWubiCodes_words: list):
-    # 生成导入PC搜狗五笔的用户短语的txt文件
-    with open('./outputFiles/custWords_sogouWb.txt', 'w',
-              encoding='utf-8') as file:
-        for i in range(len(custWubiCodes_words)):
-            file.write(custWubiCodes_words[i][0] + '\t' +
-                       custWubiCodes_words[i][1] + '\n')
-    return None
-
-
-def generate_custPhrases_sogouWb(custWubiCodes_phrases: list):
-    # 生成导入PC搜狗五笔的自定义短语的txt文件
-    with open('./outputFiles/custPhrases_sogouWb.txt', 'w',
-              encoding='utf-8') as file:
-        for i in range(len(custWubiCodes_phrases)):
-            file.write(custWubiCodes_phrases[i][0] + '\t' +
-                       custWubiCodes_phrases[i][1] + '\n')
-    return None
+def generate_custCodes_sogouWb():
+    # 生成导入PC搜狗五笔的自定义单字码表的txt文件、用户词库的txt文件、自定义短语的txt文件
+    filepaths = [
+        './outputFiles/custChars_sogouWb.txt',
+        './outputFiles/custWords_sogouWb.txt',
+        './outputFiles/custPhrases_sogouWb.txt',
+        './outputFiles/custWords_sogouWb_withPi.txt',
+        './outputFiles/custPhrases_sogouWb_withPi.txt',
+    ]
+    try:
+        for i in range(len(filepaths)):
+            with open(filepaths[i], 'w', encoding='utf-8') as file:
+                if i == 0:
+                    custWubiCodes = get_custWubiCodes_chars()
+                else:
+                    custWubiCodes = get_custWubiCodes_words(withPi=bool(
+                        (i - 1) // 2),
+                                                            onMobile=False)
+                for i in range(len(custWubiCodes)):
+                    file.write(custWubiCodes[i][0] + '\t' +
+                               custWubiCodes[i][1] + '\n')
+    except FileNotFoundError:
+        None
 
 
 def generate_outputFiles():
-    custWubiCodes = get_custWubiCodes()
-    generate_custPhrases_sogouPy(custWubiCodes)
-    generate_custScheme_mobileSogouWb(custWubiCodes)
-    generate_custChars_sogouWb(get_custWubiCodes_chars())
-    generate_custWords_sogouWb(get_custWubiCodes_words())
-    generate_custPhrases_sogouWb(get_custWubiCodes_phrases())
+    generate_custCodes_sogouPy()
+    generate_custCodes_mobileSogou()
+    generate_custCodes_sogouWb()
     return None
 
 
 def read_multi_line_input():
     print("请输入多行字符串（输入空行结束）：")
-    print("输入示例1：你好 1    # 中间用空格或者制表符隔开，数字指定候选词排列位置")
-    print("输入示例2：您好      # 无数字时，不指定排列位置，根据微软五笔码表自动计算频率")
-    print("输入示例3：它好 0    # 0表示要删除该词")
-    print("输入示例4：饱   9    # 9表示后置到底，数字1 ，表示要添加该词")
+    print("输入示例1：您好          # 无数字时，根据微软五笔码表计算频率，自动生成排序")
+    print("输入示例2：你好     1    # 数字0-9指定候选词排列位置，中间用空格或制表符隔开")
+    print("输入示例3：它好     0    # 0表示要删除该词")
+    print("输入示例4：饱       9    # 9表示排序置后")
+    print("输入示例5：完全乱写  sb   # 自定义短语，后面需要输入字母编码，默认排序置后，")
+    print("输入示例5：完全乱写  sb 2 # 也可再加入控制排序的数字0-9")
     lines = []
     while True:
         line = input()
@@ -340,7 +395,7 @@ def read_multi_line_input():
     return lines
 
 
-def judge_string_if_is_in_cjkv_bsc_and_a_and_cmp(inputString: str):
+def judge_inputString_in_cjkv_bsc_and_a_and_cmp(inputString: str):
     for char in inputString:
         if ord(char) >= ord('㐀') and ord(char) <= ord('䶿'):
             continue
@@ -360,13 +415,13 @@ def changeFreq_custWubiCodes():
     phrases_to_change = []
     for i in range(len(lines)):
         if len(lines[i]) == 1:
-            if judge_string_if_is_in_cjkv_bsc_and_a_and_cmp(
+            if judge_inputString_in_cjkv_bsc_and_a_and_cmp(
                     lines[i][0]) is True:
                 chars_to_change.append(lines[i])
             else:
                 phrases_to_change.append(lines[i])
         elif len(lines[i]) > 1:
-            if judge_string_if_is_in_cjkv_bsc_and_a_and_cmp(
+            if judge_inputString_in_cjkv_bsc_and_a_and_cmp(
                     lines[i][0]) is True:
                 words_to_change.append(lines[i])
             else:
@@ -379,8 +434,7 @@ if __name__ == "__main__":
     startTime = time.time()
     print('{}'.format(startTime))
 
-    a = read_multi_line_input()
-    print(a)
+    generate_outputFiles()
 
     endTime = time.time()
     print('{}'.format(endTime))

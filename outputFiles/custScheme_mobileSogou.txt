@@ -2444,10 +2444,6 @@ alpc	䒐
 alpc	蘉
 alph	瞢
 alph	䠢
-alph	α
-alph	Α
-alpha	α
-alpha	Α
 alpl	苏军
 alpm	顭
 alpn	甍
@@ -3069,8 +3065,6 @@ apou	荧
 appf	营寨
 appl	劳军
 appq	蒙冤
-appr	≈
-approx	≈
 appy	劳神
 apq	莺
 apq	菀
@@ -5238,8 +5232,6 @@ bebe	阴阴
 bebg	阻隔
 bebj	阴阳
 bebw	阴险
-bec	∵
-because	∵
 becb	阴柔
 becw	阻难
 bede	阴郁
@@ -5299,8 +5291,6 @@ bese	阴极
 besg	阻梗
 bess	阴森
 besy	阴核
-beta	β
-beta	Β
 betc	阴私
 betf	阴德
 beto	䧦
@@ -6972,7 +6962,6 @@ cant	䮅
 caoj	劲爆
 caop	戏迷
 cap	迳
-cap	∩
 capd	迳
 capf	驱寒
 caq	驱
@@ -7872,8 +7861,6 @@ chcg	骑虎难下
 chcw	难上难
 chcy	駊
 chdt	䮹
-chi	χ
-chi	Χ
 chjh	䮓
 chlc	难上加难
 chpn	鸡皮鹤发
@@ -8507,7 +8494,6 @@ cukq	駾
 culh	马六甲
 culj	驓
 cumd	䮰
-cup	∪
 cupa	对症之药
 cupy	騯
 cuqa	参差错落
@@ -9566,7 +9552,6 @@ defw	鬒
 defy	䰏
 deg	髡
 deg	胡
-deg	°
 dega	有形
 degc	有致
 degf	䰊
@@ -9582,7 +9567,6 @@ degm	有责
 degn	髩
 dego	胡来
 degq	髡
-degree	°
 degx	有毒
 degy	㻹
 deh	髭
@@ -9624,8 +9608,6 @@ delk	有加
 deln	䰄
 deln	鬛
 delt	有力
-delta	δ
-delta	Δ
 delv	有轨
 dem	髯
 dema	髷
@@ -14476,10 +14458,6 @@ eprw	受挫
 eprw	膑
 epry	爱护
 epsc	受权
-epsi	ε
-epsi	Ε
-epsilon	ε
-epsilon	Ε
 epsm	爱机
 eptd	受敌
 eptf	逐行
@@ -14803,8 +14781,6 @@ esyw	采认
 esyy	采访
 et	用
 eta	胀
-eta	η
-eta	Η
 etaa	用工
 etad	用项
 etah	胮
@@ -15289,10 +15265,8 @@ exey	脂肪
 exey	腞
 exgu	胟
 exhh	䏖
-exi	∃
 exim	脂油
 exin	乿
-exists	∃
 exj	脂
 exjg	脂
 exjh	胇
@@ -18556,8 +18530,6 @@ foqi	埃米尔
 foqk	赦免
 foqq	赤金
 foqw	赥
-for	∀
-forall	∀
 fore	无精打采
 forf	趁火打劫
 fort	赤手
@@ -20459,10 +20431,6 @@ game	形骸
 gamg	形同
 gami	貮
 gamm	开山
-gamm	γ
-gamm	Γ
-gamma	γ
-gamma	Γ
 gams	残花败柳
 gamt	开账
 gamw	璜
@@ -21177,7 +21145,6 @@ gept	璦
 gepu	青衫
 gepv	静安
 geq	静
-geq	≥
 geqc	青色
 geqc	靘
 geqf	表针
@@ -21210,7 +21177,6 @@ geti	敷衍
 getj	青稞
 getr	静物
 getr	静穆
-gets	←
 gett	表笔
 geu	表
 geud	静养
@@ -28074,7 +28040,6 @@ ifer	汗腺
 iff	尘
 iff	坔
 iff	洼
-iff	⇔
 iffb	洼地
 iffc	尘埃
 iffc	澐
@@ -29867,7 +29832,6 @@ imyu	没谱
 imyw	洞府
 imyy	汎
 in	沁
-in	∈
 ina	泯
 inaa	泥工
 inac	澱
@@ -29899,7 +29863,6 @@ inef	烫脚
 inev	泥腿
 inf	汛
 inf	漏
-inf	∞
 infb	泥地
 infd	泛悦城
 inff	泥土
@@ -29910,7 +29873,6 @@ infj	潳
 info	当局者迷
 infp	漏壶
 infr	泥垢
-infty	∞
 infv	法属圭亚那
 infy	漏
 infy	泥坑
@@ -35673,10 +35635,6 @@ kany	呕心
 kap	唠
 kapj	噤若寒蝉
 kapl	唠
-kapp	κ
-kapp	Κ
-kappa	κ
-kappa	Κ
 kaq	哎
 kaq	呕
 kaqd	哄然
@@ -39120,10 +39078,6 @@ lakk	䡱
 laky	爴
 lald	转基因
 lalt	䡸
-lamb	λ
-lamb	Λ
-lambda	λ
-lambda	Λ
 lami	四世同堂
 lamu	置若罔闻
 laog	轻工业
@@ -39443,7 +39397,6 @@ lejp	四脚蛇
 lekk	胃口
 lenu	慁
 leoo	胃炎
-leq	≤
 lequ	胃镜
 leri	㘥
 lesg	胃酸
@@ -40802,8 +40755,6 @@ loqh	轔
 loqh	疄
 loqh	辚
 losm	轰炸机
-lota	ι
-lota	Ι
 lotp	输精管
 lou	䍘
 loyx	恩断义绝
@@ -44012,8 +43963,6 @@ mtyw	几座
 mtyx	几率
 mtyy	见利忘义
 mu	赠
-mu	μ
-mu	Μ
 muah	賆
 mubc	赚取
 mubn	赔了
@@ -44511,11 +44460,9 @@ naaq	民警
 naaq	展区
 naat	㥇
 naat	䎒
-nab	∇
 naba	恍若隔世
 nabb	屉子
 nabi	慢工出细活
-nabla	∇
 nabm	展出
 nabn	慌了
 naby	民防
@@ -45071,7 +45018,6 @@ nedk	心腹大患
 neeg	㥊
 neeu	慢腾腾
 nefc	愋
-neg	¬
 negg	怚
 neke	心服口服
 neny	民脂民膏
@@ -45080,7 +45026,6 @@ nepk	心腹之患
 nepm	心肝宝贝
 nept	懓
 nepu	心腹之交
-neq	≠
 nerm	愮
 nesy	㥒
 netg	民胞物与
@@ -45854,7 +45799,6 @@ nilr	斸
 nim	惝
 nimd	以小见大
 nimk	惝
-nin	∉
 ning	恍悟
 nini	悄悄
 ninn	慨当以慷
@@ -46505,7 +46449,6 @@ nool	憦
 nooy	惔
 noqh	憐
 noqt	屡犯
-notin	∉
 nouq	屡次
 nout	心烦意乱
 nov	屡
@@ -47101,8 +47044,6 @@ ntyy	发文
 ntyy	发廊
 nu	习
 nu	买
-nu	ν
-nu	Ν
 nua	屏
 nuae	买菜
 nuae	飞散
@@ -48645,10 +48586,6 @@ omcy	炈
 omdj	煓
 omdy	炴
 omeg	䊘
-omega	ω
-omega	Ω
-omeg、	ω
-omeg、	Ω
 omg	粙
 omgh	䊃
 omgk	烔
@@ -48657,10 +48594,6 @@ omgq	数见不鲜
 omh	籼
 omh	灿
 omho	煽风点火
-omic	ο
-omic	Ο
-omicron	ο
-omicron	Ο
 omjx	熴
 omk	炯
 omkg	炯
@@ -49776,8 +49709,6 @@ paqe	宽解
 paqk	宽免
 paqn	宽饶
 paqs	字斟句酌
-para	∥
-parallel	∥
 parp	安营扎寨
 parw	神工鬼斧
 pasi	究其根源
@@ -50090,7 +50021,6 @@ peqi	家乐
 peqt	家猫
 peqy	农贸
 perf	农技
-perp	⊥
 pesa	农械
 pesf	农村
 pesg	家丁
@@ -50610,8 +50540,6 @@ phax	安眠药
 phge	寂静
 phgo	寂灭
 phi	寂
-phi	φ
-phi	Φ
 phic	寂
 phil	安步当车
 phmu	寊
@@ -50624,8 +50552,6 @@ phru	安卡拉
 phtr	初战告捷
 phu	㓀
 pi	宵
-pi	π
-pi	Π
 piae	家常菜
 piaf	穿小鞋
 pibp	农学院
@@ -51306,8 +51232,6 @@ prle	穷年累月
 prlg	穷兵黩武
 prnt	实质性
 prny	之所以
-prop	∝
-propto	∝
 prpe	宽打窄用
 prpq	实报实销
 prpr	牢牢
@@ -51351,8 +51275,6 @@ psgu	宋平
 psgy	宋玉
 pshe	宁肯
 pshw	农机具
-psi	ψ
-psi	Ψ
 psia	宋江
 psih	宁波
 psip	宋学
@@ -58284,8 +58206,6 @@ qyyq	留底
 qyyy	留言
 r	的
 r	白
-r	r_li_2021@qq.com
-r	r_li_2021@foxmail.com
 ra	找
 raa	拭
 raaa	拈花惹草
@@ -60022,8 +59942,6 @@ rhnh	扯蛋
 rhnn	看书
 rhnt	拭目以待
 rhnx	看惯
-rho	ρ
-rho	Ρ
 rhoa	牛粪
 rhoi	指点迷津
 rhoo	扑火
@@ -64319,7 +64237,6 @@ sbkg	檉
 sblk	椭圆
 sbm	柮
 sbmf	李冉
-sbmf	李冉
 sbmh	柮
 sbn	杝
 sbnn	㭯
@@ -65760,10 +65677,6 @@ sie	梢
 sieg	梢
 sifi	飘洋过海
 sigl	西洋画
-sigm	σ
-sigm	Σ
-sigma	σ
-sigma	Σ
 sii	桫
 siid	桃源
 siiq	酸溜溜
@@ -68176,8 +68089,6 @@ tatr	长物
 tats	各式各样
 tatv	科工委
 taty	长篇
-tau	τ
-tau	Τ
 tauc	长痛
 taud	长卷
 tauf	升斗
@@ -70234,20 +70145,12 @@ thdt	乘虚而入
 thdt	穢
 thdu	臭
 thdw	自奉
-the	∴
 thec	自肥
 thef	臭脚
 theg	自助
 thep	自爱
 thep	鼻腔
-ther	∴
-there	∴
-therefore	∴
 thet	自用
-thet	θ
-thet	Θ
-theta	θ
-theta	Θ
 thf	乍
 thf	䇛
 thf	怎
@@ -70664,7 +70567,6 @@ tikq	血泪史
 tilk	稍加
 tilw	科学界
 tim	徜
-times	×
 timi	和光同尘
 timk	徜
 timm	簿册
@@ -71868,7 +71770,6 @@ tnyw	笖
 tnyy	秘方
 tnyy	鿈
 to	秋
-to	→
 toaa	翻工
 toad	愁苦
 toak	释惑
@@ -76994,10 +76895,6 @@ uprm	帝制
 uprr	旁白
 upsc	决赛权
 upsh	竚
-upsi	υ
-upsi	Υ
-upsilon	υ
-upsilon	Υ
 upsm	兼容机
 upte	音容笑貌
 uptx	旁系
@@ -79244,7 +79141,6 @@ vedi	退耕
 vedm	退而
 vedu	退磁
 vedy	姐丈
-vee	∨
 veem	退股
 vef	垦
 vef	媛
@@ -81861,8 +81757,6 @@ wece	仍能
 wecn	俷
 wede	仍有
 wedf	集腋成裘
-wedg	∧
-wedge	∧
 wedh	仍在
 weeg	倗
 wef	䏌
@@ -87247,8 +87141,6 @@ xhyt	引诱
 xhyw	引论
 xhyy	引言
 xi	纱
-xi	ξ
-xi	Ξ
 xiaj	纱幕
 xias	㣄
 xiat	结党营私
@@ -89218,7 +89110,6 @@ xyyx	统率
 xyyy	毋庸讳言
 y	主
 y	言
-y	y67ui8@163.com
 ya	度
 yaa	试
 yaa	诫
@@ -90716,7 +90607,6 @@ yj	齐
 yjbc	齐聚
 yjbg	齐耳
 yjcb	刘邓
-yjcq	刘欢
 yjcq	刘欢
 yjd	齑
 yjdg	齑
@@ -94157,5 +94047,3 @@ yyyy	方言
 yyyy	文言
 yyyy	谆谆
 yyyy	言
-zeta	ζ
-zeta	Ζ
