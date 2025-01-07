@@ -7,29 +7,16 @@
 > ![五笔字根表](./images/wubiRadicals_86_加入繁体字根_易读版.jpg)
 
 ## 功能
-- 添加新词条
-- 删除现有词条
-- 修改词条候选排序
-- 导出码表文件
-    - 源码表文件（Excel）
-        - CJKV各区汉字（CJKV-Bsc, A, B, C, D, E, F, G, H）
-        - Unicode补充区汉字（Cmp）
-        - 微软五笔词频
-    - 自用方案码表文件（Excel）
-        - 一简
-        - 二简
-        - 一二简_频率后移部分
-        - 三简+三全
-        - 三简_频率后移部分
-        - 四码字
-        - 四码词
-        - 容错码
-        - 其它符号
-        - 私人信息词
-        - 全
-    - 自用方案_导入PC搜狗拼音自定义短语（Txt）
-    - 自用方案_导入Android搜狗五笔（Txt）
-    - 自用方案_导入PC搜狗五笔（Txt）
-        - PC搜狗五笔用户方案
-        - PC搜狗五笔用户词汇
-        - PC搜狗五笔自定义短语
+- 添加新编码
+- 删除现有编码
+- 修改编码候选排序
+- 导出码表文件（后缀withPi，表示含个人信息词汇的文件版本）
+    - 导入PC搜狗拼音自定义短语格式（custPhrases_sogouPy.txt，custPhrases_sogouPy_withPi.txt）
+    - 导入Android搜狗五笔格式
+        - 导入自定义五笔码表（custScheme_mobileSogou.txt，custScheme_mobileSogou_withPi.txt）
+        - 导入常用语（custPhrases_mobileSogou.csv，custPhrases_mobileSogou_withPi.csv）
+    - 导入PC搜狗五笔格式
+        - 导入自定义码表（custChars_sogouWb.txt）
+        - 导入用户词汇（custWords_sogouWb.txt，custWords_sogouWb_withPi.txt）
+        - 导入自定义短语（custPhrases_sogouWb.txt，custPhrases_sogouWb_withPi.txt）
+- 个人信息词汇与短语，可分别在custWubiLex\syms_pi.yaml与custWubiLex\words_pi.yaml两个文件中添加。
