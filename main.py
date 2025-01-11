@@ -4,6 +4,21 @@
 
 import time
 
+Freq = {
+    'word_new': '30000',  # 自添加但是ms中没有的词，用该频率
+    'char_inc': '50700',  # 对于一些简码字，将其除最简码外的频率增加到50700档位
+    'char_err': '50750',  # 字的容错码频率设置到50750档
+    'syms': '50800',  # 符号类的自定义短语，将其频率设置到50800档位
+    'cjkv_b': '51000',  # cjkv的其它字，频率档位更高
+    'cjkv_c': '52000',
+    'cjkv_d': '53000',
+    'cjkv_e': '54000',
+    'cjkv_f': '55000',
+    'cjkv_g': '56000',
+    'cjkv_h': '57000',
+    'cjkv_i': '58000',
+}
+
 
 def read_msWubiLex_org():
     msWubiLex = []
@@ -118,6 +133,21 @@ def refine_msWubilex_by_cjkv():
             file.write(term[0] + '    ' + term[1] + '    ' + term[2] + '\n')
 
 
+def find_repFreq():
+    # 查看自定义的频率Freq是否与ms的频率冲突
+    msWubiLex = []
+    with open("./refWubiLex/msWubiLex.yaml", 'r', encoding='utf-8') as file:
+        data = file.readlines()
+        for line in data:
+            if line[0] != '#' and line[0] != '\n':
+                msWubiLex.append(line.split())
+    with open('find_freq.yaml', 'w', encoding='utf-8') as file:
+        for term in msWubiLex:
+            if term[2] in Freq.values():
+                file.write(term[0] + '    ' + term[1] + '    ' + term[2] +
+                           '\n')
+
+
 if __name__ == "__main__":
     startTime = time.time()
     print('{}'.format(startTime))
@@ -125,6 +155,7 @@ if __name__ == "__main__":
     # compare_cjkv_bsc_and_a_and_cmp_with_msWubiChars()
     # compare_msWubiChars_with_cjkv_bsc_and_a_and_cmp()
     # refine_msWubilex_by_cjkv()
+    # find_repFreq()
 
     endTime = time.time()
     print('{}'.format(endTime))
