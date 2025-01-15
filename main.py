@@ -3,6 +3,7 @@
 # encoding: UTF-8
 
 import time
+import wubiLexManager
 
 Freq = {
     'word_new': '30000',  # 自添加但是ms中没有的词，用该频率
@@ -155,7 +156,14 @@ if __name__ == "__main__":
     # compare_cjkv_bsc_and_a_and_cmp_with_msWubiChars()
     # compare_msWubiChars_with_cjkv_bsc_and_a_and_cmp()
     # refine_msWubilex_by_cjkv()
+
     # find_repFreq()
+
+    # wubi = wubiLexManager.wubiLexManager(True)
+    # wubi.freqInc()
+    # wubi.update_custLex()
+    # wubi.write_lexFile()
+    # wubi.generate_outputFiles()
 
     endTime = time.time()
     print('{}'.format(endTime))

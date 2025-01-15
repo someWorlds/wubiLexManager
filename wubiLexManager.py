@@ -3,6 +3,8 @@
 # encoding: UTF-8
 # 词库的汉字的范围：cjkv_bsc + cjkv_a + cjkv_cmp(〇)
 
+import time
+
 
 class wubiLexManager:
 
@@ -39,6 +41,7 @@ class wubiLexManager:
         # 'cjkv_h': '57000',
         # 'cjkv_i': '58000',
     }
+    msFreqMax = '50646'  # 微软五笔词库的最大频率
 
     def read_msWubiLex(self):
         msWubiLex = []
@@ -190,7 +193,7 @@ class wubiLexManager:
                 data = file.readlines()
                 for line in data:
                     if line[0] != '#' and line[0] != '\n':
-                        chars2incFreq_1or2keySim.append(line)
+                        chars2incFreq_1or2keySim.append(line.split()[0])
         except FileNotFoundError:
             None
         return chars2incFreq_1or2keySim
@@ -204,7 +207,7 @@ class wubiLexManager:
                 data = file.readlines()
                 for line in data:
                     if line[0] != '#' and line[0] != '\n':
-                        chars2incFreq_3keySim.append(line)
+                        chars2incFreq_3keySim.append(line.split()[0])
         except FileNotFoundError:
             None
         return chars2incFreq_3keySim
@@ -235,7 +238,7 @@ class wubiLexManager:
                 for term in intro:
                     file.write(term)
                 file.write('\n')
-                lex = eval('self.' + lexFile)
+                lex = eval('self.' + fileName)
                 for term in lex:
                     file.write(term[0] + '    ' + term[1] + '    ' + term[2] +
                                '\n')
@@ -257,7 +260,8 @@ class wubiLexManager:
         for i in range(len(temp)):
             if temp[i]:
                 custWubiLex.extend(temp[i])
-        custWubiLex = self.sortLex_by_Freq_and_code(custWubiLex)
+        if custWubiLex:
+            custWubiLex = self.sortLex_by_Freq_and_code(custWubiLex)
         return custWubiLex
 
     def get_custWubiLex_chars(self, isFull: bool = False):
@@ -272,7 +276,9 @@ class wubiLexManager:
         for i in range(len(temp)):
             if temp[i]:
                 custWubiLex_chars.extend(temp[i])
-        custWubiLex_chars = self.sortLex_by_Freq_and_code(custWubiLex_chars)
+        if custWubiLex_chars:
+            custWubiLex_chars = self.sortLex_by_Freq_and_code(
+                custWubiLex_chars)
         return custWubiLex_chars
 
     def update_custLex(self):
@@ -290,12 +296,15 @@ class wubiLexManager:
         for i in range(len(temp)):
             if temp[i]:
                 custWubiLex_words.extend(temp[i])
-        custWubiLex_words = self.sortLex_by_Freq_and_code(custWubiLex_words)
+        if custWubiLex_words:
+            custWubiLex_words = self.sortLex_by_Freq_and_code(
+                custWubiLex_words)
         return custWubiLex_words
 
     def get_custWubiLex_phrases(self, onMobile: bool = False):
         temp = []
-        temp.append(self.syms)
+        if self.syms:
+            temp.append(self.syms)
         if self.withPi:
             temp.append(self.syms_pi)
         if not onMobile:
@@ -406,11 +415,8 @@ class wubiLexManager:
             custPhrases = self.get_custWubiLex_phrases(onMobile=True)
             if custPhrases:
                 custPhrases = self.sortLex_by_Freq_and_code(custPhrases)
-                for i in range(len(custPhrases)):
-                    custPhrases[i].pop(2)
-                    file.writelines(','.join(map(str, custPhrases[i])) + '\n')
-            else:
-                file.writelines('\n')
+            for term in custPhrases:
+                file.write(term[0] + ',' + term[1] + '\n')
 
     def output_files_sogouWb(self):
         # 生成导入PC搜狗五笔的自定义单字码表的txt文件、用户词库的txt文件、自定义短语的txt文件
@@ -433,11 +439,8 @@ class wubiLexManager:
             filepath = './outputFiles/custPhrases_sogouWb.txt'
         with open(filepath, 'w', encoding='utf-8') as file:
             custPhrases = self.get_custWubiLex_phrases()
-            if custPhrases:
-                for term in custPhrases:
-                    file.write(term[0] + '\t' + term[1] + '\n')
-            else:
-                file.write('\n')
+            for term in custPhrases:
+                file.write(term[0] + '\t' + term[1] + '\n')
 
     def generate_outputFiles(self):
         self.output_files_sogouPy()
@@ -626,11 +629,11 @@ class wubiLexManager:
                 maxFreq = 0
                 if term_src[2] in self.Freq.values():
                     if term_src[2] == self.Freq['word_new']:
-                        maxFreq = 50646  # ms词的最大的频率
+                        maxFreq = int(self.msFreqMax)  # ms词的最大的频率
                     else:
                         maxFreq = int(term_src[2])
                 else:
-                    maxFreq = 50646
+                    maxFreq = int(self.msFreqMax)
                 term_src.append(0.5)
                 for i in range(len(res)):
                     if int(res[i][2]) <= maxFreq:
@@ -795,118 +798,6 @@ class wubiLexManager:
                         self.modify_in_lex(term_src=term_src,
                                            term_dst=term_dst,
                                            lex=self.syms_pi)
-
-                res = self.find_in_lex(string=line[0], lex=self.custWubiLex)
-                if not self.is_cjkv(line[0]):  # 短语+排序
-                    if not res:  # 短语缺少编码
-                        print('非法输入: {}'.format(line[0] + '\t' + line[1]))
-                        return None
-                    else:
-                        term_src = res[-1]
-                        if line[1] == '0':  # 短语，删除
-                            term_dst = []
-                        else:  # 短语，改频率
-                            freq = self.calcFreq(term_src=[
-                                res[-1][0], res[-1][1], self.Freq['syms']
-                            ],
-                                                 order=line[1])
-                            term_dst = [res[-1][0], res[-1][1], freq]
-                        try:
-                            self.modify_in_lex(term_src=term_src,
-                                               term_dst=term_dst,
-                                               lex=self.syms)
-                        except ValueError:
-                            self.modify_in_lex(term_src=term_src,
-                                               term_dst=term_dst,
-                                               lex=self.syms_pi)
-                elif len(line[0]) == 1:  # 字+排序
-                    if line[1] == '0':  # 全码字，删除
-                        if res:
-                            term_src = res[-1]
-                            term_dst = []
-                        else:
-                            print('非法输入: {}'.format(line[0] + 't' + line[1]))
-                            return None
-                    else:
-                        if res:  # 全码字，改频率
-                            term_src = res[-1]
-                        else:
-                            term_src = []
-                        code = self.calcCode(line[0])
-                        if self.find_in_lex(
-                                string=line[0], lex=self.
-                                chars2incFreq_1or2keySim) or self.find_in_lex(
-                                    string=line[0],
-                                    lex=self.chars2incFreq_3keySim):
-                            Freq = self.Freq['char_inc']
-                        else:
-                            res1 = self.find_in_lex(
-                                code_and_string=[code, line[0]],
-                                lex=self.msWubiLex)
-                            if not res1:
-                                res1 = self.find_in_lex(string=line[0],
-                                                        lex=self.msWubiLex)
-                            if res1:
-                                Freq = res1[-1][2]
-                            else:
-                                Freq = self.Freq['word_new']
-                        freq = self.calcFreq(term_src=[code, line[0], Freq],
-                                             order=line[1])
-                        term_dst = [code, line[0], freq]
-                    if len(code) == 3:
-                        self.modify_in_lex(term_src=term_src,
-                                           term_dst=term_dst,
-                                           lex=self.chars_3keyFull)
-                    else:
-                        self.modify_in_lex(term_src=term_src,
-                                           term_dst=term_dst,
-                                           lex=self.chars_4keyFull)
-                else:  # 词/短语+排序
-                    code = self.calcCode(line[0])
-                    if res and res[-1][0] != code:  # 短语+排序
-                        term_src = res[-1]
-                        if line[1] == '0':  # 短语，删除
-                            term_dst = []
-                        else:  # 短语，改频率
-                            freq = self.calcFreq(term_src=[
-                                res[-1][0], res[-1][1], self.Freq['syms']
-                            ],
-                                                 order=line[1])
-                            term_dst = [res[-1][0], res[-1][1], freq]
-                        self.modify_in_lex(term_src=term_src,
-                                           term_dst=term_dst,
-                                           lex=self.syms)
-                    else:  # 词+排序
-                        if res:
-                            term_src = res[-1]
-                            if line[1] == '0':  # 词，删除
-                                term_dst = []
-                            else:  # 词，改频率
-                                res1 = self.find_in_lex(string=res[-1][1],
-                                                        lex=self.msWubiLex)
-                                if res1:
-                                    Freq = res1[-1][2]
-                                else:
-                                    Freq = self.Freq['word_new']
-                                freq = self.calcFreq(
-                                    term_src=[res[-1][0], res[-1][1], Freq],
-                                    order=line[1])
-                                term_dst = [res[-1][0], res[-1][1], freq]
-                        else:  # 词，添加
-                            res1 = self.find_in_lex(string=line[0],
-                                                    lex=self.msWubiLex)
-                            if res1:
-                                Freq = res1[-1][2]
-                            else:
-                                Freq = self.Freq['word_new']
-                            freq = self.calcFreq(
-                                term_src=[code, line[0], Freq], order=line[1])
-                            term_src = []
-                            term_dst = [code, line[0], freq]
-                        self.modify_in_lex(term_src=term_src,
-                                           term_dst=term_dst,
-                                           lex=self.words_4keyFull)
-
         elif 3 == len(line):  # 输入有三列，字+排序+码数，词+排序+码数，短语+排序+编码，短语+编码+排序
             if int(line[1]) in range(0, 10) and int(line[2]) in range(1, 5):
                 code1 = self.calcCode(word=line[0])
@@ -1015,6 +906,36 @@ class wubiLexManager:
         for line in self.inputLines:
             self.chgLex_by_line(line=line)
             self.update_custLex()
-        self.update_lexFile()
         self.write_lexFile()
         self.generate_outputFiles()
+
+    def freqInc(self):
+        for char in self.chars2incFreq_1or2keySim:
+            for term in self.chars_3keySim:
+                if term[1] == char:
+                    term[2] = self.Freq['char_inc']
+            for term in self.chars_3keyFull:
+                if term[1] == char:
+                    term[2] = self.Freq['char_inc']
+            for term in self.chars_4keyFull:
+                if term[1] == char:
+                    term[2] = self.Freq['char_inc']
+        for char in self.chars2incFreq_3keySim:
+            for term in self.chars_4keyFull:
+                if term[1] == char:
+                    term[2] = self.Freq['char_inc']
+
+
+if __name__ == "__main__":
+    startTime = time.time()
+    print('{}'.format(startTime))
+
+    wubi = wubiLexManager(True)
+    # wubi.generate_outputFiles()
+    wubi.freqInc()
+    wubi.update_custLex()
+    wubi.write_lexFile()
+
+    endTime = time.time()
+    print('{}'.format(endTime))
+    print('{}'.format(endTime - startTime))

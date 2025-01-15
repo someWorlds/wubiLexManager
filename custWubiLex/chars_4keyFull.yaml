@@ -5,7 +5,7 @@
 # columns: 编码    字符    频率
 
 aaaa    㠭    49151
-aaaa    工    50647
+aaaa    工    50700
 aaab    㐂    49151
 aaar    菚    33732
 aade    蘛    40872
@@ -50,7 +50,7 @@ aaqb    苉    30696
 aaqh    蔕    50646
 aatg    鿀    50646
 aatn    蘙    50646
-aatq    荛    50647
+aatq    荛    50700
 aavb    苆    36926
 aawv    匶    50646
 aaww    莁    43573
@@ -182,7 +182,7 @@ adwe    朞    50646
 adwf    斟    30426
 adwf    卙    31346
 adwf    㪸    49151
-adwf    基    50647
+adwf    基    50700
 adwh    菶    32332
 adwi    綦    31781
 adwj    萶    34319
@@ -238,7 +238,7 @@ aepu    蓫    38174
 aeqk    葋    45546
 aeri    蘨    50646
 aerm    䔄    49151
-aesu    菜    50647
+aesu    菜    50700
 aetf    葄    42265
 aetg    蕤    33586
 aeto    蔿    50646
@@ -547,7 +547,7 @@ agnn    巧    23242
 agnn    瓨    33226
 agnn    㤍    49151
 agno    䲾    49151
-agnt    戈    50647
+agnt    戈    50700
 agnv    㚽    49151
 agny    弋    30245
 agny    䛒    49151
@@ -656,7 +656,7 @@ ahqy    萈    50646
 ahrt    䕫    49151
 ahtb    邪    22112
 ahte    㸧    49151
-ahte    牙    50647
+ahte    牙    50700
 ahtg    鸦    28860
 ahtm    䪵    49151
 ahto    鴉    50646
@@ -808,7 +808,7 @@ akgb    鄞    36904
 akgc    䰥    49151
 akgd    戜    50646
 akgd    茣    50646
-akgd    或    50647
+akgd    或    50700
 akge    彧    32998
 akgf    堇    28847
 akgi    㳼    49151
@@ -1281,7 +1281,7 @@ ashf    葙    27149
 asie    䔠    49151
 asjj    蕈    36255
 askf    莕    40368
-askf    苛    50647
+askf    苛    50700
 askk    䔅    49151
 aspq    萙    50646
 asre    䖇    49151
@@ -1442,7 +1442,7 @@ aukk    䕡    49151
 auko    鷰    39040
 auko    䴏    49151
 auko    㷼    49151
-auko    燕    50647
+auko    燕    50700
 aukq    莌    45107
 aukv    嬊    50646
 aumd    蔐    39811
@@ -1661,7 +1661,7 @@ axmw    蒳    41373
 axnb    䒛    49151
 axqc    蕝    41373
 axqy    葯    38513
-axqy    药    50647
+axqy    药    50700
 axrs    藥    40008
 axtb    薌    43573
 axth    薿    41373
@@ -1758,13 +1758,13 @@ ayxy    蕹    41484
 ayyi    䕲    49151
 baat    䧖    49151
 badw    陿    50646
-baiy    陈    50647
+baiy    陈    50700
 bajv    隁    37903
 bakg    聝    47519
 bakg    䧕    49151
 bakk    䧢    49151
 bawy    䧆    49151
-bbbb    子    50647
+bbbb    子    50700
 bbbf    聶    50646
 bbbf    孨    50646
 bbbj    孴    50646
@@ -1811,7 +1811,7 @@ bdep    随    19085
 bdfe    陙    48673
 bdfn    陓    35834
 bdgt    隇    32661
-bdii    承    50647
+bdii    承    50700
 bdjd    陫    50646
 bdjg    陌    25614
 bdmd    陾    50646
@@ -1838,7 +1838,7 @@ bfdj    孺    34309
 bfdj    隭    42754
 bffq    隢    41162
 bfhy    陡    28267
-bfiy    际    50647
+bfiy    际    50700
 bfjh    阱    36079
 bfjh    䎴    49151
 bfkg    聐    50646
@@ -1924,7 +1924,7 @@ bkhm    隤    41848
 bkhm    聵    50646
 bkmy    陨    30447
 bkmy    隕    44392
-bkwy    职    50647
+bkwy    职    50700
 blff    塦    42754
 blge    隈    34255
 blln    勐    29971
@@ -1951,7 +1951,7 @@ bmwn    䧙    49151
 bnbt    䧩    49151
 bnfh    阠    50646
 bnhg    孑    31660
-bnhn    也    50647
+bnhn    也    50700
 bnku    隦    31343
 bntt    䎵    49151
 bnwy    䦼    49151
@@ -1991,9 +1991,9 @@ bqrm    陶    22351
 bqrn    聦    50646
 bqtb    聊    21565
 bqvg    陷    24338
-bqvn    隐    50647
+bqvn    隐    50700
 brcy    阪    23271
-brcy    孤    50647
+brcy    孤    50700
 brgg    隍    27313
 briy    陎    40446
 briy    䎷    49151
@@ -2006,12 +2006,12 @@ brtf    聛    50646
 bsfg    陻    50646
 bsfi    䏇    49151
 bsfi    䧣    49151
-bskg    阿    50647
+bskg    阿    50700
 bskv    娿    50646
 bsww    䧒    49151
 btaf    陞    40076
 btah    阩    50646
-btah    降    50647
+btah    降    50700
 btaj    陹    46700
 btbh    艸    41484
 btbh    茻    50646
@@ -2051,7 +2051,7 @@ btxn    愻    45546
 btxp    遜    50646
 buah    聠    50646
 buaj    職    50646
-budy    联    50647
+budy    联    50700
 bued    隴    41265
 bued    䏊    49151
 buef    墜    45107
@@ -2069,7 +2069,7 @@ butg    隡    40076
 buvo    隒    50646
 buwl    隘    32656
 bvag    隉    41981
-bvey    限    50647
+bvey    限    50700
 bvhc    䏂    49151
 bvhl    孻    50646
 bviy    䎼    49151
@@ -2112,7 +2112,7 @@ bxgu    乸    36541
 bxln    聈    50646
 bxxa    聨    50646
 bxxd    聫    50646
-bxxf    陛    50647
+bxxf    陛    50700
 bxxg    聯    36685
 bxxi    䏈    49151
 bxxn    阰    50646
@@ -2155,7 +2155,7 @@ cant    䮅    49151
 capd    迳    33348
 caqy    驱    24294
 caqy    駆    40446
-catq    骁    50647
+catq    骁    50700
 cauo    驠    43135
 cawo    鴘    50646
 cayq    巯    41848
@@ -2226,7 +2226,7 @@ ccbs    騥    50646
 cccc    叕    34629
 cccc    䮕    49151
 cccc    敠    50646
-cccc    又    50647
+cccc    又    50700
 cccd    叄    43345
 ccce    參    35282
 ccce    驂    44392
@@ -2275,7 +2275,7 @@ ccyj    騷    50646
 cdcy    䮂    49151
 cddf    叁    26646
 cden    毵    33414
-cder    参    50647
+cder    参    50700
 cdhd    騞    48673
 cdjd    騑    42754
 cdjn    奙    24195
@@ -2311,7 +2311,7 @@ cexj    䘅    49151
 cexn    態    30946
 cexo    熊    21171
 cexo    熋    35803
-cexx    能    50647
+cexx    能    50700
 ceyy    馺    43135
 cfag    驖    44392
 cfcy    馶    42265
@@ -2339,7 +2339,7 @@ cgki    駷    36442
 cgkl    䮠    49151
 cgmh    馷    40965
 cgmx    驪    46700
-cgmy    骊    50647
+cgmy    骊    50700
 cgqj    䮋    49151
 cgqt    䮯    49151
 cguh    駍    38320
@@ -2360,7 +2360,7 @@ cjjg    䮖    49151
 cjpv    騴    39040
 cjqn    騔    39811
 cjsy    騍    50646
-cjsy    骒    50647
+cjsy    骒    50700
 cjxx    騉    50646
 ckbh    邰    32287
 ckcn    䣖    49151
@@ -2401,7 +2401,7 @@ cmgn    骋    27536
 cmgn    騁    50646
 cmkg    駉    41600
 cmnk    騧    50646
-cmqn    观    50647
+cmqn    观    50700
 cmtj    颿    35231
 cmwk    驨    41722
 cmwk    䮐    49151
@@ -2411,7 +2411,7 @@ cnbb    驏    47519
 cnhc    騢    50646
 cnhn    巴    20167
 cnlw    龮    50646
-cnng    马    50647
+cnng    马    50700
 cnnk    駶    40293
 cnrg    騽    50646
 cntt    駜    40446
@@ -2432,7 +2432,7 @@ cpuh    䮨    49151
 cpvg    䯃    49151
 cpwy    䮤    49151
 cpxn    駝    42265
-cpxn    驼    50647
+cpxn    驼    50700
 cqas    䮪    49151
 cqbh    䭹    49151
 cqbt    騶    50646
@@ -2457,7 +2457,7 @@ cqyy    馰    39569
 crgg    駈    39875
 crgg    騜    50646
 crhh    䭽    49151
-crhj    牟    50647
+crhj    牟    50700
 crhl    劺    39455
 crho    鴾    50646
 criy    駯    41062
@@ -2465,7 +2465,7 @@ criy    騡    50646
 crqc    騩    50646
 crwy    䭿    49151
 csfi    驃    41722
-csfi    骠    50647
+csfi    骠    50700
 csjh    驔    45107
 csvg    騕    50646
 cswt    䮮    49151
@@ -2475,7 +2475,7 @@ ctbn    駞    28659
 ctdj    骄    27566
 ctdk    驕    47519
 ctdp    逘    50646
-ctdu    矣    50647
+ctdu    矣    50700
 ctdw    欸    31137
 ctey    䮉    49151
 ctff    騈    50646
@@ -2493,7 +2493,7 @@ ctol    䮳    49151
 ctrt    騀    34886
 ctux    騬    40609
 cuah    駢    41265
-cuah    骈    50647
+cuah    骈    50700
 cudc    驣    40694
 cued    䮾    49151
 cuej    騚    50646
@@ -2506,7 +2506,7 @@ cupy    騯    50646
 cuqy    駮    33965
 cuxw    骥    27805
 cuxw    驥    39040
-cvey    艰    50647
+cvey    艰    50700
 cvfh    䮇    49151
 cvfj    驌    42119
 cvfp    騝    50646
@@ -2544,13 +2544,13 @@ cwxf    骅    30502
 cwyc    駖    31213
 cwyg    骓    33933
 cwyg    騅    50646
-cwyg    难    50647
+cwyg    难    50700
 cwyn    騐    50646
 cwys    䮶    49151
 cybt    驐    44727
 cyeu    䮍    49151
 cygg    駐    35000
-cygg    驻    50647
+cygg    驻    50700
 cyjg    䮺    49151
 cyju    蚤    31804
 cyke    骧    30766
@@ -2613,14 +2613,14 @@ dape    礞    36255
 daqj    䃡    49151
 daqu    奁    27248
 daqy    砹    37625
-datq    硗    50647
+datq    硗    50700
 davn    砌    27754
 dawi    礤    39346
 dawx    硴    32364
 dawy    硔    43573
 dayn    硭    25493
 dbdm    頋    50646
-dbdm    顾    50647
+dbdm    顾    50700
 dbgn    㕔    49151
 dbhc    㿴    49151
 dbmh    础    34141
@@ -2644,7 +2644,7 @@ ddag    䦈    49151
 dday    礪    50646
 ddbn    砈    50646
 dddd    靥    37216
-dddd    大    50647
+dddd    大    50700
 dddf    磊    24569
 dddj    飆    41162
 dddj    㔏    49151
@@ -2896,7 +2896,7 @@ dgeg    碃    36079
 dgey    㕊    49151
 dgfg    䃁    49151
 dggd    㻎    49151
-dggg    三    50647
+dggg    三    50700
 dghg    古    19183
 dghy    镸    36062
 dgjf    磚    29111
@@ -2954,7 +2954,7 @@ dhdt    奯    28767
 dhdt    豒    36113
 dhdu    豐    46700
 dhdv    彗    34014
-dhfd    在    50647
+dhfd    在    50700
 dhhf    㪺    49151
 dhih    蹙    26401
 dhik    㗤    49151
@@ -3043,7 +3043,7 @@ dish    耓    30546
 ditn    耗    24333
 ditn    䎢    49151
 ditp    䎭    49151
-ditt    砂    50647
+ditt    砂    50700
 diud    䎮    49151
 diuk    䎧    49151
 diuy    耪    35308
@@ -3151,7 +3151,7 @@ dmjb    䩊    49151
 dmjc    䰭    49151
 dmjc    䩅    49151
 dmjd    耎    50646
-dmjd    面    50647
+dmjd    面    50700
 dmje    耏    47519
 dmjf    耐    23124
 dmjf    䩆    49151
@@ -3232,7 +3232,7 @@ dnnb    郕    45546
 dnnl    盛    21262
 dnnm    䫆    49151
 dnnn    㼩    49151
-dnnt    成    50647
+dnnt    成    50700
 dnpv    迈    22510
 dnqb    尯    50646
 dnqy    尥    37020
@@ -3312,7 +3312,7 @@ drhj    㸴    49151
 drhm    磃    29779
 drii    厡    31592
 drii    厵    32765
-drii    原    50647
+drii    原    50700
 drim    願    48673
 drin    愿    19794
 dris    䃯    49151
@@ -3356,7 +3356,7 @@ dtan    矺    33537
 dtav    厇    32142
 dtbh    邦    23349
 dtbh    幚    50646
-dtbh    帮    50647
+dtbh    帮    50700
 dtbn    砤    50646
 dtdj    硚    37346
 dtdk    礄    39941
@@ -3441,12 +3441,12 @@ duqy    䂭    49151
 dusd    磸    31011
 duvo    磏    31304
 duxn    礠    50646
-duxx    磁    50647
+duxx    磁    50700
 dvcq    厩    32083
 dvey    硍    38035
 dvfh    硉    42119
 dvfh    砕    50646
-dvfh    肆    50647
+dvfh    肆    50700
 dvfj    䃤    49151
 dvij    䃗    49151
 dviy    碌    30793
@@ -3475,7 +3475,7 @@ dwgw    厱    35321
 dwgw    礆    50646
 dwhj    㫪    49151
 dwiu    泰    22117
-dwjf    春    50647
+dwjf    春    50700
 dwjh    砎    50646
 dwjj    蠢    26080
 dwjn    惷    50646
@@ -3616,7 +3616,7 @@ ebbb    䝕    49151
 ebbh    郛    36237
 ebci    䝒    49151
 ebco    鵩    48673
-ebcy    服    50647
+ebcy    服    50700
 ebde    䝐    49151
 ebln    㔜    49151
 ebmh    朏    46065
@@ -3664,7 +3664,7 @@ edmv    媭    50646
 edmx    頾    44392
 edmy    䐓    49151
 edmy    須    50646
-edmy    须    50647
+edmy    须    50700
 edne    䏵    49151
 ednn    肬    50646
 edoy    脄    50646
@@ -3696,7 +3696,7 @@ eedk    䝝    49151
 eedm    䫉    49151
 eeed    貕    41062
 eeee    朤    50646
-eeee    月    50647
+eeee    月    50700
 eefc    䐘    49151
 eefh    豻    42582
 eeft    豺    31956
@@ -3844,7 +3844,7 @@ ehae    臄    32203
 ehal    臚    47519
 ehcy    䏢    49151
 ehhy    臞    39511
-ehhy    胩    50647
+ehhy    胩    50700
 ehkg    胋    40008
 ehnn    鼐    34374
 ehnt    胪    36255
@@ -3853,7 +3853,7 @@ ehqn    䏹    49151
 ehxm    頿    50646
 eieg    䏴    49151
 eimy    䐝    49151
-eipf    膛    50647
+eipf    膛    50700
 eiqb    脳    40293
 eiqn    胱    36521
 eiqn    朓    41722
@@ -3862,7 +3862,7 @@ eitt    䏚    49151
 eiwe    膌    41484
 ejfg    䤚    49151
 ejfh    䏷    49151
-ejgg    胆    50647
+ejgg    胆    50700
 ejgh    䐎    49151
 ejgr    腸    41600
 ejhh    胂    41848
@@ -3876,7 +3876,7 @@ ejxx    䐊    49151
 ekbg    䐕    49151
 ekgd    脵    50646
 ekgg    脭    50646
-ekhh    肿    50647
+ekhh    肿    50700
 ekhm    膭    31976
 ekhp    䑊    49151
 ekkf    䐷    49151
@@ -3945,11 +3945,11 @@ enxn    胒    50646
 enyf    臎    36462
 eool    朥    50646
 eooy    腅    46065
-eoqh    膦    50647
+eoqh    膦    50700
 epay    臗    38069
 epcu    受    17596
 epcu    辤    35119
-epdc    爱    50647
+epdc    爱    50700
 epey    脓    29195
 epfi    腙    38809
 epfi    䝋    49151
@@ -3987,7 +3987,7 @@ eqkq    脕    36028
 eqne    褜    50646
 eqnn    胞    28960
 eqoy    䐳    49151
-eqqb    胸    50647
+eqqb    胸    50700
 eqqu    㚉    49151
 eqqy    䏧    49151
 eqrj    䐇    49151
@@ -4012,7 +4012,7 @@ ermi    繇    37044
 ermj    颻    29640
 ermj    䍃    49151
 ermo    鷂    38210
-ermp    遥    50647
+ermp    遥    50700
 ermq    飖    38138
 ernn    䏗    49151
 errh    䏳    49151
@@ -4020,7 +4020,7 @@ errm    䑇    49151
 ertf    脾    25320
 erwy    胅    39688
 esbh    䣋    49151
-eset    彩    50647
+eset    彩    50700
 esfi    膘    32104
 esjh    䐺    49151
 esjh    刴    50646
@@ -4061,7 +4061,7 @@ etlx    膍    43821
 etmd    䐿    49151
 etnb    爳    29656
 etnb    鄬    31269
-etnh    用    50647
+etnh    用    50700
 etnk    噕    33021
 etnn    肐    50646
 etno    爲    50646
@@ -4116,7 +4116,7 @@ euph    腣    38765
 eupk    膪    32924
 eupy    膀    31152
 euqy    㬵    49151
-euqy    胶    50647
+euqy    胶    50700
 eutg    䐮    49151
 euvo    膁    29877
 euwl    膉    44092
@@ -4151,7 +4151,7 @@ ewfh    肸    44727
 ewfw    䑂    49151
 ewfy    胕    47519
 ewga    腀    43573
-ewgi    脸    50647
+ewgi    脸    50700
 ewgj    腧    32487
 ewgj    膾    32707
 ewgk    䏩    49151
@@ -4185,7 +4185,7 @@ exey    腞    30951
 exgu    胟    23316
 exhh    䏖    49151
 exin    乿    43135
-exjg    脂    50647
+exjg    脂    50700
 exjh    胇    39875
 exkj    膙    46065
 exrs    䑈    49151
@@ -4255,7 +4255,7 @@ fakk    塸    42119
 fakm    㙺    49151
 faky    壦    34908
 falk    載    50646
-falk    载    50647
+falk    载    50700
 falo    䵧    49151
 falq    㙹    49151
 falw    戴    21097
@@ -4372,7 +4372,7 @@ fdmy    顸    38854
 fdmy    䨲    49151
 fdmy    頇    50646
 fdnl    墭    41848
-fdnt    城    50647
+fdnt    城    50700
 fdpy    垯    39040
 fdqq    塽    50646
 fdri    塬    31266
@@ -4401,7 +4401,7 @@ fevg    塪    43573
 feyi    霡    50646
 feyu    雭    41848
 feyy    㙇    49151
-feyy    圾    50647
+feyy    圾    50700
 ffae    壩    36310
 ffam    墳    39040
 ffbh    邽    37807
@@ -4424,7 +4424,7 @@ ffff    壵    37320
 ffff    鞤    43135
 ffff    㙓    49151
 ffff    堼    50646
-ffff    土    50647
+ffff    土    50700
 fffh    犎    46700
 fffh    幇    50646
 fffh    幫    50646
@@ -4752,7 +4752,7 @@ fjng    塌    26124
 fjng    䎐    49151
 fjnh    韓    38636
 fjnn    乹    37776
-fjpk    进    50647
+fjpk    进    50700
 fjqn    堨    48673
 fjqn    䨠    49151
 fjqr    埸    31492
@@ -4872,7 +4872,7 @@ flpd    䢮    49151
 flqy    畞    46700
 flvg    塿    47519
 flwj    堺    50646
-flwy    协    50647
+flwy    协    50700
 flyn    塄    31448
 fmau    霻    50646
 fmaw    㙉    49151
@@ -4895,7 +4895,7 @@ fmpu    䨤    49151
 fmsy    垛    31046
 fmtj    堸    34149
 fmud    献    22977
-fmuf    南    50647
+fmuf    南    50700
 fmum    堈    50646
 fmup    遖    50646
 fmwk    埛    35898
@@ -5116,7 +5116,7 @@ frcy    坂    28750
 frcy    坬    38320
 frgg    坵    38396
 frgg    堭    50646
-frgk    垢    50647
+frgk    垢    50700
 frgw    㙃    49151
 frlo    墲    36310
 frqc    塊    35882
@@ -5125,7 +5125,7 @@ fryt    墽    35168
 fryy    坼    28894
 fsfg    堙    29427
 fsfi    墂    29054
-fshf    霜    50647
+fshf    霜    50700
 fshg    鹴    34337
 fsho    鸘    50646
 fsjh    墰    33762
@@ -5260,7 +5260,7 @@ fuke    㙥    49151
 fukg    培    22449
 fukq    㙂    49151
 fulj    増    50646
-fulj    增    50647
+fulj    增    50700
 fulk    啬    32852
 fumd    墑    47519
 fumk    墒    36561
@@ -5471,7 +5471,7 @@ gbnj    旾    31365
 gbnm    顿    23856
 gbnm    頓    50646
 gbnp    迍    35095
-gbnv    屯    50647
+gbnv    屯    50700
 gbny    㼊    49151
 gbwu    㐪    49151
 gcah    㺹    49151
@@ -5486,7 +5486,7 @@ gcff    至    16176
 gcff    臸    34014
 gcfj    㬜    49151
 gcfj    䶍    49151
-gcfj    到    50647
+gcfj    到    50700
 gcfk    臵    36012
 gcfo    鵄    48673
 gcft    致    21246
@@ -5606,10 +5606,10 @@ ggcb    琶    33021
 gget    璷    31567
 ggfh    玗    44092
 gggg    龶    50646
-gggg    王    50647
+gggg    王    50700
 gggt    戋    30398
 gggt    璱    32211
-gghg    五    50647
+gghg    五    50700
 ggig    㺽    49151
 ggiy    环    22932
 ggjf    瑼    47519
@@ -5619,7 +5619,7 @@ ggki    㻋    49151
 ggkj    㻝    49151
 ggkm    瓎    31936
 ggli    瑓    27378
-ggll    一    50647
+ggll    一    50700
 ggmh    㺰    49151
 ggmh    㺻    49151
 ggmi    㻷    49151
@@ -5697,7 +5697,7 @@ givg    珱    29639
 giwe    䬩    49151
 giwo    鴀    37267
 gjaf    㻫    49151
-gjfg    理    50647
+gjfg    理    50700
 gjgd    卝    50646
 gjgf    亘    31624
 gjgg    㐀    49151
@@ -5843,9 +5843,9 @@ gkuo    豏    43135
 gkuo    䝃    49151
 gkup    逗    24244
 gkuw    㰯    49151
-gkvh    事    50647
+gkvh    事    50700
 gkvj    剚    37320
-glbj    画    50647
+glbj    画    50700
 gldy    珚    25970
 glfl    翴    50646
 glge    環    50646
@@ -5905,7 +5905,7 @@ gmmk    両    50646
 gmmv    璎    29934
 gmmv    瓔    33128
 gmnu    恵    50646
-gmqn    现    50647
+gmqn    现    50700
 gmwb    邴    28824
 gmwc    㪅    49151
 gmwi    丙    24900
@@ -5935,7 +5935,7 @@ gnbb    㻵    49151
 gnbm    㻕    49151
 gndg    琚    34193
 gnfg    㺲    49151
-gngd    与    50647
+gngd    与    50700
 gngw    欤    31992
 gnhc    瑕    31475
 gnhg    瑂    37373
@@ -5975,7 +5975,7 @@ gomu    赉    36113
 gooy    琰    29732
 gooy    㼆    49151
 goqh    璘    31529
-gpfi    琮    50647
+gpfi    琮    50700
 gpfq    琓    50646
 gpgg    瑄    33367
 gpgh    琔    29900
@@ -6045,7 +6045,7 @@ gqje    裂    24888
 gqjg    珣    23849
 gqjg    䴕    49151
 gqjh    㡂    49151
-gqjh    列    50647
+gqjh    列    50700
 gqji    虺    36601
 gqjl    劽    33846
 gqjl    㽝    49151
@@ -6157,7 +6157,7 @@ grgg    瑝    42938
 grgk    㻈    49151
 grim    璳    33226
 griy    瑔    36643
-griy    珠    50647
+griy    珠    50700
 grlo    璑    47519
 grmh    珤    30314
 grqc    瑰    20983
@@ -6213,7 +6213,7 @@ guep    璲    29378
 gufh    㺶    49151
 gugi    瓓    38104
 gugt    㼁    49151
-guhk    平    50647
+guhk    平    50700
 guhn    㼞    49151
 gujh    璋    29922
 gujq    璄    33807
@@ -6248,7 +6248,7 @@ gvhi    疌    44727
 gvhl    璶    29443
 gvhn    㼮    49151
 gvho    鶈    36096
-gvhv    妻    50647
+gvhv    妻    50700
 gviy    琭    45107
 gviy    㻖    49151
 gvjs    璅    46700
@@ -6261,7 +6261,7 @@ gway    玳    31014
 gwbn    玱    30431
 gwcy    玜    39240
 gwdc    瑖    39346
-gwet    珍    50647
+gwet    珍    50700
 gwfc    㻅    49151
 gwfi    㻮    49151
 gwfw    璵    27263
@@ -6294,7 +6294,7 @@ gwyn    玪    30822
 gwyp    璡    33328
 gxey    瑑    35496
 gxfm    瑻    48673
-gxgd    互    50647
+gxgd    互    50700
 gxgi    纛    35979
 gxgu    毒    20941
 gxgx    璏    36291
@@ -6397,7 +6397,7 @@ hamo    虪    42119
 hamo    䖚    49151
 hamq    覤    40965
 hamr    虝    34954
-hamv    虎    50647
+hamv    虎    50700
 hamw    䖋    49151
 hamy    瞞    48673
 hamy    䖘    49151
@@ -6522,7 +6522,7 @@ hdbh    郹    32185
 hddd    䁭    49151
 hdfe    䀼    49151
 hdff    睳    35143
-hdff    睚    50647
+hdff    睚    50700
 hdgj    劌    50646
 hdgm    顪    42582
 hdgn    翽    50646
@@ -6561,7 +6561,7 @@ hfkk    瞦    30298
 hfqn    盶    26208
 hftj    睹    25182
 hfuf    䁄    49151
-hfwf    睦    50647
+hfwf    睦    50700
 hfwq    瞡    26758
 hfwt    睖    40446
 hfwy    矐    33747
@@ -6569,7 +6569,7 @@ hgah    䀘    49151
 hgbn    盹    24417
 hgcf    眰    50646
 hgdy    䀖    49151
-hgeg    睛    50647
+hgeg    睛    50700
 hgey    䁃    49151
 hgey    䀯    49151
 hgfh    盱    30688
@@ -6603,13 +6603,13 @@ hgxw    眱    50646
 hhag    䁦    49151
 hhal    矑    38554
 hhdy    瞁    45546
-hhgg    上    50647
+hhgg    上    50700
 hhgy    龰    50646
 hhhc    䂄    49151
 hhhf    歮    26435
 hhhf    瞐    46700
-hhhg    止    50647
-hhhh    目    50647
+hhhg    止    50700
+hhhh    目    50700
 hhhy    䂂    49151
 hhkg    䀡    49151
 hhll    丨    33565
@@ -6703,7 +6703,7 @@ hlqa    鹾    35946
 hlqa    鹺    50646
 hlqc    禼    36643
 hlqc    鹷    45546
-hlqi    卤    50647
+hlqi    卤    50700
 hlqn    鹶    50646
 hlqo    鹵    48673
 hlqo    鹻    50646
@@ -6751,7 +6751,7 @@ hooy    睒    37935
 hopy    瞇    46065
 hoqh    瞵    28529
 hovg    䁖    49151
-hpdk    瞎    50647
+hpdk    瞎    50700
 hpef    肻    50646
 hpfq    睆    37092
 hpgc    叡    30798
@@ -6781,7 +6781,7 @@ hqbd    覎    44392
 hqbj    䀚    49151
 hqbt    䁓    49151
 hqce    㣓    49151
-hqce    餐    50647
+hqce    餐    50700
 hqcg    韰    38679
 hqcm    䝳    49151
 hqco    粲    33615
@@ -6815,7 +6815,7 @@ hrpy    矈    28826
 hrqc    䁛    49151
 hrrh    䀿    49151
 hrrj    䁀    49151
-hrtf    睥    50647
+hrtf    睥    50700
 hrwy    眣    50646
 hryt    䁶    49151
 hsfi    瞟    30060
@@ -6831,7 +6831,7 @@ htfh    䀪    49151
 htfh    䀒    49151
 htfn    眊    17124
 htgf    歱    33128
-htgf    睡    50647
+htgf    睡    50700
 htgo    矄    23689
 hthd    㱗    49151
 hthp    䀽    49151
@@ -6855,7 +6855,7 @@ hufh    䀞    49151
 hufh    眫    50646
 hugg    瞤    35524
 hugt    䂀    49151
-hujf    瞳    50647
+hujf    瞳    50700
 hujg    瞷    27655
 hujh    瞕    50646
 hulj    䁬    49151
@@ -6864,7 +6864,7 @@ hunt    矙    30184
 huvo    䁠    49151
 huwy    䁡    49151
 huxt    睇    25316
-hvey    眼    50647
+hvey    眼    50700
 hvfp    睷    18049
 hvhc    瞍    31940
 hviy    睩    23302
@@ -6969,7 +6969,7 @@ hyve    䀶    49151
 hyvk    瞊    48673
 hywf    睟    46065
 hywf    㱖    49151
-hyxy    眩    50647
+hyxy    眩    50700
 iaah    㳦    49151
 iaal    灆    42419
 iaas    㵩    49151
@@ -7041,7 +7041,7 @@ iaqy    沤    31113
 iask    渮    50646
 iasu    柒    25362
 iatp    㴀    49151
-iatq    浇    50647
+iatq    浇    50700
 iaty    㴕    49151
 iaui    灡    18434
 iavj    潇    25613
@@ -7228,7 +7228,7 @@ ifay    㵶    49151
 ifcl    溘    32902
 ifcy    汥    18552
 ifcy    沄    38104
-ifcy    法    50647
+ifcy    法    50700
 ifde    㴳    49151
 ifdj    濡    29678
 iffc    澐    43821
@@ -7400,7 +7400,7 @@ ihqb    覍    42119
 ihqg    瀣    36521
 ihqn    涀    42754
 ihqo    澯    32172
-ihty    小    50647
+ihty    小    50700
 ihwy    濉    28948
 ihxn    泚    36237
 ihyy    氺    50646
@@ -7412,7 +7412,7 @@ iieg    消    32054
 iiff    㵜    49151
 iigw    㴣    49151
 iiii    㵘    49151
-iiii    水    50647
+iiii    水    50700
 iiiu    淼    26846
 iiiu    尛    50646
 iiiy    㴇    49151
@@ -7515,7 +7515,7 @@ ikkf    潬    39811
 ikkm    澏    45546
 ikkn    漶    34776
 ikkn    湂    44727
-ikks    澡    50647
+ikks    澡    50700
 ikmw    涡    26594
 ikmy    涢    30366
 ikmy    溳    34450
@@ -7557,7 +7557,7 @@ ilrc    魙    38993
 ilrf    壍    33128
 ilrg    䤔    49151
 ilrh    漸    50646
-ilrh    渐    50647
+ilrh    渐    50700
 ilrv    嬱    50646
 ilsy    涃    42119
 iluf    溿    36442
@@ -7579,7 +7579,7 @@ imal    灎    48673
 imau    澧    31069
 imaw    淟    31461
 imbh    䣔    49151
-imcy    没    50647
+imcy    没    50700
 imdf    漄    50646
 imdj    湍    31134
 imdo    湠    50646
@@ -7692,12 +7692,12 @@ iooo    濙    33110
 iooq    灐    36770
 ioos    濚    34056
 iooy    瀅    50646
-iooy    淡    50647
+iooy    淡    50700
 iopy    㴹    49151
 ioqh    潾    43135
 iovg    溇    40782
 ipaw    黉    30946
-ipbf    学    50647
+ipbf    学    50700
 ipbt    敩    40782
 ipdc    浤    36926
 ipdn    瀗    50646
@@ -8035,7 +8035,7 @@ iuda    溠    48673
 iudb    淃    26647
 iudc    溬    32728
 iude    瀁    33949
-iudh    洋    50647
+iudh    洋    50700
 iudi    潫    30745
 iudi    漛    50646
 iudj    渕    50646
@@ -8244,7 +8244,7 @@ ixkj    漒    50646
 ixln    泑    29690
 ixrs    濼    33537
 ixti    㳽    49151
-ixty    涨    50647
+ixty    涨    50700
 ixuu    溺    28056
 ixwy    潍    28313
 ixwy    濰    29799
@@ -8272,7 +8272,7 @@ iycy    瑬    24611
 iyek    㵝    49151
 iyey    㳖    49151
 iyfj    㶆    49151
-iygg    注    50647
+iygg    注    50700
 iygn    乼    50646
 iygx    㗟    49151
 iyhy    汴    23593
@@ -8388,8 +8388,8 @@ japs    蝾    34538
 jaqh    螮    35334
 jaqt    曔    35360
 jatn    蠮    50646
-jatq    晓    50647
-jatq    蛲    50647
+jatq    晓    50700
+jatq    蛲    50700
 jauo    曣    29275
 javj    蟏    36255
 javj    蠨    42119
@@ -8399,7 +8399,7 @@ jawc    㬦    49151
 jawi    暴    20585
 jawy    晎    42265
 jawy    謈    50646
-jbcu    最    50647
+jbcu    最    50700
 jbhc    㫞    49151
 jbib    蜬    39292
 jbkg    蟶    33838
@@ -8423,7 +8423,7 @@ jcmu    䝨    49151
 jcrh    蛑    35107
 jcuf    竖    28001
 jcwt    晙    41484
-jcxi    紧    50647
+jcxi    紧    50700
 jdal    䘈    49151
 jday    曞    29818
 jday    蠣    34754
@@ -8434,7 +8434,7 @@ jdeg    蝴    26685
 jdeg    蛕    36706
 jdey    䗅    49151
 jdfe    蜄    50646
-jdfe    晨    50647
+jdfe    晨    50700
 jdff    蝰    38104
 jdfn    晇    39811
 jdfo    鷐    38765
@@ -8571,13 +8571,13 @@ jgho    䗡    49151
 jghp    遈    35510
 jght    晸    27956
 jght    尟    28641
-jghu    是    50647
+jghu    是    50700
 jghx    匙    23321
 jghy    虾    23999
 jgig    蚽    34047
 jgjf    暷    32159
 jgjf    䖹    49151
-jgjf    量    50647
+jgjf    量    50700
 jgjg    晅    35914
 jgji    蝀    42119
 jgjn    蟪    33815
@@ -8634,7 +8634,7 @@ jhjr    暢    30907
 jhkg    蛅    41373
 jhln    勖    33335
 jhng    曰    21562
-jhnh    早    50647
+jhnh    早    50700
 jhnr    畅    25055
 jhny    虫    22916
 jhpk    迧    40965
@@ -8653,7 +8653,7 @@ jiph    蟐    30436
 jipl    蟷    37373
 jipo    曭    32108
 jiqb    晁    24267
-jiqb    晃    50647
+jiqb    晃    50700
 jiqn    晄    38513
 jiqn    晀    38993
 jiqn    䖴    49151
@@ -8679,7 +8679,7 @@ jjjg    曡    32630
 jjjg    䗉    49151
 jjjg    㬪    49151
 jjjg    晿    50646
-jjjj    日    50647
+jjjj    日    50700
 jjjl    蠱    50646
 jjjn    蝿    50646
 jjju    蟲    36079
@@ -8708,7 +8708,7 @@ jkeg    蜎    46700
 jkgd    蜈    28400
 jkgf    冔    46065
 jkhh    蚛    36926
-jkjn    蝇    50647
+jkjn    蝇    50700
 jkkf    暺    34300
 jkkf    蟬    36749
 jkkn    䗭    49151
@@ -8723,7 +8723,7 @@ jleg    蝟    42265
 jlff    曎    33747
 jlff    䘃    49151
 jlff    蠌    50646
-jlfj    曙    50647
+jlfj    曙    50700
 jlfo    蟔    28034
 jlge    蠉    50646
 jlgy    蝈    35496
@@ -8753,7 +8753,7 @@ jmhm    顒    36581
 jmhm    颙    45546
 jmhn    愚    25008
 jmhn    㼴    49151
-jmhp    遇    50647
+jmhp    遇    50700
 jmhy    禺    31192
 jmjd    蜖    50646
 jmjn    㬞    49151
@@ -8793,7 +8793,7 @@ jnxn    昵    30060
 jnxn    蚭    36079
 jnyy    蚇    39089
 jogf    㬣    49151
-jogf    显    50647
+jogf    显    50700
 jogm    顕    45107
 jogw    曗    33739
 jogy    䗱    49151
@@ -8820,7 +8820,7 @@ jpju    螟    36423
 jplh    晖    25338
 jplh    暉    50646
 jplj    暈    46065
-jplj    晕    50647
+jplj    晕    50700
 jpnn    䗆    49151
 jpns    䗿    49151
 jpoc    䗏    49151
@@ -8856,7 +8856,7 @@ jqkg    蚼    45107
 jqkg    㫥    49151
 jqko    煦    27694
 jqkq    冕    31405
-jqkq    晚    50647
+jqkq    晚    50700
 jqlg    蜔    50646
 jqmd    㬇    49151
 jqmy    蝜    45546
@@ -8897,7 +8897,7 @@ jrcy    蛌    42582
 jrdf    暤    34489
 jrey    䖰    49151
 jrgg    蚯    25907
-jrgg    蝗    50647
+jrgg    蝗    50700
 jrhm    螔    39139
 jrhy    䖣    49151
 jrif    暭    36792
@@ -8954,7 +8954,7 @@ jthc    蝂    36881
 jthd    螑    41162
 jthf    蚱    29512
 jthf    曍    35454
-jthf    昨    50647
+jthf    昨    50700
 jthk    晷    27659
 jthn    螅    38554
 jthp    蜒    30300
@@ -9009,7 +9009,7 @@ jugt    蟻    36462
 jugt    㬢    49151
 jujf    蝉    24707
 jujf    曈    32091
-jujg    暗    50647
+jujg    暗    50700
 jujh    蟑    33290
 jujh    暲    34942
 jujn    䗷    49151
@@ -9059,7 +9059,7 @@ jwga    㫻    49151
 jwga    蜦    50646
 jwgd    暌    24655
 jwgj    蝓    31025
-jwgk    蛤    50647
+jwgk    蛤    50700
 jwgn    㬛    49151
 jwgu    䗳    49151
 jwhe    䗛    49151
@@ -9100,7 +9100,7 @@ jxjh    昲    50646
 jxjm    曊    33171
 jxln    蚴    29807
 jxtb    曏    45546
-jxxb    昆    50647
+jxxb    昆    50700
 jxxf    蜌    50646
 jxxg    鹍    43345
 jxxm    顯    39511
@@ -9131,7 +9131,7 @@ jyij    㔀    49151
 jyik    䯫    49151
 jyim    颢    31454
 jyim    顥    39292
-jyiu    景    50647
+jyiu    景    50700
 jyiy    晾    27657
 jyjg    蠐    33658
 jyjh    蛴    34089
@@ -9192,7 +9192,7 @@ kagg    哐    27422
 kahl    嚂    46700
 kahm    㘋    49151
 kahq    囕    49151
-kaht    呀    50647
+kaht    呀    50700
 kajd    嗼    39511
 kajg    唶    50646
 kajj    囆    40872
@@ -9216,7 +9216,7 @@ kaqr    㖴    49151
 kaqt    囌    42938
 kaqy    呕    16078
 kaqy    哎    25756
-katq    哓    50647
+katq    哓    50700
 kaui    囒    32992
 kauo    嚥    35930
 kawc    嚄    32760
@@ -9237,7 +9237,7 @@ kbmh    咄    33516
 kbnn    吼    23695
 kbnt    戢    34954
 kbqb    㗦    49151
-kbsk    啊    50647
+kbsk    啊    50700
 kcbk    噊    34988
 kcbs    㖻    49151
 kccc    啜    31920
@@ -9292,7 +9292,7 @@ kdmh    咘    50646
 kdmj    㖇    49151
 kdmy    㖽    49151
 kdmy    順    50646
-kdmy    顺    50647
+kdmy    顺    50700
 kdne    哤    31288
 kdnn    㕱    49151
 kdoy    咴    29786
@@ -9327,7 +9327,7 @@ kevg    㗖    49151
 kewo    鵑    46700
 kexd    嗘    36904
 keyy    啄    21587
-keyy    吸    50647
+keyy    吸    50700
 kfam    喷    23114
 kfam    噴    35387
 kfbn    哋    30156
@@ -9807,7 +9807,7 @@ kipl    噹    45107
 kiqn    咣    28191
 kiqn    咷    35095
 kith    㗂    49151
-kitt    吵    50647
+kitt    吵    50700
 kitu    嗨    22745
 kiwa    㘍    49151
 kjaf    嗶    30471
@@ -9871,7 +9871,7 @@ kkkf    品    23117
 kkkf    嘽    50646
 kkkj    劋    35979
 kkkk    㗊    49151
-kkkk    口    50647
+kkkk    口    50700
 kkkm    喦    41722
 kkkm    嵒    50646
 kkkn    㗁    49151
@@ -9975,7 +9975,7 @@ kngk    呞    50646
 kngw    呉    25219
 knhc    㗇    49151
 knhh    喡    36310
-knhh    叫    50647
+knhh    叫    50700
 knij    囑    35143
 knku    噼    31936
 knmj    唰    50646
@@ -9992,7 +9992,7 @@ knyw    㕽    49151
 knyy    呎    32411
 kogf    嚉    35638
 kogw    㗼    49151
-kogy    噗    50647
+kogy    噗    50700
 kool    嘮    50646
 koos    㘇    49151
 koow    㗵    49151
@@ -10006,7 +10006,7 @@ kpfm    㘔    49151
 kpfm    㗷    49151
 kpfq    唍    50646
 kpgf    㗌    49151
-kpgg    喧    50647
+kpgg    喧    50700
 kpgh    啶    34680
 kplh    喗    39139
 kpmn    㕴    49151
@@ -10153,7 +10153,7 @@ ktrh    㗸    49151
 ktrt    哦    13349
 kttd    㗛    49151
 ktuf    悋    50646
-ktuh    呼    50647
+ktuh    呼    50700
 ktuy    咚    25325
 ktvb    㘉    49151
 ktvg    唩    50646
@@ -10184,7 +10184,7 @@ kulj    噌    28428
 kumd    嘀    23647
 kunt    㘎    49151
 kunt    㘚    49151
-kuph    啼    50647
+kuph    啼    50700
 kupy    嗙    37745
 kuqv    嚪    27185
 kuqy    咬    22797
@@ -10207,7 +10207,7 @@ kvcq    嘅    50646
 kvcy    呶    32029
 kvcy    㖬    49151
 kvey    哏    31667
-kvfb    哪    50647
+kvfb    哪    50700
 kvfg    㗲    49151
 kvfh    㖀    49151
 kvfj    嘯    39569
@@ -10288,7 +10288,7 @@ kxjh    咈    50646
 kxln    呦    24343
 kxmk    㖰    49151
 kxqy    喲    40293
-kxqy    哟    50647
+kxqy    哟    50700
 kxrs    嚛    37293
 kxth    㘈    49151
 kxwj    㖎    49151
@@ -10325,7 +10325,7 @@ kype    嚎    27292
 kypm    喨    35441
 kysd    嚰    33777
 kysr    嚤    38174
-kyss    嘛    50647
+kyss    嘛    50700
 kysx    嚒    48673
 kytd    嗾    37191
 kyth    㖄    49151
@@ -10340,7 +10340,7 @@ kyxl    㗜    49151
 kyxy    噰    39569
 kyxy    呟    48673
 laag    軾    36237
-laag    轼    50647
+laag    轼    50700
 laat    輚    33658
 ladr    䡳    49151
 lafc    羁    32492
@@ -10373,7 +10373,7 @@ lbmr    擊    31475
 lbms    檕    48673
 lbnn    辄    30932
 lbnn    輒    50646
-lcag    轻    50647
+lcag    轻    50700
 lcbf    㙒    49151
 lcbs    輮    45546
 lcbs    㽥    49151
@@ -10563,14 +10563,14 @@ lglg    疅    35609
 lgmm    輌    50646
 lgmw    辆    22681
 lgmy    輛    50646
-lgnh    车    50647
+lgnh    车    50700
 lgqn    軏    35594
 lguh    軯    40609
 lgva    輕    50646
 lgvl    輺    50646
 lgvq    鑋    50646
 lgwf    䡖    49151
-lgyi    国    50647
+lgyi    国    50700
 lhad    䡾    49151
 lhal    轤    43821
 lhcy    軙    39941
@@ -10579,7 +10579,7 @@ lhmy    䡠    49151
 lhng    囗    28761
 lhng    皿    34765
 lhng    罒    50646
-lhng    四    50647
+lhng    四    50700
 lhnh    甲    20111
 lhnt    轳    39455
 lieg    輎    50646
@@ -10601,7 +10601,7 @@ ljlg    辒    47519
 ljqn    輵    50646
 ljsy    輠    50646
 ljxx    輥    50646
-ljxx    辊    50647
+ljxx    辊    50700
 lkbg    辑    26324
 lkbg    輯    50646
 lkcf    驾    24313
@@ -10658,7 +10658,7 @@ lllj    轟    41722
 llll    〇    30038
 llll    轠    46065
 llll    㔣    49151
-llll    田    50647
+llll    田    50700
 lllm    罍    40694
 lllm    䝱    49151
 llln    勰    35427
@@ -10711,7 +10711,7 @@ logf    轛    42582
 logy    轐    46065
 loqh    轔    44392
 loqh    疄    47519
-loqh    辚    50647
+loqh    辚    50700
 lpdk    辖    26999
 lpdk    轄    43135
 lpeg    畳    35510
@@ -10834,7 +10834,7 @@ lulj    罾    37655
 lulj    㽪    49151
 luqi    図    33468
 luqy    較    50646
-luqy    较    50647
+luqy    较    50700
 lusg    輶    45107
 luxt    罤    46700
 luxx    㽧    49151
@@ -10894,7 +10894,7 @@ lwyu    罖    50646
 lwyv    圀    46065
 lxcy    䡏    49151
 lxhj    羄    50646
-lxiu    累    50647
+lxiu    累    50700
 lxke    羂    50646
 lxln    軪    34988
 lxrs    轢    42419
@@ -10919,7 +10919,7 @@ lyiy    輬    34175
 lyiy    辌    35168
 lyjf    䍤    49151
 lyjj    罰    50646
-lyjj    罚    50647
+lyjj    罚    50700
 lymn    㽘    49151
 lymn    䡉    49151
 lymv    囥    36045
@@ -10975,7 +10975,7 @@ maps    嵘    33027
 maqh    嵽    48673
 maqj    嶜    36310
 maqy    岖    38721
-matq    峣    50647
+matq    峣    50700
 mawb    㟟    49151
 mawc    㠛    49151
 mawe    䐌    49151
@@ -11193,7 +11193,7 @@ mfqw    崁    45546
 mftj    赌    22616
 mftj    賭    33792
 mftt    財    30835
-mftt    财    50647
+mftt    财    50700
 mftx    峔    48673
 mftx    䶲    49151
 mfwm    㠝    49151
@@ -11225,7 +11225,7 @@ mgka    㢥    49151
 mgka    戙    50646
 mgkc    敱    27042
 mgkd    獃    35047
-mgkd    同    50647
+mgkd    同    50700
 mgkg    峿    46700
 mgkj    颽    34639
 mgkj    剴    35413
@@ -11330,7 +11330,7 @@ mhly    帼    34246
 mhmy    帆    25257
 mhna    幈    50646
 mhnf    幄    36385
-mhng    由    50647
+mhng    由    50700
 mhnh    幃    50646
 mhny    贝    22413
 mhny    貝    43135
@@ -11395,7 +11395,7 @@ mhyf    幮    50646
 mhyj    䶓    49151
 mhyq    㡆    49151
 midt    巌    50646
-mieg    峭    50647
+mieg    峭    50700
 miff    埊    34919
 mijg    崉    50646
 mimy    䞆    49151
@@ -11432,7 +11432,7 @@ mkkn    㠋    49151
 mkkt    巖    45546
 mkkt    巗    50646
 mkpd    㢠    49151
-mkpd    迥    50647
+mkpd    迥    50700
 mkqn    贶    33080
 mkqn    貺    35623
 mkqn    岲    50646
@@ -11451,7 +11451,7 @@ mlnu    崽    27877
 mlny    䞏    49151
 mlrh    嶃    50646
 mlrj    嶄    48673
-mlrj    崭    50647
+mlrj    崭    50700
 mlvf    㟺    49151
 mlvg    嶁    43135
 mmae    嶩    50646
@@ -11462,7 +11462,7 @@ mmfk    賙    34237
 mmfk    赒    42938
 mmfk    㟘    49151
 mmgd    凹    26878
-mmgd    册    50647
+mmgd    册    50700
 mmgj    删    23475
 mmgk    峒    33315
 mmgk    峝    47519
@@ -11471,7 +11471,7 @@ mmgq    兕    32511
 mmgu    嵦    50646
 mmhk    凧    35012
 mmjj    崱    50646
-mmmm    山    50647
+mmmm    山    50700
 mmmu    赑    40694
 mmmu    贔    50646
 mmmv    巊    50646
@@ -11532,7 +11532,7 @@ mook    巆    44392
 mool    嶗    50646
 moos    嶸    41062
 mooy    賧    43345
-mooy    赕    50647
+mooy    赕    50700
 moqh    嶙    34754
 movg    嵝    40609
 mpdc    峵    50646
@@ -11608,7 +11608,7 @@ mqyu    㞮    49151
 mraf    㟛    49151
 mrcy    販    32992
 mrcy    岅    46700
-mrcy    贩    50647
+mrcy    贩    50700
 mrdf    㟸    49151
 mrgd    凰    27410
 mrgg    崲    35609
@@ -11772,7 +11772,7 @@ mukh    嵜    50646
 mukq    㟋    49151
 mulj    嶒    40872
 mulj    贈    50646
-mulj    赠    50647
+mulj    赠    50700
 mumd    㠃    49151
 mumj    剛    30909
 mumk    岡    50646
@@ -11872,7 +11872,7 @@ mxkj    嵹    50646
 mxln    岰    50646
 mxqi    㟜    49151
 mxth    㠜    49151
-mxth    嶷    50647
+mxth    嶷    50700
 mxuu    嵶    50646
 myac    雘    41484
 myaw    䵊    49151
@@ -11997,7 +11997,7 @@ nbsk    屙    32327
 nbte    饏    37510
 nbtg    㦕    49151
 nbtn    憨    25616
-nbty    敢    50647
+nbty    敢    50700
 ncbh    忬    47519
 ncbk    憰    27306
 nccc    惙    41162
@@ -12005,7 +12005,7 @@ ncce    慘    37510
 ncde    惨    23411
 nceh    悀    50646
 ncel    愑    50646
-ncfg    怪    50647
+ncfg    怪    50700
 ncfh    怿    33854
 nckg    怡    24039
 ncrh    恈    50646
@@ -12142,7 +12142,7 @@ nghg    恆    50646
 ngho    㥼    49151
 ngig    怌    41722
 ngik    㤳    49151
-ngiy    怀    50647
+ngiy    怀    50700
 ngjf    慱    25211
 ngjg    恒    23054
 ngjn    憓    42419
@@ -12269,13 +12269,13 @@ nhlf    㿿    49151
 nhnd    㠯    49151
 nhqg    鹛    37839
 nhqn    悓    50646
-nhty    收    50647
+nhty    收    50700
 nhvh    舝    50646
 nhwo    鶥    42754
 nhwy    惧    26089
 nhyq    疏    24908
 nied    屑    29550
-nieg    悄    50647
+nieg    悄    50700
 nijg    䎓    49151
 nilj    屬    50646
 nilj    劚    50646
@@ -12300,7 +12300,7 @@ njgh    惿    50646
 njgr    愓    50646
 njhg    丱    50646
 njiq    愰    45546
-njlc    慢    50647
+njlc    慢    50700
 njlg    愠    33226
 njmn    㦙    49151
 njmy    㥥    49151
@@ -12347,7 +12347,7 @@ nkun    憵    35059
 nkuo    糪    32406
 nkuo    鷿    48673
 nkuo    鸊    50646
-nkup    避    50647
+nkup    避    50700
 nkuq    鐾    42119
 nkuq    䢃    49151
 nkur    擘    29184
@@ -12371,7 +12371,7 @@ nlll    恊    36904
 nlny    愢    30217
 nlpy    慩    35682
 nlrh    慚    35143
-nlrh    惭    50647
+nlrh    惭    50700
 nlsy    悃    37166
 nlvd    屢    23411
 nlvg    慺    50646
@@ -12417,7 +12417,7 @@ nnll    乙    21201
 nnll    乚    36201
 nnll    乛    50646
 nnni    繠    38035
-nnnn    已    50647
+nnnn    已    50700
 nnns    橤    23899
 nnnu    惢    50646
 nnnw    㦏    49151
@@ -12433,7 +12433,7 @@ nogf    㦠    49151
 nool    憦    28282
 nooy    惔    43345
 noqh    憐    37373
-novd    屡    50647
+novd    屡    50700
 novg    㥪    49151
 noyc    㦪    49151
 npdi    屪    50646
@@ -12448,7 +12448,7 @@ nplj    翬    50646
 npnn    悺    50646
 npns    懧    29891
 npqb    惋    34402
-npqn    忱    50647
+npqn    忱    50700
 npsh    㤖    49151
 npta    㤞    49151
 nptk    愘    50646
@@ -12468,7 +12468,7 @@ nqdc    恡    50646
 nqdh    悕    27645
 nqdo    㦓    49151
 nqdy    憺    31314
-nqeh    懈    50647
+nqeh    懈    50700
 nqjb    惸    48673
 nqjg    恂    24905
 nqkg    怐    50646
@@ -12515,13 +12515,13 @@ nssh    憷    27986
 nssi    㦗    49151
 nssy    慄    27991
 nssy    惏    50646
-nsyy    怵    50647
+nsyy    怵    50700
 ntan    屜    50646
 ntas    屧    50646
 ntay    怅    32100
 ntbg    悸    26186
 ntbh    邲    38138
-ntcy    发    50647
+ntcy    发    50700
 ntdg    恬    26916
 ntdj    㤭    49151
 ntdk    憍    50646
@@ -12617,7 +12617,7 @@ nuyy    憫    31631
 nvaf    憳    31613
 nvcq    慨    17454
 nvcy    怓    50646
-nvey    恨    50647
+nvey    恨    50700
 nvfg    㦎    49151
 nvfh    忰    46700
 nvfj    翆    50646
@@ -12650,7 +12650,7 @@ nwfy    㤔    49151
 nwga    惀    31349
 nwgg    恮    50646
 nwgj    懀    28162
-nwgj    愉    50647
+nwgj    愉    50700
 nwgk    恰    24306
 nwgu    憕    41848
 nwgw    憸    31382
@@ -12733,7 +12733,7 @@ nynn    忙    20988
 nynq    㤺    49151
 nynw    㤥    49151
 nynx    㦇    49151
-nyny    心    50647
+nyny    心    50700
 nypi    迟    23843
 nysc    懡    26337
 nysd    戂    50646
@@ -12743,7 +12743,7 @@ nyvh    慵    19599
 nyvi    慷    19417
 nywf    翠    24279
 nywf    悴    29391
-nywy    以    50647
+nywy    以    50700
 nyxl    慉    34787
 nyxy    怰    50646
 oaag    烒    26573
@@ -12755,7 +12755,7 @@ oaet    糤    50646
 oafg    粓    48673
 oafg    㶰    49151
 oafh    煂    34402
-oafs    煤    50647
+oafs    煤    50700
 oagf    燁    36814
 oahf    熞    46065
 oahh    烥    38993
@@ -12792,7 +12792,7 @@ oaqj    糣    43135
 oaqn    燪    30450
 oaqy    烵    31567
 oate    糒    39455
-oatq    烧    50647
+oatq    烧    50700
 oaui    爤    46700
 oaui    糷    50646
 oawo    爑    50646
@@ -12803,7 +12803,7 @@ oawy    烘    30478
 oawy    粠    50646
 obbb    㸎    49151
 obmh    炪    26610
-ocag    烃    50647
+ocag    烃    50700
 ocbh    㶦    49151
 ocbk    燏    24437
 ocbs    糅    27542
@@ -12851,7 +12851,7 @@ oebg    烰    33854
 oebg    粰    50646
 oeeg    焩    50646
 oefc    煖    43821
-oegg    粗    50647
+oegg    粗    50700
 oehj    㷔    49151
 oelf    爝    37482
 oept    燰    29553
@@ -12935,7 +12935,7 @@ ohan    爈    50646
 ohhy    爠    50646
 ohjh    焯    30114
 ohkg    炶    30252
-ohkg    粘    50647
+ohkg    粘    50700
 ohqe    爘    50646
 ohqn    粯    43573
 ohqn    䙺    49151
@@ -12947,7 +12947,7 @@ oiph    龦    50646
 oipo    爣    50646
 oiqn    烑    34797
 oitt    粆    50646
-oitt    炒    50647
+oitt    炒    50700
 oiwy    熦    29498
 ojaf    熚    33341
 ojaf    爗    50646
@@ -12989,12 +12989,12 @@ okks    燥    25007
 okmw    㶽    49151
 okmy    熉    50646
 okqn    炾    31066
-okwy    炽    50647
+okwy    炽    50700
 olaw    熼    32935
 olaw    糞    42419
 oldd    䊫    49151
 oldn    煾    50646
-oldy    烟    50647
+oldy    烟    50700
 oleg    煟    44392
 olff    燡    36601
 olff    爅    50646
@@ -13045,7 +13045,7 @@ onij    爥    50646
 onnk    焗    30737
 onnw    㷷    49151
 onrg    熠    29058
-onrh    断    50647
+onrh    断    50700
 onrt    炀    30937
 ontn    䊊    49151
 onug    熤    32087
@@ -13071,7 +13071,7 @@ oooj    飊    37776
 ooon    㲭    49151
 oooo    燚    27153
 oooo    熂    46700
-oooo    火    50647
+oooo    火    50700
 ooos    燊    30384
 ooos    爃    48673
 ooou    焱    29112
@@ -13158,7 +13158,7 @@ oqjg    㶷    49151
 oqkg    䊅    49151
 oqmd    焕    24613
 oqmd    煥    25479
-oqnn    炮    50647
+oqnn    炮    50700
 oqot    糭    38357
 oqoy    粷    35243
 oqoy    龽    50646
@@ -13175,7 +13175,7 @@ oqyy    灼    28469
 orcy    粄    47519
 orcy    炍    47519
 orgg    䊗    49151
-orgg    煌    50647
+orgg    煌    50700
 orlo    㷻    49151
 orqw    焮    50646
 ortf    粺    46065
@@ -13195,7 +13195,7 @@ otan    灹    24754
 otan    籷    50646
 otbn    炧    30988
 otbn    粚    50646
-otdh    烽    50647
+otdh    烽    50700
 otdk    燆    31014
 otdp    熢    27048
 otey    烐    26207
@@ -13249,7 +13249,7 @@ ouey    煫    30531
 oufg    烂    20932
 oufh    炓    35496
 oufh    䉽    49151
-oufh    料    50647
+oufh    料    50700
 ough    㷣    49151
 ougi    爛    50646
 ougo    糕    27126
@@ -13313,7 +13313,7 @@ ownp    䊚    49151
 ownp    㷟    49151
 owsy    烌    32323
 owvn    㥹    49151
-owvn    粉    50647
+owvn    粉    50700
 owvo    䲴    49151
 owwg    䊱    49151
 owwk    焀    50646
@@ -13332,7 +13332,7 @@ oxim    纇    34393
 oxim    颣    48673
 oxjh    炥    29275
 oxjm    䊧    49151
-oxkj    糨    50647
+oxkj    糨    50700
 oxln    㶭    49151
 oxrs    爍    50646
 oxuu    糑    50646
@@ -13376,7 +13376,7 @@ oyot    夑    50646
 oypm    煷    23846
 oyps    㷚    49151
 oysd    䊳    49151
-oyty    米    50647
+oyty    米    50700
 oyuo    燫    29103
 oyve    粮    24640
 oyve    烺    28681
@@ -13397,7 +13397,7 @@ pahy    寬    50646
 pajd    寞    31571
 pajf    㝜    49151
 pajh    冪    37482
-pamq    宽    50647
+pamq    宽    50700
 pbcu    冣    36581
 pbcu    㝡    49151
 pbmc    㝮    49151
@@ -13413,7 +13413,7 @@ pdhc    㪡    49151
 pdhd    㝣    49151
 pdhj    割    23608
 pdhk    豁    28005
-pdhk    害    50647
+pdhk    害    50700
 pdho    鶷    41981
 pdhu    寷    43135
 pdhw    㝬    49151
@@ -13472,13 +13472,13 @@ pgfp    䢓    49151
 pggw    㝙    49151
 pghm    顁    46065
 pghq    㝟    49151
-pghu    定    50647
+pghu    定    50700
 pgim    賓    28853
 pgim    顮    33558
 pgin    䎙    49151
 pgiq    䚔    49151
 pgiy    䨈    49151
-pgjg    宣    50647
+pgjg    宣    50700
 pgjn    寭    50646
 pgjn    翧    50646
 pgjo    䳦    49151
@@ -13497,16 +13497,16 @@ pgrm    寶    50646
 pgro    䴐    49151
 pgvh    寁    46700
 pgyu    宝    19938
-phic    寂    50647
+phic    寂    50700
 phmu    寊    41600
 phng    宐    50646
 phnn    鼏    50646
-pief    宵    50647
+pief    宵    50700
 piqb    宨    50646
 pivc    寖    50646
 pjdh    幂    32104
 pjgh    寔    50646
-pjhj    审    50647
+pjhj    审    50700
 pjjq    䥌    49151
 pjmo    䴁    49151
 pjmy    寓    28110
@@ -13519,7 +13519,7 @@ pjuu    㝠    49151
 pjux    鼆    50646
 pjvf    宴    25094
 pkgq    宺    48673
-pkkf    宫    50647
+pkkf    宫    50700
 pksu    宲    47519
 pktk    宮    46065
 plbh    郓    35834
@@ -13541,7 +13541,7 @@ pnhh    㝲    49151
 pnhi    寐    30650
 pnhk    寤    34210
 pnhn    悹    50646
-pnhn    官    50647
+pnhn    官    50700
 pnho    㝥    49151
 pnhp    逭    40782
 pnhq    㝱    49151
@@ -13562,8 +13562,8 @@ pntm    密    21428
 pntr    宓    28114
 pnwe    寥    32477
 pocu    叜    33680
-pppp    之    50647
-pqbb    宛    50647
+pppp    之    50700
+pqbb    宛    50700
 pqbg    鹓    45546
 pqbh    邥    41484
 pqbj    剜    30904
@@ -13584,7 +13584,7 @@ pqwo    鴆    50646
 pqwy    䧵    49151
 pqyu    㝌    49151
 prcy    寙    50646
-prgw    宾    50647
+prgw    宾    50700
 prhj    牢    23192
 prxb    冟    41981
 psdm    䫅    49151
@@ -13598,7 +13598,7 @@ ptfn    宒    50646
 ptfq    宪    25823
 pthp    㝚    49151
 pthy    㝰    49151
-ptkf    客    50647
+ptkf    客    50700
 ptkm    额    18563
 ptkm    額    43345
 ptkn    愙    30817
@@ -13655,7 +13655,7 @@ pudn    袴    33702
 pudn    裺    34558
 pudq    䘠    49151
 pudt    䙘    49151
-pudu    实    50647
+pudu    实    50700
 pudw    裌    38765
 pudw    䙠    49151
 puec    褑    50646
@@ -13930,7 +13930,7 @@ pvwf    㝧    49151
 pvwo    鴳    50646
 pwab    䇀    49151
 pwac    㲁    49151
-pwaf    空    50647
+pwaf    空    50700
 pwag    窢    33015
 pwah    䆠    49151
 pwak    䆰    49151
@@ -14129,7 +14129,7 @@ pyfc    䃽    49151
 pyff    禱    33128
 pyfg    迎    22210
 pyfg    盁    33033
-pyfg    社    50647
+pyfg    社    50700
 pyfh    祎    31631
 pyfh    禃    42754
 pyfi    祙    38595
@@ -14332,7 +14332,7 @@ qapl    铹    41484
 qaqj    鐕    50646
 qaqy    銰    44092
 qatp    鑝    38434
-qatq    铙    50647
+qatq    铙    50700
 qaui    钄    50646
 qavk    鍣    37092
 qawc    镬    33502
@@ -14457,7 +14457,7 @@ qdnt    铖    33122
 qdnt    鋮    40008
 qdnt    龯    50646
 qdoo    䳿    49151
-qdou    然    50647
+qdou    然    50700
 qdqn    鋴    41162
 qdqq    鏯    42419
 qdrh    䤺    49151
@@ -15049,7 +15049,7 @@ qnnw    鐉    50646
 qnou    炰    29562
 qnpn    馆    21521
 qnql    馏    37068
-qnqn    饱    50647
+qnqn    饱    50700
 qnqu    馋    27248
 qnqv    馅    26651
 qnqw    饮    22936
@@ -15488,7 +15488,7 @@ qpfq    鋎    41062
 qpgg    鍹    45107
 qpgg    䥾    49151
 qpgh    錠    50646
-qpgh    锭    50647
+qpgh    锭    50700
 qpgm    鑌    45107
 qpgw    夤    27987
 qpgw    鏔    38210
@@ -15559,7 +15559,7 @@ qqpi    迻    40527
 qqqf    鑫    23812
 qqqk    夠    50646
 qqqq    㸚    49151
-qqqq    金    50647
+qqqq    金    50700
 qqqy    鉹    47519
 qqrm    鋾    40147
 qqrn    锪    29807
@@ -15621,7 +15621,7 @@ qrrm    鑕    50646
 qrtf    錍    50646
 qruj    㬟    49151
 qrwy    鉄    48673
-qrwy    铁    50647
+qrwy    铁    50700
 qryi    匆    23822
 qryn    怱    50646
 qryt    䥞    49151
@@ -16080,7 +16080,7 @@ qvfp    鍵    40609
 qvhc    皱    26116
 qvhc    锼    35308
 qvhc    鎪    38001
-qvhj    争    50647
+qvhj    争    50700
 qviy    録    50646
 qvjs    鏁    45546
 qvkg    铷    35035
@@ -16172,7 +16172,7 @@ qxhw    鎭    41162
 qxiy    銯    34149
 qxjh    鉘    50646
 qxjm    鐨    50646
-qxjm    镄    50647
+qxjm    镄    50700
 qxkj    镪    35107
 qxkj    鏹    35819
 qxrs    鑠    50646
@@ -16319,7 +16319,7 @@ raqj    撍    48673
 raqj    㨚    49151
 raqt    擏    35979
 raqy    抠    26697
-ratq    挠    50647
+ratq    挠    50700
 rawc    擭    30156
 rawi    攃    50646
 rawk    搭    21672
@@ -16330,7 +16330,7 @@ rbbb    攝    50646
 rbbh    揶    24114
 rbcc    摄    22678
 rbcy    掫    28683
-rbcy    报    50647
+rbcy    报    50700
 rbde    撱    30865
 rbig    拯    25798
 rbiy    摂    34776
@@ -16472,7 +16472,7 @@ rffh    掛    48673
 rffn    摴    34886
 rffq    皢    35653
 rffq    撓    44392
-rffy    持    50647
+rffy    持    50700
 rfhc    瞂    50646
 rfhd    盾    24511
 rfhg    㨁    49151
@@ -16552,7 +16552,7 @@ rgji    㨂    49151
 rgjq    挭    32600
 rgjq    皩    36366
 rgkb    郈    31222
-rgkd    后    50647
+rgkd    后    50700
 rgke    攮    37655
 rgkf    垕    37625
 rgkg    捂    26445
@@ -16620,7 +16620,7 @@ rhbh    卸    26304
 rhbh    䣃    49151
 rhcy    披    23720
 rheg    掯    30678
-rhfk    年    50647
+rhfk    年    50700
 rhfo    鵇    48673
 rhgh    挊    27249
 rhhc    攫    32635
@@ -16685,7 +16685,7 @@ rjfh    捍    30348
 rjfh    皔    45546
 rjgf    㧹    49151
 rjgg    担    22232
-rjgh    提    50647
+rjgh    提    50700
 rjgr    揚    26049
 rjgy    捑    36643
 rjhc    捜    47519
@@ -16878,7 +16878,7 @@ rnpv    氨    29073
 rnqu    気    37870
 rnqw    㰟    49151
 rnrg    摺    27263
-rnrh    所    50647
+rnrh    所    50700
 rnrn    乺    43345
 rnrt    扬    21492
 rnsf    氥    40368
@@ -16909,7 +16909,7 @@ rool    撈    41162
 roos    㩞    49151
 rooy    掞    40368
 roqh    撛    43345
-rovg    搂    50647
+rovg    搂    50700
 rovt    擞    31889
 rpdk    㨳    49151
 rpdk    搳    50646
@@ -17016,7 +17016,7 @@ rqkq    挽    24772
 rqku    搀    28942
 rqky    攙    50646
 rqmd    換    47519
-rqmd    换    50647
+rqmd    换    50700
 rqnn    抱    21168
 rqoj    擼    32439
 rqoy    掬    28880
@@ -17040,7 +17040,7 @@ rqyg    㨱    49151
 rqyl    㨨    49151
 rqym    捣    21212
 rqyy    扚    41162
-rqyy    的    50647
+rqyy    的    50700
 rrcq    鋬    38993
 rrcy    皈    16451
 rrcy    扳    34942
@@ -17083,7 +17083,7 @@ rrrf    皨    33401
 rrrf    皛    40368
 rrrj    掱    30445
 rrrm    㩫    49151
-rrrr    白    50647
+rrrr    白    50700
 rrsu    梊    35156
 rrtf    捭    23360
 rrvf    娎    50646
@@ -17139,7 +17139,7 @@ rtgf    捶    24070
 rtgf    揰    29527
 rtgh    揷    29536
 rtgh    挿    50646
-rtgh    手    50647
+rtgh    手    50700
 rtgi    㨀    49151
 rtgi    㩍    49151
 rtgq    㩶    49151
@@ -17343,7 +17343,7 @@ rxrs    擽    27821
 rxrs    皪    28895
 rxth    擬    30001
 rxuu    搦    38357
-rxxn    批    50647
+rxxn    批    50700
 rxxr    揩    28973
 ryao    摭    23691
 ryaw    擴    35524
@@ -17413,7 +17413,7 @@ ryxh    撁    43821
 ryxl    搐    29837
 ryxy    擁    41373
 saag    栻    40872
-saah    械    50647
+saah    械    50700
 saak    櫙    38993
 saat    棧    39139
 sabg    榵    25008
@@ -17488,7 +17488,7 @@ saqy    枢    28329
 satf    㯵    49151
 sath    樥    50646
 satq    㮱    49151
-satq    桡    50647
+satq    桡    50700
 saui    欗    50646
 savj    櫹    33830
 sawc    檴    27238
@@ -17632,7 +17632,7 @@ sevg    桵    23041
 sevg    槄    24327
 sexd    榽    25755
 seyy    椓    42938
-seyy    极    50647
+seyy    极    50700
 sfae    欛    50646
 sfag    㰇    49151
 sfah    枿    31247
@@ -17995,7 +17995,7 @@ sith    㮐    49151
 sitl    㭞    49151
 sitt    杪    28033
 sivg    桜    50646
-sivg    档    50647
+sivg    档    50700
 sivs    樑    50646
 siwh    榉    35788
 sjaf    㮿    49151
@@ -18006,7 +18006,7 @@ sjfg    梩    42419
 sjfh    桿    50646
 sjgc    皶    29014
 sjgf    棏    30526
-sjgf    查    50647
+sjgf    查    50700
 sjgg    棩    37903
 sjgg    柦    39040
 sjgh    㮛    49151
@@ -18088,7 +18088,7 @@ slwl    榲    26178
 slwt    㮨    49151
 slxi    樏    50646
 slxy    欏    50646
-slyn    楞    50647
+slyn    楞    50700
 slyq    鿝    50646
 smaa    㰄    49151
 smae    檂    47519
@@ -18154,7 +18154,7 @@ snns    㰑    49151
 snnw    㯢    49151
 snny    梞    50646
 snrg    槢    34365
-snrt    杨    50647
+snrt    杨    50700
 sntl    榓    48673
 sntn    梶    30573
 sntt    柲    30011
@@ -18183,7 +18183,7 @@ spdn    櫶    41484
 speg    椬    50646
 spey    榢    27845
 spey    䙶    49151
-spfi    棕    50647
+spfi    棕    50700
 spfq    梡    35552
 spgf    榁    42754
 spgg    楦    19799
@@ -18227,7 +18227,7 @@ sqbh    桞    50646
 sqbt    㮲    49151
 sqbt    椶    50646
 sqcn    栬    50646
-sqcy    构    50647
+sqcy    构    50700
 sqdb    桅    32935
 sqde    㮁    49151
 sqdh    桸    27015
@@ -18355,7 +18355,7 @@ ssqu    梦    18756
 ssrc    㯄    49151
 sssh    檚    50646
 sssi    㯲    49151
-ssss    木    50647
+ssss    木    50700
 sssu    森    21959
 ssvb    㭝    49151
 ssvf    婪    34744
@@ -18411,7 +18411,7 @@ stih    椼    50646
 stjg    楿    50646
 stjh    梸    33981
 stjt    椱    50646
-stkg    格    50647
+stkg    格    50700
 stky    楀    38069
 stlg    桖    42265
 stln    樬    50646
@@ -18445,7 +18445,7 @@ suaj    樴    50646
 sube    㮶    49151
 suda    槎    28705
 sudb    棬    38138
-sudh    样    50647
+sudh    样    50700
 sudk    橏    42265
 sudl    椦    50646
 sudp    㮸    49151
@@ -18555,7 +18555,7 @@ swgb    楡    29492
 swgb    椧    49151
 swgd    楑    31458
 swgg    栓    27101
-swgi    检    50647
+swgi    检    50700
 swgj    榆    28355
 swgj    檜    50646
 swgk    㭘    49151
@@ -18689,7 +18689,7 @@ sxxe    櫞    39189
 sxxf    梐    41162
 sxxn    枇    30587
 sxxn    檵    38138
-sxxr    楷    50647
+sxxr    楷    50700
 sxxt    機    47519
 sxyx    㭹    49151
 syao    樜    50646
@@ -18827,7 +18827,7 @@ tawk    簭    29164
 tawp    遾    41265
 tawt    䅷    49151
 taww    筮    35866
-tayi    长    50647
+tayi    长    50700
 tayn    䅒    49151
 tbcu    箃    46700
 tbft    䉄    49151
@@ -18900,7 +18900,7 @@ tdkb    聟    50646
 tdkc    敽    32087
 tdkf    呑    32692
 tdkg    䣽    49151
-tdkg    知    50647
+tdkg    知    50700
 tdkj    智    20860
 tdkk    喬    36814
 tdkl    勪    37870
@@ -19160,7 +19160,7 @@ tfhg    鸻    36501
 tfhg    徝    39688
 tfhg    稙    48673
 tfhh    衠    45546
-tfhh    行    50647
+tfhh    行    50700
 tfhn    憄    46065
 tfho    鴴    41373
 tfhw    稹    33784
@@ -19502,7 +19502,7 @@ tirj    䇵    49151
 tith    箵    43573
 titl    籓    37655
 titq    箲    40527
-titt    秒    50647
+titt    秒    50700
 tivf    筜    33381
 tivk    䈃    49151
 tivs    簗    50646
@@ -19524,7 +19524,7 @@ tjfj    筸    50646
 tjfm    馩    40694
 tjgf    笪    36792
 tjgf    䅞    49151
-tjgf    得    50647
+tjgf    得    50700
 tjgh    筛    27420
 tjgh    䈕    49151
 tjgh    䅠    49151
@@ -19747,7 +19747,7 @@ tmgt    㣲    49151
 tmgu    䅱    49151
 tmhk    币    22686
 tmjj    䈟    49151
-tmkd    向    50647
+tmkd    向    50700
 tmkm    穨    34508
 tmkp    逈    36973
 tmkq    䚁    49151
@@ -19807,7 +19807,7 @@ tnpv    迄    31498
 tntf    簈    50646
 tntn    䇻    49151
 tntn    䅏    49151
-tntt    秘    50647
+tntt    秘    50700
 tnty    㩿    49151
 tnua    箳    47519
 tnuh    稺    50646
@@ -19861,7 +19861,7 @@ tpgg    箮    36462
 tpgm    穦    27219
 tpju    䈿    49151
 tpnm    䈼    49151
-tpnn    管    50647
+tpnn    管    50700
 tpns    㣷    49151
 tpqb    箢    40076
 tpsj    䇡    49151
@@ -19899,7 +19899,7 @@ tqfh    衔    27230
 tqfh    銜    47519
 tqgj    穞    50646
 tqgr    篯    42938
-tqiy    称    50647
+tqiy    称    50700
 tqjb    箰    50646
 tqjf    筍    50646
 tqjg    徇    24481
@@ -20022,7 +20022,7 @@ trnh    㸨    49151
 trnj    䖸    49151
 trno    鵝    40782
 trno    鵞    41848
-trnt    我    50647
+trnt    我    50700
 troh    㹙    49151
 trok    㹚    49151
 troy    㹒    49151
@@ -20037,7 +20037,7 @@ trql    籀    40872
 trqn    惣    46700
 trqn    㹅    49151
 trqo    鿯    50646
-trqr    物    50647
+trqr    物    50700
 trqt    犓    48673
 trqy    牴    37020
 trrf    篺    50646
@@ -20143,7 +20143,7 @@ ttfk    筶    47519
 ttfm    穳    32560
 ttfm    籫    50646
 ttfn    秏    26145
-ttfn    笔    50647
+ttfn    笔    50700
 ttfo    㷏    49151
 ttfp    䅍    49151
 ttfp    筳    50646
@@ -20189,7 +20189,7 @@ ttrb    篽    46065
 ttri    籞    50646
 ttsu    筿    50646
 ttth    彳    28320
-tttt    禾    50647
+tttt    禾    50700
 ttuf    䈖    49151
 ttuu    笗    50646
 ttvg    䅗    49151
@@ -20209,7 +20209,7 @@ tuej    箭    23291
 tuep    穟    48673
 tufe    穣    37807
 tufh    秚    27104
-tufh    科    50647
+tufh    科    50700
 tugi    籣    50646
 tugo    䅵    49151
 tugt    䉝    49151
@@ -20318,7 +20318,7 @@ twgj    劄    46065
 twgj    䈩    49151
 twgk    秴    33374
 twgk    㣛    49151
-twgk    答    50647
+twgk    答    50700
 twgm    籲    50646
 twgq    箯    33762
 twgt    籢    50646
@@ -20407,7 +20407,7 @@ txgq    䉲    49151
 txgt    敏    22509
 txgu    每    17005
 txhj    䇙    49151
-txht    第    50647
+txht    第    50700
 txiu    系    18674
 txjh    䄶    49151
 txjh    彿    50646
@@ -20687,7 +20687,7 @@ uduc    㪨    49151
 udud    羴    50646
 uduf    㪵    49151
 udui    療    40782
-uduk    善    50647
+uduk    善    50700
 udut    敾    47519
 uduw    歚    45107
 udvb    券    26200
@@ -20743,7 +20743,7 @@ uegs    㰍    49151
 uegw    龔    44092
 uegy    讋    43821
 uehq    覵    40446
-uejj    前    50647
+uejj    前    50700
 uejn    翦    32825
 uejo    煎    24521
 uejs    㮍    49151
@@ -20844,7 +20844,7 @@ ugkm    癩    35742
 ugkt    瘷    50646
 ugku    痘    25665
 ugkw    瘶    32676
-uglf    盖    50647
+uglf    盖    50700
 ugli    阑    30366
 ugli    闌    35580
 ugmi    㾊    49151
@@ -20895,7 +20895,7 @@ uhie    㾟    49151
 uhjh    竨    35321
 uhkd    痁    36904
 uhkd    䦓    49151
-uhkg    站    50647
+uhkg    站    50700
 uhng    門    33861
 uhti    䦩    49151
 uhtt    夔    31606
@@ -20983,7 +20983,7 @@ ujwn    䪩    49151
 ujwo    鶕    41981
 ujwo    鷼    48673
 ujyi    閺    29152
-ukbh    部    50647
+ukbh    部    50700
 ukdm    䫓    49151
 uked    㾓    49151
 ukeu    袞    42582
@@ -21036,7 +21036,7 @@ uljb    鄫    46065
 uljc    䒏    49151
 ulje    㣒    49151
 uljf    曽    30827
-uljf    曾    50647
+uljf    曾    50700
 uljn    甑    33732
 uljn    䎖    49151
 uljr    朆    50646
@@ -21107,7 +21107,7 @@ umtj    颯    42754
 umtj    闏    49151
 umtj    瘋    50646
 umwk    㓏    49151
-umwk    商    50647
+umwk    商    50700
 umwy    凗    36521
 unac    癜    36462
 unan    冺    35930
@@ -21129,11 +21129,11 @@ unwe    瘳    39688
 unwi    疦    29098
 unwi    䦑    49151
 unwy    㿑    49151
-unwy    决    50647
+unwy    决    50700
 unxv    痆    28668
 uoga    㠮    49151
 uogf    並    38320
-uogj    普    50647
+uogj    普    50700
 uooi    痰    26611
 uook    㿘    49151
 uool    癆    41981
@@ -21143,7 +21143,7 @@ upeg    竩    35882
 upju    凕    33593
 uplk    瘒    50646
 upmd    㡣    49151
-upmh    帝    50647
+upmh    帝    50700
 upmk    啻    38899
 upmm    䫕    49151
 upmo    鶙    47519
@@ -21218,11 +21218,11 @@ uqws    楶    37596
 uqws    栥    50646
 uqwt    秶    36045
 uqwv    姿    25108
-uqwy    次    50647
+uqwy    次    50700
 uqyi    疚    34356
 uqyl    瘤    24804
 urci    㽹    49151
-urcu    瓣    50647
+urcu    瓣    50700
 urcy    㽿    49151
 urdf    㿁    49151
 urgd    㾮    49151
@@ -21365,7 +21365,7 @@ uuqv    㿕    49151
 uuqv    㾳    49151
 uusf    竴    34346
 uusi    痫    29969
-uuuu    立    50647
+uuuu    立    50700
 uuvo    㾾    49151
 uvei    痕    24732
 uvei    䦘    49151
@@ -21493,7 +21493,7 @@ uygd    疰    24571
 uygg    疒    26849
 uygh    辛    22439
 uygh    丬    26490
-uygy    六    50647
+uygy    六    50700
 uyhn    门    18161
 uyiy    凉    22123
 uyjd    癠    48673
@@ -21553,7 +21553,7 @@ vakw    嫨    43135
 vaky    孉    50646
 valg    媌    46700
 valh    㜴    49151
-vamc    毁    50647
+vamc    毁    50700
 vamd    媖    40219
 vamq    䥣    49151
 vamr    㩓    49151
@@ -21563,7 +21563,7 @@ vans    媟    46700
 vaqy    妪    33348
 vatf    嬞    50646
 vatn    嫕    29507
-vatq    娆    50647
+vatq    娆    50700
 vaui    孏    50646
 vauo    嬿    37807
 vavf    㝷    49151
@@ -21770,7 +21770,7 @@ vgvh    婕    27429
 vgvh    䑖    49151
 vgwq    嬭    50646
 vgxi    嫊    40219
-vgxw    姨    50647
+vgxw    姨    50700
 vhag    㜘    49151
 vhah    嫭    39688
 vham    虓    36131
@@ -21779,7 +21779,7 @@ vhcb    鄋    50646
 vhcc    㪢    49151
 vhcn    㲣    49151
 vhcp    遚    50646
-vhcu    叟    50647
+vhcu    叟    50700
 vhgl    盡    31740
 vhgl    䀆    49151
 vhgm    賮    30060
@@ -21877,7 +21877,7 @@ vlgh    疀    29999
 vlhd    嬽    50646
 vljh    㓯    49151
 vlkg    㚳    49151
-vllb    舅    50647
+vllb    舅    50700
 vllg    㜼    49151
 vlln    娚    50646
 vllv    嫐    35180
@@ -22013,7 +22013,7 @@ vptl    嬸    50646
 vpvg    姲    36501
 vpwj    㜚    49151
 vpwk    嫆    38595
-vqaj    婚    50647
+vqaj    婚    50700
 vqbh    郳    41600
 vqbt    媰    36881
 vqdb    姽    35757
@@ -22054,7 +22054,7 @@ vrgg    㚱    49151
 vrgk    姤    37655
 vrgw    娦    36792
 vrhf    姩    38069
-vriy    姝    50647
+vriy    姝    50700
 vrlo    嫵    40368
 vrmh    婂    38765
 vrqc    媿    40219
@@ -22154,7 +22154,7 @@ vusy    嫻    38721
 vusy    媇    41722
 vutd    嫉    31368
 vuth    馗    37455
-vuvo    嫌    50647
+vuvo    嫌    50700
 vuwl    㜋    49151
 vuxn    嬨    50646
 vuxt    娣    29290
@@ -22174,7 +22174,7 @@ vvtq    㛴    49151
 vvvb    刕    50646
 vvve    脋    50646
 vvvf    姦    35697
-vvvv    女    50647
+vvvv    女    50700
 vwcy    妐    50646
 vwfw    嬹    50646
 vwfw    嬩    50646
@@ -22217,7 +22217,7 @@ vwyg    㜃    49151
 vwyk    娢    35360
 vwyn    妗    36770
 vwyo    嫶    34942
-vxgu    姆    50647
+vxgu    姆    50700
 vxrh    嬵    50646
 vxrs    㜰    49151
 vxuu    嫋    33322
@@ -22318,7 +22318,7 @@ wasu    柋    27169
 wate    備    40609
 watn    憊    50646
 wato    㷶    49151
-watq    侥    50647
+watq    侥    50700
 wawb    䣏    49151
 wawy    供    20899
 waye    袋    24285
@@ -22425,7 +22425,7 @@ wfam    僨    43345
 wfcb    郐    36442
 wfcb    㑢    49151
 wfcj    刽    40147
-wfcu    会    50647
+wfcu    会    50700
 wfcy    伎    28458
 wfcy    佉    31458
 wfcy    伝    50646
@@ -22712,7 +22712,7 @@ whxs    偨    38174
 wieg    俏    26173
 wimk    倘    27183
 wimt    僘    34965
-wipc    偿    50647
+wipc    偿    50700
 wipf    㑽    49151
 wipl    儅    50646
 wipm    償    50646
@@ -22769,7 +22769,7 @@ wksm    賲    40782
 wkso    煲    25138
 wkso    䳰    49151
 wkso    㷛    49151
-wksy    保    50647
+wksy    保    50700
 wktd    㑨    49151
 wktk    侶    34175
 wkwy    伿    50646
@@ -22903,7 +22903,7 @@ wpen    䭡    49151
 wpev    饀    43573
 wpev    餒    50646
 wpey    傢    33998
-wpey    侬    50647
+wpey    侬    50700
 wpfb    餑    50646
 wpff    僿    50646
 wpfh    飦    40446
@@ -23089,7 +23089,7 @@ wqfj    㸙    49151
 wqfu    釜    31431
 wqgd    尩    50646
 wqin    您    15331
-wqiy    你    50647
+wqiy    你    50700
 wqje    像    15299
 wqjg    侚    50646
 wqkg    佝    32981
@@ -23189,7 +23189,7 @@ wtgf    偅    29843
 wtgf    倕    46065
 wtgl    働    34264
 wthc    敍    29170
-wthf    作    50647
+wthf    作    50700
 wthg    㑅    49151
 wthg    㑑    49151
 wthj    偺    43135
@@ -23437,7 +23437,7 @@ wwwh    䁞    49151
 wwwj    㫺    49151
 wwwk    俗    23689
 wwwu    众    23571
-wwww    人    50647
+wwww    人    50700
 wwwy    㐺    49151
 wwxn    伦    22959
 wwyc    伶    27947
@@ -23626,7 +23626,7 @@ xaqn    繱    50646
 xate    㣁    49151
 xato    䌲    49151
 xatp    纄    50646
-xatq    绕    50647
+xatq    绕    50700
 xawi    䌨    49151
 xawk    䌋    49151
 xawo    䌭    49151
@@ -23638,7 +23638,7 @@ xbmh    絀    50646
 xbsk    䋪    49151
 xbxn    㢽    49151
 xcag    弪    50646
-xcag    经    50647
+xcag    经    50700
 xcbh    纾    33530
 xcbh    紓    50646
 xcbk    繘    50646
@@ -23684,7 +23684,7 @@ xdmd    緬    50646
 xdmd    緛    50646
 xdmy    䋶    49151
 xdmy    頃    50646
-xdmy    顷    50647
+xdmy    顷    50700
 xdnn    紌    43821
 xdnt    絾    34337
 xdqq    䋾    49151
@@ -23725,7 +23725,7 @@ xevg    縚    50646
 xewo    鶨    39875
 xexd    縘    50646
 xeyy    級    50646
-xeyy    级    50647
+xeyy    级    50700
 xfag    繊    39040
 xfag    纎    39346
 xfcy    纭    35962
@@ -23745,7 +23745,7 @@ xfim    頴    46065
 xfim    颕    50646
 xfiy    絿    50646
 xfkg    結    50646
-xfkg    结    50647
+xfkg    结    50700
 xfkk    繥    50646
 xfkm    缬    36749
 xfkm    纈    48673
@@ -23880,7 +23880,7 @@ ximk    緔    50646
 xiqn    絖    50646
 xiqn    絩    50646
 xitt    紗    50646
-xitt    纱    50647
+xitt    纱    50700
 xivg    䋝    49151
 xjaf    彃    50646
 xjaf    縪    50646
@@ -23933,7 +23933,7 @@ xkjn    绳    25311
 xkjn    䋲    49151
 xkjq    䥒    49151
 xkjy    謽    50646
-xkjy    强    50647
+xkjy    强    50700
 xkkf    彈    36814
 xkkf    繟    50646
 xkkg    絽    40694
@@ -23983,7 +23983,7 @@ xmnk    緺    50646
 xmqq    䋞    49151
 xmqy    䋄    49151
 xmqy    㢷    49151
-xmqy    纲    50647
+xmqy    纲    50700
 xmum    綱    45546
 xmun    網    50646
 xmwk    綗    50646
@@ -24023,7 +24023,7 @@ xodm    熲    31725
 xodm    颎    38320
 xogw    䌜    49151
 xonn    継    50646
-xonn    继    50647
+xonn    继    50700
 xooy    緂    31336
 xoqh    繗    50646
 xovg    缕    29184
@@ -24032,7 +24032,7 @@ xoxn    粥    23806
 xpdc    綋    47519
 xpdk    縖    50646
 xpfi    綜    50646
-xpfi    综    50647
+xpfi    综    50700
 xpfq    綄    41484
 xpgg    纻    41373
 xpgg    縇    49151
@@ -24084,7 +24084,7 @@ xqwy    䊻    49151
 xqwy    弞    50646
 xqyy    㢩    49151
 xqyy    約    50646
-xqyy    约    50647
+xqyy    约    50700
 xrcy    弧    28422
 xrfh    䋸    49151
 xrhh    䋅    49151
@@ -24093,7 +24093,7 @@ xriy    線    50646
 xriy    絑    50646
 xrlo    䌗    49151
 xrmh    綿    47519
-xrmh    绵    50647
+xrmh    绵    50700
 xrqc    䌆    49151
 xrtf    綼    45546
 xrwy    紩    50646
@@ -24104,7 +24104,7 @@ xsdm    㯋    49151
 xsfg    㢾    49151
 xsfg    緸    50646
 xsfi    縹    50646
-xsfi    缥    50647
+xsfi    缥    50700
 xsgg    綇    35282
 xsgg    絊    50646
 xshg    缃    35638
@@ -24119,7 +24119,7 @@ xsww    䋱    49151
 xsyy    絉    30426
 xtah    绛    29997
 xtah    絳    50646
-xtay    张    50647
+xtay    张    50700
 xtbb    鄊    35742
 xtbn    㢮    49151
 xtbn    絁    50646
@@ -24232,7 +24232,7 @@ xuxe    䋳    49151
 xuxo    鶸    42754
 xuxt    绨    38396
 xuxt    綈    50646
-xuxu    弱    50647
+xuxu    弱    50700
 xvcn    絕    50646
 xvey    縁    50646
 xvfg    繣    50646
@@ -24241,7 +24241,7 @@ xvfh    紣    50646
 xvfj    彇    50646
 xvfj    繡    50646
 xviy    緑    33777
-xviy    绿    50647
+xviy    绿    50700
 xvjs    缫    36096
 xvjs    繅    50646
 xvkg    绍    23601
@@ -24274,7 +24274,7 @@ xwgj    緰    47519
 xwgj    繪    50646
 xwgk    㢵    49151
 xwgk    給    50646
-xwgk    给    50647
+xwgk    给    50700
 xwgq    缏    50646
 xwgq    緶    50646
 xwgw    䌞    49151
@@ -24425,7 +24425,7 @@ yaah    诫    31595
 yaah    誡    38679
 yaas    䜓    49151
 yaat    諓    38993
-yaci    度    50647
+yaci    度    50700
 yacj    剫    38513
 yadk    诺    21715
 yadk    諾    36028
@@ -24505,7 +24505,7 @@ ybgn    廳    31652
 ybgn    㝄    49151
 ybhc    詜    50646
 ybkf    嚲    39240
-ybmc    离    50647
+ybmc    离    50700
 ybmh    诎    34022
 ybmh    詘    48673
 ybmy    離    44392
@@ -24547,7 +24547,7 @@ yckg    诒    31980
 yckg    詒    45107
 yclq    夣    50646
 ycqb    㐬    49151
-ycqb    充    50647
+ycqb    充    50700
 yctd    诶    34649
 yctd    誒    46065
 ycwt    誜    46065
@@ -24735,7 +24735,7 @@ yhxn    訿    50646
 yhxv    庛    42265
 yidg    鹫    29862
 yidh    蹵    42754
-yidn    就    50647
+yidn    就    50700
 yido    鷲    40008
 yieg    诮    34132
 yieg    誚    47519
@@ -24860,7 +24860,7 @@ ylwj    䛺    49151
 ylwt    谡    33165
 ylwt    謖    50646
 ylwy    畒    31022
-ylyi    为    50647
+ylyi    为    50700
 ymae    譨    48673
 ymbh    邟    43135
 ymcy    设    20260
@@ -24884,7 +24884,7 @@ ymkc    毃    29306
 ymkc    䯩    49151
 ymkd    䯨    49151
 ymkf    㙜    49151
-ymkf    高    50647
+ymkf    高    50700
 ymkg    诇    39089
 ymkg    詗    47519
 ymkg    䛇    49151
@@ -25090,7 +25090,7 @@ ynyv    房    28928
 ynyy    訳    50646
 yoaj    弈    28270
 yobf    孪    32129
-yocu    变    50647
+yocu    变    50700
 yodu    奕    25788
 yogf    譵    48673
 yoju    蛮    21381
@@ -25226,7 +25226,7 @@ yrxc    廏    48673
 yrxq    廐    32728
 yryt    譤    50646
 yryy    訴    50646
-yryy    诉    50647
+yryy    诉    50700
 ysfg    諲    37968
 ysfi    謤    50646
 ysgd    㡷    49151
@@ -25401,7 +25401,7 @@ yujk    㢓    49151
 yujn    譩    48673
 yukb    廍    50646
 yukq    説    37346
-yukq    说    50647
+yukq    说    50700
 yulj    譄    50646
 yumd    谪    33586
 yumd    謫    50646
@@ -25447,7 +25447,7 @@ yveb    鄘    43821
 yvee    㣑    49151
 yveh    庸    27245
 yvei    㡾    49151
-yvei    良    50647
+yvei    良    50700
 yveo    鷛    43345
 yveu    裒    34479
 yvey    詪    39875
@@ -25582,7 +25582,7 @@ yxdm    廎    48673
 yxey    䛹    49151
 yxfm    謴    38636
 yxhh    訠    50646
-yxif    率    50647
+yxif    率    50700
 yxip    䢦    49151
 yxit    玅    40965
 yxiu    紊    32907
@@ -25625,7 +25625,7 @@ yyei    庡    50646
 yyff    堃    32671
 yygg    訁    50646
 yygg    註    50646
-yygn    方    50647
+yygn    方    50700
 yygt    广    19451
 yygy    文    17043
 yyhk    䛸    49151
@@ -25663,4 +25663,4 @@ yywf    誶    39040
 yywf    谇    40446
 yyxy    詃    44392
 yyyf    譶    47519
-yyyy    言    50647
+yyyy    言    50700
