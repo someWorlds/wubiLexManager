@@ -181,7 +181,7 @@ class wubiLexManager:
 
     def read_words_pi(self):
         words_pi = []
-        if self.withPi:
+        if not self.withPi:
             return words_pi
         try:
             with open("./custWubiLex/words_pi.yaml", 'r',
@@ -209,7 +209,7 @@ class wubiLexManager:
 
     def read_syms_pi(self):
         syms_pi = []
-        if self.withPi:
+        if not self.withPi:
             return syms_pi
         try:
             with open("./custWubiLex/syms_pi.yaml", 'r',
@@ -262,6 +262,9 @@ class wubiLexManager:
             'words_2keySim', 'words_3keySim', 'words_4keyFull', 'words_pi',
             'syms', 'syms_pi'
         ]
+        if not self.withPi:
+            lexFile.pop(lexFile.index('words_pi'))
+            lexFile.pop(lexFile.index('syms_pi'))
         for fileName in lexFile:
             filePath = './custWubiLex/' + fileName + '.yaml'
             intro = []
@@ -446,7 +449,7 @@ class wubiLexManager:
             for i in range(len(temp)):
                 if temp[i]:
                     custScheme.extend(temp[i])
-            custScheme.sort(key=lambda x: int(x[2]))
+            custScheme = self.sortLex_by_Freq_and_code(custScheme)
             for i in range(len(custScheme)):
                 file.write(custScheme[i][0] + '\t' + custScheme[i][1] + '\n')
         if self.withPi:

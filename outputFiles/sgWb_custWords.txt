@@ -40805,7 +40805,6 @@ sbgm	椰枣
 sbif	橘子汁
 sbim	椰油
 sblk	椭圆
-sbmf	李冉
 sbpl	禁卫军
 sbps	李宁
 sbqu	李锐
@@ -57591,7 +57590,6 @@ yiyy	应该
 yjbc	齐聚
 yjbg	齐耳
 yjcb	刘邓
-yjcq	刘欢
 yjdh	裹在
 yjdj	离题万里
 yjdt	刘邦
