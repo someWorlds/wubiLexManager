@@ -159,11 +159,10 @@ if __name__ == "__main__":
 
     # find_repFreq()
 
-    # wubi = wubiLexManager.wubiLexManager(True)
-    # wubi.freqInc()
-    # wubi.update_custLex()
-    # wubi.write_lexFile()
-    # wubi.generate_outputFiles()
+    wubi = wubiLexManager.wubiLexManager(True)
+    wubi.process_input()
+    wubi = wubiLexManager.wubiLexManager(False)
+    wubi.generate_outputFiles()
 
     endTime = time.time()
     print('{}'.format(endTime))

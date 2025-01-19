@@ -7,16 +7,38 @@
 > ![五笔字根表](./images/wubiRadicals_86_加入繁体字根_易读版.jpg)
 
 ## 功能
-- 添加新编码
-- 删除现有编码
-- 修改编码候选排序
-- 导出码表文件（后缀withPi，表示含个人信息词汇的文件版本）
-    - 导入PC搜狗拼音自定义短语格式（custPhrases_sogouPy.txt，custPhrases_sogouPy_withPi.txt）
+1. 编辑现有码表
+    - 添加新编码
+        - 含私人信息的敏感词汇或短语，需单独手动在words_pi.yaml与syms_pi.yaml两个文件中添加。
+    - 删除现有编码
+    - 修改编码候选排序
+
+命令行输入格式：
+``` cmd
+字词格式 :[一-鿿㐀-䶿〇]+   [0-9]?    (?<=[1-9]?[ \t]+)[1-4]?
+短语格式 :   [\S]+         [0-9]?            [a-z]+
+            [\S]+         [a-z]+            [0-9]?
+[一-鿿㐀-䶿〇]+ : 字词的汉字范围cjkv: bsc + a + cmp。
+[0-9]? : 指定候选排序0-9, 0表示删除, 1-8表示位次, 9表示后置。
+(?<=[1-9]?[ \t]+)[1-4]? : 指定码数1-4, 指定前必须先指定排序, 省略表示4码。
+[\S]+ : 短语不含空字符。
+[a-z]+ : 指定编码, 不可省略, 省略时按字词处理。
+示例 :  五笔      1
+        输入法
+        好        1   2
+        问题      2   2
+        五笔nice  1   n
+        五笔good  g
+```
+
+
+2. 导出码表文件
+    - 导入PC搜狗拼音自定义短语格式
     - 导入Android搜狗五笔格式
-        - 导入自定义五笔码表（custScheme_mobileSogou.txt，custScheme_mobileSogou_withPi.txt）
-        - 导入常用语（custPhrases_mobileSogou.csv，custPhrases_mobileSogou_withPi.csv）
+        - 导入自定义五笔码表
+        - 导入常用语
     - 导入PC搜狗五笔格式
-        - 导入自定义码表（custChars_sogouWb.txt）
-        - 导入用户词汇（custWords_sogouWb.txt，custWords_sogouWb_withPi.txt）
-        - 导入自定义短语（custPhrases_sogouWb.txt，custPhrases_sogouWb_withPi.txt）
-- 个人信息词汇与短语，可分别在custWubiLex\syms_pi.yaml与custWubiLex\words_pi.yaml两个文件中添加。
+        - 导入自定义码表
+        - 导入用户词汇
+        - 导入自定义短语
+    > 含后缀withPi的文件，表示含个人信息词汇的文件版本。

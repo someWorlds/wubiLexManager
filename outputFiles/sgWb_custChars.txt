@@ -33243,6 +33243,7 @@ ymwy	䜅
 ymwy	訥
 ymyy	訉
 yn	记
+yn	词
 ynah	䁉
 ynah	肈
 ynai	䋯
@@ -33281,8 +33282,8 @@ ynfh	訊
 ynfj	廜
 ynfm	䛝
 yng	诩
-yng	詡
 yng	词
+yng	詡
 yngk	词
 yngk	詞
 ynh	盲
