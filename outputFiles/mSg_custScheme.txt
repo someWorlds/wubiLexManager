@@ -783,6 +783,7 @@ aegr	其貌不扬
 aegy	䔕
 aehi	散步
 aehk	菜点
+aehk	散点
 aeih	黄脸婆
 aeii	散水
 aeij	散漫
@@ -1588,6 +1589,7 @@ ahkv	媐
 ahlg	卧车
 ahln	雅思
 ahlo	蓾
+ahlt	散点图
 ahlv	卧轨
 ahma	雅典
 ahmf	牙雕
@@ -4137,6 +4139,7 @@ avye	袃
 avyh	䔼
 avyn	切记
 avyn	荵
+avyo	切迹
 avyo	切变
 avys	荨麻
 avyu	芄
@@ -27998,6 +28001,7 @@ iexu	削弱
 iexx	满腹经纶
 iey	汲
 iey	涿
+ieyg	常用语
 ieyn	浮词
 ieyr	淫亵
 ieys	淫靡
@@ -40508,8 +40512,9 @@ lkym	架设
 lkyn	贺词
 lkyq	圆底
 lkyt	回话
-lkyt	加州
 lkyt	回放
+lkyt	回旋
+lkyt	加州
 lkyw	因噎废食
 lkyy	回访
 lkyy	回文
@@ -55365,6 +55370,7 @@ qnhh	饭卡
 qnhh	鍏
 qnhh	䤛
 qnhj	饭桌
+qnhk	饭点
 qnhn	鈻
 qnhq	饱餐
 qnhw	锯齿
@@ -59807,7 +59813,7 @@ rh	年
 rha	掳
 rha	摅
 rhaa	㩬
-rhab	年节
+rhab	披萨
 rhad	年期
 rhad	㩵
 rhae	據
@@ -60062,6 +60068,7 @@ rhwt	卸任
 rhwt	看作
 rhww	年份
 rhwx	年华
+rhwx	年货
 rhwx	卸货
 rhwy	看住
 rhx	皉
@@ -64147,6 +64154,7 @@ sapk	㯴
 saps	㮠
 sapt	横额
 sapw	横穿
+sapw	横突
 sapy	横祸
 saq	枢
 saq	柩
@@ -68601,6 +68609,7 @@ tdru	答非所问
 tdrv	各有所好
 tdrw	物有所值
 tdry	乱搞
+tdsg	适配
 tdsg	甜酸
 tdsh	乱想
 tdsj	稽查
@@ -70293,6 +70302,7 @@ thkf	笘
 thkg	牌号
 thkg	秥
 thkh	自足
+thkh	箭步蹲
 thkk	臭骂
 thkl	鼻咽
 thkq	自吹
@@ -75022,6 +75032,7 @@ uern	前所
 uerq	亲爱的
 ueru	剪接
 uesf	剪枝
+uesr	半月板
 uesy	前述
 uetc	剪径
 uetd	剪短
@@ -77939,6 +77950,7 @@ uuqv	㾳
 uuqy	单门独户
 uurb	交头接耳
 uurg	阅兵
+uurn	立握
 uurn	阐扬
 uurq	关门打狗
 uurr	立誓
@@ -91935,6 +91947,7 @@ yohk	恋战
 yoid	高精尖
 yoif	变法
 yoih	变小
+yoiw	弯举
 yoiw	谈兴
 yoj	蛮
 yoje	变暖

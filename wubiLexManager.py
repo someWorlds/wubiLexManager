@@ -493,10 +493,10 @@ class wubiLexManager:
         self.output_files_sogouWb()
 
     def read_multi_line_input(self):
-        print("""请输入多行词条: 
+        print("""请输入多行词条:
 示例: >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 五笔      2
-输入法    
+输入法
 没        1   2
 问题      2   2
 五笔nice  1   n
