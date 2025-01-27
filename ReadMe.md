@@ -67,13 +67,18 @@ rem  删除，指定编码“wbn”，短语“五笔词库管理器nice”
 
 
 ### 导出挂接文件
-挂接文件位于`./outputFiles`，可直接导入对应输入法软件使用。
-- 导入PC搜狗拼音自定义短语格式 (sgPy)
-- 导入Android搜狗五笔格式 (mSg)
-    - 导入自定义五笔码表
-    - 导入常用语
-- 导入PC搜狗五笔格式 (sgWb)
-    - 导入自定义码表
-    - 导入用户词汇
-    - 导入自定义短语
-> 含后缀`withPi`的文件，表示含私人信息敏感词汇的文件版本。
+挂接文件位于`./outputFiles`，可直接导入相应输入法软件使用。
+
+- 搜狗拼音输入法
+
+    将`sgPy_custPhrases.txt`导入自定义短语。
+
+- 手机搜狗输入法
+    
+    将`mSg_custScheme.txt`导入自定义五笔方案，将`mSg_custPhrases.csv`导入常用语。
+
+- 搜狗五笔输入法
+
+    将`sgWb_custChars.txt`导入自定义五笔方案，将`sgWb_custWords.txt`导入用户词汇，将`sgWb_custPhrases.txt`导入自定义短语。
+
+> 含后缀`_withPi`的文件为包含私人信息等敏感词汇的文件版本。
