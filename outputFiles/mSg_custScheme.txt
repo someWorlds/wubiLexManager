@@ -41208,6 +41208,7 @@ ltht	略知皮毛
 lthw	略具
 lthy	䡻
 lti	囷
+lti	输入法
 ltif	输入法
 ltig	四季常青
 ltip	力学

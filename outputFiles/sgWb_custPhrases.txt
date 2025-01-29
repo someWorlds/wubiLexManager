@@ -57,6 +57,7 @@ lambda	Λ
 leq	≤
 lota	ι
 lota	Ι
+lti	输入法
 mu	μ
 mu	Μ
 nab	∇
@@ -67,10 +68,10 @@ nin	∉
 notin	∉
 nu	ν
 nu	Ν
+omeg	ω
+omeg	Ω
 omega	ω
 omega	Ω
-omeg、	ω
-omeg、	Ω
 omic	ο
 omic	Ο
 omicron	ο

@@ -497,16 +497,25 @@ class wubiLexManager:
         except UnicodeDecodeError:
             return False
 
+    def contain_a_z(self, string: str):
+        # 判断是否包含纯英文字母
+        for char in string:
+            if ord(char) in range(ord('a'), ord('z') + 1):
+                return True
+        return False
+
     def output_files_mBd(self):
         # 生成导入手机百度输入法的自定义方案的txt文件
         if self.withPi:
             filePath = './outputFiles/mBd_custScheme_withPi.def'
         else:
             filePath = './outputFiles/mBd_custScheme.def'
+        self.custWubiLex.sort(key=lambda x: int(x[2]))
         with open(filePath, 'w', encoding='gbk') as file:
             for term in self.custWubiLex:
                 try:
-                    file.write(term[1] + '\t' + term[0] + '\n')
+                    if not self.contain_a_z(term[1]):
+                        file.write(term[1] + term[0] + '\n')
                 except BaseException:
                     continue
 
@@ -634,7 +643,7 @@ class wubiLexManager:
     def is_a_z(self, string: str):
         # 判断是否是纯英文小写字母字符串
         for char in string:
-            if not char.islower():
+            if ord(char) not in range(ord('a'), ord('z') + 1):
                 return False
         return True
 
