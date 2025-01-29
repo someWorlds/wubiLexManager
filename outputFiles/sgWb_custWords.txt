@@ -548,6 +548,7 @@ afag	若无其事
 afah	贰臣
 afaj	甘草
 afal	甘薯
+afam	蒜黄
 afap	芙蓉
 afar	鞋匠
 afat	蔷薇
@@ -829,6 +830,7 @@ ahrf	牙质
 ahrn	邪气
 ahrw	卧推
 ahry	熙攘
+ahsg	卧槽
 ahsh	雅相
 ahsj	卧榻
 ahsk	雅歌
@@ -11823,6 +11825,7 @@ fnyu	真心诚意
 fnyw	卖座
 fnyy	专访
 fnyy	卖方
+foam	赤黄
 fobb	赤子
 fobo	去粗取精
 fobr	趋炎附势
@@ -16789,6 +16792,7 @@ habk	虚职
 haca	虎劲
 hact	虚骄
 hacy	瞒骗
+hadc	虎码
 hadd	虚套
 hadf	虚夸
 hadg	虎威
@@ -24815,6 +24819,7 @@ ktfn	呼声
 ktfn	响声
 ktfu	吹毛求疵
 ktga	吃得开
+ktgc	吃到
 ktgc	听得到
 ktgh	吃下
 ktgt	哭笑不得
@@ -28087,6 +28092,7 @@ mtdj	几百
 mtdm	账面
 mtdn	几万
 mtdy	贻笑大方
+mtee	几月
 mtff	账款
 mtfg	几十
 mtfg	败坏
@@ -38977,6 +38983,7 @@ rqkm	推销员
 rqld	抵罪
 rqlf	抱团
 rqlg	换车
+rqli	搜狗输入法
 rqlk	挽回
 rqlt	魅力
 rqmf	气急败坏
@@ -52012,6 +52019,7 @@ wfqk	佳句
 wfqn	会馆
 wfqq	命运多舛
 wfqr	什锦
+wfqt	会儿
 wfrd	祭拜
 wfre	传授
 wfrg	会后
@@ -58262,6 +58270,7 @@ ynnn	记忆
 ynnt	记性
 ynnt	启发
 ynnt	词性
+ynnu	讯飞
 ynnv	记恨
 ynod	词类
 ynon	妄断

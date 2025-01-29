@@ -20,6 +20,7 @@ degree	°
 delta	δ
 delta	Δ
 dj	非常
+djy	百度
 epsi	ε
 epsi	Ε
 epsilon	ε

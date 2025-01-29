@@ -363,7 +363,7 @@ class wubiLexManager:
                 custWubiLex_phrases)
         return custWubiLex_phrases
 
-    def output_files_sogouPy(self):
+    def output_files_sgPy(self):
         # 生成导入PC搜狗拼音自定义短语的txt文件
         default_statement = """;  搜狗输入法--自定义短语配置文件
 
@@ -435,7 +435,7 @@ class wubiLexManager:
                     file.write(self.custWubiLex[i][0] + ',' + str(num) + '=' +
                                self.custWubiLex[i][1] + '\n')
 
-    def output_files_mobileSogou(self):
+    def output_files_mSg(self):
         # 生成导入手机搜狗输入法的自定义五笔方案的txt文件，以及常用语的csv文件
         if self.withPi:
             filepath = './outputFiles/mSg_custScheme_withPi.txt'
@@ -463,7 +463,7 @@ class wubiLexManager:
             for term in custPhrases:
                 file.write(term[0] + ',' + term[1] + '\n')
 
-    def output_files_sogouWb(self):
+    def output_files_sgWb(self):
         # 生成导入PC搜狗五笔的自定义单字码表的txt文件、用户词库的txt文件、自定义短语的txt文件
         with open('./outputFiles/sgWb_custChars.txt', 'w',
                   encoding='utf-8') as file:
@@ -487,10 +487,34 @@ class wubiLexManager:
             for term in custPhrases:
                 file.write(term[0] + '\t' + term[1] + '\n')
 
+    def is_gbk(self, s):
+        try:
+            # 将字符串编码为字节序列
+            bytes_data = s.encode()
+            # 尝试用 GBK 进行解码
+            bytes_data.decode('gbk')
+            return bytes_data
+        except UnicodeDecodeError:
+            return False
+
+    def output_files_mBd(self):
+        # 生成导入手机百度输入法的自定义方案的txt文件
+        if self.withPi:
+            filePath = './outputFiles/mBd_custScheme_withPi.def'
+        else:
+            filePath = './outputFiles/mBd_custScheme.def'
+        with open(filePath, 'w', encoding='gbk') as file:
+            for term in self.custWubiLex:
+                try:
+                    file.write(term[1] + '\t' + term[0] + '\n')
+                except BaseException:
+                    continue
+
     def generate_outputFiles(self):
-        self.output_files_sogouPy()
-        self.output_files_mobileSogou()
-        self.output_files_sogouWb()
+        self.output_files_sgPy()
+        self.output_files_mSg()
+        self.output_files_sgWb()
+        self.output_files_mBd()
 
     def read_multi_line_input(self):
         print("""请输入多行词条:

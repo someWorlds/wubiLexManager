@@ -81,4 +81,8 @@ rem  删除，指定编码“wbn”，短语“五笔词库管理器nice”
 
     将`sgWb_custChars.txt`导入自定义五笔方案，将`sgWb_custWords.txt`导入用户词汇，将`sgWb_custPhrases.txt`导入自定义短语。
 
+- 手机百度输入法
+
+    将`mBd_custScheme.def`导入自定义方案。
+
 > 含后缀`_withPi`的文件为包含私人信息等敏感词汇的文件版本。

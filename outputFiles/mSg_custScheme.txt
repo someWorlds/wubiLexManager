@@ -903,6 +903,7 @@ afaj	甘草
 afak	鞳
 afak	䩽
 afal	甘薯
+afam	蒜黄
 afam	蕡
 afan	靾
 afao	韉
@@ -1663,6 +1664,7 @@ ahrn	邪气
 ahrt	䕫
 ahrw	卧推
 ahry	熙攘
+ahsg	卧槽
 ahsh	雅相
 ahsj	卧榻
 ahsk	雅歌
@@ -10466,8 +10468,8 @@ dhdl	夏历
 dhdl	豓
 dhdl	豔
 dhdm	破布
-dhdn	慧
 dhdn	丰盛
+dhdn	慧
 dhdo	熭
 dhdr	丰碑
 dhdt	奯
@@ -11094,6 +11096,7 @@ djxk	百强
 djxo	礘
 djxu	百日维新
 djxx	䃂
+djy	百度
 djya	百度
 djya	厚度
 djyb	鹌鹑
@@ -18487,6 +18490,7 @@ fnyy	卖方
 fnyy	㘮
 fo	赤
 foag	䞑
+foam	赤黄
 fob	郝
 fob	赧
 fobb	赤子
@@ -25267,6 +25271,7 @@ haca	虎劲
 hact	虚骄
 hacy	瞒骗
 hada	䁳
+hadc	虎码
 hadd	虚套
 hadf	虚夸
 hadg	虎威
@@ -38419,6 +38424,7 @@ ktfu	吹毛求疵
 ktfv	喢
 ktg	唾
 ktga	吃得开
+ktgc	吃到
 ktgc	听得到
 ktgf	唾
 ktgf	喠
@@ -43763,6 +43769,7 @@ mtdn	几万
 mtdu	㞺
 mtdy	贻笑大方
 mtdy	岆
+mtee	几月
 mtff	账款
 mtff	崻
 mtfg	几十
@@ -61720,6 +61727,7 @@ rqky	攙
 rqld	抵罪
 rqlf	抱团
 rqlg	换车
+rqli	搜狗输入法
 rqlk	挽回
 rqlt	魅力
 rqm	换
@@ -82105,6 +82113,7 @@ wfqo	燢
 wfqq	命运多舛
 wfqq	覺
 wfqr	什锦
+wfqt	会儿
 wfqt	斆
 wfqw	黌
 wfqy	雤
@@ -91693,6 +91702,7 @@ ynnt	记性
 ynnt	启发
 ynnt	词性
 ynnu	忘
+ynnu	讯飞
 ynnv	记恨
 ynnv	戹
 ynnw	譔
