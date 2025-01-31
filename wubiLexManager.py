@@ -504,13 +504,12 @@ class wubiLexManager:
                 return True
         return False
 
-    def output_files_mBd(self):
-        # 生成导入手机百度输入法的自定义方案的txt文件
+    def output_files_mBd_mi(self):
+        # 生成导入手机百度输入法小米版的自定义方案的gbk格式的txt文件
         if self.withPi:
-            filePath = './outputFiles/mBd_custScheme_withPi.def'
+            filePath = './outputFiles/mBd_custScheme_mi_withPi.txt'
         else:
-            filePath = './outputFiles/mBd_custScheme.def'
-        self.custWubiLex.sort(key=lambda x: int(x[2]))
+            filePath = './outputFiles/mBd_custScheme_mi.txt'
         with open(filePath, 'w', encoding='gbk') as file:
             for term in self.custWubiLex:
                 try:
@@ -519,10 +518,32 @@ class wubiLexManager:
                 except BaseException:
                     continue
 
+    def output_files_mBd(self):
+        # 生成导入手机百度输入法的自定义方案的txt文件
+        if self.withPi:
+            filePath = './outputFiles/mBd_custScheme_withPi.txt'
+        else:
+            filePath = './outputFiles/mBd_custScheme.txt'
+        with open(filePath, 'w', encoding='utf-8') as file:
+            line = self.custWubiLex[0][0] + '    ' + self.custWubiLex[0][1]
+            code = self.custWubiLex[0][0]
+            for term in self.custWubiLex[1:len(self.custWubiLex)]:
+                if term[0] == code:
+                    line += '    ' + term[1]
+                else:
+                    line += '\n'
+                    file.write(line)
+                    line = term[0] + '    ' + term[1]
+                    code = term[0]
+            if line[-1] != '\n':
+                line += '\n'
+                file.write(line)
+
     def generate_outputFiles(self):
         self.output_files_sgPy()
         self.output_files_mSg()
         self.output_files_sgWb()
+        self.output_files_mBd_mi()
         self.output_files_mBd()
 
     def read_multi_line_input(self):

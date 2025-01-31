@@ -96,6 +96,7 @@ sigm	Σ
 sigma	σ
 sigma	Σ
 sk	可以
+sk	🉑
 tau	τ
 tau	Τ
 td	知道
@@ -123,5 +124,6 @@ wf	什么
 wy	今天
 xi	ξ
 xi	Ξ
+yi	应该
 zeta	ζ
 zeta	Ζ

@@ -3,6 +3,7 @@
 # encoding: UTF-8
 
 import time
+from fontTools.ttLib import TTFont
 import wubiLexManager
 
 Freq = {
@@ -147,6 +148,32 @@ def find_repFreq():
             if term[2] in Freq.values():
                 file.write(term[0] + '    ' + term[1] + '    ' + term[2] +
                            '\n')
+
+
+def get_unicode_map_from_ttf(font_file):
+    """
+    获取ttf文件中所有字符及其对应的Unicode值
+
+    参数:
+        font_file (str): ttf字体文件路径
+
+    返回:
+        dict: 键为整数形式表示的Unicode码位；值为相应字符
+    """
+    f_obj = TTFont(font_file)
+    cmap = f_obj.getBestCmap()
+
+    # 将键转换成十进制表示法，并构建新的字典结构
+    unicode_map = {ch_unicode: chr(ch_unicode) for ch_unicode in cmap.keys()}
+    return unicode_map
+
+
+def get_unicode_file_form_ttf(filePath_ttf: str):
+    # 从ttf文件中获取所有字符的unicode值，生成txt文件
+    with open('char_unicode.txt', 'w', encoding='utf-8') as file:
+        unicode_mapping = get_unicode_map_from_ttf(filePath_ttf)
+        for codepoint, character in list(unicode_mapping.items())[:]:
+            file.write(f'U+{codepoint:X}' + '    ' + character + '\n')
 
 
 if __name__ == "__main__":

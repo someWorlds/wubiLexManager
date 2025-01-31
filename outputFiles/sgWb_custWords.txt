@@ -543,6 +543,7 @@ afaa	落地式
 afab	劳动节
 afad	甘苦
 afaf	某某
+afaf	蒜薹
 afaf	靺鞨
 afag	若无其事
 afah	贰臣
@@ -7092,6 +7093,7 @@ dmhw	面具
 dmia	布满
 dmib	三岁小孩
 dmid	春风满面
+dmii	碳水
 dmii	耐水
 dmim	耍滑
 dmin	大同小异
@@ -33397,6 +33399,7 @@ pvge	安静
 pvgf	安于
 pvgu	安平
 pvhh	安上
+pvhj	安卓
 pvhj	案桌
 pvhn	安眠
 pvht	安睡

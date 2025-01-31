@@ -893,6 +893,7 @@ afac	韄
 afad	甘苦
 afae	鞴
 afaf	某某
+afaf	蒜薹
 afaf	靺鞨
 afaf	鞾
 afaf	䪇
@@ -11333,6 +11334,7 @@ dmhw	面具
 dmia	布满
 dmib	三岁小孩
 dmid	春风满面
+dmii	碳水
 dmii	耐水
 dmim	耍滑
 dmin	大同小异
@@ -52051,6 +52053,7 @@ pvge	安静
 pvgf	安于
 pvgu	安平
 pvhh	安上
+pvhj	安卓
 pvhj	案桌
 pvhn	安眠
 pvht	安睡
@@ -90485,6 +90488,7 @@ yhyn	谦虚谨慎
 yhyw	让座
 yhyy	讣文
 yi	就
+yi	应该
 yiad	就其
 yiae	望尘莫及
 yiaf	旅游鞋
