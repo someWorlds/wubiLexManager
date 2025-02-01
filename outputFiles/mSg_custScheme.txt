@@ -10889,6 +10889,7 @@ djam	韭黄
 djan	百世
 djav	悲切
 djaw	百花
+djaw	韭花
 djax	感冒药
 djb	厚
 djbb	辈子
@@ -62530,6 +62531,7 @@ rtij	拖沓
 rtip	手掌
 rtir	托派
 rtit	卑劣
+rtit	手洗
 rtiw	挺举
 rtjc	手紧
 rtjf	手里
@@ -78894,6 +78896,7 @@ vbjy	好景
 vbka	好呀
 vbkb	好啊
 vbkc	好吗
+vbkh	好贵
 vbkj	好喝
 vbkr	好听
 vbkt	好吃
