@@ -428,6 +428,7 @@
 期末adgs
 葳adgt
 葴adgt
+藕夹adgu
 荐adh
 茬adh
 葜adh
@@ -730,6 +731,7 @@
 散光aeiq
 散酒aeis
 苚aej
+藤野aejf
 菜叶aekf
 菜品aekk
 莻aekx
@@ -5318,6 +5320,7 @@
 出台bmck
 出马bmcn
 隔岸观火bmco
+阿迪达斯bmda
 随风而去bmdf
 出厂bmdg
 出在bmdh
@@ -8086,6 +8089,7 @@
 駲cyth
 通讯簿cyti
 骗得cytj
+通义千问cytu
 骗税cytu
 叉乘cytu
 骗入cyty
@@ -8588,6 +8592,7 @@
 大屋ddng
 励ddnl
 大局ddnn
+奇奇怪怪ddnn
 碱性ddnt
 厉ddnv
 大惊ddny
@@ -18582,8 +18587,8 @@
 零件fwwr
 零分fwwv
 夫人fwww
-零售fwwy
 零食fwwy
+零售fwwy
 越俎代庖fwwy
 墢fwxc
 鼀fwxf
@@ -21222,8 +21227,8 @@
 逗乐gkqi
 吏gkqi
 整句gkqk
-整饬gkqn
 豆包gkqn
+整饬gkqn
 事儿gkqt
 逼急gkqv
 逗留gkqy
@@ -24843,6 +24848,7 @@
 眨眼hthv
 矏hthy
 睡觉htip
+睡吧htkc
 战利品htkk
 睹物思人htlw
 睡帽htmh
@@ -28627,6 +28633,7 @@
 染色体iqws
 光凭iqwt
 兆位iqwu
+光谷iqww
 小鸟依人iqww
 光华iqwx
 光绪iqxf
@@ -28988,6 +28995,7 @@
 少it
 洚ita
 学徒工itaa
+海苔itac
 活期itad
 海菜itae
 海葬itag
@@ -29290,8 +29298,8 @@
 省委ittv
 洁身自好ittv
 浩繁ittx
-海关itud
 洗头itud
+海关itud
 少壮ituf
 流行病itug
 泘ituh
@@ -30989,6 +30997,7 @@
 暿jfkk
 蟢jfkk
 野史jfkq
+电动车jflg
 电动力学jfli
 旱田jfll
 里边jflp
@@ -33637,6 +33646,7 @@
 嘟噜kfkq
 唉声叹气kfkr
 中规中矩kfkt
+哇哦kfkt
 鄙kfl
 鄙kflb
 喷墨kflf
@@ -35747,6 +35757,7 @@
 哭鼻子ktbb
 呼出ktbm
 吃了ktbn
+咋了ktbn
 中科院ktbp
 吃劲ktca
 呼台ktck
@@ -41038,6 +41049,7 @@
 内测mwim
 内分泌mwin
 肉汤mwin
+肉泥mwin
 内河mwis
 内省mwit
 内里mwjf
@@ -41062,6 +41074,7 @@
 内忧mwnd
 内层mwnf
 内情mwng
+肉蛋mwnh
 巋mwnh
 内壁mwnk
 嵨mwno
@@ -41084,6 +41097,7 @@
 内外mwqh
 内销mwqi
 肉馅mwqn
+肉饼mwqn
 肉包mwqn
 赔偿金mwqq
 肉猪mwqt
@@ -41120,6 +41134,7 @@
 内装mwuf
 内部mwuk
 内疚mwuq
+肉酱mwuq
 内亲mwus
 内阁mwut
 内弟mwux
@@ -44746,6 +44761,7 @@
 糯ofdj
 燸ofdj
 灶膛ofei
+烤肠ofen
 烤干offg
 烓offg
 燒offq
@@ -48347,6 +48363,7 @@
 褲puyl
 实词puyn
 初恋puyo
+衬底puyq
 裗puyq
 实施puyt
 实话puyt
@@ -48393,6 +48410,7 @@
 安歇pvjq
 安顺pvkd
 案号pvkg
+安踏pvkh
 案中pvkh
 安置pvlf
 安国pvlg
@@ -51302,6 +51320,7 @@
 铠qmnn
 鐹qmnp
 负心qmny
+钢炮qmoq
 钠灯qmos
 负数qmov
 铅字qmpb
@@ -51388,6 +51407,7 @@
 馆藏qnad
 包藏qnad
 饭菜qnae
+包菜qnae
 馑qnag
 乌鸦qnah
 鍲qnaj
@@ -56677,6 +56697,7 @@
 罆rmxm
 抽缩rmxp
 制约rmxq
+抽纸rmxq
 投弹rmxu
 投缘rmxx
 缺编rmxy
@@ -57444,6 +57465,7 @@
 抵补rqpu
 掏空rqpw
 鬼神rqpy
+拼多多rqq
 揿rqq
 抱怨rqqb
 欣然rqqd
@@ -58604,6 +58626,7 @@
 拉美ruug
 接站ruuh
 拼音ruuj
+抖音ruuj
 抱头痛哭ruuk
 拉闸ruul
 挂羊头卖狗肉ruum
@@ -59121,6 +59144,7 @@
 失算rwth
 推衍rwti
 失利rwtj
+携程rwtk
 失血rwtl
 推向rwtm
 失身rwtm
@@ -67478,6 +67502,7 @@
 特准truw
 犍trv
 特好trvb
+御姐trve
 犣trvn
 犍trvp
 牣trvy
@@ -68419,8 +68444,8 @@
 繁难txcw
 龜txd
 每套txdd
-第三txdg
 敏感txdg
+第三txdg
 身经百战txdh
 每页txdm
 繁盛txdn
@@ -69888,6 +69913,7 @@
 半空ufpw
 闺怨ufqb
 半角ufqe
+斗鱼ufqg
 北朝鲜ufqg
 闭锁ufqi
 半句ufqk
@@ -70500,6 +70526,7 @@
 音耗ujdi
 单面ujdm
 竟成ujdn
+韵达ujdp
 竟达ujdp
 意愿ujdr
 单帮ujdt
@@ -71686,6 +71713,7 @@
 冲锋枪uqsw
 效uqt
 病急乱投医uqta
+交行uqtf
 交待uqtf
 奖惩uqtg
 净重uqtg
@@ -71961,6 +71989,7 @@
 鹇usq
 新鲜usqg
 鹇usqg
+闲鱼usqg
 闲逸usqk
 美术馆usqn
 闲饭usqn
@@ -73817,6 +73846,7 @@
 那么vftc
 那般vfte
 寻租vfte
+建行vftf
 建造vftf
 姸vftf
 那片vfth
@@ -76941,6 +76971,7 @@
 个别whkl
 修史whkq
 侦听whkr
+修车whlg
 候车whlg
 企图whlt
 侦办whlw
@@ -79629,6 +79660,7 @@
 化身wxtm
 货物wxtr
 货箱wxts
+华科wxtu
 化冻wxua
 化疗wxub
 化装wxuf
@@ -80843,8 +80875,8 @@
 績xgmy
 緉xgmy
 纯情xgng
-纯属xgnt
 线性xgnt
+纯属xgnt
 母性xgnt
 彝xgo
 缙xgo
@@ -83939,6 +83971,7 @@
 主抓ygrr
 主打ygrs
 话不投机ygrs
+主播ygrt
 请托ygrt
 主推ygrw
 主权ygsc
@@ -85747,6 +85780,7 @@
 广寒仙子ypwb
 这段ypwd
 这会ypwf
+亮剑ypwg
 豪侠ypwg
 这个ypwh
 雍容华贵ypwk

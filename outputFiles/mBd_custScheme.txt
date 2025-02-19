@@ -409,6 +409,7 @@ adgo    惹来
 adgq    苦熬
 adgs    期末
 adgt    葳    葴
+adgu    藕夹
 adh    荐    茬    葜
 adha    欺瞒
 adhb    荐
@@ -651,6 +652,7 @@ aeio    七月流火
 aeiq    散光
 aeis    散酒
 aej    苚
+aejf    藤野
 aekf    菜叶
 aekk    菜品
 aekx    莻
@@ -4840,6 +4842,7 @@ bmcf    出对
 bmck    出台
 bmcn    出马
 bmco    隔岸观火
+bmda    阿迪达斯
 bmdf    随风而去
 bmdg    出厂
 bmdh    出在
@@ -7484,7 +7487,7 @@ cyta    参谋长
 cyth    駲
 cyti    通讯簿
 cytj    骗得
-cytu    骗税    叉乘
+cytu    通义千问    骗税    叉乘
 cyty    骗入
 cyug    驻美
 cyut    驻颜
@@ -7937,7 +7940,7 @@ ddne    厖    硥
 ddnf    大尉
 ddng    大屋
 ddnl    励
-ddnn    大局
+ddnn    大局    奇奇怪怪
 ddnt    碱性
 ddnv    厉
 ddny    大惊
@@ -17096,7 +17099,7 @@ fwwq    老爷爷
 fwwr    零件
 fwwv    零分
 fwww    夫人    㱇
-fwwy    零售    零食    越俎代庖
+fwwy    零食    零售    越俎代庖
 fwxc    墢
 fwxf    鼀
 fwxj    规费
@@ -19431,7 +19434,7 @@ gkqe    融解
 gkqg    带鱼
 gkqi    逗乐    吏
 gkqk    整句
-gkqn    整饬    豆包
+gkqn    豆包    整饬
 gkqt    事儿
 gkqv    逼急
 gkqy    逗留
@@ -22854,6 +22857,7 @@ htht    瞅瞅
 hthv    眨眼
 hthy    矏
 htip    睡觉
+htkc    睡吧
 htkg    䀩
 htkk    战利品
 htlw    睹物思人
@@ -26204,7 +26208,7 @@ iqwo    鴵
 iqws    染色体
 iqwt    光凭
 iqwu    兆位
-iqww    小鸟依人
+iqww    光谷    小鸟依人
 iqwx    光华
 iqwy    㳄
 iqxf    光绪
@@ -26531,6 +26535,7 @@ isyy    沭
 it    少
 ita    洚
 itaa    学徒工
+itac    海苔
 itad    活期
 itae    海菜
 itag    海葬
@@ -26768,7 +26773,7 @@ ittt    澓
 ittu    湿乎乎
 ittv    省委    洁身自好
 ittx    浩繁
-itud    海关    洗头
+itud    洗头    海关
 ituf    少壮
 itug    流行病
 ituh    泘
@@ -28266,6 +28271,7 @@ jfkh    旱路
 jfkj    野无遗贤
 jfkk    显示器    暿    蟢
 jfkq    野史
+jflg    电动车
 jfli    电动力学
 jfll    旱田
 jflp    里边
@@ -30688,7 +30694,7 @@ kfkm    哮喘
 kfkp    嘟哝
 kfkq    嘟噜
 kfkr    唉声叹气
-kfkt    中规中矩
+kfkt    中规中矩    哇哦
 kfl    鄙
 kflb    鄙
 kflf    喷墨
@@ -32391,7 +32397,7 @@ ktaw    噬
 ktax    吃药
 ktbb    哭鼻子
 ktbm    呼出
-ktbn    吃了
+ktbn    吃了    咋了
 ktbp    中科院
 ktca    吃劲
 ktck    呼台
@@ -37299,7 +37305,7 @@ mwib    内涵
 mwid    内湖
 mwif    肉汁
 mwim    内测
-mwin    内分泌    肉汤
+mwin    内分泌    肉汤    肉泥
 mwis    内河
 mwit    内省
 mwjf    内里
@@ -37322,7 +37328,7 @@ mwmt    见仁见智    赊账
 mwnd    内忧    䞀
 mwnf    内层
 mwng    内情
-mwnh    巋
+mwnh    肉蛋    巋
 mwnk    内壁
 mwno    嵨
 mwnr    内愧
@@ -37343,7 +37349,7 @@ mwqe    内角
 mwqg    肉铺
 mwqh    内外
 mwqi    内销
-mwqn    肉馅    肉包
+mwqn    肉馅    肉饼    肉包
 mwqq    赔偿金
 mwqt    肉猪
 mwqv    内急
@@ -37378,7 +37384,7 @@ mwuc    肉痛
 mwud    内眷
 mwuf    内装
 mwuk    内部
-mwuq    内疚
+mwuq    内疚    肉酱
 mwus    内亲
 mwut    内阁
 mwux    内弟
@@ -40705,6 +40711,7 @@ ofd    糯
 ofdh    㷯
 ofdj    糯    燸
 ofei    灶膛
+ofen    烤肠
 offg    烤干    烓
 offq    燒
 ofg    灶
@@ -44007,7 +44014,7 @@ puyk    初衷
 puyl    裤    实为    䙒    褲
 puyn    实词
 puyo    初恋
-puyq    裗    䘪
+puyq    衬底    裗    䘪
 puyt    实施    实话
 puyu    实说
 puyw    初诊
@@ -44052,7 +44059,7 @@ pvjl    安曼
 pvjq    安歇
 pvkd    安顺
 pvkg    案号
-pvkh    案中
+pvkh    安踏    案中
 pvlf    安置    䀂
 pvlg    安国
 pvmh    案由
@@ -46525,6 +46532,7 @@ qmnk    鍋
 qmnn    铠
 qmnp    鐹
 qmny    负心
+qmoq    钢炮
 qmos    钠灯
 qmov    负数
 qmpb    铅字
@@ -46597,7 +46605,7 @@ qn    包
 qna    饶    馍    馓    馑
 qnaa    包工
 qnad    馍    馆藏    包藏
-qnae    饭菜
+qnae    饭菜    包菜
 qnag    馑
 qnah    乌鸦
 qnaj    鍲
@@ -51053,7 +51061,7 @@ rmxi    抽纱
 rmxl    投缳
 rmxm    罆
 rmxp    抽缩
-rmxq    制约
+rmxq    制约    抽纸
 rmxu    投弹
 rmxx    投缘
 rmxy    缺编
@@ -51708,7 +51716,7 @@ rqpr    掎角之势
 rqpu    抵补
 rqpw    掏空
 rqpy    鬼神
-rqq    揿
+rqq    拼多多    揿
 rqqb    抱怨
 rqqd    欣然
 rqqe    抵触
@@ -52695,7 +52703,7 @@ ruud    接着    接送    拼凑
 ruuf    拼装
 ruug    拉美
 ruuh    接站
-ruuj    拼音
+ruuj    拼音    抖音
 ruuk    抱头痛哭
 ruul    拉闸
 ruum    挂羊头卖狗肉
@@ -53123,6 +53131,7 @@ rwtg    失策    失重
 rwth    推算    失算
 rwti    推衍
 rwtj    失利
+rwtk    携程
 rwtl    失血
 rwtm    推向    失身
 rwtn    损人利己
@@ -60351,6 +60360,7 @@ trut    特产    物产    犪    特首    犧    犠
 truw    特准
 trv    犍
 trvb    特好
+trve    御姐
 trvn    犣    㸾
 trvp    犍
 trvy    牣
@@ -61209,7 +61219,7 @@ txbw    入乡随俗
 txcw    繁难
 txd    龜
 txdd    每套
-txdg    第三    敏感
+txdg    敏感    第三
 txdh    身经百战
 txdm    每页
 txdn    繁盛
@@ -62473,7 +62483,7 @@ ufpu    壮实
 ufpw    凌空    半空
 ufqb    闺怨
 ufqe    半角
-ufqg    北朝鲜
+ufqg    斗鱼    北朝鲜
 ufqi    闭锁
 ufqk    半句
 ufqn    装饰
@@ -63028,7 +63038,7 @@ ujdh    意在
 ujdi    音耗
 ujdm    单面
 ujdn    竟成
-ujdp    竟达
+ujdp    韵达    竟达
 ujdr    意愿
 ujdt    单帮
 ujdw    并日而食
@@ -64093,7 +64103,7 @@ uqsv    将要    次要
 uqsw    冲锋枪
 uqt    效
 uqta    病急乱投医
-uqtf    交待
+uqtf    交行    交待
 uqtg    奖惩    净重    㾠
 uqth    盗版    奖牌
 uqti    弊多利少
@@ -64319,7 +64329,7 @@ uspv    新安
 uspw    尊容
 uspy    新禧
 usq    鹇
-usqg    新鲜    鹇
+usqg    新鲜    鹇    闲鱼
 usqk    闲逸
 usqn    美术馆    闲饭
 usqt    闲逛
@@ -66033,7 +66043,7 @@ vft    姥
 vfta    建筑
 vftc    那么
 vfte    那般    寻租
-vftf    建造    姸
+vftf    建行    建造    姸
 vfth    那片
 vftj    媎
 vftk    那种    媾和
@@ -68830,7 +68840,7 @@ whkj    个唱
 whkl    个别
 whkq    修史
 whkr    侦听
-whlg    候车
+whlg    修车    候车
 whlt    企图
 whlw    侦办
 whm    侦
@@ -71233,6 +71243,7 @@ wxth    儗
 wxtm    货币    倾向    化身
 wxtr    货物
 wxts    货箱
+wxtu    华科
 wxua    化冻
 wxub    化疗
 wxuf    化装
@@ -72240,7 +72251,7 @@ xgmw    䋑
 xgmx    纚
 xgmy    绩    績    緉
 xgng    纯情
-xgnt    纯属    线性    母性
+xgnt    线性    纯属    母性
 xgo    彝    缙
 xgoa    彝    彜
 xgoj    缙    縉
@@ -75016,7 +75027,7 @@ ygrh    请看
 ygrn    证据    语气
 ygrr    主抓
 ygrs    主打    话不投机
-ygrt    请托
+ygrt    主播    请托
 ygrw    主推
 ygsc    主权
 ygsg    记事本
@@ -76537,7 +76548,7 @@ ypvv    良家妇女
 ypwb    广寒仙子
 ypwd    这段
 ypwf    这会
-ypwg    豪侠
+ypwg    亮剑    豪侠
 ypwh    这个
 ypwk    雍容华贵
 ypwo    这伙

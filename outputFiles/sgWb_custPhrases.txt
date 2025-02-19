@@ -91,6 +91,7 @@ qq	多多
 rho	ρ
 rho	Ρ
 rn	所以
+rqq	拼多多
 sigm	σ
 sigm	Σ
 sigma	σ
