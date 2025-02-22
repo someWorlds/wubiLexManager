@@ -5240,6 +5240,7 @@ eldy	胭
 elf	盁
 elf	䀃
 elff	䐾
+elg	腘
 elge	腲
 elgy	腘
 elh	胛
@@ -10705,6 +10706,7 @@ itxu	海
 ity	汷
 ity	㳊
 iu	洋
+iu	滚
 iuah	洴
 iuaj	渆
 iuau	㳤
@@ -13574,6 +13576,7 @@ kswt	嘜
 ksww	唻
 ksy	㕲
 kt	呼
+kt	吃
 kta	噬
 kta	吒
 ktah	呏
@@ -14968,8 +14971,8 @@ mepq	䯘
 mepw	髌
 mepy	髖
 mepy	髉
-meq	鹘
 meq	骶
+meq	鹘
 meqg	鹘
 meqn	骲
 meqw	䯉
@@ -15398,8 +15401,8 @@ mmfk	賙
 mmfk	赒
 mmfk	㟘
 mmg	岫
-mmg	删
 mmg	凹
+mmg	删
 mmg	兕
 mmg	峒
 mmgd	凹
@@ -27894,6 +27897,7 @@ uiw	瘠
 uiwe	瘠
 uiy	冰
 uj	间
+uj	单
 ujac	頀
 ujad	韺
 ujaf	㓖
@@ -27986,6 +27990,7 @@ ujwo	鶕
 ujwo	鷼
 ujyi	閺
 uk	部
+uk	问
 ukb	部
 ukbh	部
 ukd	问
@@ -29867,6 +29872,7 @@ wcy	仅
 wcy	仏
 wcy	傌
 wd	估
+wd	做
 wda	佐
 wdag	佐
 wdbn	伌
@@ -30157,8 +30163,8 @@ wgji	倲
 wgjn	僡
 wgjq	便
 wgk	合
-wgk	命
 wgk	使
+wgk	命
 wgk	拿
 wgk	登
 wgk	盒
@@ -30899,6 +30905,7 @@ wswo	鵂
 wsww	倈
 wsy	休
 wt	作
+wt	傻
 wta	伥
 wtah	佭
 wtah	㐼

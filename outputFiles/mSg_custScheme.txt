@@ -1796,6 +1796,7 @@ aiga	䓑
 aigc	落到
 aige	蔳
 aigf	薄
+aigg	东一
 aigg	藩王
 aigh	萍
 aigh	落下
@@ -14175,6 +14176,7 @@ elf	䀃
 elff	䐾
 elfg	爵士
 elft	爱国者
+elg	腘
 elge	腲
 elgu	腮颊
 elgy	腘
@@ -16224,6 +16226,7 @@ feyy	㙇
 feyy	圾
 ff	寺
 ffaa	款式
+ffaa	零零散散
 ffad	款项
 ffad	土匪
 ffae	壩
@@ -19670,6 +19673,7 @@ fuec	增盈
 fued	壠
 fued	靇
 fuej	丧胆
+fuem	增肌
 fueu	丧
 fuf	幸
 fuf	雴
@@ -21361,6 +21365,7 @@ gfpk	天壤之别
 gfpk	迂
 gfpl	正规军
 gfpp	王夫之
+gfpw	球窝
 gfpw	一场空
 gfpy	不刊之论
 gfq	玩
@@ -22063,6 +22068,7 @@ ghvr	一瞬即逝
 ghvu	整旧如新
 ghwf	正传
 ghwf	正值
+ghwg	下颌
 ghwg	一步登天
 ghwh	政企
 ghwm	下侧
@@ -23267,6 +23273,7 @@ gmpt	刺客
 gmpu	现实
 gmpv	瑞安
 gmpw	刺穿
+gmpw	棘突
 gmq	现
 gmqf	刺针
 gmqg	现钱
@@ -26446,6 +26453,7 @@ hlii	卤水
 hlkf	卤味
 hlkf	㔽
 hllq	卤鸭
+hlmw	卤肉
 hlmy	䁲
 hln	卣
 hlnf	卣
@@ -31556,6 +31564,7 @@ ityu	少说
 ityw	省府
 ityy	活该
 iu	洋
+iu	滚
 iuaa	洋式
 iuag	洋芋
 iuah	洴
@@ -36126,8 +36135,8 @@ kfkm	哮喘
 kfkp	嘟哝
 kfkq	嘟噜
 kfkr	唉声叹气
-kfkt	中规中矩
 kfkt	哇哦
+kfkt	中规中矩
 kfl	鄙
 kflb	鄙
 kflf	喷墨
@@ -38388,6 +38397,7 @@ kswy	呆住
 ksy	㕲
 ksyy	中西方
 kt	呼
+kt	吃
 kta	噬
 kta	吒
 ktab	中秋节
@@ -40902,6 +40912,7 @@ lpxc	连缀
 lpxf	连续
 lpxf	连贯
 lpxf	边疆
+lpxf	连结
 lpxg	连线
 lpxm	图穷匕见
 lpxn	䡐
@@ -42176,8 +42187,8 @@ mepq	䯘
 mepw	髌
 mepy	髖
 mepy	髉
-meq	鹘
 meq	骶
+meq	鹘
 meqf	骨针
 meqg	鹘
 meqn	骲
@@ -43071,8 +43082,8 @@ mmfq	山坞
 mmfu	见财起意
 mmfx	山坳
 mmg	岫
-mmg	删
 mmg	凹
+mmg	删
 mmg	兕
 mmg	峒
 mmga	鹦鹉
@@ -50298,6 +50309,7 @@ pfty	完稿
 pfu	守
 pfuc	完竣
 pfud	完善
+pfud	冠状
 pfue	赛前
 pfug	完美
 pfug	冠盖
@@ -50836,6 +50848,7 @@ plsc	军权
 plsk	军歌
 plsm	军机
 plsu	军校
+plsw	寰椎
 plta	军长
 pltd	军籍
 plte	军舰
@@ -62990,6 +63003,7 @@ ruuf	拼装
 ruug	拉美
 ruuh	接站
 ruuj	拼音
+ruuj	接单
 ruuj	抖音
 ruuk	抱头痛哭
 ruul	拉闸
@@ -64220,6 +64234,7 @@ sasm	枢机
 sasr	模板
 sasu	模样
 sasv	枢要
+sasw	枢椎
 sasx	橙黄橘绿
 sat	桡
 sata	西藏自治区
@@ -65077,6 +65092,7 @@ sgdn	酿成
 sgdn	醃
 sgdn	㮇
 sgdq	丁克
+sgdq	酸爽
 sgdr	本原
 sgdr	䤏
 sgds	西厢
@@ -65215,8 +65231,8 @@ sgji	棟
 sgji	䤖
 sgjj	西昌
 sgjl	醖
-sgjn	配电
 sgjn	西电
+sgjn	配电
 sgjn	橞
 sgjo	樮
 sgjq	梗
@@ -65405,8 +65421,8 @@ sgtd	䣶
 sgtf	酢
 sgtf	酿造
 sgtf	本行
-sgtg	配重
 sgtg	本征
+sgtg	配重
 sgth	本息
 sgtj	丁香
 sgtj	本利
@@ -67305,6 +67321,7 @@ susy	榇
 susy	㯗
 suta	校长
 sutd	槉
+sute	椎间盘
 sute	楌
 sutg	㯆
 suth	样片
@@ -68699,6 +68716,7 @@ tdu	辞
 tduc	乱闯
 tdud	舌头
 tdud	甜头
+tdud	矢状
 tduf	乔装
 tdug	甜美
 tduh	辞
@@ -71542,6 +71560,7 @@ tmgt	徴
 tmgt	徵
 tmgt	黴
 tmgt	㣲
+tmgu	躺平
 tmgu	䅱
 tmh	币
 tmh	秈
@@ -74512,6 +74531,7 @@ udet	羏
 udeu	豢
 udev	羊腿
 udew	头脸
+udex	减脂
 udex	羊脂
 udey	头脑
 udfa	善哉
@@ -75906,6 +75926,7 @@ uiyi	交浅言深
 uiys	冰床
 uiyt	资深望重
 uj	间
+uj	单
 ujaa	童工
 ujab	章节
 ujab	音节
@@ -76218,6 +76239,7 @@ ujyy	单方
 ujyy	韵文
 uk	部
 uk	问题
+uk	问
 ukaa	总工
 ukad	问其
 ukae	冲散
@@ -79329,6 +79351,7 @@ veyt	退庭
 veyy	㚫
 vf	寻
 vf	那
+vf	那么
 vfaa	建工
 vfac	彟
 vfah	奸臣
@@ -79483,6 +79506,7 @@ vfst	妙趣横生
 vfsu	那样
 vfsv	忍无可忍
 vft	姥
+vft	那么
 vfta	建筑
 vftc	那么
 vfte	那般
@@ -81612,6 +81636,7 @@ wcyw	公论
 wcyx	公畜
 wcyy	公文
 wd	估
+wd	做
 wda	佐
 wdaa	做工
 wdae	做菜
@@ -82456,8 +82481,8 @@ wgjy	合影
 wgjy	全景
 wgjy	倒影
 wgk	合
-wgk	命
 wgk	使
+wgk	命
 wgk	拿
 wgk	登
 wgk	盒
@@ -84424,6 +84449,7 @@ wsyx	合格率
 wsyy	体谅
 wsyy	何方
 wt	作
+wt	傻
 wta	伥
 wtaa	八戒
 wtad	任期
@@ -91723,6 +91749,7 @@ ynmp	遍
 ynmp	启迪
 ynmq	望见
 ynmt	记账
+ynmt	肩峰
 ynmw	户内
 ynmy	㼐
 ynn	忘

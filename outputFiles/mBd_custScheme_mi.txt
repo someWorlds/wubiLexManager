@@ -1596,6 +1596,7 @@
 落到aigc
 蔳aige
 薄aigf
+东一aigg
 藩王aigg
 萍aigh
 落下aigh
@@ -13070,6 +13071,7 @@
 盁elf
 爵士elfg
 爱国者elft
+腘elg
 腲elge
 腮颊elgu
 腘elgy
@@ -14974,6 +14976,7 @@
 圾feyy
 寺ff
 款式ffaa
+零零散散ffaa
 款项ffad
 土匪ffad
 壩ffae
@@ -18177,6 +18180,7 @@
 壠fued
 靇fued
 丧胆fuej
+增肌fuem
 丧fueu
 幸fuf
 雴fuf
@@ -19786,6 +19790,7 @@
 迂gfpk
 正规军gfpl
 王夫之gfpp
+球窝gfpw
 一场空gfpw
 不刊之论gfpy
 玩gfq
@@ -20472,6 +20477,7 @@
 整旧如新ghvu
 正传ghwf
 正值ghwf
+下颌ghwg
 一步登天ghwg
 政企ghwh
 下侧ghwm
@@ -21603,6 +21609,7 @@
 现实gmpu
 瑞安gmpv
 刺穿gmpw
+棘突gmpw
 现gmq
 刺针gmqf
 现钱gmqg
@@ -24558,6 +24565,7 @@
 卤水hlii
 卤味hlkf
 卤鸭hllq
+卤肉hlmw
 卣hln
 卣hlnf
 逌hlnp
@@ -29369,6 +29377,7 @@
 省府ityw
 活该ityy
 洋iu
+滚iu
 洋式iuaa
 洋芋iuag
 洴iuah
@@ -33645,8 +33654,8 @@
 嘟哝kfkp
 嘟噜kfkq
 唉声叹气kfkr
-中规中矩kfkt
 哇哦kfkt
+中规中矩kfkt
 鄙kfl
 鄙kflb
 喷墨kflf
@@ -35740,6 +35749,7 @@
 呆住kswy
 中西方ksyy
 呼kt
+吃kt
 噬kta
 吒kta
 中秋节ktab
@@ -38095,6 +38105,7 @@
 连续lpxf
 连贯lpxf
 边疆lpxf
+连结lpxf
 连线lpxg
 图穷匕见lpxm
 连绵lpxr
@@ -39239,8 +39250,8 @@
 髌mepw
 髖mepy
 髉mepy
-鹘meq
 骶meq
+鹘meq
 骨针meqf
 鹘meqg
 骲meqn
@@ -40026,8 +40037,8 @@
 见财起意mmfu
 山坳mmfx
 岫mmg
-删mmg
 凹mmg
+删mmg
 兕mmg
 峒mmg
 鹦鹉mmga
@@ -46747,6 +46758,7 @@
 守pfu
 完竣pfuc
 完善pfud
+冠状pfud
 赛前pfue
 完美pfug
 冠盖pfug
@@ -47269,6 +47281,7 @@
 军歌plsk
 军机plsm
 军校plsu
+寰椎plsw
 军长plta
 军籍pltd
 军舰plte
@@ -58626,6 +58639,7 @@
 拉美ruug
 接站ruuh
 拼音ruuj
+接单ruuj
 抖音ruuj
 抱头痛哭ruuk
 拉闸ruul
@@ -59795,6 +59809,7 @@
 模板sasr
 模样sasu
 枢要sasv
+枢椎sasw
 橙黄橘绿sasx
 桡sat
 西藏自治区sata
@@ -60572,6 +60587,7 @@
 酿成sgdn
 醃sgdn
 丁克sgdq
+酸爽sgdq
 本原sgdr
 西厢sgds
 醎sgdt
@@ -60699,8 +60715,8 @@
 棟sgji
 西昌sgjj
 醖sgjl
-配电sgjn
 西电sgjn
+配电sgjn
 橞sgjn
 樮sgjo
 梗sgjq
@@ -60873,8 +60889,8 @@
 酢sgtf
 酿造sgtf
 本行sgtf
-配重sgtg
 本征sgtg
+配重sgtg
 本息sgth
 丁香sgtj
 本利sgtj
@@ -62660,6 +62676,7 @@
 榇susy
 校长suta
 槉sutd
+椎间盘sute
 楌sute
 样片suth
 櫊sutk
@@ -63925,6 +63942,7 @@
 乱闯tduc
 舌头tdud
 甜头tdud
+矢状tdud
 乔装tduf
 甜美tdug
 辞tduh
@@ -66525,6 +66543,7 @@
 徴tmgt
 徵tmgt
 黴tmgt
+躺平tmgu
 币tmh
 秈tmh
 身上tmhh
@@ -69196,6 +69215,7 @@
 豢udeu
 羊腿udev
 头脸udew
+减脂udex
 羊脂udex
 头脑udey
 善哉udfa
@@ -70489,6 +70509,7 @@
 冰床uiys
 资深望重uiyt
 间uj
+单uj
 童工ujaa
 章节ujab
 音节ujab
@@ -70781,6 +70802,7 @@
 韵文ujyy
 部uk
 问题uk
+问uk
 总工ukaa
 问其ukad
 冲散ukae
@@ -73700,6 +73722,7 @@
 退庭veyt
 寻vf
 那vf
+那么vf
 建工vfaa
 彟vfac
 奸臣vfah
@@ -73842,6 +73865,7 @@
 那样vfsu
 忍无可忍vfsv
 姥vft
+那么vft
 建筑vfta
 那么vftc
 那般vfte
@@ -75791,6 +75815,7 @@
 公畜wcyx
 公文wcyy
 估wd
+做wd
 佐wda
 做工wdaa
 做菜wdae
@@ -76601,8 +76626,8 @@
 全景wgjy
 倒影wgjy
 合wgk
-命wgk
 使wgk
+命wgk
 拿wgk
 登wgk
 盒wgk
@@ -78412,6 +78437,7 @@
 体谅wsyy
 何方wsyy
 作wt
+傻wt
 伥wta
 八戒wtaa
 任期wtad
@@ -85265,6 +85291,7 @@
 启迪ynmp
 望见ynmq
 记账ynmt
+肩峰ynmt
 户内ynmw
 忘ynn
 扇ynn

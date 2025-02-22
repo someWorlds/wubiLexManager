@@ -119,6 +119,8 @@ upsi	Υ
 upsilon	υ
 upsilon	Υ
 vee	∨
+vf	那么
+vft	那么
 wedg	∧
 wedge	∧
 wf	什么

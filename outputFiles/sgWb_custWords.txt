@@ -919,6 +919,7 @@ aifu	蒙混过关
 aify	荒淫无度
 aiga	薄型
 aigc	落到
+aigg	东一
 aigg	藩王
 aigh	落下
 aigi	敬酒不吃吃罚酒
@@ -10286,6 +10287,7 @@ feuy	南腔北调
 fewt	博采众长
 fexe	地县级
 ffaa	款式
+ffaa	零零散散
 ffad	款项
 ffad	土匪
 ffaf	土著
@@ -12663,6 +12665,7 @@ fudx	无疾而终
 fueb	丧服
 fuec	增盈
 fuej	丧胆
+fuem	增肌
 fufa	境域
 fufb	境地
 fufc	幸运
@@ -13870,6 +13873,7 @@ gfpj	不违农时
 gfpk	天壤之别
 gfpl	正规军
 gfpp	王夫之
+gfpw	球窝
 gfpw	一场空
 gfpy	不刊之论
 gfqa	不露锋芒
@@ -14473,6 +14477,7 @@ ghvr	一瞬即逝
 ghvu	整旧如新
 ghwf	正传
 ghwf	正值
+ghwg	下颌
 ghwg	一步登天
 ghwh	政企
 ghwm	下侧
@@ -15362,6 +15367,7 @@ gmpt	刺客
 gmpu	现实
 gmpv	瑞安
 gmpw	刺穿
+gmpw	棘突
 gmqf	刺针
 gmqg	现钱
 gmqi	现钞
@@ -17526,6 +17532,7 @@ hlif	卤汁
 hlii	卤水
 hlkf	卤味
 hllq	卤鸭
+hlmw	卤肉
 hluf	紫罗兰
 hlwx	卤化
 hmab	贞节
@@ -23567,8 +23574,8 @@ kfkm	哮喘
 kfkp	嘟哝
 kfkq	嘟噜
 kfkr	唉声叹气
-kfkt	中规中矩
 kfkt	哇哦
+kfkt	中规中矩
 kflf	喷墨
 kflw	叶轮
 kfmr	贵远贱近
@@ -26454,6 +26461,7 @@ lpxc	连缀
 lpxf	连续
 lpxf	连贯
 lpxf	边疆
+lpxf	连结
 lpxg	连线
 lpxm	图穷匕见
 lpxr	连绵
@@ -32233,6 +32241,7 @@ pftu	寒冬
 pfty	完稿
 pfuc	完竣
 pfud	完善
+pfud	冠状
 pfue	赛前
 pfug	完美
 pfug	冠盖
@@ -32674,6 +32683,7 @@ plsc	军权
 plsk	军歌
 plsm	军机
 plsu	军校
+plsw	寰椎
 plta	军长
 pltd	军籍
 plte	军舰
@@ -39958,6 +39968,7 @@ ruuf	拼装
 ruug	拉美
 ruuh	接站
 ruuj	拼音
+ruuj	接单
 ruuj	抖音
 ruuk	抱头痛哭
 ruul	拉闸
@@ -40807,6 +40818,7 @@ sasm	枢机
 sasr	模板
 sasu	模样
 sasv	枢要
+sasw	枢椎
 sasx	橙黄橘绿
 sata	西藏自治区
 sate	棋盘
@@ -41277,6 +41289,7 @@ sgdj	醇厚
 sgdm	西面
 sgdn	酿成
 sgdq	丁克
+sgdq	酸爽
 sgdr	本原
 sgds	西厢
 sgeb	西服
@@ -41346,8 +41359,8 @@ sgjf	酷暑
 sgjg	酌量
 sgjh	酣畅
 sgjj	西昌
-sgjn	配电
 sgjn	西电
+sgjn	配电
 sgjs	西晒
 sgjv	西归
 sgkf	酸味
@@ -41429,8 +41442,8 @@ sgsw	酥松
 sgtb	本季
 sgtf	酿造
 sgtf	本行
-sgtg	配重
 sgtg	本征
+sgtg	配重
 sgth	本息
 sgtj	丁香
 sgtj	本利
@@ -42540,6 +42553,7 @@ susu	榜样
 susw	机关枪
 susy	校核
 suta	校长
+sute	椎间盘
 suth	样片
 sutl	校务
 sutm	校徽
@@ -43354,6 +43368,7 @@ tdty	短篇
 tduc	乱闯
 tdud	舌头
 tdud	甜头
+tdud	矢状
 tduf	乔装
 tdug	甜美
 tdui	刮痧
@@ -45167,6 +45182,7 @@ tmgo	向来
 tmgq	身残
 tmgr	委内瑞拉
 tmgs	微末
+tmgu	躺平
 tmhh	身上
 tmhh	向上
 tmhi	射频
@@ -47029,6 +47045,7 @@ udes	头彩
 udet	卷腹
 udev	羊腿
 udew	头脸
+udex	减脂
 udex	羊脂
 udey	头脑
 udfa	善哉
@@ -58299,6 +58316,7 @@ ynmm	房山
 ynmp	启迪
 ynmq	望见
 ynmt	记账
+ynmt	肩峰
 ynmw	户内
 ynng	房屋
 ynng	永恒
