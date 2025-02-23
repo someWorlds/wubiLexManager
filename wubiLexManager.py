@@ -1,7 +1,7 @@
 #! c:/Program Files/Python310/python.exe
 # author: someWorlds
 # encoding: UTF-8
-# 词库的汉字的范围：cjkv_bsc + cjkv_a + cjkv_cmp(〇)
+# 词库的汉字的范围：cjkv_bsc + cjkv_a + cjkv_cmp(〇) + 按需添加的个别生僻字(chars_ext)
 
 import time
 
@@ -10,13 +10,12 @@ class wubiLexManager:
 
     def __init__(self, withPi: bool = False):
         self.withPi = withPi  # 默认无私人信息
-        self.msWubiLex = self.read_msWubiLex()
-        self.chars_cjkv = self.read_cjkv()
         self.chars_1keySim = self.read_chars_1keySim()
         self.chars_2keySim = self.read_chars_2keySim()
         self.chars_3keySim = self.read_chars_3keySim()
         self.chars_3keyFull = self.read_chars_3keyFull()
         self.chars_4keyFull = self.read_chars_4keyFull()
+        self.chars_ext = self.read_chars_ext()
         self.words_1keySim = self.read_words_1keySim()
         self.words_2keySim = self.read_words_2keySim()
         self.words_3keySim = self.read_words_3keySim()
@@ -27,20 +26,15 @@ class wubiLexManager:
         self.chars2incFreq_1or2keySim = self.read_chars2incFreq_1or2keySim()
         self.chars2incFreq_3keySim = self.read_chars2incFreq_3keySim()
         self.custWubiLex = self.get_custWubiLex()
+        self.msWubiLex = self.read_msWubiLex()
+        self.chars_cjkv = self.read_cjkv()
 
     inputLines = []
     Freq = {
-        'word_new': '30000',  # 自添加但是ms中没有的词，用该频率
-        'char_inc': '50700',  # 对于一些简码字，将其除最简码外的频率增加到50700档位
+        'words_new': '30000',  # 自添加但是ms中没有的词，用该频率
+        'chars_inc': '50700',  # 对于一些简码字，将其除最简码外的频率增加到50700档位
         'syms': '50800',  # 符号类的自定义短语，将其频率设置到50800档位。一些字词容错码也按短语处理。
-        # 'cjkv_b': '51000',  # cjkv的其它字，频率档位更高，
-        # 'cjkv_c': '52000',  # 目前未添加cjkv_b及以下的字符。
-        # 'cjkv_d': '53000',
-        # 'cjkv_e': '54000',
-        # 'cjkv_f': '55000',
-        # 'cjkv_g': '56000',
-        # 'cjkv_h': '57000',
-        # 'cjkv_i': '58000',
+        'chars_ext': '51000',  # 除cjkv_bsc,a,cmp外，cjkv的其它生僻字
     }
     msFreqMax = '50646'  # 微软五笔词库的最大频率
 
@@ -55,26 +49,21 @@ class wubiLexManager:
         return msWubiLex
 
     def read_cjkv(self):
-        # 字范围：cjkv_bsc + a + cmp
+        fileNames = [
+            'cjkv_bsc', 'cjkv_a', 'cjkv_cmp', 'cjkv_b', 'cjkv_c', 'cjkv_d',
+            'cjkv_e', 'cjkv_f', 'cjkv_g', 'cjkv_h'
+        ]
         chars_cjkv = []
-        with open("./refWubiLex/cjkv_bsc.yaml", 'r', encoding='utf-8') as file:
-            data = file.readlines()
-            for line in data:
-                if line[0] != '#' and line[0] != '\n':
-                    temp = line.split()
-                    chars_cjkv.append([temp[2], temp[1]])
-        with open("./refWubiLex/cjkv_a.yaml", 'r', encoding='utf-8') as file:
-            data = file.readlines()
-            for line in data:
-                if line[0] != '#' and line[0] != '\n':
-                    temp = line.split()
-                    chars_cjkv.append([temp[2], temp[1]])
-        with open("./refWubiLex/cjkv_cmp.yaml", 'r', encoding='utf-8') as file:
-            data = file.readlines()
-            for line in data:
-                if line[0] != '#' and line[0] != '\n':
-                    temp = line.split()
-                    chars_cjkv.append([temp[2], temp[1]])
+        for fileName in fileNames:
+            with open("./refWubiLex/" + fileName + ".yaml",
+                      'r',
+                      encoding='utf-8') as file:
+                data = file.readlines()
+                for line in data:
+                    if line[0] != '#' and line[0] != '\n':
+                        temp = line.split()
+                        if len(temp) >= 3:
+                            chars_cjkv.append([temp[2], temp[1]])
         return chars_cjkv
 
     def read_chars_1keySim(self):
@@ -126,6 +115,16 @@ class wubiLexManager:
                 if line[0] != '#' and line[0] != '\n':
                     chars_4keyFull.append(line.split())
         return chars_4keyFull
+
+    def read_chars_ext(self):
+        chars_ext = []
+        with open("./custWubiLex/chars_ext.yaml", 'r',
+                  encoding='utf-8') as file:
+            data = file.readlines()
+            for line in data:
+                if line[0] != '#' and line[0] != '\n':
+                    chars_ext.append(line.split())
+        return chars_ext
 
     def read_words_1keySim(self):
         words_1keySim = []
@@ -258,7 +257,7 @@ class wubiLexManager:
     def write_lexFile(self):
         lexFile = [
             'chars_1keySim', 'chars_2keySim', 'chars_3keySim',
-            'chars_3keyFull', 'chars_4keyFull', 'words_1keySim',
+            'chars_3keyFull', 'chars_4keyFull', 'chars_ext', 'words_1keySim',
             'words_2keySim', 'words_3keySim', 'words_4keyFull', 'words_pi',
             'syms', 'syms_pi'
         ]
@@ -292,6 +291,7 @@ class wubiLexManager:
         temp.append(self.chars_3keySim)
         temp.append(self.chars_3keyFull)
         temp.append(self.chars_4keyFull)
+        temp.append(self.chars_ext)
         temp.append(self.words_1keySim)
         temp.append(self.words_2keySim)
         temp.append(self.words_3keySim)
@@ -317,6 +317,7 @@ class wubiLexManager:
         temp.append(self.chars_3keySim)
         temp.append(self.chars_3keyFull)
         temp.append(self.chars_4keyFull)
+        temp.append(self.chars_ext)
         custWubiLex_chars = []
         for i in range(len(temp)):
             if temp[i]:
@@ -563,17 +564,34 @@ class wubiLexManager:
                 break
             self.inputLines.append(line.split())
 
-    def is_cjkv(self, inputString: str):
-        # 判断范围限于cjkv_bsc + cjkv_a + cjkv_cmp(〇)范围
+    def is_cjkv(self, inputString: str, charRange: str = 'bsc'):
+        # 判断范围'bsc': cjkv_bsc + cjkv_a + cjkv_cmp(〇)
+        # 'ext': 除上述范围外的cjkv字符
+        # 'full': 全部cjkv字符
         for char in inputString:
-            if ord(char) >= ord('㐀') and ord(char) <= ord('䶿'):
-                continue
-            elif ord(char) >= ord('一') and ord(char) <= ord('鿿'):
-                continue
-            elif ord(char) == ord('〇'):
-                continue
-            else:
-                return False
+            if charRange == 'bsc' or charRange == 'full':
+                if ord(char) >= ord('㐀') and ord(char) <= ord('䶿'):
+                    continue
+                elif ord(char) >= ord('一') and ord(char) <= ord('鿿'):
+                    continue
+                elif ord(char) == ord('〇'):
+                    continue
+            if charRange == 'ext' or charRange == 'full':
+                if ord(char) >= ord('𠀀') and ord(char) <= ord('𪛟'):
+                    continue
+                elif ord(char) >= ord('𪜀') and ord(char) <= ord('𫜹'):
+                    continue
+                elif ord(char) >= ord('𫝀') and ord(char) <= ord('𫠝'):
+                    continue
+                elif ord(char) >= ord('𫠠') and ord(char) <= ord('𬺡'):
+                    continue
+                elif ord(char) >= ord('𬺰') and ord(char) <= ord('𮯠'):
+                    continue
+                elif ord(char) >= ord('𰀀') and ord(char) <= ord('𱍊'):
+                    continue
+                elif ord(char) >= ord('𱍐') and ord(char) <= ord('𲎯'):
+                    continue
+            return False
         return True
 
     def find_in_lex(self,
@@ -688,7 +706,10 @@ class wubiLexManager:
     def judge_termType(self, term_src: list):
         # term_src = [code, string, ...]
         termType = []
-        if not self.is_cjkv(term_src[1]) or len(term_src[0]) > 4:
+        if self.is_cjkv(term_src[1], 'ext'):
+            termType.append('chars_ext')
+            termType.append(self.Freq['chars_ext'])
+        elif not self.is_cjkv(term_src[1]) or len(term_src[0]) > 4:
             termType.append('syms')
             termType.append(self.Freq['syms'])
             if self.find_in_lex(code_and_string=term_src, lex=self.syms_pi):
@@ -734,11 +755,11 @@ class wubiLexManager:
             if res:
                 termType.append(res[-1][2])
             else:
-                termType.append(self.Freq['word_new'])
+                termType.append(self.Freq['words_new'])
             if termType[0] == 'syms' or termType[0] == 'syms_pi':
                 termType[1] = (self.Freq['syms'])
             elif self.is_char_inc(lexName=termType[0], char=term_src[1]):
-                termType[1] = self.Freq['char_inc']
+                termType[1] = self.Freq['chars_inc']
         return termType
 
     def calcFreq(self, term_src: list, order: str = '9'):
@@ -759,7 +780,7 @@ class wubiLexManager:
             else:  # 排序为'9'时，位次标记至少大于同等级词条
                 maxFreq = 0
                 if term_src[2] in self.Freq.values():
-                    if term_src[2] == self.Freq['word_new']:
+                    if term_src[2] == self.Freq['words_new']:
                         maxFreq = int(self.msFreqMax) + 20  # ms词的最大的频率
                     else:
                         maxFreq = int(term_src[2]) + 20
@@ -834,7 +855,7 @@ class wubiLexManager:
 
     def chgLex_by_line(self, line: list):
         if 1 == len(line):  # 输入只有一列
-            if self.is_cjkv(line[0]):
+            if self.is_cjkv(line[0], 'full'):
                 code = self.calcCode(line[0])
                 res = self.find_in_lex(code_and_string=[code, line[0]],
                                        lex=self.custWubiLex)
@@ -845,16 +866,19 @@ class wubiLexManager:
                 if res:
                     freq = res[-1][2]
                 else:
-                    freq = self.Freq['word_new']
+                    freq = self.Freq['words_new']
                 if len(line[0]) == 1:
-                    if len(code) == 3:
+                    if self.is_cjkv(line[0], 'ext'):
+                        freq = self.Freq['chars_ext']
+                        lex = 'chars_ext'
+                    elif len(code) == 3:
                         lex = 'chars_3keyFull'
                     else:
                         lex = 'chars_4keyFull'
                 else:
                     lex = 'words_4keyFull'
                 if self.is_char_inc(lexName=lex, char=line[0]):
-                    freq = self.Freq['char_inc']
+                    freq = self.Freq['chars_inc']
                 term_dst = [code, line[0], freq]
                 self.add_in_lex(term_dst=term_dst, lex=eval('self.' + lex))
             else:
@@ -878,7 +902,7 @@ class wubiLexManager:
                     code = res[-1][0]
                     Freq = self.Freq['syms']
                     lex = 'syms'
-                elif not self.is_cjkv(line[0]):  # 短语不存在时，报错，缺少编码
+                elif not self.is_cjkv(line[0], 'full'):  # 非汉字短语不存在时，报错，缺少编码
                     print('输入缺少编码: {}'.format(line[0] + '\t' + line[1]))
                     return None
                 else:  # 其它情况按全码字词处理
@@ -900,16 +924,19 @@ class wubiLexManager:
                     if res:
                         Freq = res[-1][2]
                     else:
-                        Freq = self.Freq['word_new']
+                        Freq = self.Freq['words_new']
                     if len(line[0]) == 1:
-                        if len(code) == 3:
+                        if self.is_cjkv(line[0], 'ext'):
+                            freq = self.Freq['chars_ext']
+                            lex = 'chars_ext'
+                        elif len(code) == 3:
                             lex = 'chars_3keyFull'
                         else:
                             lex = 'chars_4keyFull'
                     else:
                         lex = 'words_4keyFull'
                     if self.is_char_inc(lexName=lex, char=line[0]):
-                        Freq = self.Freq['char_inc']
+                        Freq = self.Freq['chars_inc']
                 if line[1] == '0':
                     term_dst = []
                 else:
@@ -934,7 +961,7 @@ class wubiLexManager:
                 return None
         elif 3 == len(line):  # 输入有三列，字+排序+码数，词+排序+码数，短语+排序+编码，短语+编码+排序
             if self.is_0_9(line[1]) and self.is_1_4(line[2]):
-                if not self.is_cjkv(line[0]):
+                if not self.is_cjkv(line[0], 'full'):
                     print('非法输入: {}'.format(line[0] + '\t' + line[1] + '\t' +
                                             line[2]))
                     return None
@@ -985,10 +1012,13 @@ class wubiLexManager:
                                                lex=self.msWubiLex)
                     if res:
                         Freq = res[-1][2]
+                    elif len(line[0]) == 1 and self.is_cjkv(line[0], 'ext'):
+                        lex = 'chars_ext'
+                        Freq = self.Freq['chars_ext']
                     else:
-                        Freq = self.Freq['word_new']
+                        Freq = self.Freq['words_new']
                     if self.is_char_inc(lexName=lex, char=line[0]):
-                        Freq = self.Freq['char_inc']
+                        Freq = self.Freq['chars_inc']
                     freq = self.calcFreq(term_src=[code, line[0], Freq],
                                          order=line[1])
                     term_dst = [code, line[0], freq]
@@ -1051,17 +1081,17 @@ class wubiLexManager:
         for char in self.chars2incFreq_1or2keySim:
             for term in self.chars_3keySim:
                 if term[1] == char:
-                    term[2] = self.Freq['char_inc']
+                    term[2] = self.Freq['chars_inc']
             for term in self.chars_3keyFull:
                 if term[1] == char:
-                    term[2] = self.Freq['char_inc']
+                    term[2] = self.Freq['chars_inc']
             for term in self.chars_4keyFull:
                 if term[1] == char:
-                    term[2] = self.Freq['char_inc']
+                    term[2] = self.Freq['chars_inc']
         for char in self.chars2incFreq_3keySim:
             for term in self.chars_4keyFull:
                 if term[1] == char:
-                    term[2] = self.Freq['char_inc']
+                    term[2] = self.Freq['chars_inc']
 
 
 if __name__ == "__main__":

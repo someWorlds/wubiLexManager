@@ -8494,6 +8494,7 @@ ebod	乳类
 ebog	乳业
 ebow	乳粉
 eboy	乳糖
+ebpw	乳突
 ebqc	服色
 ebqk	乳名
 ebqn	服饰
@@ -9590,6 +9591,7 @@ evaf	腱鞘
 evak	腿勤
 evbb	舀子
 evbm	舀出
+evea	腱膜
 evef	腿脚
 evfl	妥协
 evft	爱好者
@@ -17829,6 +17831,7 @@ hxae	紫菜
 hxag	紫荆
 hxaj	柴草
 hxal	紫苏
+hxal	紫薯
 hxam	雌黄
 hxan	雌蕊
 hxat	紫薇
@@ -23805,6 +23808,7 @@ khes	中彩
 khet	中用
 kheu	踢腾
 khev	跑腿
+khev	跟腱
 khew	嘴脸
 khfa	路霸
 khfc	跳动
@@ -23899,6 +23903,7 @@ khkh	蹂躏
 khkh	咔咔
 khkh	踌躇
 khkh	蹒跚
+khkh	𧿹趾
 khkh	踉跄
 khkh	踯躅
 khkh	踟蹰
@@ -26481,8 +26486,10 @@ lqdg	软硬
 lqdi	轩然大波
 lqdm	罗布
 lqef	软脚
+lqef	鸭脖
 lqek	软腭
 lqel	软肋
+lqev	鸭腿
 lqfq	斩钉截铁
 lqgc	罗致
 lqgq	罗列
@@ -40488,6 +40495,7 @@ rxjg	批量
 rxjj	指日
 rxjq	拂煦
 rxkg	批号
+rxkh	拇趾
 rxkk	拗口
 rxkm	接线员
 rxlf	批转
@@ -43449,6 +43457,7 @@ tedm	盘面
 tedp	盘碗
 tedt	船帮
 tedx	愁肠百结
+teea	筋膜
 teec	笑盈盈
 tees	盘膝
 teet	租用
@@ -54857,6 +54866,7 @@ wyyy	偏方
 wyyy	食言
 xaab	绿茸茸
 xaal	练功
+xaal	红薯
 xaap	绿莹莹
 xaaq	绿葱葱
 xaav	红苕
@@ -58251,8 +58261,8 @@ ynft	记者
 ynfu	文以载道
 ynfw	亡夫
 ynfy	义愤填膺
-ynga	户型
 ynga	扇形
+ynga	户型
 yngc	望到
 yngd	毫发不爽
 ynge	词表

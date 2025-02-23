@@ -11443,6 +11443,7 @@
 奇诡dsyq
 奇文dsyy
 帮dt
+故dt
 帮工dtaa
 万向节dtab
 大智若愚dtaj
@@ -12348,6 +12349,7 @@
 乳业ebog
 乳粉ebow
 乳糖eboy
+乳突ebpw
 服色ebqc
 乳名ebqk
 服饰ebqn
@@ -13987,6 +13989,7 @@
 舀子evbb
 舀出evbm
 腿eve
+腱膜evea
 腿脚evef
 腿evep
 豤evey
@@ -25087,6 +25090,7 @@
 紫荆hxag
 柴草hxaj
 紫苏hxal
+紫薯hxal
 雌黄hxam
 雌蕊hxan
 紫薇hxat
@@ -34079,6 +34083,7 @@
 踢腾kheu
 蹈khev
 跑腿khev
+跟腱khev
 嘴脸khew
 趿khey
 趺khf
@@ -38128,8 +38133,10 @@
 轩然大波lqdi
 罗布lqdm
 软脚lqef
+鸭脖lqef
 软腭lqek
 软肋lqel
+鸭腿lqev
 斩钉截铁lqfq
 罗致lqgc
 罗列lqgq
@@ -59312,6 +59319,7 @@
 指日rxjj
 拂煦rxjq
 批号rxkg
+拇趾rxkh
 摾rxkj
 拗口rxkk
 接线员rxkm
@@ -64063,6 +64071,7 @@
 船帮tedt
 愁肠百结tedx
 舦tedy
+筋膜teea
 艀teeb
 笑盈盈teec
 稝teeg
@@ -67077,6 +67086,7 @@
 自定义tpyq
 行军床tpys
 称tq
+移tq
 籛tqaa
 称其tqad
 各负其责tqag
@@ -80243,6 +80253,7 @@
 红xa
 绿茸茸xaab
 练功xaal
+红薯xaal
 绿莹莹xaap
 绿葱葱xaaq
 綫xaat
@@ -85133,8 +85144,8 @@
 诩yng
 词yng
 詡yng
-户型ynga
 扇形ynga
+户型ynga
 望到yngc
 毫发不爽yngd
 词表ynge

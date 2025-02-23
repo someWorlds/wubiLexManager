@@ -4515,6 +4515,7 @@ dsu	䂞
 dswc	硹
 dsww	䂾
 dt	帮
+dt	故
 dtah	䂫
 dtan	矺
 dtav	厇
@@ -13108,6 +13109,7 @@ khxn	呲
 khxn	䠪
 khxs	喍
 khxs	躒
+khxu	𧿹
 khy	卟
 khy	蹴
 khy	躔
@@ -26528,6 +26530,7 @@ tpwo	鴔
 tpwy	篧
 tpyi	簶
 tq	称
+tq	移
 tqaa	籛
 tqan	秖
 tqay	秪
