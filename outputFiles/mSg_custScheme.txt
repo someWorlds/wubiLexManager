@@ -28293,6 +28293,7 @@ ifyt	潮州
 ifyv	法郎
 ifyy	法文
 ig	汪
+ig	浅
 igab	清蒸
 igad	清苦
 igah	清雅
@@ -29435,8 +29436,8 @@ ikiu	涓滴
 ikiy	涡流
 ikj	渑
 ikjn	渑
-ikk	漶
 ikk	澡
+ikk	漶
 ikkf	潬
 ikkk	溃口
 ikkm	澏
@@ -33407,6 +33408,7 @@ jfys	旱魔
 jfyt	时许
 jfyy	时文
 jg	量
+jg	晴
 jgah	蚈
 jgai	师范
 jgaj	旦暮
@@ -37195,8 +37197,8 @@ khxq	践约
 khxs	喍
 khxs	躒
 khxt	中缝
-khxu	中弹
 khxu	𧿹
+khxu	中弹
 khxw	踢给
 khxx	鹭鸶
 khxy	中统
@@ -43187,8 +43189,8 @@ mmrr	曲曲折折
 mmrv	山势
 mmsd	山顶
 mmsf	山村
-mmsg	山西
 mmsg	凹槽
+mmsg	山西
 mmsk	山歌
 mmsl	骨肉相连
 mmso	罂粟
@@ -50141,6 +50143,7 @@ peyx	家畜
 peyy	家访
 peyy	神采奕奕
 pf	守
+pf	完
 pfaa	完工
 pfab	守节
 pfad	寒苦
@@ -74059,6 +74062,7 @@ tytd	自高自大
 tytf	入选
 tytg	造谣生事
 tytj	往复
+tytm	入射
 tytm	入微
 tytn	乞哀告怜
 tyto	入秋

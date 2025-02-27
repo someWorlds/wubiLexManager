@@ -26232,6 +26232,7 @@
 法郎ifyv
 法文ifyy
 汪ig
+浅ig
 清蒸igab
 清苦igad
 清雅igah
@@ -27342,8 +27343,8 @@
 涡流ikiy
 渑ikj
 渑ikjn
-漶ikk
 澡ikk
+漶ikk
 潬ikkf
 溃口ikkk
 澏ikkm
@@ -31110,6 +31111,7 @@
 时许jfyt
 时文jfyy
 量jg
+晴jg
 蚈jgah
 师范jgai
 旦暮jgaj
@@ -40139,8 +40141,8 @@
 山势mmrv
 山顶mmsd
 山村mmsf
-山西mmsg
 凹槽mmsg
+山西mmsg
 山歌mmsk
 骨肉相连mmsl
 罂粟mmso
@@ -46595,6 +46597,7 @@
 家访peyy
 神采奕奕peyy
 守pf
+完pf
 完工pfaa
 守节pfab
 寒苦pfad
@@ -68772,6 +68775,7 @@
 入选tytf
 造谣生事tytg
 往复tytj
+入射tytm
 入微tytm
 乞哀告怜tytn
 入秋tyto

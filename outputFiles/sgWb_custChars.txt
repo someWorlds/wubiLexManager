@@ -9717,6 +9717,7 @@ ifwm	濽
 ifwt	淩
 ifwy	瀖
 ig	汪
+ig	浅
 igah	汧
 igah	㳥
 igal	澑
@@ -10010,8 +10011,8 @@ ikhp	瀢
 ikhy	浞
 ikj	渑
 ikjn	渑
-ikk	漶
 ikk	澡
+ikk	漶
 ikkf	潬
 ikkm	澏
 ikkn	漶
@@ -11420,6 +11421,7 @@ jfwy	㫙
 jfy	䖞
 jfy	时
 jg	量
+jg	晴
 jgah	蚈
 jgbn	旽
 jgc	蛭
@@ -18009,6 +18011,7 @@ peu	家
 pey	冢
 peyu	冢
 pf	守
+pf	完
 pfhw	寘
 pfi	宗
 pfim	賨

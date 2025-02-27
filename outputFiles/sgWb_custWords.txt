@@ -27739,8 +27739,8 @@ mmrr	曲曲折折
 mmrv	山势
 mmsd	山顶
 mmsf	山村
-mmsg	山西
 mmsg	凹槽
+mmsg	山西
 mmsk	山歌
 mmsl	骨肉相连
 mmso	罂粟
@@ -46748,6 +46748,7 @@ tytd	自高自大
 tytf	入选
 tytg	造谣生事
 tytj	往复
+tytm	入射
 tytm	入微
 tytn	乞哀告怜
 tyto	入秋
