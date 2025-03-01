@@ -10883,8 +10883,8 @@ diyn	泵房
 diyt	破涕为笑
 diyx	成活率
 dj	百
-dj	非常
 dj	非
+dj	非常
 djaa	韭芽
 djad	悲苦
 djae	韭菜
@@ -16534,8 +16534,8 @@ fgdd	博大
 fgde	二胡
 fgdg	十三
 fgdj	老一辈
-fgdm	坯布
 fgdm	超表面
+fgdm	坯布
 fgdn	十万
 fgdn	十成
 fgdq	干爽
@@ -28035,6 +28035,8 @@ ieyt	涿州
 ieyy	涿
 ieyy	汲
 if	法
+if	汗
+if	汁
 ifa	灞
 ifaa	法式
 ifad	潜藏
@@ -46157,6 +46159,7 @@ nlrh	惭
 nlrr	尼加拉瓜
 nlru	心黑手辣
 nls	悃
+nlsd	臂力棒
 nlsy	悃
 nltp	怪力乱神
 nlul	心回意转
@@ -47273,6 +47276,7 @@ nutg	㦃
 nuth	屏息
 nuth	飛
 nuth	飝
+nuti	飞秒
 nutm	飞向
 nutm	飞身
 nuts	屏条
@@ -75960,6 +75964,7 @@ ujam	贑
 ujan	戅
 ujap	童蒙
 ujaq	音区
+ujaq	韵苑
 ujar	意匠
 ujax	意蕴
 ujb	鄣
@@ -92923,6 +92928,7 @@ ytie	旓
 ytif	施法
 ytih	言行举止
 ytii	放水
+ytik	旋涡
 ytip	放学
 ytiq	旐
 ytit	诱敌深入

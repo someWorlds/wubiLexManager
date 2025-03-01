@@ -10058,8 +10058,8 @@
 破涕为笑diyt
 成活率diyx
 百dj
-非常dj
 非dj
+非常dj
 韭芽djaa
 悲苦djad
 韭菜djae
@@ -15264,8 +15264,8 @@
 二胡fgde
 十三fgdg
 老一辈fgdj
-坯布fgdm
 超表面fgdm
+坯布fgdm
 十万fgdn
 十成fgdn
 干爽fgdq
@@ -25985,6 +25985,8 @@
 涿ieyy
 汲ieyy
 法if
+汗if
+汁if
 灞ifa
 法式ifaa
 潜藏ifad
@@ -42851,6 +42853,7 @@
 尼加拉瓜nlrr
 心黑手辣nlru
 悃nls
+臂力棒nlsd
 悃nlsy
 怪力乱神nltp
 心回意转nlul
@@ -43908,6 +43911,7 @@
 屏息nuth
 飛nuth
 飝nuth
+飞秒nuti
 飞向nutm
 飞身nutm
 屏条nuts
@@ -70539,6 +70543,7 @@
 戅ujan
 童蒙ujap
 音区ujaq
+韵苑ujaq
 意匠ujar
 意蕴ujax
 鄣ujb
@@ -86402,6 +86407,7 @@
 施法ytif
 言行举止ytih
 放水ytii
+旋涡ytik
 放学ytip
 旐ytiq
 诱敌深入ytit

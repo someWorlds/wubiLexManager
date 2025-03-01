@@ -10502,8 +10502,8 @@ fgdd	博大
 fgde	二胡
 fgdg	十三
 fgdj	老一辈
-fgdm	坯布
 fgdm	超表面
+fgdm	坯布
 fgdn	十万
 fgdn	十成
 fgdq	干爽
@@ -29556,6 +29556,7 @@ nlqc	惭色
 nlqd	翼然
 nlrr	尼加拉瓜
 nlru	心黑手辣
+nlsd	臂力棒
 nltp	怪力乱神
 nlul	心回意转
 nlut	快车道
@@ -30337,6 +30338,7 @@ nuta	飞升
 nute	飞船
 nutf	飞行
 nuth	屏息
+nuti	飞秒
 nutm	飞向
 nutm	飞身
 nuts	屏条
@@ -48030,6 +48032,7 @@ ujak	间或
 ujal	间苗
 ujap	童蒙
 ujaq	音区
+ujaq	韵苑
 ujar	意匠
 ujax	意蕴
 ujbb	单子
@@ -59086,6 +59089,7 @@ ytic	施治
 ytif	施法
 ytih	言行举止
 ytii	放水
+ytik	旋涡
 ytip	放学
 ytit	诱敌深入
 ytiw	谬种流传
