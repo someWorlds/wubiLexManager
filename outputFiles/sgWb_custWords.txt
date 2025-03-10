@@ -977,6 +977,7 @@ aiqf	藩镇
 aiqi	落锁
 aiqi	菲涅尔
 aiqt	落水狗
+airc	东瓜
 aird	落拓
 airg	落后
 airr	落魄
@@ -1338,6 +1339,7 @@ amaa	英式
 amap	黄莺
 amaq	黄芪
 amaw	黄花
+amay	茼蒿
 ambn	黄了
 ambw	芟除
 amce	英勇
@@ -15025,6 +15027,7 @@ gkgt	一唱一和
 gkgx	带毒
 gkgy	带班
 gkhc	赖皮
+gkhc	豆皮
 gkhh	一路上
 gkhk	整点
 gkia	融汇
@@ -42503,6 +42506,7 @@ suan	西装革履
 suaq	校区
 suat	校医
 suaw	校花
+suaw	西兰花
 suay	梅兰芳
 subb	样子
 subb	梯子
@@ -48020,7 +48024,6 @@ uivv	美少女
 uiwa	冰袋
 uiwf	阔佬
 uiwf	交流会
-uiww	冰人
 uixh	阔绰
 uixu	闪光弹
 uiyc	门当户对
@@ -49804,6 +49807,7 @@ uxqg	背鳍
 uxqm	背负
 uxqn	背包
 uxqy	北岛
+uxrc	北瓜
 uxrc	背反
 uxrg	背后
 uxrm	背投

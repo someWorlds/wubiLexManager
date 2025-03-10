@@ -1679,6 +1679,7 @@
 萢aiqn
 落水狗aiqt
 蒎air
+东瓜airc
 落拓aird
 蒎aire
 萡airf
@@ -2294,6 +2295,7 @@
 黄莺amap
 黄芪amaq
 黄花amaw
+茼蒿amay
 芁amb
 黄了ambn
 芟除ambw
@@ -21117,6 +21119,7 @@
 橐gkh
 蠹gkh
 赖皮gkhc
+豆皮gkhc
 叓gkhc
 囊gkhe
 嚢gkhe
@@ -62572,6 +62575,7 @@
 校区suaq
 校医suat
 校花suaw
+西兰花suaw
 梅兰芳suay
 样子subb
 梯子subb
@@ -70524,7 +70528,6 @@
 瘠uiwe
 阔佬uiwf
 交流会uiwf
-冰人uiww
 阔绰uixh
 闪光弹uixu
 冰uiy
@@ -72926,6 +72929,7 @@
 背负uxqm
 背包uxqn
 北岛uxqy
+北瓜uxrc
 背反uxrc
 背后uxrg
 背投uxrm

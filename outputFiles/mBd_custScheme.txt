@@ -1512,6 +1512,7 @@ aiqn    萢
 aiqt    落水狗
 aiqy    䓜
 air    蒎
+airc    东瓜
 aird    落拓
 aire    蒎
 airf    萡
@@ -2043,6 +2044,7 @@ amaf    䒼
 amap    黄莺
 amaq    黄芪
 amaw    黄花    䓦
+amay    茼蒿
 amb    芁
 ambn    黄了
 ambw    芟除
@@ -19342,7 +19344,7 @@ gkgt    一唱一和
 gkgx    带毒
 gkgy    带班
 gkh    囊    玔    璐    橐    蠹
-gkhc    赖皮    叓
+gkhc    赖皮    豆皮    叓
 gkhe    囊    嚢
 gkhh    一路上
 gkhj    蠹    蟗
@@ -56180,7 +56182,7 @@ suaj    樴
 suan    西装革履
 suaq    校区
 suat    校医
-suaw    校花
+suaw    校花    西兰花
 suay    梅兰芳
 subb    样子    梯子
 sube    㮶
@@ -63006,7 +63008,6 @@ uiw    瘠
 uiwa    冰袋
 uiwe    瘠
 uiwf    阔佬    交流会
-uiww    冰人
 uixh    阔绰
 uixu    闪光弹
 uiy    冰
@@ -65153,7 +65154,7 @@ uxqg    背鳍
 uxqm    背负
 uxqn    背包
 uxqy    北岛
-uxrc    背反
+uxrc    北瓜    背反
 uxrg    背后
 uxrm    背投
 uxrn    背气
