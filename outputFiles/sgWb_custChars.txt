@@ -17628,8 +17628,8 @@ oqar	斴
 oqb	灮
 oqbt	煼
 oqbt	糉
-oqd	烯
 oqd	燃
+oqd	烯
 oqdh	烯
 oqdo	燃
 oqhj	焔

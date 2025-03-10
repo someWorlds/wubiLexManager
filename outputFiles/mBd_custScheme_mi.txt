@@ -16564,6 +16564,7 @@
 填鸭式flaa
 雷区flaq
 朝思暮想flas
+嘉园荟flaw
 霬flaw
 赶鸭子上架flbl
 协防flby
@@ -19630,6 +19631,7 @@
 青筋gete
 静待getf
 表征getg
+静息geth
 敷衍geti
 青稞getj
 静物getr
@@ -21231,6 +21233,7 @@
 整容gkpw
 逼视gkpy
 吏gkq
+豆角gkqe
 融解gkqe
 带鱼gkqg
 逗乐gkqi
@@ -26668,6 +26671,7 @@
 湞ihmy
 泸ihn
 小民ihna
+波导ihnf
 小丑ihnf
 小屋ihng
 小臂ihnk
@@ -41941,6 +41945,7 @@
 叞nfic
 褽nfie
 尉nfif
+导波nfih
 犚nfih
 螱nfij
 慰nfin
@@ -45580,13 +45585,13 @@
 煼oqbt
 糉oqbt
 炮台oqck
-烯oqd
 燃oqd
+烯oqd
 粉饰太平oqdg
 烯oqdh
 燃耗oqdi
-燃oqdo
 炮灰oqdo
+燃oqdo
 炮膛oqei
 炮塔oqfa
 燃起oqfh
@@ -53405,6 +53410,7 @@
 铰quq
 锵quq
 多姿多彩quqe
+锐角quqe
 昏头昏脑quqe
 锵quqf
 铰链quql
@@ -55141,8 +55147,8 @@
 挂碍rfdj
 擩rfdj
 挂历rfdl
-挂面rfdm
 热干面rfdm
+挂面rfdm
 挂牵rfdp
 扶助rfeg
 持股rfem

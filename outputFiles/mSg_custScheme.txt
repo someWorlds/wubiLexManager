@@ -17949,6 +17949,7 @@ fl	协
 flaa	填鸭式
 flaq	雷区
 flas	朝思暮想
+flaw	嘉园荟
 flaw	霬
 flbl	赶鸭子上架
 flby	协防
@@ -21202,6 +21203,7 @@ gesy	表述
 gete	青筋
 getf	静待
 getg	表征
+geth	静息
 geti	敷衍
 getj	青稞
 getr	静物
@@ -22860,6 +22862,7 @@ gkpu	事实
 gkpw	整容
 gkpy	逼视
 gkq	吏
+gkqe	豆角
 gkqe	融解
 gkqg	带鱼
 gkqi	逗乐
@@ -28739,6 +28742,7 @@ ihmy	浈
 ihmy	湞
 ihn	泸
 ihna	小民
+ihnf	波导
 ihnf	小丑
 ihng	小屋
 ihnk	小臂
@@ -45185,6 +45189,7 @@ nfia	愤懑
 nfic	叞
 nfie	褽
 nfif	尉
+nfih	导波
 nfih	犚
 nfij	螱
 nfin	慰
@@ -49060,13 +49065,13 @@ oqb	灮
 oqbt	煼
 oqbt	糉
 oqck	炮台
-oqd	烯
 oqd	燃
+oqd	烯
 oqdg	粉饰太平
 oqdh	烯
 oqdi	燃耗
-oqdo	燃
 oqdo	炮灰
+oqdo	燃
 oqei	炮膛
 oqfa	炮塔
 oqfh	燃起
@@ -57539,6 +57544,7 @@ qupy	鎊
 quq	铰
 quq	锵
 quqe	多姿多彩
+quqe	锐角
 quqe	昏头昏脑
 quqf	锵
 quql	铰链
@@ -59345,8 +59351,8 @@ rfdh	挂在
 rfdj	挂碍
 rfdj	擩
 rfdl	挂历
-rfdm	挂面
 rfdm	热干面
+rfdm	挂面
 rfdp	挂牵
 rfeg	扶助
 rfem	持股

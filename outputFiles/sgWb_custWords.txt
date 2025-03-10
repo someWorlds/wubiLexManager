@@ -11447,6 +11447,7 @@ fkyy	吉言
 flaa	填鸭式
 flaq	雷区
 flas	朝思暮想
+flaw	嘉园荟
 flbl	赶鸭子上架
 flby	协防
 fldp	雷达
@@ -13745,6 +13746,7 @@ gesy	表述
 gete	青筋
 getf	静待
 getg	表征
+geth	静息
 geti	敷衍
 getj	青稞
 getr	静物
@@ -15074,6 +15076,7 @@ gkpn	副官
 gkpu	事实
 gkpw	整容
 gkpy	逼视
+gkqe	豆角
 gkqe	融解
 gkqg	带鱼
 gkqi	逗乐
@@ -18873,6 +18876,7 @@ ihmq	小风
 ihmr	小贩
 ihmt	波峰
 ihna	小民
+ihnf	波导
 ihnf	小丑
 ihng	小屋
 ihnk	小臂
@@ -28943,6 +28947,7 @@ nfgn	屡教不改
 nfgo	丑恶
 nfgu	熨平
 nfia	愤懑
+nfih	导波
 nfin	熨烫
 nfip	导演
 nfir	愤激
@@ -36130,6 +36135,7 @@ qupl	铁将军
 qupn	外交官
 qupu	匀实
 quqe	多姿多彩
+quqe	锐角
 quqe	昏头昏脑
 quql	铰链
 quqr	忽冷忽热
@@ -37347,8 +37353,8 @@ rfdg	质感
 rfdh	挂在
 rfdj	挂碍
 rfdl	挂历
-rfdm	挂面
 rfdm	热干面
+rfdm	挂面
 rfdp	挂牵
 rfeg	扶助
 rfem	持股
