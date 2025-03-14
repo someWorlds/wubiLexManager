@@ -1,4 +1,4 @@
-a    工    戈
+a    工    戈    Å    ā    á    ǎ    à
 aa    式
 aaa    工
 aaaa    恭恭敬敬    㠭    工
@@ -1373,7 +1373,7 @@ ahys    牙床
 ahyu    邪说
 ahyw    雅座
 ahyy    雅言
-ai    东    东西
+ai    东    东西    Å
 aia    茳    蕖
 aiaa    范式    䔐
 aiae    菠菜
@@ -2261,6 +2261,7 @@ anfm    巨献
 anfn    藯
 anfr    斲
 anfu    䒭
+ang    Å
 anga    巨型
 angf    䒒
 angk    世事
@@ -11334,7 +11335,7 @@ dyym    太高
 dyys    矿床
 dyyv    太郎
 dyyw    大庭广众
-e    有    月
+e    有    月    ē    é    ě    è
 ea    肛
 eaat    䏼
 eaay    爱斯基摩
@@ -23228,7 +23229,7 @@ hyx    眩
 hyxy    眩
 hyy    盿
 hyyx    上座率
-i    不    水
+i    不    水    ī    í    ǐ    ì
 ia    江
 iaaa    港式
 iaad    鸿基
@@ -34602,6 +34603,7 @@ lqnh    鸭蛋
 lqnn    軳
 lqnt    软性
 lqny    软尺
+lqof    软糯
 lqou    边角料
 lqoy    软糖    㽤
 lqp    逻
@@ -40436,7 +40438,7 @@ nyys    心魔
 nyyw    昼夜
 nyyx    心率
 nyyy    民族主义
-o    为    火
+o    为    火    ō    ó    ǒ    ò
 oa    煤
 oaae    烧菜
 oaag    烒
@@ -42596,7 +42598,7 @@ pfus    宗亲
 pfut    赛道
 pfuw    寒冷
 pfux    塞北
-pfuy    守门    㝪
+pfuy    守门    宗门    㝪
 pfvb    完好
 pfvo    守灵
 pfvq    完婚
@@ -48448,10 +48450,12 @@ qwoa    锻炼
 qwoo    欠火
 qwpv    欠安
 qwpw    乌合之众
+qwqg    欠钱
 qwqi    铃铛
 qwqq    铝合金
 qwqr    锻铁
 qwqt    杀人犯
+qwrd    欠揍
 qwrm    欠缺
 qwrs    锻打
 qwss    铃木
@@ -50950,7 +50954,7 @@ rmho    䱥
 rmhr    掣
 rmia    投江
 rmif    制法
-rmii    抽水
+rmii    缺水    抽水
 rmim    揣测
 rmin    缺漏
 rmiq    抽逃    罀
@@ -51001,6 +51005,7 @@ rmpt    缺额    制宪
 rmpv    投案
 rmpw    抽空
 rmq    㧏
+rmqg    缺钱
 rmqj    抽象
 rmqw    缼
 rmqy    㧏
@@ -51568,7 +51573,7 @@ rpwr    控件
 rpws    探
 rpwt    擦伤    近作
 rpww    近人
-rpwy    按住    近邻    㿥    㩁    㧒    搉    搲    攨
+rpwy    按住    近邻    搲    㿥    㩁    㧒    搉    攨
 rpx    拕
 rpxn    拕
 rpxx    探幽
@@ -60011,7 +60016,7 @@ tqdo    千锤百炼
 tqdq    自然而然
 tqdr    称愿
 tqds    稀奇
-tqdy    簷
+tqdy    稳态    簷
 tqef    䈸
 tqeh    䚘    䉏
 tqej    䇶
@@ -61544,7 +61549,7 @@ tyyn    入户
 tyys    入魔
 tyyt    德高望重
 tyyw    入座
-u    产    立
+u    产    立    ū    ú    ǔ    ù
 ua    并
 uaaa    闭幕式
 uaal    并蒂莲
@@ -65428,7 +65433,7 @@ uyyu    辩说
 uyyw    门诊    辩论    辨认
 uyyx    六畜
 uyyy    将计就计
-v    发    女    她
+v    发    女    她    ü    ǖ    ǘ    ǚ    ǜ
 va    毁
 vaak    嫟
 vaan    嬺

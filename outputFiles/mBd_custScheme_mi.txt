@@ -1,5 +1,9 @@
 工a
 戈a
+āa
+áa
+ǎa
+àa
 式aa
 工aaa
 恭恭敬敬aaaa
@@ -12260,6 +12264,10 @@
 大庭广众dyyw
 有e
 月e
+ēe
+ée
+ěe
+èe
 肛ea
 爱斯基摩eaay
 爱莫能助eace
@@ -25224,6 +25232,10 @@
 上座率hyyx
 不i
 水i
+īi
+íi
+ǐi
+ìi
 江ia
 港式iaaa
 鸿基iaad
@@ -38185,6 +38197,7 @@
 軳lqnn
 软性lqnt
 软尺lqny
+软糯lqof
 边角料lqou
 软糖lqoy
 逻lqp
@@ -44483,6 +44496,10 @@
 民族主义nyyy
 为o
 火o
+ōo
+óo
+ǒo
+òo
 煤oa
 烧菜oaae
 烒oaag
@@ -46794,6 +46811,7 @@
 寒冷pfuw
 塞北pfux
 守门pfuy
+宗门pfuy
 完好pfvb
 守灵pfvo
 完婚pfvq
@@ -53756,10 +53774,12 @@
 欠火qwoo
 欠安qwpv
 乌合之众qwpw
+欠钱qwqg
 铃铛qwqi
 铝合金qwqq
 锻铁qwqr
 杀人犯qwqt
+欠揍qwrd
 欠缺qwrm
 锻打qwrs
 铃木qwss
@@ -56595,6 +56615,7 @@
 掣rmhr
 投江rmia
 制法rmif
+缺水rmii
 抽水rmii
 揣测rmim
 缺漏rmin
@@ -56648,6 +56669,7 @@
 制宪rmpt
 投案rmpv
 抽空rmpw
+缺钱rmqg
 抽象rmqj
 缼rmqw
 缿rmr
@@ -57315,8 +57337,8 @@
 近人rpww
 按住rpwy
 近邻rpwy
-搉rpwy
 搲rpwy
+搉rpwy
 攨rpwy
 拕rpx
 拕rpxn
@@ -67137,6 +67159,7 @@
 自然而然tqdq
 称愿tqdr
 稀奇tqds
+稳态tqdy
 簷tqdy
 移用tqet
 稳妥tqev
@@ -68843,6 +68866,10 @@
 入座tyyw
 产u
 立u
+ūu
+úu
+ǔu
+ùu
 并ua
 闭幕式uaaa
 并蒂莲uaal
@@ -73255,6 +73282,11 @@
 发v
 女v
 她v
+üv
+ǖv
+ǘv
+ǚv
+ǜv
 毁va
 嫟vaak
 嬺vaan

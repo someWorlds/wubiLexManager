@@ -26522,6 +26522,7 @@ lqmy	罗丹
 lqnh	鸭蛋
 lqnt	软性
 lqny	软尺
+lqof	软糯
 lqou	边角料
 lqoy	软糖
 lqpq	累卵之危
@@ -32272,6 +32273,7 @@ pfut	赛道
 pfuw	寒冷
 pfux	塞北
 pfuy	守门
+pfuy	宗门
 pfvb	完好
 pfvo	守灵
 pfvq	完婚
@@ -36374,10 +36376,12 @@ qwoa	锻炼
 qwoo	欠火
 qwpv	欠安
 qwpw	乌合之众
+qwqg	欠钱
 qwqi	铃铛
 qwqq	铝合金
 qwqr	锻铁
 qwqt	杀人犯
+qwrd	欠揍
 qwrm	欠缺
 qwrs	锻打
 qwss	铃木
@@ -38428,6 +38432,7 @@ rmhh	制止
 rmhk	缺点
 rmia	投江
 rmif	制法
+rmii	缺水
 rmii	抽水
 rmim	揣测
 rmin	缺漏
@@ -38467,6 +38472,7 @@ rmpt	缺额
 rmpt	制宪
 rmpv	投案
 rmpw	抽空
+rmqg	缺钱
 rmqj	抽象
 rmrf	扬幡招魂
 rmrj	捕风捉影
@@ -45632,6 +45638,7 @@ tqdo	千锤百炼
 tqdq	自然而然
 tqdr	称愿
 tqds	稀奇
+tqdy	稳态
 tqet	移用
 tqev	稳妥
 tqfa	称霸
