@@ -41663,8 +41663,8 @@ shwf	相会
 shwg	相合
 shwn	相似
 shwq	相像
-shwu	相伴
 shwu	相位
+shwu	相伴
 shwv	相分
 shwy	相信
 shwy	想念

@@ -54873,7 +54873,7 @@ shwf    相传    相会
 shwg    相合
 shwn    相似
 shwq    相像
-shwu    相伴    相位
+shwu    相位    相伴
 shwv    相分
 shwy    相信    想念    相邻    椇
 shxi    橴
