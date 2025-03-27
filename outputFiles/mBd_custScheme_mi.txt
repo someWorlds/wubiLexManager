@@ -7681,6 +7681,7 @@
 鸡雏cqqv
 驳cqqy
 駁cqqy
+鸡排cqrd
 巴尔扎克cqrd
 鸡爪cqrh
 騊cqrm
@@ -16717,6 +16718,7 @@
 击中fmkh
 垛口fmkk
 南国fmlg
+过山车fmlg
 南边fmlp
 无则加勉fmlq
 南曲fmma
@@ -17066,6 +17068,7 @@
 坭fnx
 专线fnxg
 声母fnxg
+场强fnxk
 声强fnxk
 地心引力fnxl
 声纳fnxm
@@ -20517,6 +20520,7 @@
 下乡ghxt
 正比ghxx
 正统ghxy
+正弦ghxy
 正席ghya
 到此为止ghyh
 与虎谋皮ghyh
@@ -24252,6 +24256,7 @@
 頻hidm
 步态hidy
 睄hieg
+频域hifa
 步进hifj
 频带higk
 敊hihc
@@ -24585,6 +24590,7 @@
 卤肉hlmw
 卣hln
 卣hlnf
+卤蛋hlnh
 逌hlnp
 鹾hlq
 卤hlq
@@ -30973,6 +30979,7 @@
 时态jfdy
 蛙jff
 圼jff
+时域jffa
 野地jffb
 旱地jffb
 蠕动jffc
@@ -34957,6 +34964,7 @@
 口轻kklc
 咖啡因kkld
 獸kkld
+口罩kklh
 器皿kklh
 哵kklj
 骂架kklk
@@ -78807,6 +78815,7 @@
 八强wtxk
 侨乡wtxt
 侮wtxu
+余弦wtxy
 斜纹wtxy
 八wty
 作序wtyc
@@ -78817,10 +78826,10 @@
 任课wtyj
 作为wtyl
 斜高wtym
-作废wtyn
-伤亡wtyn
-作词wtyn
 健身房wtyn
+伤亡wtyn
+作废wtyn
+作词wtyn
 叙谈wtyo
 八旗wtyt
 叙说wtyu
@@ -82145,8 +82154,8 @@
 比利时xtjf
 乡野xtjf
 乡里xtjf
-疑是xtjg
 张量xtjg
+疑是xtjg
 绦虫xtjh
 终日xtjj
 緮xtjt
@@ -84786,6 +84795,7 @@
 市ym
 高工ymaa
 调节ymab
+高斯ymad
 设若ymad
 譨ymae
 高雅ymah

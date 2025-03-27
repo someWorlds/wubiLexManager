@@ -7090,7 +7090,7 @@ cqqi    欢乐
 cqqt    欢儿
 cqqv    鸡雏
 cqqy    驳    駁    䮈
-cqrd    巴尔扎克
+cqrd    鸡排    巴尔扎克
 cqrh    鸡爪
 cqrm    騊
 cqrn    騘
@@ -15454,7 +15454,7 @@ fmk    击
 fmkg    坰
 fmkh    南路    击中
 fmkk    垛口
-fmlg    南国
+fmlg    南国    过山车
 fmlp    南边
 fmlq    无则加勉
 fmma    南曲
@@ -15754,7 +15754,7 @@ fnwx    无以伦比
 fnwy    块
 fnx    坭
 fnxg    专线    声母
-fnxk    声强
+fnxk    场强    声强
 fnxl    地心引力
 fnxm    声纳
 fnxn    违纪    坭
@@ -18825,7 +18825,7 @@ ghxm    政纲
 ghxn    政纪    玼
 ghxt    下乡
 ghxx    正比
-ghxy    正统
+ghxy    正统    正弦
 ghy    㺪
 ghya    正席
 ghyh    到此为止    与虎谋皮
@@ -22228,6 +22228,7 @@ hidh    颦蹙
 hidm    频    頻
 hidy    步态
 hieg    睄
+hifa    频域
 hifj    步进
 higk    频带
 hihc    敊
@@ -22557,6 +22558,7 @@ hlmw    卤肉
 hlmy    䁲
 hln    卣
 hlnf    卣
+hlnh    卤蛋
 hlnp    逌
 hlnq    䚃
 hloc    䴝    䴜
@@ -28232,6 +28234,7 @@ jfdo    黙
 jfdt    易地而处
 jfdy    时态
 jff    蛙    圼
+jffa    时域
 jffb    野地    旱地
 jffc    蠕动    时运    曇
 jffg    蛙    晆
@@ -31615,7 +31618,7 @@ kkl    鼍
 kklc    口轻
 kkld    咖啡因    獸
 kklf    㽞
-kklh    器皿
+kklh    口罩    器皿
 kklj    哵
 kklk    骂架    嘼
 kkln    鼍
@@ -70474,7 +70477,7 @@ wtxi    係
 wtxk    八强
 wtxt    侨乡
 wtxu    侮
-wtxy    斜纹
+wtxy    余弦    斜纹
 wty    八
 wtyc    作序
 wtyd    余庆
@@ -70483,7 +70486,7 @@ wtyg    凭证    作证
 wtyj    任课
 wtyl    作为
 wtym    斜高
-wtyn    作废    伤亡    作词    健身房
+wtyn    健身房    伤亡    作废    作词
 wtyo    叙谈
 wtyt    八旗
 wtyu    叙说
@@ -73343,7 +73346,7 @@ xtih    纤小
 xtip    乡党
 xtjc    乡贤
 xtjf    比利时    乡野    乡里
-xtjg    疑是    张量
+xtjg    张量    疑是
 xtjh    绦虫
 xtjj    终日
 xtjt    緮
@@ -75710,7 +75713,7 @@ ylyy    为文
 ym    高    市
 ymaa    高工
 ymab    调节
-ymad    设若
+ymad    高斯    设若
 ymae    譨
 ymah    高雅
 ymak    设或

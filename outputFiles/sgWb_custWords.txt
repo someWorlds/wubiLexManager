@@ -5044,6 +5044,7 @@ cqqb	欢迎
 cqqi	欢乐
 cqqt	欢儿
 cqqv	鸡雏
+cqrd	鸡排
 cqrd	巴尔扎克
 cqrh	鸡爪
 cqrq	欢欣
@@ -11559,6 +11560,7 @@ fmkh	南路
 fmkh	击中
 fmkk	垛口
 fmlg	南国
+fmlg	过山车
 fmlp	南边
 fmlq	无则加勉
 fmma	南曲
@@ -11817,6 +11819,7 @@ fnww	卖价
 fnwx	无以伦比
 fnxg	专线
 fnxg	声母
+fnxk	场强
 fnxk	声强
 fnxl	地心引力
 fnxm	声纳
@@ -14506,6 +14509,7 @@ ghxn	政纪
 ghxt	下乡
 ghxx	正比
 ghxy	正统
+ghxy	正弦
 ghya	正席
 ghyh	到此为止
 ghyh	与虎谋皮
@@ -17263,6 +17267,7 @@ hibm	步出
 hicb	步骤
 hidh	颦蹙
 hidy	步态
+hifa	频域
 hifj	步进
 higk	频带
 hihh	瞠目
@@ -17541,6 +17546,7 @@ hlii	卤水
 hlkf	卤味
 hllq	卤鸭
 hlmw	卤肉
+hlnh	卤蛋
 hluf	紫罗兰
 hlwx	卤化
 hmab	贞节
@@ -21860,6 +21866,7 @@ jfdm	里面
 jfdm	时而
 jfdt	易地而处
 jfdy	时态
+jffa	时域
 jffb	野地
 jffb	旱地
 jffc	蠕动
@@ -24278,6 +24285,7 @@ kkku	哭啼
 kkkw	哈哈哈
 kklc	口轻
 kkld	咖啡因
+kklh	口罩
 kklh	器皿
 kklk	骂架
 kklp	串连
@@ -53770,6 +53778,7 @@ wtxd	俄顷
 wtxg	斜线
 wtxk	八强
 wtxt	侨乡
+wtxy	余弦
 wtxy	斜纹
 wtyc	作序
 wtyd	余庆
@@ -53779,10 +53788,10 @@ wtyg	作证
 wtyj	任课
 wtyl	作为
 wtym	斜高
-wtyn	作废
-wtyn	伤亡
-wtyn	作词
 wtyn	健身房
+wtyn	伤亡
+wtyn	作废
+wtyn	作词
 wtyo	叙谈
 wtyt	八旗
 wtyu	叙说
@@ -56106,8 +56115,8 @@ xtjc	乡贤
 xtjf	比利时
 xtjf	乡野
 xtjf	乡里
-xtjg	疑是
 xtjg	张量
+xtjg	疑是
 xtjh	绦虫
 xtjj	终日
 xtjv	终归
@@ -57954,6 +57963,7 @@ ylyn	库房
 ylyy	为文
 ymaa	高工
 ymab	调节
+ymad	高斯
 ymad	设若
 ymah	高雅
 ymak	设或

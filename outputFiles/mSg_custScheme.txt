@@ -8323,6 +8323,7 @@ cqqv	鸡雏
 cqqy	驳
 cqqy	駁
 cqqy	䮈
+cqrd	鸡排
 cqrd	巴尔扎克
 cqrh	鸡爪
 cqrm	騊
@@ -18112,6 +18113,7 @@ fmkh	南路
 fmkh	击中
 fmkk	垛口
 fmlg	南国
+fmlg	过山车
 fmlp	南边
 fmlq	无则加勉
 fmma	南曲
@@ -18478,6 +18480,7 @@ fnwy	块
 fnx	坭
 fnxg	专线
 fnxg	声母
+fnxk	场强
 fnxk	声强
 fnxl	地心引力
 fnxm	声纳
@@ -22100,6 +22103,7 @@ ghxn	玼
 ghxt	下乡
 ghxx	正比
 ghxy	正统
+ghxy	正弦
 ghy	㺪
 ghya	正席
 ghyh	到此为止
@@ -26114,6 +26118,7 @@ hidm	频
 hidm	頻
 hidy	步态
 hieg	睄
+hifa	频域
 hifj	步进
 higk	频带
 hihc	敊
@@ -26466,6 +26471,7 @@ hlmw	卤肉
 hlmy	䁲
 hln	卣
 hlnf	卣
+hlnh	卤蛋
 hlnp	逌
 hlnq	䚃
 hloc	䴝
@@ -33247,6 +33253,7 @@ jfdt	易地而处
 jfdy	时态
 jff	蛙
 jff	圼
+jffa	时域
 jffb	野地
 jffb	旱地
 jffc	蠕动
@@ -37549,6 +37556,7 @@ kklc	口轻
 kkld	咖啡因
 kkld	獸
 kklf	㽞
+kklh	口罩
 kklh	器皿
 kklj	哵
 kklk	骂架
@@ -84809,6 +84817,7 @@ wtxi	係
 wtxk	八强
 wtxt	侨乡
 wtxu	侮
+wtxy	余弦
 wtxy	斜纹
 wty	八
 wtyc	作序
@@ -84819,10 +84828,10 @@ wtyg	作证
 wtyj	任课
 wtyl	作为
 wtym	斜高
-wtyn	作废
-wtyn	伤亡
-wtyn	作词
 wtyn	健身房
+wtyn	伤亡
+wtyn	作废
+wtyn	作词
 wtyo	叙谈
 wtyt	八旗
 wtyu	叙说
@@ -88377,8 +88386,8 @@ xtjc	乡贤
 xtjf	比利时
 xtjf	乡野
 xtjf	乡里
-xtjg	疑是
 xtjg	张量
+xtjg	疑是
 xtjh	绦虫
 xtjj	终日
 xtjt	緮
@@ -91170,6 +91179,7 @@ ym	高
 ym	市
 ymaa	高工
 ymab	调节
+ymad	高斯
 ymad	设若
 ymae	譨
 ymah	高雅
