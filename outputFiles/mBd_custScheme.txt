@@ -4654,6 +4654,7 @@ bilq    阿波罗
 bimj    㞼
 bimq    函购
 binx    逊尼
+bio    函数
 bios    聚光灯
 biov    函数
 bip    逊
@@ -16423,7 +16424,7 @@ fsxr    无可比拟
 fsyk    老相识
 fsyy    霸权主义
 ft    才    都    教
-ftaa    老式
+ftaa    老式    教工
 ftab    䨋
 ftad    考期
 ftae    煮菜
@@ -36841,7 +36842,7 @@ mqsd    见顶
 mqsf    购票
 mqsm    见机
 mqss    帕金森
-mqst    风格    网格
+mqst    网格    风格
 mqsu    网校
 mqsv    刚要
 mqt    峁

@@ -12381,6 +12381,7 @@ fsxr	无可比拟
 fsyk	老相识
 fsyy	霸权主义
 ftaa	老式
+ftaa	教工
 ftad	考期
 ftae	煮菜
 ftaf	教鞭
@@ -28021,8 +28022,8 @@ mqsd	见顶
 mqsf	购票
 mqsm	见机
 mqss	帕金森
-mqst	风格
 mqst	网格
+mqst	风格
 mqsu	网校
 mqsv	刚要
 mqta	见长

@@ -19280,6 +19280,7 @@ ft	才
 ft	都
 ft	教
 ftaa	老式
+ftaa	教工
 ftab	䨋
 ftad	考期
 ftae	煮菜
@@ -43638,8 +43639,8 @@ mqsd	见顶
 mqsf	购票
 mqsm	见机
 mqss	帕金森
-mqst	风格
 mqst	网格
+mqst	风格
 mqsu	网校
 mqsv	刚要
 mqt	峁
