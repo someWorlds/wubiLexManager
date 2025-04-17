@@ -96,8 +96,12 @@ omic	ο
 omic	Ο
 omicron	ο
 omicron	Ο
+otim	⊗
+otimes	⊗
 para	∥
 parallel	∥
+part	∂
+partial	∂
 perp	⊥
 phi	φ
 phi	Φ
@@ -131,6 +135,7 @@ thet	θ
 thet	Θ
 theta	θ
 theta	Θ
+time	×
 times	×
 to	→
 u	ū

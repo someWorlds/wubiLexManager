@@ -91,8 +91,12 @@ omic    ο    50800
 omic    Ο    50801
 omicron    ο    50800
 omicron    Ο    50801
+otim    ⊗    50800
+otimes    ⊗    50800
 para    ∥    50800
 parallel    ∥    50800
+part    ∂    50800
+partial    ∂    50800
 perp    ⊥    50800
 phi    φ    50800
 phi    Φ    50801
@@ -119,6 +123,7 @@ thet    θ    50800
 thet    Θ    50801
 theta    θ    50800
 theta    Θ    50801
+time    ×    50800
 times    ×    50800
 to    →    50800
 u    ū    50800

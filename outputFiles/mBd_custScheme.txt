@@ -474,7 +474,7 @@ adn    茂    藏
 adna    莱布尼茨
 adnf    基层
 adng    苦情
-adnn    藏书
+adnn    藏书    项羽
 adnt    藏    茂    荿
 adny    苦恼    苦心
 adod    蕨类
@@ -13640,7 +13640,7 @@ fcit    云海
 fciw    云雀
 fciy    支流
 fcjf    索马里
-fcjg    却是    动量
+fcjg    动量
 fcjh    刦
 fcjj    去日
 fcjn    朅
@@ -14253,7 +14253,7 @@ fgg    干    二
 fggc    起不到
 fggd    雨天
 fggf    十恶不赦
-fggg    十五    十一
+fggg    十一    十五
 fggh    干
 fggk    坏事    干事
 fggn    无事不登三宝殿
@@ -41652,6 +41652,8 @@ othh    数得上
 othj    糌
 othn    熄
 othp    烻
+otim    ⊗
+otimes    ⊗
 otk    烙
 otkg    烙
 otkm    业务员
@@ -41995,7 +41997,7 @@ oynx    熝    麊
 oyny    米尺
 oyo    燮
 oyoc    燮
-oyod    糖类    㷜
+oyod    糖类    米糊    㷜
 oyof    炉灶
 oyog    糖精
 oyon    㽊
@@ -42112,6 +42114,8 @@ paqs    字斟句酌
 para    ∥
 parallel    ∥
 parp    安营扎寨
+part    ∂
+partial    ∂
 parw    神工鬼斧
 pasi    究其根源
 pasw    宽松
@@ -44913,7 +44917,7 @@ qayk    错误
 qayl    负荆请罪
 qayn    错词    铓    鋩    錺
 qayo    鴟
-qayp    䢑
+qayp    龟苓膏    䢑
 qayt    氏族
 qayv    昏庸
 qayw    错认    㲳
@@ -49438,7 +49442,7 @@ rdqw    振铃
 rdqy    排卵
 rdrc    拜把
 rdrd    拜拜
-rdrh    拜年    拓扑    拔掉
+rdrh    拓扑    拜年    拔掉
 rdri    排挡
 rdrl    挑三拣四
 rdrm    所有制
@@ -58091,6 +58095,7 @@ tfyo    行迹
 tfyr    告诉
 tfys    徐志摩
 tfyt    德州    赞许    行旅
+tfyu    靠谱
 tfyw    午夜
 tfyx    造诣
 tfyy    行文    造访
@@ -58764,6 +58769,7 @@ tikq    血泪史
 tilk    稍加
 tilw    科学界
 tim    徜
+time    ×
 times    ×
 timi    和光同尘
 timk    徜
@@ -60561,7 +60567,7 @@ ttew    笑脸
 ttf    筅    笔
 ttff    条条块块
 ttfg    毛毛雨
-ttfh    笔直    䄭    筕
+ttfh    笔直    彳亍    䄭    筕
 ttfj    秊
 ttfk    筶
 ttfm    穳    籫
@@ -71463,7 +71469,7 @@ wykt    贪吃
 wykv    念叨
 wyl    伪
 wyld    领罪
-wylf    集团
+wylf    集团    偏置
 wylg    停车    邻国    儃
 wylk    领回
 wylt    领略    贪图

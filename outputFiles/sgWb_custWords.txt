@@ -330,6 +330,7 @@ adna	莱布尼茨
 adnf	基层
 adng	苦情
 adnn	藏书
+adnn	项羽
 adny	苦恼
 adny	苦心
 adod	蕨类
@@ -10041,7 +10042,6 @@ fcit	云海
 fciw	云雀
 fciy	支流
 fcjf	索马里
-fcjg	却是
 fcjg	动量
 fcjj	去日
 fcjs	翅果
@@ -10537,8 +10537,8 @@ fgfv	雨雪
 fggc	起不到
 fggd	雨天
 fggf	十恶不赦
-fggg	十五
 fggg	十一
+fggg	十五
 fggk	坏事
 fggk	干事
 fggn	无事不登三宝殿
@@ -31740,6 +31740,7 @@ oyng	煽情
 oyni	糖尿
 oyny	米尺
 oyod	糖类
+oyod	米糊
 oyof	炉灶
 oyog	糖精
 oyoo	炉火
@@ -34041,6 +34042,7 @@ qaxp	错综
 qayk	错误
 qayl	负荆请罪
 qayn	错词
+qayp	龟苓膏
 qayt	氏族
 qayv	昏庸
 qayw	错认
@@ -37181,8 +37183,8 @@ rdqw	振铃
 rdqy	排卵
 rdrc	拜把
 rdrd	拜拜
-rdrh	拜年
 rdrh	拓扑
+rdrh	拜年
 rdrh	拔掉
 rdri	排挡
 rdrl	挑三拣四
@@ -44010,6 +44012,7 @@ tfys	徐志摩
 tfyt	德州
 tfyt	赞许
 tfyt	行旅
+tfyu	靠谱
 tfyw	午夜
 tfyx	造诣
 tfyy	行文
@@ -46040,6 +46043,7 @@ ttew	笑脸
 ttff	条条块块
 ttfg	毛毛雨
 ttfh	笔直
+ttfh	彳亍
 ttfn	笑声
 ttft	笔者
 ttfy	身先士卒
@@ -54684,6 +54688,7 @@ wykt	贪吃
 wykv	念叨
 wyld	领罪
 wylf	集团
+wylf	偏置
 wylg	停车
 wylg	邻国
 wylk	领回

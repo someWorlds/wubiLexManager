@@ -514,6 +514,7 @@
 基层adnf
 苦情adng
 藏书adnn
+项羽adnn
 藏adnt
 茂adnt
 荿adnt
@@ -14643,7 +14644,6 @@
 云雀fciw
 支流fciy
 索马里fcjf
-却是fcjg
 动量fcjg
 刦fcjh
 去日fcjj
@@ -15318,8 +15318,8 @@
 起不到fggc
 雨天fggd
 十恶不赦fggf
-十五fggg
 十一fggg
+十五fggg
 干fggh
 坏事fggk
 干事fggk
@@ -46152,6 +46152,7 @@
 燮oyo
 燮oyoc
 糖类oyod
+米糊oyod
 炉灶oyof
 糖精oyog
 炉火oyoo
@@ -49464,6 +49465,7 @@
 鋩qayn
 錺qayn
 鴟qayo
+龟苓膏qayp
 氏族qayt
 昏庸qayv
 错认qayw
@@ -54940,8 +54942,8 @@
 排卵rdqy
 拜把rdrc
 拜拜rdrd
-拜年rdrh
 拓扑rdrh
+拜年rdrh
 拔掉rdrh
 排挡rdri
 挑三拣四rdrl
@@ -64930,6 +64932,7 @@
 德州tfyt
 赞许tfyt
 行旅tfyt
+靠谱tfyu
 午夜tfyw
 造诣tfyx
 行文tfyy
@@ -65784,6 +65787,7 @@
 稍加tilk
 科学界tilw
 徜tim
+×time
 ×times
 和光同尘timi
 徜timk
@@ -67776,6 +67780,7 @@
 条条块块ttff
 毛毛雨ttfg
 笔直ttfh
+彳亍ttfh
 筕ttfh
 秊ttfj
 筶ttfk
@@ -80014,6 +80019,7 @@
 伪wyl
 领罪wyld
 集团wylf
+偏置wylf
 停车wylg
 邻国wylg
 儃wylg
