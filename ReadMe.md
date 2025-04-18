@@ -1,17 +1,44 @@
 # 五笔词库管理器
 
 ## 简介
-五笔词库管理器，用于编辑五笔码表，生成挂接文件，可挂接到搜狗拼音、搜狗五笔与手机搜狗输入法中。
-
-> 1. 内含方案为86五笔方案，包含汉字范围为cjkv基本区、扩展a区和标点区补充的“〇”。
-> 2. 字根图基于86五笔方案，加入部分繁体字根，并修正错误字根，e.g. 麸 gqfw $\to$ gtfw，囱 tlq $\to$ tlt。
-    ![五笔字根表](./images/wubiRadicals_86_加入繁体字根_易读版.jpg)
+1. 生成各主流输入法的五笔挂接文件，如搜狗输入法（PC与Android端）、搜狗五笔（PC端）、百度输入法（Android端）等。
+2. 支持自定义汉字范围，默认汉字范围为CJKV基本区+扩展A区+部分补充字，可扩展至全部CJKV象形字符。（需要注意输入法软件的挂接文件会有词条数限制，如搜狗拼音输入法的自定义短语上限10万，百度输入法的自定义方案上限20万。）
+3. 支持自定义汉字码表，默认汉字码表基于86五笔方案。（在86方案基础上加入部分繁体字根，并修正错误字根，e.g. 麸 gqfw $\to$ gtfw，囱 tlq $\to$ tlt。）![五笔字根表](./images/wubiRadicals_86_加入繁体字根_易读版.jpg)
+4. 支持添加任意Unicode字符，且自定义编码。
 
 ## 功能
-### 编辑码表
-编辑码表时，可输入字符串命令行进行控制。
+### 生成挂接文件
 
-#### 命令行格式
+运行`main.py`，即可生成挂接文件。挂接文件位于`./outputFiles`，可直接导入相应输入法软件使用。
+
+- 搜狗输入法（PC端）
+
+    将`sgPy_custPhrases.txt`导入自定义短语。
+
+- 搜狗输入法（Android端）
+    
+    将`mSg_custScheme.txt`导入自定义五笔方案，将`mSg_custPhrases.csv`导入常用语。
+
+- 搜狗五笔输入法（PC端）
+
+    将`sgWb_custChars.txt`导入自定义五笔方案，将`sgWb_custWords.txt`导入用户词汇，将`sgWb_custPhrases.txt`导入自定义短语。
+
+- 百度输入法（Android端小米版）
+
+    利用[点讯输入法词库管理工具](https://github.com/someWorlds/dianxunLibTool)，将`mBd_custScheme_mi.txt`转成软件自定义方案的`.bin`格式, 将其导入自定义方案。
+
+- 百度输入法（Android端）
+
+    将`mBd_custScheme.txt`导入自定义五笔方案。
+
+> 含后缀`_withPi`与不含后缀的文件的区别为是否包含私人信息等敏感词汇，可自行选择使用。
+
+
+### 编辑码表
+- 直接编辑`./custWubiLex`目录下的相应`.yaml`文件修改码表。
+- 可运行`main.py`，在命令行输入以下格式的字符串，以修改码表文件。
+
+#### 命令行字符串格式
 ``` cmd
 rem  编辑字词：
 [一-鿿㐀-䶿〇]+    [0-9]?    (?<=[1-9]?[ \t]+)[1-4]?
@@ -63,30 +90,3 @@ rem  删除，指定编码“wbn”，短语“五笔词库管理器nice”
 ```
 
 > 私人信息敏感词条，需手动添加，目标文件`words_pi.yaml`、`syms_pi.yaml`。
-
-
-
-### 导出挂接文件
-挂接文件位于`./outputFiles`，可直接导入相应输入法软件使用。
-
-- 搜狗拼音输入法
-
-    将`sgPy_custPhrases.txt`导入自定义短语。
-
-- 手机搜狗输入法
-    
-    将`mSg_custScheme.txt`导入自定义五笔方案，将`mSg_custPhrases.csv`导入常用语。
-
-- 搜狗五笔输入法
-
-    将`sgWb_custChars.txt`导入自定义五笔方案，将`sgWb_custWords.txt`导入用户词汇，将`sgWb_custPhrases.txt`导入自定义短语。
-
-- 手机百度输入法小米版
-
-    利用[点讯输入法词库管理工具](https://github.com/someWorlds/dianxunLibTool)，将`mBd_custScheme_mi.txt`转成软件自定义方案的`.bin`格式, 将其导入自定义方案。
-
-- 手机百度输入法
-
-    将`mBd_custScheme.txt`导入自定义五笔方案。
-
-> 含后缀`_withPi`的文件为包含私人信息等敏感词汇的文件版本。

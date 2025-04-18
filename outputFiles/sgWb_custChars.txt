@@ -21570,6 +21570,7 @@ qxxr	锴
 qxxr	鍇
 qxxt	鐖
 qy	久
+qy	鸟
 qya	镀
 qyac	镀
 qyac	鍍
@@ -21616,8 +21617,8 @@ qymk	鎬
 qymn	钪
 qymn	鈧
 qyn	钫
-qyn	鈁
 qyn	鸟
+qyn	鈁
 qyn	岛
 qyn	枭
 qyn	袅

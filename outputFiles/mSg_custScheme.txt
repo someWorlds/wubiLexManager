@@ -25592,6 +25592,7 @@ hchw	颇具
 hci	皮
 hcjc	㿸
 hcjh	㓟
+hcjy	皮影
 hck	眙
 hckg	眙
 hclk	眼观四路
@@ -58034,6 +58035,7 @@ qxxr	鍇
 qxxt	鐖
 qxys	钢丝床
 qy	久
+qy	鸟
 qya	镀
 qyac	镀
 qyac	勉为其难
@@ -58147,8 +58149,8 @@ qymn	钪
 qymn	鈧
 qymw	岛内
 qyn	钫
-qyn	鈁
 qyn	鸟
+qyn	鈁
 qyn	岛
 qyn	枭
 qyn	袅
@@ -63618,8 +63620,8 @@ rwvt	失群
 rww	挫
 rwwa	迭代
 rwwa	抚今追昔
-rwwf	挫
 rwwf	失传
+rwwf	挫
 rwwg	推倒
 rwwg	推拿
 rwwg	擒拿

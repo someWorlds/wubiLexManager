@@ -16922,6 +16922,7 @@ hcgk	皮带
 hcgu	皮夹
 hchk	点对点
 hchw	颇具
+hcjy	皮影
 hclk	眼观四路
 hcmh	皮帽
 hcmw	皮肉

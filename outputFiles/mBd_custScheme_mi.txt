@@ -23770,6 +23770,7 @@
 点对点hchk
 颇具hchw
 皮hci
+皮影hcjy
 眙hck
 眙hckg
 眼观四路hclk
@@ -53909,6 +53910,7 @@
 鐖qxxt
 钢丝床qxys
 久qy
+鸟qy
 镀qya
 镀qyac
 勉为其难qyac
@@ -54019,8 +54021,8 @@
 鈧qymn
 岛内qymw
 钫qyn
-鈁qyn
 鸟qyn
+鈁qyn
 岛qyn
 枭qyn
 袅qyn
@@ -59254,8 +59256,8 @@
 挫rww
 迭代rwwa
 抚今追昔rwwa
-挫rwwf
 失传rwwf
+挫rwwf
 推倒rwwg
 推拿rwwg
 擒拿rwwg
