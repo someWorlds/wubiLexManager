@@ -6625,7 +6625,7 @@ cfyk    圣训
 cfym    对调
 cfyn    对词
 cfyo    对弈
-cfyt    圣诞    对话
+cfyt    对话    圣诞
 cfyy    对方
 cg    骊
 cgal    驑
@@ -16090,7 +16090,7 @@ fqfh    无趣
 fqfi    均未    㝴
 fqfj    元朝
 fqfk    索然无味
-fqfn    无声    远场
+fqfn    远场    无声
 fqfp    无过
 fqfq    远远
 fqfr    博尔塔拉    声名远播
@@ -73536,6 +73536,7 @@ xup    缔
 xupf    弱冠
 xupg    缮写
 xuph    缔    締
+xupw    弹窗
 xupy    弱视    縍
 xuq    绞
 xuqk    疑问句

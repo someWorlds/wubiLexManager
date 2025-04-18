@@ -4709,8 +4709,8 @@ cfyk	圣训
 cfym	对调
 cfyn	对词
 cfyo	对弈
-cfyt	圣诞
 cfyt	对话
+cfyt	圣诞
 cfyy	对方
 cgce	能不能
 cgcf	对不对
@@ -12068,8 +12068,8 @@ fqfh	无趣
 fqfi	均未
 fqfj	元朝
 fqfk	索然无味
-fqfn	无声
 fqfn	远场
+fqfn	无声
 fqfp	无过
 fqfq	远远
 fqfr	博尔塔拉
@@ -56258,6 +56258,7 @@ xunn	线装书
 xunt	弹性
 xupf	弱冠
 xupg	缮写
+xupw	弹窗
 xupy	弱视
 xuqk	疑问句
 xuqs	绞杀
