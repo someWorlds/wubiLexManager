@@ -155,6 +155,7 @@ v	ǜ
 vee	∨
 vf	那么
 vft	那么
+vk	如何
 wedg	∧
 wedge	∧
 wf	什么

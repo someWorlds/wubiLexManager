@@ -43921,9 +43921,10 @@ tftx	等第
 tfty	迁入
 tfty	迁往
 tfuc	告竣
-tfud	等着
-tfud	街头
 tfud	告状
+tfud	街头
+tfud	等着
+tfud	待着
 tfue	先前
 tfuf	行装
 tfug	毛病
@@ -44252,6 +44253,7 @@ tgud	生养
 tgue	生前
 tguf	重装
 tgug	生病
+tgug	生姜
 tgug	重病
 tguj	生意
 tguk	垂问
@@ -44838,6 +44840,7 @@ tjta	篮筐
 tjtc	知易行难
 tjtd	得知
 tjtd	香甜
+tjte	复盘
 tjtf	筛选
 tjtf	复选
 tjtg	复生

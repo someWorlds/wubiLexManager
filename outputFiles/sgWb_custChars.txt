@@ -7966,6 +7966,7 @@ gntt	珌
 gnty	攷
 gnu	忢
 gnv	丂
+gnw	玦
 gnwe	璆
 gnwy	玦
 gny	瓦
@@ -13404,6 +13405,7 @@ knt	嘱
 knt	㕧
 kntt	咇
 knty	嘱
+knw	吷
 knwe	嘐
 knwy	嚁
 knwy	吷
@@ -22572,9 +22574,9 @@ rnud	氧
 rnuh	搱
 rnv	氯
 rnvi	氯
+rnw	抉
 rnw	氛
 rnw	擢
-rnw	抉
 rnwe	摎
 rnwv	氛
 rnwy	擢
@@ -28201,8 +28203,8 @@ unte	閟
 unua	竮
 unuh	㦚
 unv	㽶
-unw	瘳
 unw	决
+unw	瘳
 unwe	瘳
 unwi	疦
 unwi	䦑
@@ -29365,9 +29367,10 @@ vnux	鼧
 vnuy	䶆
 vnuy	䶂
 vnuy	鼤
+vnw	妜
 vnwe	嫪
-vnwy	妜
 vnwy	嬥
+vnwy	妜
 vnx	妮
 vnxn	妮
 vny	姒
@@ -33475,9 +33478,9 @@ ynv	亡
 ynv	妄
 ynvf	妄
 ynvh	肁
+ynw	诀
 ynw	廖
 ynw	雇
-ynw	诀
 ynw	谬
 ynwe	廖
 ynwe	谬

@@ -21852,6 +21852,7 @@
 丂gnv
 瓦刀gnvn
 不怀好意gnvu
+玦gnw
 璆gnwe
 与会gnwf
 瓦全gnwg
@@ -35404,6 +35405,7 @@
 叫道knut
 叫门knuy
 叫好knvb
+吷knw
 叫做knwd
 嘐knwe
 吊民伐罪knwl
@@ -57061,9 +57063,9 @@
 氯rnv
 拟建rnvf
 氯rnvi
+抉rnw
 氛rnw
 擢rnw
-抉rnw
 掉书袋rnwa
 所做rnwd
 摎rnwe
@@ -64830,9 +64832,10 @@
 乖tfu
 穑tfu
 告竣tfuc
-等着tfud
-街头tfud
 告状tfud
+街头tfud
+等着tfud
+待着tfud
 先前tfue
 行装tfuf
 毛病tfug
@@ -65248,6 +65251,7 @@
 重装tguf
 埀tguf
 生病tgug
+生姜tgug
 重病tgug
 秤tguh
 生意tguj
@@ -66040,6 +66044,7 @@
 知易行难tjtc
 得知tjtd
 香甜tjtd
+复盘tjte
 筛选tjtf
 复选tjtf
 复生tjtg
@@ -71462,8 +71467,8 @@
 痛心疾首unuu
 癖好unvb
 遂心如意unvu
-瘳unw
 决unw
+瘳unw
 瘳unwe
 疦unwi
 竭尽全力unwl
@@ -74271,6 +74276,7 @@
 婫vjxx
 如日方升vjyt
 如vk
+如何vk
 如期vkad
 如若vkad
 如斯vkad
@@ -74571,6 +74577,7 @@
 鼹鼠vnvn
 妃嫔vnvp
 刀刃vnvy
+妜vnw
 嫪vnwe
 刀剑vnwg
 刀斧vnwq
@@ -74578,8 +74585,8 @@
 刀伤vnwt
 刀俎vnww
 女性化vnwx
-妜vnwy
 嬥vnwy
+妜vnwy
 妮vnx
 妮vnxn
 姒vny
@@ -85525,9 +85532,9 @@
 刻刀ynvn
 亡灵ynvo
 高屋建瓴ynvw
+诀ynw
 廖ynw
 雇ynw
-诀ynw
 谬ynw
 廖ynwe
 雇佣ynwe

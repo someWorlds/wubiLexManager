@@ -23520,6 +23520,7 @@ gnum	开发商
 gnv	丂
 gnvn	瓦刀
 gnvu	不怀好意
+gnw	玦
 gnwe	璆
 gnwf	与会
 gnwg	瓦全
@@ -38015,6 +38016,7 @@ knty	嘱
 knut	叫道
 knuy	叫门
 knvb	叫好
+knw	吷
 knwd	叫做
 knwe	嘐
 knwl	吊民伐罪
@@ -61341,9 +61343,9 @@ rnuy	气门
 rnv	氯
 rnvf	拟建
 rnvi	氯
+rnw	抉
 rnw	氛
 rnw	擢
-rnw	抉
 rnwa	掉书袋
 rnwd	所做
 rnwe	摎
@@ -69684,9 +69686,10 @@ tfu	乖
 tfu	穑
 tfuc	告竣
 tfuc	㪓
-tfud	等着
-tfud	街头
 tfud	告状
+tfud	街头
+tfud	等着
+tfud	待着
 tfue	先前
 tfuf	行装
 tfug	毛病
@@ -70134,6 +70137,7 @@ tgue	生前
 tguf	重装
 tguf	埀
 tgug	生病
+tgug	生姜
 tgug	重病
 tguh	秤
 tguj	生意
@@ -70977,6 +70981,7 @@ tjta	篮筐
 tjtc	知易行难
 tjtd	得知
 tjtd	香甜
+tjte	复盘
 tjtf	筛选
 tjtf	复选
 tjtg	复生
@@ -76917,8 +76922,8 @@ unuu	痛心疾首
 unv	㽶
 unvb	癖好
 unvu	遂心如意
-unw	瘳
 unw	决
+unw	瘳
 unwe	瘳
 unwi	疦
 unwi	䦑
@@ -79915,6 +79920,7 @@ vjvv	娼妇
 vjxx	婫
 vjyt	如日方升
 vk	如
+vk	如何
 vkad	如期
 vkad	如若
 vkad	如斯
@@ -80266,6 +80272,7 @@ vnvn	娓娓
 vnvn	鼹鼠
 vnvp	妃嫔
 vnvy	刀刃
+vnw	妜
 vnwe	嫪
 vnwg	刀剑
 vnwq	刀斧
@@ -80273,8 +80280,8 @@ vnwr	如臂使指
 vnwt	刀伤
 vnww	刀俎
 vnwx	女性化
-vnwy	妜
 vnwy	嬥
+vnwy	妜
 vnx	妮
 vnxn	妮
 vny	姒
@@ -91964,9 +91971,9 @@ ynvi	刻录
 ynvn	刻刀
 ynvo	亡灵
 ynvw	高屋建瓴
+ynw	诀
 ynw	廖
 ynw	雇
-ynw	诀
 ynw	谬
 ynwe	廖
 ynwe	雇佣
