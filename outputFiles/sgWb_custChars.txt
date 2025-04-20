@@ -8034,6 +8034,7 @@ gpwk	瑢
 gpws	琛
 gpwt	瑏
 gq	列
+gq	死
 gqaa	殘
 gqag	殣
 gqah	殢
@@ -25881,6 +25882,7 @@ tgxg	䇘
 tgxh	䘘
 tgxw	䄺
 th	处
+th	怎
 tha	算
 thaj	算
 thaj	㔍

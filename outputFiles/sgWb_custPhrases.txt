@@ -126,7 +126,6 @@ tau	τ
 tau	Τ
 td	知道
 th	自己
-th	怎么
 the	∴
 ther	∴
 there	∴

@@ -20223,7 +20223,7 @@ gpyn    形容词
 gpyu    束之高阁
 gpyw    平安夜
 gpyy    现实主义
-gq    列
+gq    列    死
 gqaa    殘
 gqab    殉节
 gqad    死期
@@ -58408,7 +58408,7 @@ tgys    征订
 tgyt    重话
 tgyw    臭豆腐
 tgyy    征文
-th    处    自己    怎么
+th    处    自己    怎
 tha    算
 thaa    版式
 thad    延期    自荐    自若
@@ -71323,7 +71323,7 @@ wxyt    华诞
 wxyv    货郎
 wxyw    华府
 wxyy    华文
-wy    信    今天    今
+wy    信    今    今天
 wyaa    仪式    停工
 wyad    储藏    坐享其成
 wyae    集散

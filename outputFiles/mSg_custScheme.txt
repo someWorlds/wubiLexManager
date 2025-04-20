@@ -23805,6 +23805,7 @@ gpyu	束之高阁
 gpyw	平安夜
 gpyy	现实主义
 gq	列
+gq	死
 gqaa	殘
 gqab	殉节
 gqad	死期
@@ -70222,7 +70223,7 @@ tgyw	臭豆腐
 tgyy	征文
 th	处
 th	自己
-th	怎么
+th	怎
 tha	算
 thaa	版式
 thad	延期
@@ -85888,8 +85889,8 @@ wxyv	货郎
 wxyw	华府
 wxyy	华文
 wy	信
-wy	今天
 wy	今
+wy	今天
 wyaa	仪式
 wyaa	停工
 wyad	储藏
