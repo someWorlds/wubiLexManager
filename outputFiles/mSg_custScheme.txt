@@ -15428,7 +15428,10 @@ eyyt	脏话
 eyyy	受让方
 f	地
 f	土
+f	士
 f	干
+f	寸
+f	雨
 fa	载
 faaa	塔式
 faad	堪萨斯
@@ -16501,6 +16504,11 @@ ffyw	二元论
 ffyx	麉
 ffyy	土方
 fg	二
+fg	干
+fg	雨
+fg	十
+fg	寸
+fg	士
 fgab	封妻荫子
 fgad	二期
 fgae	干菜
@@ -16563,8 +16571,8 @@ fgfa	十载
 fgfc	过不去
 fgff	直来直去
 fgfg	博士
-fgfg	二十
 fgfg	十二
+fgfg	二十
 fgfg	埡
 fgfh	越来越
 fgfh	圩
@@ -16594,9 +16602,9 @@ fggq	䥅
 fggr	雨珠
 fggw	无恶不作
 fgh	十
+fgh	寸
 fgh	雨
 fgh	士
-fgh	寸
 fghg	士
 fghh	赶不上
 fghi	进一步
@@ -35451,6 +35459,7 @@ jxxw	歞
 jxyi	曵
 jxyx	䘎
 jy	景
+jy	蚊
 jyaa	旷工
 jyah	蛀牙
 jyai	旷荡

@@ -5696,7 +5696,10 @@ eyxy	臃
 eyxy	胘
 f	地
 f	土
+f	士
 f	干
+f	寸
+f	雨
 fa	载
 fad	堪
 fadg	韯
@@ -6020,6 +6023,11 @@ ffxf	鼃
 ffxg	䵷
 ffyx	麉
 fg	二
+fg	干
+fg	雨
+fg	十
+fg	寸
+fg	士
 fgal	㙧
 fgbn	坉
 fgc	垤
@@ -6039,9 +6047,9 @@ fgg	二
 fggh	干
 fggq	䥅
 fgh	十
+fgh	寸
 fgh	雨
 fgh	士
-fgh	寸
 fghg	士
 fgho	墕
 fghu	雫
@@ -12201,6 +12209,7 @@ jxxw	歞
 jxyi	曵
 jxyx	䘎
 jy	景
+jy	蚊
 jyao	蟅
 jyaw	曠
 jyb	暾

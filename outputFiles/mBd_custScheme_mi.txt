@@ -14236,7 +14236,10 @@
 受让方eyyy
 地f
 土f
+士f
 干f
+寸f
+雨f
 载fa
 塔式faaa
 堪萨斯faad
@@ -15241,6 +15244,11 @@
 麉ffyx
 土方ffyy
 二fg
+干fg
+雨fg
+十fg
+寸fg
+士fg
 封妻荫子fgab
 二期fgad
 干菜fgae
@@ -15300,8 +15308,8 @@
 过不去fgfc
 直来直去fgff
 博士fgfg
-二十fgfg
 十二fgfg
+二十fgfg
 埡fgfg
 越来越fgfh
 圩fgfh
@@ -15330,9 +15338,9 @@
 雨珠fggr
 无恶不作fggw
 十fgh
+寸fgh
 雨fgh
 士fgh
-寸fgh
 士fghg
 赶不上fghh
 进一步fghi
@@ -33032,6 +33040,7 @@
 歞jxxw
 曵jxyi
 景jy
+蚊jy
 旷工jyaa
 蛀牙jyah
 旷荡jyai

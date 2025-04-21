@@ -13261,7 +13261,7 @@ eyxt    脉络
 eyxy    臃    胘
 eyyt    脏话
 eyyy    受让方
-f    地    土    干
+f    地    土    士    干    寸    雨
 fa    载
 faaa    塔式
 faad    堪萨斯
@@ -14188,7 +14188,7 @@ ffyt    土话
 ffyw    二元论
 ffyx    麉
 ffyy    土方
-fg    二
+fg    二    干    雨    十    寸    士
 fgab    封妻荫子
 fgad    二期
 fgae    干菜
@@ -14239,7 +14239,7 @@ fgf    圩
 fgfa    十堰    十载
 fgfc    过不去
 fgff    直来直去
-fgfg    博士    二十    十二    埡
+fgfg    博士    十二    二十    埡
 fgfh    越来越    圩
 fgfj    寸进
 fgfk    雨露
@@ -14261,7 +14261,7 @@ fggo    二来
 fggq    喜形于色    坏死    䥅
 fggr    雨珠
 fggw    无恶不作
-fgh    十    雨    士    寸
+fgh    十    寸    雨    士
 fghg    士
 fghh    赶不上
 fghi    进一步
@@ -30099,7 +30099,7 @@ jxxt    蟣
 jxxw    歞
 jxyi    曵
 jxyx    䘎
-jy    景
+jy    景    蚊
 jyaa    旷工
 jyah    蛀牙
 jyai    旷荡

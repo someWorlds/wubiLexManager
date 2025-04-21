@@ -10523,8 +10523,8 @@ fgfa	十载
 fgfc	过不去
 fgff	直来直去
 fgfg	博士
-fgfg	二十
 fgfg	十二
+fgfg	二十
 fgfh	越来越
 fgfj	寸进
 fgfk	雨露
