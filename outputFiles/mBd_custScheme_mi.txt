@@ -294,6 +294,7 @@
 荫庇abyx
 芭ac
 茅ac
+苡ac
 茎aca
 芭蕾acaf
 茎acaf
@@ -3527,6 +3528,7 @@
 获益匪浅auai
 荓auaj
 蒹葭auan
+薏苡auan
 蒺藜auat
 蒴aub
 燕子aubb
@@ -25594,6 +25596,7 @@
 池州ibyt
 滁州ibyt
 汉ic
+泤ic
 泾ica
 汗马功劳icaa
 泾icag
@@ -44213,6 +44216,7 @@
 尼康nxyv
 惤nxyx
 心ny
+以ny
 以其nyad
 心散nyae
 心甘nyaf
@@ -54548,6 +54552,7 @@
 报文rbyy
 反rc
 把rc
+拟rc
 拚rca
 返工rcaa
 把式rcaa
@@ -56798,6 +56803,7 @@
 投放rmyt
 所rn
 所以rn
+拟rn
 气rn
 抿rna
 搌rna
@@ -57086,6 +57092,7 @@
 气体rnws
 扭伤rnwt
 氛rnwv
+拟人rnww
 氧化rnwx
 擢rnwy
 握住rnwy
@@ -63618,6 +63625,7 @@
 季度tbya
 得陇望蜀tbyl
 么tc
+笖tc
 径tca
 私藏tcad
 径tcag
@@ -73511,6 +73519,7 @@
 好说vbyu
 好文vbyy
 妈vc
+姒vc
 既vca
 暨vca
 即若vcad
@@ -75728,6 +75737,7 @@
 仔畜wbyx
 他方wbyy
 公wc
+似wc
 公式wcaa
 俊雅wcah
 公墓wcaj
@@ -75857,6 +75867,7 @@
 公称wctq
 公物wctr
 仅剩wctu
+似乎wctu
 倚马千言wcty
 公wcu
 公关wcud

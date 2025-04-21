@@ -3,6 +3,7 @@ a	ā
 a	á
 a	ǎ
 a	à
+ac	苡
 ad	其实
 ai	东西
 ai	Å
@@ -55,6 +56,7 @@ i	ī
 i	í
 i	ǐ
 i	ì
+ic	泤
 iff	⇔
 im	没有
 in	∈
@@ -112,6 +114,7 @@ propto	∝
 psi	ψ
 psi	Ψ
 qq	多多
+rc	拟
 rho	ρ
 rho	Ρ
 rn	所以
@@ -124,6 +127,7 @@ sk	可以
 sk	🉑
 tau	τ
 tau	Τ
+tc	笖
 td	知道
 th	自己
 the	∴
@@ -151,10 +155,13 @@ v	ǖ
 v	ǘ
 v	ǚ
 v	ǜ
+vc	姒
 vee	∨
 vf	那么
 vft	那么
 vk	如何
+wc	似
+wctu	似乎
 wedg	∧
 wedge	∧
 wf	什么

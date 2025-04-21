@@ -282,7 +282,7 @@ abyc    节育
 abyd    巧取豪夺
 abye    节哀
 abyx    荫庇
-ac    芭    茅
+ac    芭    茅    苡
 aca    茎
 acaf    芭蕾    茎
 acag    鞍马劳顿
@@ -3177,7 +3177,7 @@ au    燕
 auab    菩萨
 auai    获益匪浅
 auaj    荓
-auan    蒹葭
+auan    蒹葭    薏苡
 auat    蒺藜
 aub    蒴
 aubb    燕子
@@ -23531,7 +23531,7 @@ ibxk    洛阳纸贵
 ibyn    削职为民
 ibyq    涵义
 ibyt    池州    滁州
-ic    汉
+ic    汉    泤
 ica    泾
 icaa    汗马功劳
 icag    泾
@@ -40192,7 +40192,7 @@ nxyf    以飨读者
 nxyt    屁话
 nxyv    尼康
 nxyx    惤
-ny    心
+ny    心    以
 nyad    以其
 nyae    心散
 nyaf    心甘
@@ -49088,7 +49088,7 @@ rbyn    报废
 rbyp    报亭
 rbyt    报话
 rbyy    报文
-rc    反    把
+rc    反    把    拟
 rca    拚
 rcaa    返工    把式
 rcad    择期
@@ -51102,7 +51102,7 @@ rmym    抽调
 rmyr    投诉
 rmys    制订    揣摩
 rmyt    投放
-rn    所    所以    气
+rn    所    所以    拟    气
 rna    抿    搌
 rnaa    白发苍苍
 rnab    气节
@@ -51346,6 +51346,7 @@ rnwk    气促
 rnws    气体
 rnwt    扭伤
 rnwv    氛
+rnww    拟人
 rnwx    氧化
 rnwy    擢    握住    抉
 rnx    氟
@@ -57103,7 +57104,7 @@ tbwh    季候
 tbwt    篨
 tbya    季度
 tbyl    得陇望蜀
-tc    么
+tc    么    笖
 tca    径
 tcad    私藏
 tcag    径
@@ -65641,7 +65642,7 @@ vbyn    好记
 vbyt    好话
 vbyu    好说
 vbyy    好文
-vc    妈
+vc    妈    姒
 vca    既    暨
 vcad    即若
 vcae    䐴
@@ -67791,7 +67792,7 @@ wbyn    仓房
 wbyu    他说
 wbyx    仔畜
 wbyy    他方
-wc    公
+wc    公    似
 wcaa    公式
 wcah    俊雅
 wcaj    公墓
@@ -67908,7 +67909,7 @@ wctk    公积
 wctl    公务
 wctq    公称
 wctr    公物
-wctu    仅剩
+wctu    仅剩    似乎
 wcty    倚马千言
 wcu    公
 wcud    公关    公差    公判

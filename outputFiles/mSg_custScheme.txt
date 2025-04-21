@@ -3888,6 +3888,7 @@ auab	菩萨
 auai	获益匪浅
 auaj	荓
 auan	蒹葭
+auan	薏苡
 auat	蒺藜
 aub	蒴
 aubb	燕子
@@ -47589,6 +47590,7 @@ nxyt	屁话
 nxyv	尼康
 nxyx	惤
 ny	心
+ny	以
 nyad	以其
 nyae	心散
 nyaf	心甘
@@ -61063,6 +61065,7 @@ rmys	揣摩
 rmyt	投放
 rn	所
 rn	所以
+rn	拟
 rn	气
 rna	抿
 rna	搌
@@ -61366,6 +61369,7 @@ rnwk	气促
 rnws	气体
 rnwt	扭伤
 rnwv	氛
+rnww	拟人
 rnwx	氧化
 rnwy	擢
 rnwy	握住

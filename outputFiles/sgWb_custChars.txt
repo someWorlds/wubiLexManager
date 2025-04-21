@@ -17062,6 +17062,7 @@ nxxf	悂
 nxxv	屁
 nxyx	惤
 ny	心
+ny	以
 nyaw	懭
 nyb	恼
 nybg	惇
@@ -22478,6 +22479,7 @@ rmwy	抐
 rmwy	皠
 rmxm	罆
 rn	所
+rn	拟
 rn	气
 rna	抿
 rna	搌

@@ -2047,6 +2047,7 @@ atyt	萎谢
 auab	菩萨
 auai	获益匪浅
 auan	蒹葭
+auan	薏苡
 auat	蒺藜
 aubb	燕子
 aubu	工商联
@@ -38762,6 +38763,7 @@ rnwh	气候
 rnwk	气促
 rnws	气体
 rnwt	扭伤
+rnww	拟人
 rnwx	氧化
 rnwy	握住
 rnxf	扭结
