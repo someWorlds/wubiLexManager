@@ -1281,6 +1281,8 @@ amyu	芃
 amyw	㠫
 amyy	巩
 an	世
+an	芯
+an	艺
 ana	苠
 anab	苠
 anb	艺
@@ -10243,6 +10245,7 @@ inx	泥
 inxf	埿
 inxn	泥
 iny	沁
+iny	泤
 inyf	濢
 inyk	瀥
 inyu	浕
@@ -21584,6 +21587,7 @@ qxxr	鍇
 qxxt	鐖
 qy	久
 qy	鸟
+qy	留
 qya	镀
 qyac	镀
 qyac	鍍
@@ -21684,8 +21688,8 @@ qyty	卵
 qyu	镰
 qyuo	镰
 qyuo	鐮
-qyv	贸
 qyv	留
+qyv	贸
 qyv	遛
 qyv	镛
 qyv	锒
@@ -26469,6 +26473,7 @@ tnuh	稺
 tnwe	穋
 tnwy	籊
 tnxn	秜
+tny	笖
 tnyw	笖
 tnyy	鿈
 to	秋

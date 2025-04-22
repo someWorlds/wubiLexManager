@@ -2486,6 +2486,8 @@
 英文amyy
 巩amyy
 世an
+芯an
+艺an
 苠ana
 苠anab
 蔬菜anae
@@ -2625,6 +2627,7 @@
 劳民伤财anwm
 巨像anwq
 甘居人后anwr
+艺体anws
 巨作anwt
 芵anwu
 世仇anwv
@@ -27955,6 +27958,7 @@
 埿inxf
 泥inxn
 沁iny
+泤iny
 濢inyf
 汤剂inyj
 瀥inyk
@@ -37300,6 +37304,7 @@
 軏lgqn
 车钩lgqq
 车铃lgqw
+国贸lgqy
 车把lgrc
 车技lgrf
 车后lgrg
@@ -49881,6 +49886,7 @@
 解压qedf
 触感qedg
 觭qedk
+触碰qedu
 触礁qedw
 名胜古迹qedy
 角膜qeea
@@ -53927,6 +53933,7 @@
 钢丝床qxys
 久qy
 鸟qy
+留qy
 镀qya
 镀qyac
 勉为其难qyac
@@ -54146,8 +54153,8 @@
 枭首qyut
 留痕qyuv
 留门qyuy
-贸qyv
 留qyv
+贸qyv
 遛qyv
 镛qyv
 锒qyv
@@ -66895,6 +66902,7 @@
 迄今tnwy
 籊tnwy
 秜tnxn
+笖tny
 乞讨tnyf
 自以为是tnyj
 自以为tnyl
@@ -74622,6 +74630,7 @@
 灵慧vodh
 灵塔vofa
 灵魂vofc
+灵动vofc
 始料未及vofe
 灵境vofu
 始料不及voge

@@ -2749,6 +2749,8 @@ amyw	㠫
 amyy	英文
 amyy	巩
 an	世
+an	芯
+an	艺
 ana	苠
 anab	苠
 anae	蔬菜
@@ -2899,6 +2901,7 @@ anwi	苍翠欲滴
 anwm	劳民伤财
 anwq	巨像
 anwr	甘居人后
+anws	艺体
 anwt	巨作
 anwu	芵
 anwv	世仇
@@ -30061,6 +30064,7 @@ inx	泥
 inxf	埿
 inxn	泥
 iny	沁
+iny	泤
 inyf	濢
 inyj	汤剂
 inyk	瀥
@@ -40047,6 +40051,7 @@ lgqk	国名
 lgqn	軏
 lgqq	车钩
 lgqw	车铃
+lgqy	国贸
 lgrc	车把
 lgrf	车技
 lgrg	车后
@@ -53691,6 +53696,7 @@ qede	解郁
 qedf	解压
 qedg	触感
 qedk	觭
+qedu	触碰
 qedw	触礁
 qedy	名胜古迹
 qeea	角膜
@@ -58050,6 +58056,7 @@ qxxt	鐖
 qxys	钢丝床
 qy	久
 qy	鸟
+qy	留
 qya	镀
 qyac	镀
 qyac	勉为其难
@@ -58280,8 +58287,8 @@ qyuo	鐮
 qyut	枭首
 qyuv	留痕
 qyuy	留门
-qyv	贸
 qyv	留
+qyv	贸
 qyv	遛
 qyv	镛
 qyv	锒
@@ -71919,6 +71926,7 @@ tnwf	秘传
 tnwy	迄今
 tnwy	籊
 tnxn	秜
+tny	笖
 tnyf	乞讨
 tnyj	自以为是
 tnyl	自以为
@@ -80312,6 +80320,7 @@ vodg	灵感
 vodh	灵慧
 vofa	灵塔
 vofc	灵魂
+vofc	灵动
 vofe	始料未及
 vofu	灵境
 voge	始料不及

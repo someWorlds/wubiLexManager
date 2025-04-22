@@ -1556,6 +1556,7 @@ anwi	苍翠欲滴
 anwm	劳民伤财
 anwq	巨像
 anwr	甘居人后
+anws	艺体
 anwt	巨作
 anwv	世仇
 anww	巨人
@@ -25802,6 +25803,7 @@ lgqi	国玺
 lgqk	国名
 lgqq	车钩
 lgqw	车铃
+lgqy	国贸
 lgrc	车把
 lgrf	车技
 lgrg	车后
@@ -34289,6 +34291,7 @@ qedd	解套
 qede	解郁
 qedf	解压
 qedg	触感
+qedu	触碰
 qedw	触礁
 qedy	名胜古迹
 qeea	角膜
@@ -50900,6 +50903,7 @@ vodg	灵感
 vodh	灵慧
 vofa	灵塔
 vofc	灵魂
+vofc	灵动
 vofe	始料未及
 vofu	灵境
 voge	始料不及
