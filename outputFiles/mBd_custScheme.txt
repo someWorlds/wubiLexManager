@@ -47,7 +47,7 @@ aafo    蘜
 aafr    龩
 aaft    攻其无备
 aafw    工夫
-aafy    落花无言
+aafy    工坊    落花无言
 aaga    甘苦与共
 aagc    工致
 aagf    工于    䒰
@@ -2598,7 +2598,7 @@ apyy    劳方
 aq    区
 aqa    芪
 aqaa    警戒    欧式
-aqab    芪    䣟
+aqab    芪    匹萨    䣟
 aqad    警匪
 aqah    荈    鬵
 aqai    或多或少
@@ -3614,7 +3614,7 @@ aws    茶    荷
 awsc    著作权
 awsf    花枝
 awsg    茶杯    东倒西歪
-awsh    共相
+awsh    花椒    共相
 awsk    荷
 awso    茶楼
 awsp    东食西宿
@@ -5870,6 +5870,7 @@ cadm    颈    戏耍    䪻
 cadt    駥
 cadu    艰苦奋斗
 cadw    骐    騏
+cadx    骁龙
 caeb    戏服
 caep    驱逐
 cafc    驱动
@@ -13598,6 +13599,7 @@ fces    云彩
 fcet    运用    动用
 fceu    翅膀
 fcey    埃及    动脉    动脑
+fcf    运动
 fcfa    运载
 fcfc    运动
 fcfd    运城
@@ -14984,7 +14986,7 @@ fjfh    韩    垾
 fjfj    乾坤    㐩
 fjfk    无影无踪    朝露
 fjfl    埋雷
-fjfm    堤坝
+fjfm    堤坝    进击
 fjfn    朝霞    亁
 fjfp    进过
 fjfq    韩元
@@ -17432,7 +17434,7 @@ gapr    不惑之年
 gapu    开初
 gapv    不落窠臼
 gapw    形容    开窍
-gapy    形神
+gapy    武神    形神
 gaqa    弄错
 gaqc    形色
 gaqe    开解
@@ -17756,7 +17758,7 @@ gdgi    不大不小
 gdgj    天理    蝅    蠺
 gdgk    两码事
 gdgl    不三不四
-gdgm    一而再
+gdgm    一而再    天玑
 gdgo    吞灭
 gdgr    恶有恶报
 gdgt    珬    瑊
@@ -33983,7 +33985,7 @@ ljx    辊
 ljxg    回归线
 ljxx    輥    辊
 ljyh    加盟店
-lk    加
+lk    加    圆
 lkaa    加工    加工
 lkae    加菜
 lkai    回落    回荡
@@ -34111,7 +34113,7 @@ lknk    回避
 lknn    回忆    加快
 lknt    回改
 lknu    㤎
-lkny    加以
+lkny    圆心    加以
 lkoe    加粗
 lkoo    回火
 lkou    加料
@@ -42118,6 +42120,7 @@ paqn    宽饶
 paqs    字斟句酌
 para    ∥
 parallel    ∥
+parn    宽握
 parp    安营扎寨
 part    ∂
 partial    ∂
@@ -44357,7 +44360,7 @@ pwrd    窜扰
 pwrh    察看    窂
 pwri    空挡
 pwrm    空缺    窑
-pwrn    空气
+pwrn    空气    窄握
 pwrp    窘迫    窥探
 pwrq    穷鬼
 pwrr    空白
@@ -48103,6 +48106,7 @@ qudm    镜面
 qudn    錓
 qudp    鎹
 qudq    久闻大名
+qudx    锐龙
 qued    鑨
 queg    鐗
 quej    鎆
@@ -48563,7 +48567,7 @@ qxxn    鈚
 qxxr    锴    鍇
 qxxt    鐖
 qxys    钢丝床
-qy    久    鸟    留
+qy    久    留    鸟
 qya    镀
 qyac    镀    勉为其难    鍍
 qyah    镶牙
@@ -48731,7 +48735,7 @@ qyuo    镰    多谋善断    鐮
 qyut    枭首
 qyuv    留痕
 qyuy    留门
-qyv    留    贸    遛    镛    锒
+qyv    贸    留    遛    镛    锒
 qyvb    鎯    鄮
 qyve    锒    鋃
 qyvg    鹠
@@ -49037,7 +49041,7 @@ rbpj    报审
 rbpl    近卫军
 rbpv    报案
 rbpy    报社
-rbqa    摄氏
+rbqa    报错
 rbqb    报怨
 rbqi    报销
 rbqk    报名
@@ -54492,6 +54496,7 @@ sghh    醒目    配上
 sghk    西点    酣战    酟
 sghn    酣眠
 sgho    㯊
+sghp    酷睿
 sghq    西餐
 sght    酣睡
 sghv    醒眼
@@ -58412,7 +58417,7 @@ tgys    征订
 tgyt    重话
 tgyw    臭豆腐
 tgyy    征文
-th    处    自己    怎
+th    处    自己    怎么
 tha    算
 thaa    版式
 thad    延期    自荐    自若
@@ -58646,6 +58651,7 @@ thss    自焚
 thsu    怎样    臬
 thsw    自检
 thsy    算术    自述
+tht    怎么
 thta    延长    处长
 thtc    怎么    自私
 thtd    自知    自筹
@@ -59762,6 +59768,7 @@ toad    愁苦
 toak    释惑
 toal    番茄    番薯
 toaq    秋菊
+toaw    秋葵
 tobb    篓子
 tobf    䎹
 tobm    翻出
@@ -68880,6 +68887,7 @@ whkl    个别
 whkq    修史
 whkr    侦听
 whlg    修车    候车
+whlq    修罗
 whlt    企图
 whlw    侦办
 whm    侦
@@ -77319,6 +77327,7 @@ yuhc    廉颇
 yuhx    说些
 yuif    说法    廉洁
 yuig    说清
+yuin    麻辣烫
 yuj    谙
 yuje    说明
 yujg    谙    諳

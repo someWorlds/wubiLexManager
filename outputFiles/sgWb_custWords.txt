@@ -32,6 +32,7 @@ aafh	苏东坡
 aafn	工场
 aaft	攻其无备
 aafw	工夫
+aafy	工坊
 aafy	落花无言
 aaga	甘苦与共
 aagc	工致
@@ -1706,6 +1707,7 @@ apyw	荣膺
 apyy	劳方
 aqaa	警戒
 aqaa	欧式
+aqab	匹萨
 aqad	警匪
 aqai	或多或少
 aqaj	区划
@@ -2350,6 +2352,7 @@ awsc	著作权
 awsf	花枝
 awsg	茶杯
 awsg	东倒西歪
+awsh	花椒
 awsh	共相
 awso	茶楼
 awsp	东食西宿
@@ -4073,6 +4076,7 @@ cacu	骐骥
 cadc	戏码
 cadm	戏耍
 cadu	艰苦奋斗
+cadx	骁龙
 caeb	戏服
 caep	驱逐
 cafc	驱动
@@ -11212,6 +11216,7 @@ fjfk	无影无踪
 fjfk	朝露
 fjfl	埋雷
 fjfm	堤坝
+fjfm	进击
 fjfn	朝霞
 fjfp	进过
 fjfq	韩元
@@ -13200,6 +13205,7 @@ gapu	开初
 gapv	不落窠臼
 gapw	形容
 gapw	开窍
+gapy	武神
 gapy	形神
 gaqa	弄错
 gaqc	形色
@@ -13496,6 +13502,7 @@ gdgj	天理
 gdgk	两码事
 gdgl	不三不四
 gdgm	一而再
+gdgm	天玑
 gdgo	吞灭
 gdgr	恶有恶报
 gdgu	天平
@@ -26129,6 +26136,7 @@ lknk	回避
 lknn	回忆
 lknn	加快
 lknt	回改
+lkny	圆心
 lkny	加以
 lkoe	加粗
 lkoo	回火
@@ -31833,6 +31841,7 @@ paqe	宽解
 paqk	宽免
 paqn	宽饶
 paqs	字斟句酌
+parn	宽握
 parp	安营扎寨
 parw	神工鬼斧
 pasi	究其根源
@@ -33683,6 +33692,7 @@ pwrh	察看
 pwri	空挡
 pwrm	空缺
 pwrn	空气
+pwrn	窄握
 pwrp	窘迫
 pwrp	窥探
 pwrq	穷鬼
@@ -36125,6 +36135,7 @@ quda	钦差大臣
 qudi	镁砂
 qudm	镜面
 qudq	久闻大名
+qudx	锐龙
 quex	钻头觅缝
 quff	铲土
 qufg	角斗士
@@ -36819,7 +36830,7 @@ rbpj	报审
 rbpl	近卫军
 rbpv	报案
 rbpy	报社
-rbqa	摄氏
+rbqa	报错
 rbqb	报怨
 rbqi	报销
 rbqk	报名
@@ -41378,6 +41389,7 @@ sghh	配上
 sghk	西点
 sghk	酣战
 sghn	酣眠
+sghp	酷睿
 sghq	西餐
 sght	酣睡
 sghv	醒眼
@@ -45446,6 +45458,7 @@ toak	释惑
 toal	番茄
 toal	番薯
 toaq	秋菊
+toaw	秋葵
 tobb	篓子
 tobm	翻出
 tobq	釉陶
@@ -52603,6 +52616,7 @@ whkq	修史
 whkr	侦听
 whlg	修车
 whlg	候车
+whlq	修罗
 whlt	企图
 whlw	侦办
 whma	催眠曲
@@ -59327,6 +59341,7 @@ yuhx	说些
 yuif	说法
 yuif	廉洁
 yuig	说清
+yuin	麻辣烫
 yuje	说明
 yukc	说吧
 yukd	谦顺

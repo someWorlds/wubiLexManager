@@ -60,6 +60,7 @@
 蘜aafo
 攻其无备aaft
 工夫aafw
+工坊aafy
 落花无言aafy
 甘苦与共aaga
 工致aagc
@@ -2884,6 +2885,7 @@
 警戒aqaa
 欧式aqaa
 芪aqab
+匹萨aqab
 警匪aqad
 荈aqah
 鬵aqah
@@ -4025,6 +4027,7 @@
 花枝awsf
 茶杯awsg
 东倒西歪awsg
+花椒awsh
 共相awsh
 荷awsk
 茶楼awso
@@ -6388,6 +6391,7 @@
 艰苦奋斗cadu
 骐cadw
 騏cadw
+骁龙cadx
 戏服caeb
 驱逐caep
 驱动cafc
@@ -14611,6 +14615,7 @@
 埃及fcey
 动脉fcey
 动脑fcey
+运动fcf
 运载fcfa
 运动fcfc
 运城fcfd
@@ -16217,6 +16222,7 @@
 朝露fjfk
 埋雷fjfl
 堤坝fjfm
+进击fjfm
 朝霞fjfn
 亁fjfn
 进过fjfp
@@ -18981,6 +18987,7 @@
 不落窠臼gapv
 形容gapw
 开窍gapw
+武神gapy
 形神gapy
 弄错gaqa
 形色gaqc
@@ -19330,6 +19337,7 @@
 两码事gdgk
 不三不四gdgl
 一而再gdgm
+天玑gdgm
 吞灭gdgo
 恶有恶报gdgr
 珬gdgt
@@ -37546,6 +37554,7 @@
 辊ljxx
 加盟店ljyh
 加lk
+圆lk
 加工lkaa
 加工lkaa
 加菜lkae
@@ -37692,6 +37701,7 @@
 回忆lknn
 加快lknn
 回改lknt
+圆心lkny
 加以lkny
 加粗lkoe
 回火lkoo
@@ -46302,6 +46312,7 @@
 字斟句酌paqs
 ∥para
 ∥parallel
+宽握parn
 安营扎寨parp
 神工鬼斧parw
 究其根源pasi
@@ -48802,6 +48813,7 @@
 空缺pwrm
 窑pwrm
 空气pwrn
+窄握pwrn
 窘迫pwrp
 窥探pwrp
 穷鬼pwrq
@@ -53382,6 +53394,7 @@
 錓qudn
 鎹qudp
 久闻大名qudq
+锐龙qudx
 鑨qued
 鐗queg
 鎆quej
@@ -53932,8 +53945,8 @@
 鐖qxxt
 钢丝床qxys
 久qy
-鸟qy
 留qy
+鸟qy
 镀qya
 镀qyac
 勉为其难qyac
@@ -54153,8 +54166,8 @@
 枭首qyut
 留痕qyuv
 留门qyuy
-留qyv
 贸qyv
+留qyv
 遛qyv
 镛qyv
 锒qyv
@@ -54498,7 +54511,7 @@
 近卫军rbpl
 报案rbpv
 报社rbpy
-摄氏rbqa
+报错rbqa
 报怨rbqb
 报销rbqi
 报名rbqk
@@ -60762,6 +60775,7 @@
 酣战sghk
 酟sghk
 酣眠sghn
+酷睿sghp
 西餐sghq
 酣睡sght
 醒眼sghv
@@ -65355,7 +65369,7 @@
 征文tgyy
 处th
 自己th
-怎th
+怎么th
 算tha
 版式thaa
 延期thad
@@ -65671,6 +65685,7 @@
 自检thsw
 算术thsy
 自述thsy
+怎么tht
 延长thta
 处长thta
 怎么thtc
@@ -66918,6 +66933,7 @@
 番茄toal
 番薯toal
 秋菊toaq
+秋葵toaw
 篓子tobb
 翻出tobm
 釉陶tobq
@@ -77113,6 +77129,7 @@
 侦听whkr
 修车whlg
 候车whlg
+修罗whlq
 企图whlt
 侦办whlw
 侦whm
@@ -86780,6 +86797,7 @@
 说法yuif
 廉洁yuif
 说清yuig
+麻辣烫yuin
 谙yuj
 说明yuje
 谙yujg

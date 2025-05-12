@@ -14287,6 +14287,7 @@ ljx	辊
 ljxx	輥
 ljxx	辊
 lk	加
+lk	圆
 lkb	辑
 lkbg	辑
 lkbg	輯
@@ -21586,8 +21587,8 @@ qxxr	锴
 qxxr	鍇
 qxxt	鐖
 qy	久
-qy	鸟
 qy	留
+qy	鸟
 qya	镀
 qyac	镀
 qyac	鍍
@@ -21688,8 +21689,8 @@ qyty	卵
 qyu	镰
 qyuo	镰
 qyuo	鐮
-qyv	留
 qyv	贸
+qyv	留
 qyv	遛
 qyv	镛
 qyv	锒
@@ -25897,7 +25898,6 @@ tgxg	䇘
 tgxh	䘘
 tgxw	䄺
 th	处
-th	怎
 tha	算
 thaj	算
 thaj	㔍

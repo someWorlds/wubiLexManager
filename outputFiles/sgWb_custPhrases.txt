@@ -42,6 +42,7 @@ eta	η
 eta	Η
 exi	∃
 exists	∃
+fcf	运动
 fd	需要
 for	∀
 forall	∀
@@ -130,6 +131,7 @@ tau	Τ
 tc	笖
 td	知道
 th	自己
+th	怎么
 the	∴
 ther	∴
 there	∴
@@ -138,6 +140,7 @@ thet	θ
 thet	Θ
 theta	θ
 theta	Θ
+tht	怎么
 time	×
 times	×
 to	→
