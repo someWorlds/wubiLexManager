@@ -270,6 +270,7 @@ abpr	攻子之盾
 abqi	萨尔
 abqk	蒸锅
 abqn	蒸馏
+abqn	蒸饺
 abr	菰
 abrg	节后
 abrj	㧭
@@ -785,8 +786,8 @@ aego	散灭
 aegr	其貌不扬
 aegy	䔕
 aehi	散步
-aehk	菜点
 aehk	散点
+aehk	菜点
 aeih	黄脸婆
 aeii	散水
 aeij	散漫
@@ -1999,6 +2000,7 @@ ajai	划落
 ajaj	草草
 ajap	墓茔
 ajat	草莓
+ajat	蓝莓
 ajav	草菇
 ajaw	草芥
 ajax	草药
@@ -7561,6 +7563,7 @@ cegg	驵
 cegg	駔
 cegi	能否
 cegk	通融
+cegk	通带
 cegn	㼧
 cehc	熊皮
 cehc	㪌
@@ -7574,6 +7577,7 @@ cej	甬
 ceja	通晓
 ceje	通明
 cejg	能量
+cejg	通量
 cejh	通畅
 cejn	通电
 cejt	通览
@@ -8270,6 +8274,7 @@ cpxn	駝
 cpxn	驼
 cpyn	驼鹿
 cq	允
+cq	欢欢
 cqaa	马尔萨斯
 cqal	马铃薯
 cqas	䮪
@@ -8280,6 +8285,7 @@ cqbt	騶
 cqbt	騣
 cqck	观象台
 cqcn	鸡巴
+cqcq	欢欢
 cqcw	难解难分
 cqdh	䮎
 cqeg	鸡肫
@@ -8426,6 +8432,7 @@ csfi	驃
 csfi	骠
 csil	马可波罗
 csjh	驔
+csnw	双杠臂屈伸
 cstw	通配符
 csty	欢歌笑语
 csur	能歌善舞
@@ -9875,6 +9882,7 @@ dfet	敐
 dfeu	奔腾
 dfev	压腿
 dfew	㰮
+dfex	硅脂
 dff	硅
 dff	圶
 dff	夳
@@ -12697,6 +12705,7 @@ dux	磁
 duxc	古兰经
 duxn	礠
 duxx	磁
+duyi	三次谐波
 duys	磋磨
 duyu	在商言商
 dv	肆
@@ -18088,6 +18097,7 @@ fmdu	雵
 fmdy	坱
 fmee	塴
 fmew	超凡脱俗
+fmfd	南城
 fmfd	击垮
 fmfg	㘱
 fmfi	无风起浪
@@ -22682,6 +22692,7 @@ gkbb	豆子
 gkbb	带子
 gkbb	两口子
 gkbc	不足取
+gkbe	带阻
 gkbg	事隔
 gkbh	一叶障目
 gkbh	郚
@@ -22690,6 +22701,7 @@ gkbm	带出
 gkbw	带队
 gkbw	整队
 gkca	带劲
+gkce	带通
 gkce	融通
 gkcp	橐驼
 gkda	一哄而散
@@ -26186,6 +26198,7 @@ hita	步长
 hitf	步行
 hiti	縣
 hitn	懸
+hitq	频移
 hitr	歩
 hitt	眇
 hitt	此消彼长
@@ -28716,8 +28729,9 @@ ihie	小溪
 ihif	小潮
 ihig	滤清
 ihih	婆婆
-ihih	小小
+ihih	滤波
 ihih	渺小
+ihih	小小
 ihii	泪水
 ihii	婆娑
 ihij	沾湿
@@ -29028,6 +29042,7 @@ iiin	水泥
 iiin	沙漏
 iiip	消沉
 iiiq	水沟
+iiiq	消光
 iiir	水汽
 iiis	水漂
 iiis	水酒
@@ -29231,6 +29246,7 @@ iixj	消费
 iixq	沙弥
 iixt	水乡
 iixv	水绿
+iixx	消光比
 iixy	水纹
 iiy	沝
 iiyc	深沟高垒
@@ -29715,8 +29731,8 @@ imgg	海贼王
 imgh	滑下
 imgi	游山玩水
 imgj	没理
-imgk	洞
 imgk	没事
+imgk	洞
 imgl	油画
 imgn	涄
 imgo	没来
@@ -30252,6 +30268,7 @@ ipgk	常事
 ipgl	学富五车
 ipgm	濱
 ipgq	浓烈
+ipgu	常平
 ipgw	演
 ipgy	掌班
 iphc	漃
@@ -34307,6 +34324,7 @@ jnrb	电报
 jnrf	电挂
 jnrn	电气
 jnrt	旸
+jnrv	电势
 jnrv	电热
 jnry	电抗
 jnsd	电棒
@@ -34869,9 +34887,9 @@ jtgc	临到
 jtgd	昨天
 jtge	日程表
 jtgf	鉴于
-jtgf	星
 jtgf	星球
 jtgf	蝩
+jtgf	星
 jtgg	蜂王
 jtgg	甠
 jtgj	监理
@@ -38288,6 +38306,7 @@ kqxu	吹弹
 kqy	鸣
 kqyf	史诗
 kqyg	鸣
+kqyi	哑铃弯举
 kqyi	吊儿郎当
 kqyj	嚠
 kqyn	史记
@@ -46512,6 +46531,7 @@ nnwe	憀
 nnwf	已付
 nnwg	民以食为天
 nnwh	恹恹欲睡
+nnwj	臂屈伸
 nnwk	局促
 nnwo	鵋
 nnwq	快像
@@ -56662,6 +56682,7 @@ qryt	锦旗
 qryt	䥞
 qryw	金牛座
 qs	钉
+qs	钉钉
 qsa	弑
 qsaa	杀戒
 qsaa	弑
@@ -56732,6 +56753,7 @@ qspt	镖客
 qsqg	金枪鱼
 qsqj	铌酸锂
 qsqr	鑻
+qsqs	钉钉
 qsqt	杀猪
 qsqu	多棱镜
 qsrh	杀掉
@@ -59028,6 +59050,7 @@ rdfa	捹
 rdfb	所在地
 rdfb	䣗
 rdfc	振动
+rdfc	扰动
 rdfc	撼动
 rdfe	振
 rdff	捱
@@ -60960,6 +60983,7 @@ rmnf	制导
 rmnn	皑
 rmnp	撾
 rmnt	制发
+rmnu	投屏
 rmnw	缺
 rmny	投以
 rmog	白骨精
@@ -62802,6 +62826,7 @@ rtuu	挺立
 rtux	手背
 rtuy	撬门
 rtva	托媒
+rtvb	挺好
 rtvb	擳
 rtvg	捼
 rtvv	白毛女
@@ -64262,6 +64287,7 @@ samh	横幅
 samm	横山
 samq	梵蒂冈
 sams	㮪
+samw	模内
 samw	横
 samy	槓
 samy	樠
@@ -64333,6 +64359,7 @@ saub	横逆
 sauf	械斗
 saug	格莱美
 saui	欗
+sauj	模间
 saut	横道
 saut	林荫道
 sauy	柜门
@@ -65474,6 +65501,7 @@ sgrv	酷热
 sgs	酊
 sgsf	本票
 sgsg	酝酿
+sgsg	丁丁
 sgsh	酊
 sgsh	本相
 sgsi	醥
@@ -65783,6 +65811,7 @@ shth	相处
 shti	相簿
 shtm	相向
 shtp	橡皮管
+shtq	相移
 shtq	相称
 shtu	相乘
 shtw	相符
@@ -65821,6 +65850,7 @@ shyh	相让
 shyi	相应
 shyk	相识
 shyn	想望
+shyo	相变
 shyo	相恋
 shyt	相许
 shyu	想说
@@ -72295,6 +72325,7 @@ tqgp	循名责实
 tqgr	篯
 tqgy	千金一诺
 tqhi	稳步
+tqhi	移频
 tqi	称
 tqid	千岛湖
 tqii	衡水
@@ -85848,6 +85879,7 @@ wxpy	佛祖
 wxqa	华氏
 wxqc	货色
 wxqe	化解
+wxqe	倾角
 wxqh	化外
 wxqi	倾销
 wxqk	化名
@@ -88712,6 +88744,7 @@ xvab	绿荫
 xvai	绿藻
 xvaj	绿草
 xval	绿茵
+xval	绿萝
 xvap	绿营
 xvaw	绿茶
 xvbb	红刀子出
@@ -92288,6 +92321,7 @@ ypgh	这下
 ypgh	諚
 ypgi	毫不
 ypgm	亮丽
+ypgn	毫瓦
 ypgr	为之一振
 ypgs	毫末
 ypgw	为富不仁

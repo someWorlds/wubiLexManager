@@ -11980,8 +11980,8 @@ jtg	曛
 jtg	戥
 jtga	戥
 jtga	䗗
-jtgf	星
 jtgf	蝩
+jtgf	星
 jtgg	甠
 jtgo	曛
 jtgo	䗼

@@ -23,6 +23,7 @@ cap	∩
 cf	对于
 chi	χ
 chi	Χ
+cq	欢欢
 cup	∪
 deg	°
 degree	°
@@ -115,6 +116,7 @@ propto	∝
 psi	ψ
 psi	Ψ
 qq	多多
+qs	钉钉
 rc	拟
 rho	ρ
 rho	Ρ

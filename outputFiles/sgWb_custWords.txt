@@ -170,6 +170,7 @@ abpr	攻子之盾
 abqi	萨尔
 abqk	蒸锅
 abqn	蒸馏
+abqn	蒸饺
 abrg	节后
 abrk	节操
 abrm	节制
@@ -471,8 +472,8 @@ aegk	菜豆
 aego	散灭
 aegr	其貌不扬
 aehi	散步
-aehk	菜点
 aehk	散点
+aehk	菜点
 aeih	黄脸婆
 aeii	散水
 aeij	散漫
@@ -1052,6 +1053,7 @@ ajai	划落
 ajaj	草草
 ajap	墓茔
 ajat	草莓
+ajat	蓝莓
 ajav	草菇
 ajaw	草芥
 ajax	草药
@@ -4483,6 +4485,7 @@ cegd	通天
 cegf	勇于
 cegi	能否
 cegk	通融
+cegk	通带
 cehc	熊皮
 cehh	通上
 ceid	能源
@@ -4492,6 +4495,7 @@ ceiv	能当
 ceja	通晓
 ceje	通明
 cejg	能量
+cejg	通量
 cejh	通畅
 cejn	通电
 cejt	通览
@@ -5009,6 +5013,7 @@ cqal	马铃薯
 cqbc	欢聚
 cqck	观象台
 cqcn	鸡巴
+cqcq	欢欢
 cqcw	难解难分
 cqeg	鸡肫
 cqel	鸡肋
@@ -5114,6 +5119,7 @@ csce	骠勇
 csdp	巴格达
 csdy	通权达变
 csil	马可波罗
+csnw	双杠臂屈伸
 cstw	通配符
 csty	欢歌笑语
 csur	能歌善舞
@@ -6059,6 +6065,7 @@ dfeb	压服
 dfep	夺爱
 dfeu	奔腾
 dfev	压腿
+dfex	硅脂
 dffa	大动干戈
 dffc	夺去
 dffd	有志者事竟成
@@ -8056,6 +8063,7 @@ duww	成交价
 duwx	磁化
 duwx	悲痛欲绝
 duxc	古兰经
+duyi	三次谐波
 duys	磋磨
 duyu	在商言商
 dvan	非君莫属
@@ -11533,6 +11541,7 @@ fmdj	南非
 fmdm	南面
 fmdn	求同存异
 fmew	超凡脱俗
+fmfd	南城
 fmfd	击垮
 fmfi	无风起浪
 fmfj	坍塌
@@ -14977,6 +14986,7 @@ gkbb	豆子
 gkbb	带子
 gkbb	两口子
 gkbc	不足取
+gkbe	带阻
 gkbg	事隔
 gkbh	一叶障目
 gkbk	副职
@@ -14984,6 +14994,7 @@ gkbm	带出
 gkbw	带队
 gkbw	整队
 gkca	带劲
+gkce	带通
 gkce	融通
 gkcp	橐驼
 gkda	一哄而散
@@ -17312,6 +17323,7 @@ hist	卢沟桥
 hisw	步枪
 hita	步长
 hitf	步行
+hitq	频移
 hitt	此消彼长
 hitx	频繁
 hity	步入
@@ -18853,8 +18865,9 @@ ihie	小溪
 ihif	小潮
 ihig	滤清
 ihih	婆婆
-ihih	小小
+ihih	滤波
 ihih	渺小
+ihih	小小
 ihii	泪水
 ihii	婆娑
 ihij	沾湿
@@ -19122,6 +19135,7 @@ iiin	水泥
 iiin	沙漏
 iiip	消沉
 iiiq	水沟
+iiiq	消光
 iiir	水汽
 iiis	水漂
 iiis	水酒
@@ -19287,6 +19301,7 @@ iixj	消费
 iixq	沙弥
 iixt	水乡
 iixv	水绿
+iixx	消光比
 iixy	水纹
 iiyc	深沟高垒
 iiye	游泳衣
@@ -19937,6 +19952,7 @@ ipgj	学理
 ipgk	常事
 ipgl	学富五车
 ipgq	浓烈
+ipgu	常平
 ipgy	掌班
 iphh	掌上
 iphi	学步
@@ -22538,6 +22554,7 @@ jnqy	电镀
 jnrb	电报
 jnrf	电挂
 jnrn	电气
+jnrv	电势
 jnrv	电热
 jnry	电抗
 jnsd	电棒
@@ -24744,6 +24761,7 @@ kqwg	吻合
 kqxh	跃然纸上
 kqxu	吹弹
 kqyf	史诗
+kqyi	哑铃弯举
 kqyi	吊儿郎当
 kqyn	史记
 kqyo	史迹
@@ -29810,6 +29828,7 @@ nnwd	惺惺作态
 nnwf	已付
 nnwg	民以食为天
 nnwh	恹恹欲睡
+nnwj	臂屈伸
 nnwk	局促
 nnwq	快像
 nnwr	快件
@@ -35834,6 +35853,7 @@ qspf	锦标赛
 qspt	镖客
 qsqg	金枪鱼
 qsqj	铌酸锂
+qsqs	钉钉
 qsqt	杀猪
 qsqu	多棱镜
 qsrh	杀掉
@@ -37120,6 +37140,7 @@ rdet	捧腹
 rdev	拔腿
 rdfb	所在地
 rdfc	振动
+rdfc	扰动
 rdfc	撼动
 rdfh	捧起
 rdfh	撩起
@@ -38488,6 +38509,7 @@ rmna	抽屉
 rmnd	缺憾
 rmnf	制导
 rmnt	制发
+rmnu	投屏
 rmny	投以
 rmog	白骨精
 rmol	抽烟
@@ -39810,6 +39832,7 @@ rtuu	挺立
 rtux	手背
 rtuy	撬门
 rtva	托媒
+rtvb	挺好
 rtvv	白毛女
 rtwa	投笔从戎
 rtwb	手创
@@ -40839,6 +40862,7 @@ samf	横财
 samh	横幅
 samm	横山
 samq	梵蒂冈
+samw	模内
 sana	李世民
 sanh	横眉
 sann	棋局
@@ -40883,6 +40907,7 @@ satr	模特
 saub	横逆
 sauf	械斗
 saug	格莱美
+sauj	模间
 saut	横道
 saut	林荫道
 sauy	柜门
@@ -41484,6 +41509,7 @@ sgrq	醉鬼
 sgrv	酷热
 sgsf	本票
 sgsg	酝酿
+sgsg	丁丁
 sgsh	本相
 sgsm	梧桐
 sgsr	机不可失
@@ -41671,6 +41697,7 @@ shth	相处
 shti	相簿
 shtm	相向
 shtp	橡皮管
+shtq	相移
 shtq	相称
 shtu	相乘
 shtw	相符
@@ -41706,6 +41733,7 @@ shyh	相让
 shyi	相应
 shyk	相识
 shyn	想望
+shyo	相变
 shyo	相恋
 shyt	相许
 shyu	想说
@@ -45689,6 +45717,7 @@ tqgn	千钧一发
 tqgp	循名责实
 tqgy	千金一诺
 tqhi	稳步
+tqhi	移频
 tqid	千岛湖
 tqii	衡水
 tqin	稀泥
@@ -54487,6 +54516,7 @@ wxpy	佛祖
 wxqa	华氏
 wxqc	货色
 wxqe	化解
+wxqe	倾角
 wxqh	化外
 wxqi	倾销
 wxqk	化名
@@ -56321,6 +56351,7 @@ xvab	绿荫
 xvai	绿藻
 xvaj	绿草
 xval	绿茵
+xval	绿萝
 xvap	绿营
 xvaw	绿茶
 xvbb	红刀子出
@@ -58685,6 +58716,7 @@ ypgd	这天
 ypgh	这下
 ypgi	毫不
 ypgm	亮丽
+ypgn	毫瓦
 ypgr	为之一振
 ypgs	毫末
 ypgw	为富不仁

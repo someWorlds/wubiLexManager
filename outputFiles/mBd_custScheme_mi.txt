@@ -253,6 +253,7 @@
 萨尔abqi
 蒸锅abqk
 蒸馏abqn
+蒸饺abqn
 菰abr
 节后abrg
 节操abrk
@@ -728,8 +729,8 @@
 散灭aego
 其貌不扬aegr
 散步aehi
-菜点aehk
 散点aehk
+菜点aehk
 黄脸婆aeih
 散水aeii
 散漫aeij
@@ -1792,6 +1793,7 @@
 草草ajaj
 墓茔ajap
 草莓ajat
+蓝莓ajat
 草菇ajav
 草芥ajaw
 草药ajax
@@ -6968,6 +6970,7 @@
 駔cegg
 能否cegi
 通融cegk
+通带cegk
 熊皮cehc
 通上cehh
 能源ceid
@@ -6978,6 +6981,7 @@
 通晓ceja
 通明ceje
 能量cejg
+通量cejg
 通畅cejh
 通电cejn
 通览cejt
@@ -7635,6 +7639,7 @@
 驼cpxn
 驼鹿cpyn
 允cq
+欢欢cq
 马尔萨斯cqaa
 马铃薯cqal
 允cqb
@@ -7643,6 +7648,7 @@
 騣cqbt
 观象台cqck
 鸡巴cqcn
+欢欢cqcq
 难解难分cqcw
 鸡肫cqeg
 鸡肋cqel
@@ -7784,6 +7790,7 @@
 骠csfi
 马可波罗csil
 驔csjh
+双杠臂屈伸csnw
 通配符cstw
 欢歌笑语csty
 能歌善舞csur
@@ -9116,6 +9123,7 @@
 敐dfet
 奔腾dfeu
 压腿dfev
+硅脂dfex
 硅dff
 圶dff
 夳dff
@@ -11753,6 +11761,7 @@
 古兰经duxc
 礠duxn
 磁duxx
+三次谐波duyi
 磋磨duys
 在商言商duyu
 肆dv
@@ -16697,6 +16706,7 @@
 坱fmdy
 塴fmee
 超凡脱俗fmew
+南城fmfd
 击垮fmfd
 无风起浪fmfi
 坍塌fmfj
@@ -21078,6 +21088,7 @@
 带子gkbb
 两口子gkbb
 不足取gkbc
+带阻gkbe
 事隔gkbg
 一叶障目gkbh
 郚gkbh
@@ -21086,6 +21097,7 @@
 带队gkbw
 整队gkbw
 带劲gkca
+带通gkce
 融通gkce
 橐驼gkcp
 一哄而散gkda
@@ -24326,6 +24338,7 @@
 步行hitf
 縣hiti
 懸hitn
+频移hitq
 歩hitr
 眇hitt
 此消彼长hitt
@@ -26660,8 +26673,9 @@
 小潮ihif
 滤清ihig
 婆婆ihih
-小小ihih
+滤波ihih
 渺小ihih
+小小ihih
 泪水ihii
 婆娑ihii
 沾湿ihij
@@ -26966,6 +26980,7 @@
 沙漏iiin
 消沉iiip
 水沟iiiq
+消光iiiq
 水汽iiir
 水漂iiis
 水酒iiis
@@ -27160,6 +27175,7 @@
 沙弥iixq
 水乡iixt
 水绿iixv
+消光比iixx
 水纹iixy
 沝iiy
 深沟高垒iiyc
@@ -27620,8 +27636,8 @@
 滑下imgh
 游山玩水imgi
 没理imgj
-洞imgk
 没事imgk
+洞imgk
 油画imgl
 涄imgn
 没来imgo
@@ -28141,6 +28157,7 @@
 学富五车ipgl
 濱ipgm
 浓烈ipgq
+常平ipgu
 演ipgw
 掌班ipgy
 漃iphc
@@ -31972,6 +31989,7 @@
 电挂jnrf
 电气jnrn
 旸jnrt
+电势jnrv
 电热jnrv
 电抗jnry
 电棒jnsd
@@ -32490,9 +32508,9 @@
 昨天jtgd
 日程表jtge
 鉴于jtgf
-星jtgf
 星球jtgf
 蝩jtgf
+星jtgf
 蜂王jtgg
 甠jtgg
 监理jtgj
@@ -35660,6 +35678,7 @@
 鸣kqy
 史诗kqyf
 鸣kqyg
+哑铃弯举kqyi
 吊儿郎当kqyi
 嚠kqyj
 史记kqyn
@@ -43211,6 +43230,7 @@
 已付nnwf
 民以食为天nnwg
 恹恹欲睡nnwh
+臂屈伸nnwj
 局促nnwk
 鵋nnwo
 快像nnwq
@@ -52635,6 +52655,7 @@
 锦旗qryt
 金牛座qryw
 钉qs
+钉钉qs
 弑qsa
 杀戒qsaa
 弑qsaa
@@ -52702,6 +52723,7 @@
 金枪鱼qsqg
 铌酸锂qsqj
 鑻qsqr
+钉钉qsqs
 杀猪qsqt
 多棱镜qsqu
 杀掉qsrh
@@ -54865,6 +54887,7 @@
 捹rdfa
 所在地rdfb
 振动rdfc
+扰动rdfc
 撼动rdfc
 振rdfe
 捱rdff
@@ -56707,6 +56730,7 @@
 皑rmnn
 撾rmnp
 制发rmnt
+投屏rmnu
 缺rmnw
 投以rmny
 白骨精rmog
@@ -58462,6 +58486,7 @@
 手背rtux
 撬门rtuy
 托媒rtva
+挺好rtvb
 擳rtvb
 捼rtvg
 白毛女rtvv
@@ -59860,6 +59885,7 @@
 横幅samh
 横山samm
 梵蒂冈samq
+模内samw
 横samw
 槓samy
 樠samy
@@ -59924,6 +59950,7 @@
 械斗sauf
 格莱美saug
 欗saui
+模间sauj
 横道saut
 林荫道saut
 柜门sauy
@@ -60962,6 +60989,7 @@
 酊sgs
 本票sgsf
 酝酿sgsg
+丁丁sgsg
 酊sgsh
 本相sgsh
 醥sgsi
@@ -61252,6 +61280,7 @@
 相簿shti
 相向shtm
 橡皮管shtp
+相移shtq
 相称shtq
 相乘shtu
 相符shtw
@@ -61290,6 +61319,7 @@
 相应shyi
 相识shyk
 想望shyn
+相变shyo
 相恋shyo
 相许shyt
 想说shyu
@@ -67245,6 +67275,7 @@
 篯tqgr
 千金一诺tqgy
 稳步tqhi
+移频tqhi
 称tqi
 千岛湖tqid
 衡水tqii
@@ -79794,6 +79825,7 @@
 华氏wxqa
 货色wxqc
 化解wxqe
+倾角wxqe
 化外wxqh
 倾销wxqi
 化名wxqk
@@ -82474,6 +82506,7 @@
 绿藻xvai
 绿草xvaj
 绿茵xval
+绿萝xval
 绿营xvap
 绿茶xvaw
 红刀子出xvbb
@@ -85850,6 +85883,7 @@
 諚ypgh
 毫不ypgi
 亮丽ypgm
+毫瓦ypgn
 为之一振ypgr
 毫末ypgs
 为富不仁ypgw
