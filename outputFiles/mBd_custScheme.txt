@@ -6313,7 +6313,7 @@ cdsu    鸡犬相闻
 cdsy    骑术
 cdta    畚箕
 cdte    参透
-cdtf    参选    参赞
+cdtf    参选    参赞    骑行
 cdtg    鸡犬升天
 cdtm    骑射
 cdtu    骑乘
@@ -22506,7 +22506,7 @@ hkpy    战祸
 hkqe    点解
 hkqg    点钱
 hkqi    点钞
-hkqk    点名
+hkqk    点名    点钟
 hkqn    眖
 hkqs    眼中钉
 hkqt    战犯
@@ -24779,7 +24779,7 @@ iijt    水星
 iijy    水景
 iikg    沙哑
 iikh    消遣    水路
-iikk    激光器    水患
+iikk    滤波器    激光器    水患
 iild    海洛因
 iilf    水墨
 iilg    水车
@@ -34793,6 +34793,7 @@ lssu    罧
 lstl    困惫
 lstp    困乏
 lsu    䍒
+lsuj    困意
 lsul    困兽
 lswu    困倦
 lsww    困人
@@ -36907,7 +36908,7 @@ mqwv    刚健
 mqww    风俗
 mqwx    风华    购货    风化
 mqwy    网住    㰞
-mqxa    见红
+mqxa    见红    网红
 mqxe    风级
 mqxg    网线
 mqxj    网费
@@ -44411,7 +44412,7 @@ pwty    穿入    窜入
 pwu    穴    㓁    窨    邃
 pwua    空瓶
 pwub    罕闻
-pwud    穿着    空头    竉
+pwud    穿着    容差    窝头    空头    竉
 pwue    空前
 pwuf    䆹
 pwui    空阔
@@ -46277,7 +46278,7 @@ qkah    名臣
 qkan    鱼跃鸢飞
 qkat    名医
 qkaw    名茶
-qkbb    兔子    句子
+qkbb    兔子    句子    名子
 qkbg    鍓
 qkbh    邭
 qkbk    免职
@@ -46324,7 +46325,7 @@ qkgm    免责    免遭
 qkgq    名列
 qkgs    句末
 qkgy    金口玉言
-qkh    钏    钟    釧
+qkh    钟    钏    釧
 qkhh    钟    名目    鈡
 qkhk    钟点    鏴
 qkhm    鐀
@@ -58326,7 +58327,7 @@ tgrg    重兵    征兵    先来后到
 tgrh    乍一看
 tgrj    重担    重提
 tgrk    重扣
-tgrm    熏制
+tgrm    生抽    熏制
 tgrn    生气
 tgrr    垂死挣扎
 tgrt    重播    重托    生手
@@ -63389,7 +63390,7 @@ ukj    剖
 ukje    问明
 ukjg    问题    总是    总量
 ukjh    剖
-ukjt    总监
+ukjt    总监    总览
 ukjv    总归
 ukk    癌    闾
 ukka    闹哄哄
@@ -71133,7 +71134,7 @@ wwue    从前
 wwug    人命关天
 wwuj    人间
 wwum    从商
-wwuq    人次    偷盗
+wwuq    人次    偷盗    坐姿
 wwus    偷闲
 wwut    人道
 wwuu    耸立
@@ -72142,6 +72143,7 @@ xfim    頴    颕
 xfip    结党
 xfiy    贯注    絿
 xfje    结盟
+xfjg    结题
 xfjj    结晶
 xfjs    结果
 xfk    毌    缬    结

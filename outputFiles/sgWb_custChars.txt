@@ -19959,8 +19959,8 @@ qkg	釦
 qkgd	鋘
 qkgg	锃
 qkgg	鋥
-qkh	钏
 qkh	钟
+qkh	钏
 qkh	釧
 qkhh	钟
 qkhh	鈡

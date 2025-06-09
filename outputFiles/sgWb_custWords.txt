@@ -4431,6 +4431,7 @@ cdta	畚箕
 cdte	参透
 cdtf	参选
 cdtf	参赞
+cdtf	骑行
 cdtg	鸡犬升天
 cdtm	骑射
 cdtu	骑乘
@@ -17512,6 +17513,7 @@ hkqe	点解
 hkqg	点钱
 hkqi	点钞
 hkqk	点名
+hkqk	点钟
 hkqs	眼中钉
 hkqt	战犯
 hkqv	战争
@@ -19164,6 +19166,7 @@ iijy	水景
 iikg	沙哑
 iikh	消遣
 iikh	水路
+iikk	滤波器
 iikk	激光器
 iikk	水患
 iild	海洛因
@@ -26690,6 +26693,7 @@ lssk	墨西哥
 lsss	黑森森
 lstl	困惫
 lstp	困乏
+lsuj	困意
 lsul	困兽
 lswu	困倦
 lsww	困人
@@ -28102,6 +28106,7 @@ mqwx	购货
 mqwx	风化
 mqwy	网住
 mqxa	见红
+mqxa	网红
 mqxe	风级
 mqxg	网线
 mqxj	网费
@@ -33746,6 +33751,8 @@ pwty	窜入
 pwua	空瓶
 pwub	罕闻
 pwud	穿着
+pwud	容差
+pwud	窝头
 pwud	空头
 pwue	空前
 pwui	空阔
@@ -35003,6 +35010,7 @@ qkat	名医
 qkaw	名茶
 qkbb	兔子
 qkbb	句子
+qkbb	名子
 qkbk	免职
 qkbn	够了
 qkbw	免除
@@ -44253,6 +44261,7 @@ tgrh	乍一看
 tgrj	重担
 tgrj	重提
 tgrk	重扣
+tgrm	生抽
 tgrm	熏制
 tgrn	生气
 tgrr	垂死挣扎
@@ -48396,6 +48405,7 @@ ukjg	问题
 ukjg	总是
 ukjg	总量
 ukjt	总监
+ukjt	总览
 ukjv	总归
 ukka	闹哄哄
 ukkg	问号
@@ -54393,6 +54403,7 @@ wwuj	人间
 wwum	从商
 wwuq	人次
 wwuq	偷盗
+wwuq	坐姿
 wwus	偷闲
 wwut	人道
 wwuu	耸立
@@ -55254,6 +55265,7 @@ xfig	结清
 xfip	结党
 xfiy	贯注
 xfje	结盟
+xfjg	结题
 xfjj	结晶
 xfjs	结果
 xflf	结转

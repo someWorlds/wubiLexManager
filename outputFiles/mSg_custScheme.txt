@@ -7495,6 +7495,7 @@ cdta	畚箕
 cdte	参透
 cdtf	参选
 cdtf	参赞
+cdtf	骑行
 cdtg	鸡犬升天
 cdtm	骑射
 cdtu	骑乘
@@ -26438,6 +26439,7 @@ hkqe	点解
 hkqg	点钱
 hkqi	点钞
 hkqk	点名
+hkqk	点钟
 hkqn	眖
 hkqs	眼中钉
 hkqt	战犯
@@ -29076,6 +29078,7 @@ iijy	水景
 iikg	沙哑
 iikh	消遣
 iikh	水路
+iikk	滤波器
 iikk	激光器
 iikk	水患
 iild	海洛因
@@ -41257,6 +41260,7 @@ lssu	罧
 lstl	困惫
 lstp	困乏
 lsu	䍒
+lsuj	困意
 lsul	困兽
 lswu	困倦
 lsww	困人
@@ -43747,6 +43751,7 @@ mqwx	风化
 mqwy	网住
 mqwy	㰞
 mqxa	见红
+mqxa	网红
 mqxe	风级
 mqxg	网线
 mqxj	网费
@@ -52596,6 +52601,8 @@ pwu	邃
 pwua	空瓶
 pwub	罕闻
 pwud	穿着
+pwud	容差
+pwud	窝头
 pwud	空头
 pwud	竉
 pwue	空前
@@ -54966,6 +54973,7 @@ qkat	名医
 qkaw	名茶
 qkbb	兔子
 qkbb	句子
+qkbb	名子
 qkbg	鍓
 qkbh	邭
 qkbk	免职
@@ -55018,8 +55026,8 @@ qkgm	免遭
 qkgq	名列
 qkgs	句末
 qkgy	金口玉言
-qkh	钏
 qkh	钟
+qkh	钏
 qkh	釧
 qkhh	钟
 qkhh	名目
@@ -70149,6 +70157,7 @@ tgrh	乍一看
 tgrj	重担
 tgrj	重提
 tgrk	重扣
+tgrm	生抽
 tgrm	熏制
 tgrn	生气
 tgrr	垂死挣扎
@@ -76462,6 +76471,7 @@ ukjg	总是
 ukjg	总量
 ukjh	剖
 ukjt	总监
+ukjt	总览
 ukjv	总归
 ukk	癌
 ukk	闾
@@ -85707,6 +85717,7 @@ wwuj	人间
 wwum	从商
 wwuq	人次
 wwuq	偷盗
+wwuq	坐姿
 wwus	偷闲
 wwut	人道
 wwuu	耸立
@@ -87000,6 +87011,7 @@ xfip	结党
 xfiy	贯注
 xfiy	絿
 xfje	结盟
+xfjg	结题
 xfjj	结晶
 xfjs	结果
 xfk	毌
