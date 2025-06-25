@@ -4176,7 +4176,7 @@ bcuy    取闹
 bcv    娶
 bcvf    娶
 bcwa    取代
-bcwf    聚会    取舍    联欢会
+bcwf    聚会    取舍    联欢会    取值
 bcwg    聚合    聚敛
 bcwk    取保
 bcwr    取件
@@ -7620,7 +7620,7 @@ dasw    耍花枪
 dat    硗    䂝
 data    砌筑
 datd    大功告成
-date    春花秋月
+date    春花秋月    #$year年$month月$day日
 datf    左迁
 dath    碟片
 datm    万花筒
@@ -8773,7 +8773,7 @@ dgrp    威迫
 dgrq    三天打鱼
 dgrr    有一搭没一搭
 dgrt    硬挺
-dgru    硬拼    硬拉
+dgru    硬拉    硬拼
 dgrv    威势
 dgsc    威权
 dgsd    硬顶
@@ -14661,6 +14661,7 @@ fhrx    直指
 fhry    直斥    䞣
 fhsa    走棋
 fhsc    越权
+fhsd    真棒
 fhsf    超标
 fhsg    盐酸
 fhsh    真相
@@ -17084,7 +17085,7 @@ fwst    规格
 fwtc    干什么
 fwtd    规矩    零乱    霍乱
 fwth    动作片
-fwtk    规程    堆积
+fwtk    堆积    规程
 fwtm    替身
 fwtp    老僧入定
 fwtt    堆笑
@@ -27358,7 +27359,7 @@ iwug    涖
 iwum    洽商
 iwuq    澄净
 iwut    消化道
-iwux    淮北    脊背
+iwux    淮北    脊背    洛伦兹
 iwv    汾    湓
 iwvf    兴建
 iwvj    雀巢
@@ -28357,7 +28358,7 @@ jftx    蛯
 jfud    时差    里头
 jfuf    时装
 jfui    旱冰
-jfuj    时间
+jfuj    时间    #$fullhour:$minute:$second    #$year年$month月$day日$fullhour:$minute:$second    #$year年$month月$day日
 jful    野兽
 jfum    时弊
 jfup    蟽
@@ -28744,7 +28745,7 @@ jiyn    冒尖户
 jj    昌
 jja    曝
 jjaa    临时工    明日黄花
-jjad    日期
+jjad    日期    #$year年$month月$day日
 jjai    日落    曝
 jjaj    日暮
 jjap    晶莹
@@ -51341,7 +51342,7 @@ rnty    拨    撰稿
 rnu    氧    摒
 rnua    摒
 rnub    所闻
-rnud    氧    握拳    扭送
+rnud    氧    扭头    握拳    扭送
 rnuh    搱
 rnuj    气韵
 rnuk    所部
@@ -58795,7 +58796,7 @@ tikq    血泪史
 tilk    稍加
 tilw    科学界
 tim    徜
-time    ×
+time    ×    #$fullhour:$minute:$second    #$year年$month月$day日$fullhour:$minute:$second    #$year年$month月$day日
 times    ×
 timi    和光同尘
 timk    徜
@@ -59602,7 +59603,7 @@ tmqn    我见犹怜
 tmqs    射杀
 tmqt    射猎
 tmqy    秽
-tmrd    奥拓    微扰
+tmrd    微扰    奥拓
 tmrg    身后
 tmrh    身披
 tmrm    币制
@@ -69129,7 +69130,6 @@ wjuj    介意
 wjul    食蚁兽
 wjwc    任贤使能
 wjwf    保监会
-wjwg    偶合
 wjwi    假冒伪劣
 wjwj    伸伸
 wjwo    䲸
@@ -69393,6 +69393,7 @@ wmn    仉
 wmnd    仙居
 wmng    催情
 wmnh    做贼心虚
+wmnk    侧壁
 wmnl    侧翼
 wmnn    合同书
 wmnt    催发
@@ -72272,7 +72273,7 @@ xgf    纡    弖
 xgfh    纯真    纡    弙    紆
 xgfp    线索
 xgfw    约瑟夫
-xgga    线形
+xgga    线形    线型
 xgge    纯青
 xggh    纯正
 xggu    纯平

@@ -25,6 +25,7 @@ chi	χ
 chi	Χ
 cq	欢欢
 cup	∪
+date	#$year年$month月$day日
 deg	°
 degree	°
 delta	δ
@@ -65,6 +66,10 @@ in	∈
 inf	∞
 infty	∞
 je	明天
+jfuj	#$fullhour:$minute:$second
+jfuj	#$year年$month月$day日$fullhour:$minute:$second
+jfuj	#$year年$month月$day日
+jjad	#$year年$month月$day日
 jt	昨天
 kapp	κ
 kapp	Κ
@@ -144,6 +149,9 @@ theta	θ
 theta	Θ
 tht	怎么
 time	×
+time	#$fullhour:$minute:$second
+time	#$year年$month月$day日$fullhour:$minute:$second
+time	#$year年$month月$day日
 times	×
 to	→
 u	ū

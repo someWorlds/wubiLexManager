@@ -16,11 +16,11 @@ bec,∵
 because,∵
 beta,β
 beta,Β
-bio,函数
 cap,∩
 chi,χ
 chi,Χ
 cup,∪
+date,#$year年$month月$day日
 deg,°
 degree,°
 delta,δ
@@ -54,6 +54,10 @@ iff,⇔
 in,∈
 inf,∞
 infty,∞
+jfuj,#$fullhour:$minute:$second
+jfuj,#$year年$month月$day日$fullhour:$minute:$second
+jfuj,#$year年$month月$day日
+jjad,#$year年$month月$day日
 kapp,κ
 kapp,Κ
 kappa,κ
@@ -122,6 +126,9 @@ thet,Θ
 theta,θ
 theta,Θ
 time,×
+time,#$fullhour:$minute:$second
+time,#$year年$month月$day日$fullhour:$minute:$second
+time,#$year年$month月$day日
 times,×
 to,→
 u,ū

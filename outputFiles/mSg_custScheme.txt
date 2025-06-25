@@ -5093,6 +5093,7 @@ bcwa	取代
 bcwf	聚会
 bcwf	取舍
 bcwf	联欢会
+bcwf	取值
 bcwg	聚合
 bcwg	聚敛
 bcwk	取保
@@ -5613,6 +5614,7 @@ bilq	阿波罗
 bimj	㞼
 bimq	函购
 binx	逊尼
+bio	函数
 bios	聚光灯
 biov	函数
 bip	逊
@@ -10328,8 +10330,8 @@ dgrp	威迫
 dgrq	三天打鱼
 dgrr	有一搭没一搭
 dgrt	硬挺
-dgru	硬拼
 dgru	硬拉
+dgru	硬拼
 dgrv	威势
 dgsc	威权
 dgsd	硬顶
@@ -17144,6 +17146,7 @@ fhry	直斥
 fhry	䞣
 fhsa	走棋
 fhsc	越权
+fhsd	真棒
 fhsf	超标
 fhsg	盐酸
 fhsh	真相
@@ -20112,8 +20115,8 @@ fwtd	规矩
 fwtd	零乱
 fwtd	霍乱
 fwth	动作片
-fwtk	规程
 fwtk	堆积
+fwtk	规程
 fwtm	替身
 fwtp	老僧入定
 fwtt	堆笑
@@ -32213,6 +32216,7 @@ iwuq	澄净
 iwut	消化道
 iwux	淮北
 iwux	脊背
+iwux	洛伦兹
 iwv	汾
 iwv	湓
 iwvf	兴建
@@ -61394,6 +61398,7 @@ rnu	摒
 rnua	摒
 rnub	所闻
 rnud	氧
+rnud	扭头
 rnud	握拳
 rnud	扭送
 rnuh	搱
@@ -71774,8 +71779,8 @@ tmqn	我见犹怜
 tmqs	射杀
 tmqt	射猎
 tmqy	秽
-tmrd	奥拓
 tmrd	微扰
+tmrd	奥拓
 tmrg	身后
 tmrh	身披
 tmrm	币制
@@ -83283,7 +83288,6 @@ wjuj	介意
 wjul	食蚁兽
 wjwc	任贤使能
 wjwf	保监会
-wjwg	偶合
 wjwi	假冒伪劣
 wjwj	伸伸
 wjwo	䲸
@@ -83576,6 +83580,7 @@ wmn	仉
 wmnd	仙居
 wmng	催情
 wmnh	做贼心虚
+wmnk	侧壁
 wmnl	侧翼
 wmnn	合同书
 wmnt	催发
@@ -87173,6 +87178,7 @@ xgfh	紆
 xgfp	线索
 xgfw	约瑟夫
 xgga	线形
+xgga	线型
 xgge	纯青
 xggh	纯正
 xggu	纯平

@@ -4645,6 +4645,7 @@
 聚会bcwf
 取舍bcwf
 联欢会bcwf
+取值bcwf
 聚合bcwg
 聚敛bcwg
 取保bcwk
@@ -9549,8 +9550,8 @@
 三天打鱼dgrq
 有一搭没一搭dgrr
 硬挺dgrt
-硬拼dgru
 硬拉dgru
+硬拼dgru
 威势dgrv
 威权dgsc
 硬顶dgsd
@@ -15829,6 +15830,7 @@
 直斥fhry
 走棋fhsa
 越权fhsc
+真棒fhsd
 超标fhsf
 盐酸fhsg
 真相fhsh
@@ -18606,8 +18608,8 @@
 零乱fwtd
 霍乱fwtd
 动作片fwth
-规程fwtk
 堆积fwtk
+规程fwtk
 替身fwtm
 老僧入定fwtp
 堆笑fwtt
@@ -30000,6 +30002,7 @@
 消化道iwut
 淮北iwux
 脊背iwux
+洛伦兹iwux
 汾iwv
 湓iwv
 兴建iwvf
@@ -57117,6 +57120,7 @@
 摒rnua
 所闻rnub
 氧rnud
+扭头rnud
 握拳rnud
 扭送rnud
 搱rnuh
@@ -66770,8 +66774,8 @@
 射杀tmqs
 射猎tmqt
 秽tmqy
-奥拓tmrd
 微扰tmrd
+奥拓tmrd
 身后tmrg
 身披tmrh
 币制tmrm
@@ -77421,7 +77425,6 @@
 食蚁兽wjul
 任贤使能wjwc
 保监会wjwf
-偶合wjwg
 假冒伪劣wjwi
 伸伸wjwj
 偶像wjwq
@@ -77699,6 +77702,7 @@
 仙居wmnd
 催情wmng
 做贼心虚wmnh
+侧壁wmnk
 侧翼wmnl
 合同书wmnn
 催发wmnt
@@ -81039,6 +81043,7 @@
 线索xgfp
 约瑟夫xgfw
 线形xgga
+线型xgga
 纯青xgge
 纯正xggh
 纯平xggu

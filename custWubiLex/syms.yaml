@@ -22,11 +22,11 @@ bec    ∵    50800
 because    ∵    50800
 beta    β    50800
 beta    Β    50801
-bio    函数    50800
 cap    ∩    50800
 chi    χ    50800
 chi    Χ    50801
 cup    ∪    50800
+date    #$year年$month月$day日    50800
 deg    °    50800
 degree    °    50800
 delta    δ    50800
@@ -60,6 +60,10 @@ iff    ⇔    50800
 in    ∈    50800
 inf    ∞    50800
 infty    ∞    50800
+jfuj    #$fullhour:$minute:$second    50800
+jfuj    #$year年$month月$day日$fullhour:$minute:$second    50801
+jfuj    #$year年$month月$day日    50802
+jjad    #$year年$month月$day日    50800
 kapp    κ    50800
 kapp    Κ    50801
 kappa    κ    50800
@@ -128,6 +132,9 @@ thet    Θ    50801
 theta    θ    50800
 theta    Θ    50801
 time    ×    50800
+time    #$fullhour:$minute:$second    50801
+time    #$year年$month月$day日$fullhour:$minute:$second    50802
+time    #$year年$month月$day日    50803
 times    ×    50800
 to    →    50800
 u    ū    50800
