@@ -14496,6 +14496,7 @@ ghuj	一瞬间
 ghuk	下部
 ghum	下端
 ghuq	下次
+ghuq	正交
 ghut	正道
 ghux	正北
 ghuy	正门
@@ -19606,6 +19607,7 @@ imii	油水
 imij	测温
 imim	涔涔
 imin	油泥
+imin	油泼
 imiq	油光
 imir	梁山泊
 imis	油漆
@@ -46392,6 +46394,7 @@ tutt	行善积德
 tutv	科委
 tutw	简答
 tutx	简繁
+tuua	简并
 tuud	箭头
 tuue	税前
 tuuf	冬装

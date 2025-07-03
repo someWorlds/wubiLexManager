@@ -20519,6 +20519,7 @@
 下部ghuk
 下端ghum
 下次ghuq
+正交ghuq
 正道ghut
 正北ghux
 正门ghuy
@@ -27665,6 +27666,7 @@
 测温imij
 涔涔imim
 油泥imin
+油泼imin
 油光imiq
 梁山泊imir
 油漆imis
@@ -43021,6 +43023,7 @@
 慛nmwy
 忛nmyy
 忆nn
+己nn
 巽nna
 懒懒散散nnaa
 居心叵测nnai
@@ -68257,6 +68260,7 @@
 简答tutw
 简繁tutx
 冬tuu
+简并tuua
 箭头tuud
 税前tuue
 冬装tuuf
