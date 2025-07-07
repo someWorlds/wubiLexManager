@@ -20328,6 +20328,7 @@ iqsf	光标
 iqsf	渔村
 iqsj	光棍
 iqsk	渔歌
+iqsm	光栅
 iqsm	油印机
 iqsr	光板
 iqsy	光柱
@@ -34332,6 +34333,7 @@ qedd	解套
 qede	解郁
 qedf	解压
 qedg	触感
+qedi	解耦
 qedu	触碰
 qedw	触礁
 qedy	名胜古迹
@@ -34423,7 +34425,6 @@ qeuy	角门
 qeva	触媒
 qevc	触怒
 qevf	锄奸
-qewj	解偶
 qews	解体
 qewt	解任
 qewx	角化
@@ -40188,6 +40189,7 @@ rvii	热水
 rvin	热汤
 rvip	执掌
 rviq	抛光
+rviq	热光
 rvir	势派
 rvis	抛洒
 rviw	扫兴
@@ -51175,6 +51177,7 @@ vsvj	嫖娼
 vsvu	如醉如痴
 vswf	刀枪剑戟
 vswr	杂件
+vswx	杂化
 vswx	杂货
 vswy	杂念
 vswy	杂食

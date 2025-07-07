@@ -28680,6 +28680,7 @@
 渔村iqsf
 光棍iqsj
 渔歌iqsk
+光栅iqsm
 油印机iqsm
 光板iqsr
 光柱iqsy
@@ -49930,6 +49931,7 @@
 解郁qede
 解压qedf
 触感qedg
+解耦qedi
 觭qedk
 触碰qedu
 触礁qedw
@@ -50087,7 +50089,6 @@
 蟹qevj
 邂qevp
 觬qevq
-解偶qewj
 觹qewm
 鵤qewo
 解体qews
@@ -58932,6 +58933,7 @@
 热汤rvin
 执掌rvip
 抛光rviq
+热光rviq
 势派rvir
 抛洒rvis
 扫兴rviw
@@ -75001,6 +75003,7 @@
 刀枪剑戟vswf
 杂件vswr
 婡vsww
+杂化vswx
 杂货vswx
 杂念vswy
 杂食vswy
