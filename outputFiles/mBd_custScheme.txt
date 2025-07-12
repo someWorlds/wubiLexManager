@@ -55517,7 +55517,7 @@ sou    粟    䙳    杰
 soue    楼前
 souf    楼兰
 soug    楼盖    䊲
-sout    楼阁
+sout    楼道    楼阁
 sov    楼
 sovg    楼
 sovt    楼群

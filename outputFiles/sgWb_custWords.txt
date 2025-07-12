@@ -42129,6 +42129,7 @@ sote	楼盘
 soue	楼前
 souf	楼兰
 soug	楼盖
+sout	楼道
 sout	楼阁
 sovt	楼群
 sows	楼体
