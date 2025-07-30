@@ -580,6 +580,7 @@
 勘校adsu
 若要adsv
 藏私adtc
+基矢adtd
 苦短adtd
 期待adtf
 匪徒adtf
@@ -816,8 +817,8 @@
 散结aexf
 藤编aexy
 芨aey
-散席aeya
 散度aeya
+散席aeya
 散剂aeyj
 菜市aeym
 散户aeyn
@@ -11386,6 +11387,7 @@
 矴dsh
 奇虎dsha
 厢dshd
+奇点dshk
 大材小用dsie
 厅堂dsip
 大西洋dsiu
@@ -14807,6 +14809,7 @@
 云集fcwy
 鼁fcxf
 支线fcxg
+云母fcxg
 运费fcxj
 二叠纪fcxn
 动弹fcxu
@@ -15272,6 +15275,7 @@
 士fg
 封妻荫子fgab
 二期fgad
+索末菲fgad
 干菜fgae
 雨鞋fgaf
 十七fgag
@@ -16860,6 +16864,7 @@
 专攻fnat
 堀fnb
 场子fnbb
+声子fnbb
 专职fnbk
 卖出fnbm
 堀fnbm
@@ -26644,6 +26649,7 @@
 小坑ihfy
 泪ihg
 沚ihg
+波形ihga
 小型ihga
 沾到ihgc
 淑静ihge
@@ -28777,6 +28783,7 @@
 激起irfh
 激越irfh
 激进irfj
+激元irfq
 酒后无德irft
 激增irfu
 湟irg
@@ -33008,6 +33015,7 @@
 螄jwnh
 螐jwno
 蚥jwqy
+电介质jwrf
 明修栈道jwsu
 蜍jwt
 明信片jwth
@@ -42075,6 +42083,7 @@
 尉迟nfny
 丑类nfod
 懗nfoo
+导数nfov
 层数nfov
 迅nfp
 悖nfp
@@ -42108,6 +42117,7 @@
 层析nfsr
 丑样nfsu
 屠nft
+导矢nftd
 导航nfte
 丑行nftf
 慎重nftg
@@ -42719,6 +42729,7 @@
 悝njf
 悝njfg
 悍njfh
+慢走njfh
 怛njg
 怛njgg
 翨njgh
@@ -51495,8 +51506,8 @@
 钢条qmts
 铅笔qmtt
 钢笔qmtt
-負qmu
 负qmu
+負qmu
 钢瓶qmua
 金风送爽qmud
 鋼qmum
@@ -54133,6 +54144,7 @@
 鸟类qyod
 灸qyou
 粂qyou
+留数qyov
 多义字qypb
 鸟害qypd
 留守qypf
@@ -58751,6 +58763,7 @@
 拉丁rusg
 揂rusg
 搓板rusr
+拉梅rust
 摘要rusv
 接榫rusw
 搁rut
@@ -63063,6 +63076,7 @@
 厀swib
 松涛swid
 枪法swif
+极化激元swif
 检波swih
 检测swim
 李登辉swiq
@@ -77387,12 +77401,14 @@
 伸wjh
 伸wjhh
 敒wjht
+介电常数wjio
 倡wjj
 介wjj
 今是昨非wjjd
 但是wjjg
 倡wjjg
 偶遇wjjm
+介电wjjn
 傅里叶wjkf
 僈wjlc
 但因wjld
@@ -82651,6 +82667,7 @@
 纵步xwhi
 縧xwhs
 引人注目xwih
+纵波xwih
 给水xwii
 纵深xwip
 纵酒xwis
@@ -86775,8 +86792,8 @@
 旒yty
 訸yty
 放yty
-许诺ytya
 旋度ytya
+许诺ytya
 放弃ytyc
 族裔ytye
 话语ytyg

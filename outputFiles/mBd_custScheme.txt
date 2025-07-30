@@ -530,7 +530,7 @@ adss    苦楚    斯大林
 adsu    勘校
 adsv    若要
 adtc    藏私
-adtd    苦短
+adtd    基矢    苦短
 adtf    期待    匪徒    䓓
 adtg    欺生
 adth    苦处    藶
@@ -728,7 +728,7 @@ aexd    蒵
 aexf    散结
 aexy    藤编
 aey    芨
-aeya    散席    散度
+aeya    散度    散席
 aeyj    散剂
 aeym    菜市
 aeyn    散户    散记
@@ -10467,6 +10467,7 @@ dsgn    大可不必
 dsh    厢    矴
 dsha    奇虎
 dshd    厢
+dshk    奇点
 dsie    大材小用
 dsip    厅堂
 dsiu    大西洋
@@ -13765,7 +13766,7 @@ fcww    动人
 fcwx    运货
 fcwy    云集    䧴
 fcxf    鼁
-fcxg    支线
+fcxg    支线    云母
 fcxj    运费
 fcxn    二叠纪
 fcxu    动弹
@@ -14197,7 +14198,7 @@ ffyx    麉
 ffyy    土方
 fg    二    干    雨    十    寸    士
 fgab    封妻荫子
-fgad    二期
+fgad    二期    索末菲
 fgae    干菜
 fgaf    雨鞋
 fgag    十七    干戈
@@ -15559,7 +15560,7 @@ fnaq    专区
 fnar    教书匠
 fnat    专攻
 fnb    㐊    㐋    堀
-fnbb    场子
+fnbb    场子    声子
 fnbk    专职
 fnbm    卖出    堀
 fnbn    卖了
@@ -24462,7 +24463,7 @@ ihfu    举目无亲
 ihfv    小雪
 ihfy    小坑
 ihg    泪    沚
-ihga    小型
+ihga    波形    小型
 ihgc    沾到
 ihge    淑静
 ihgf    小于    濒于
@@ -26277,6 +26278,7 @@ irfd    少年老成
 irff    垽
 irfh    激起    激越
 irfj    激进
+irfq    激元
 irft    酒后无德
 irfu    激增
 irg    湟    浜    泊
@@ -30045,6 +30047,7 @@ jwnh    螄
 jwno    螐
 jwqr    䗄
 jwqy    蚥
+jwrf    电介质
 jwsu    明修栈道
 jwt    蜍
 jwth    明信片
@@ -38203,7 +38206,7 @@ nfny    尉迟
 nfod    丑类
 nfof    㷉
 nfoo    懗
-nfov    层数
+nfov    导数    层数
 nfoy    㤸
 nfp    迅    悖
 nfpb    悖
@@ -38236,6 +38239,7 @@ nfsr    层析
 nfsu    丑样
 nft    屠
 nftb    䣝
+nftd    导矢
 nfte    导航
 nftf    丑行
 nftg    慎重
@@ -38777,7 +38781,7 @@ njds    展览厅
 njet    慢用
 njf    悍    悝
 njfg    悝
-njfh    悍
+njfh    悍    慢走
 njg    怛
 njgf    㥂
 njgg    怛
@@ -46611,7 +46615,7 @@ qmtm    铜币
 qmtp    钢管
 qmts    钢条
 qmtt    铅笔    钢笔
-qmu    負    负
+qmu    负    負
 qmua    钢瓶
 qmud    金风送爽
 qmum    鋼
@@ -48692,6 +48696,7 @@ qyo    灸
 qyoa    鸟粪
 qyod    鸟类
 qyou    灸    粂
+qyov    留数
 qypb    多义字
 qypd    鸟害    䢣
 qypf    留守
@@ -52731,6 +52736,7 @@ rusd    接棒
 rusf    拉杆    拉票    撙
 rusg    拉丁    揂
 rusr    搓板
+rust    拉梅
 rusv    摘要
 rusw    接榫
 rut    搁
@@ -56553,7 +56559,7 @@ swhv    枪眼
 swia    松江
 swib    厀    䣛
 swid    松涛
-swif    枪法
+swif    枪法    极化激元
 swih    检波
 swij    㓼
 swim    检测
@@ -69086,10 +69092,12 @@ wjgr    偒
 wjh    伸
 wjhh    伸
 wjht    敒
+wjio    介电常数
 wjj    倡    介
 wjjd    今是昨非
 wjjg    但是    倡
 wjjm    偶遇
+wjjn    介电
 wjkf    傅里叶
 wjkx    㖋
 wjlc    僈
@@ -73726,7 +73734,7 @@ xwgw    䌞
 xwhh    纵目
 xwhi    纵步
 xwhs    縧
-xwih    引人注目
+xwih    引人注目    纵波
 xwii    给水
 xwip    纵深
 xwis    纵酒
@@ -77277,7 +77285,7 @@ ytxq    谢绝
 ytxu    诲    誨
 ytxw    放纵
 yty    州    旒    䚺    訸    放
-ytya    许诺    旋度
+ytya    旋度    许诺
 ytyc    放弃
 ytye    族裔
 ytyg    话语    旜

@@ -623,6 +623,7 @@ adss	斯大林
 adsu	勘校
 adsv	若要
 adtc	藏私
+adtd	基矢
 adtd	苦短
 adtf	期待
 adtf	匪徒
@@ -876,8 +877,8 @@ aexd	蒵
 aexf	散结
 aexy	藤编
 aey	芨
-aeya	散席
 aeya	散度
+aeya	散席
 aeyj	散剂
 aeym	菜市
 aeyn	散户
@@ -12299,6 +12300,7 @@ dsh	厢
 dsh	矴
 dsha	奇虎
 dshd	厢
+dshk	奇点
 dsie	大材小用
 dsip	厅堂
 dsiu	大西洋
@@ -16034,6 +16036,7 @@ fcwy	云集
 fcwy	䧴
 fcxf	鼁
 fcxg	支线
+fcxg	云母
 fcxj	运费
 fcxn	二叠纪
 fcxu	动弹
@@ -16532,6 +16535,7 @@ fg	寸
 fg	士
 fgab	封妻荫子
 fgad	二期
+fgad	索末菲
 fgae	干菜
 fgaf	雨鞋
 fgag	十七
@@ -18259,6 +18263,7 @@ fnb	㐊
 fnb	㐋
 fnb	堀
 fnbb	场子
+fnbb	声子
 fnbk	专职
 fnbm	卖出
 fnbm	堀
@@ -28700,6 +28705,7 @@ ihfv	小雪
 ihfy	小坑
 ihg	泪
 ihg	沚
+ihga	波形
 ihga	小型
 ihgc	沾到
 ihge	淑静
@@ -30914,6 +30920,7 @@ irff	垽
 irfh	激起
 irfh	激越
 irfj	激进
+irfq	激元
 irft	酒后无德
 irfu	激增
 irg	湟
@@ -35418,6 +35425,7 @@ jwnh	螄
 jwno	螐
 jwqr	䗄
 jwqy	蚥
+jwrf	电介质
 jwsu	明修栈道
 jwt	蜍
 jwth	明信片
@@ -45309,6 +45317,7 @@ nfny	尉迟
 nfod	丑类
 nfof	㷉
 nfoo	懗
+nfov	导数
 nfov	层数
 nfoy	㤸
 nfp	迅
@@ -45345,6 +45354,7 @@ nfsr	层析
 nfsu	丑样
 nft	屠
 nftb	䣝
+nftd	导矢
 nfte	导航
 nftf	丑行
 nftg	慎重
@@ -45997,6 +46007,7 @@ njf	悍
 njf	悝
 njfg	悝
 njfh	悍
+njfh	慢走
 njg	怛
 njgf	㥂
 njgg	怛
@@ -55381,8 +55392,8 @@ qmtp	钢管
 qmts	钢条
 qmtt	铅笔
 qmtt	钢笔
-qmu	負
 qmu	负
+qmu	負
 qmua	钢瓶
 qmud	金风送爽
 qmum	鋼
@@ -58265,6 +58276,7 @@ qyoa	鸟粪
 qyod	鸟类
 qyou	灸
 qyou	粂
+qyov	留数
 qypb	多义字
 qypd	鸟害
 qypd	䢣
@@ -63098,6 +63110,7 @@ rusf	撙
 rusg	拉丁
 rusg	揂
 rusr	搓板
+rust	拉梅
 rusv	摘要
 rusw	接榫
 rut	搁
@@ -67704,6 +67717,7 @@ swib	厀
 swib	䣛
 swid	松涛
 swif	枪法
+swif	极化激元
 swih	检波
 swij	㓼
 swim	检测
@@ -83247,12 +83261,14 @@ wjgr	偒
 wjh	伸
 wjhh	伸
 wjht	敒
+wjio	介电常数
 wjj	倡
 wjj	介
 wjjd	今是昨非
 wjjg	但是
 wjjg	倡
 wjjm	偶遇
+wjjn	介电
 wjkf	傅里叶
 wjkx	㖋
 wjlc	僈
@@ -88896,6 +88912,7 @@ xwhh	纵目
 xwhi	纵步
 xwhs	縧
 xwih	引人注目
+xwih	纵波
 xwii	给水
 xwip	纵深
 xwis	纵酒
@@ -93277,8 +93294,8 @@ yty	旒
 yty	䚺
 yty	訸
 yty	放
-ytya	许诺
 ytya	旋度
+ytya	许诺
 ytyc	放弃
 ytye	族裔
 ytyg	话语

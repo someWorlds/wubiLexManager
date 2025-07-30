@@ -20092,8 +20092,8 @@ qmqy	钢
 qmrh	䤱
 qmsy	䤪
 qmth	鎽
-qmu	負
 qmu	负
+qmu	負
 qmum	鋼
 qmun	龬
 qmw	钠
