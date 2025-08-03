@@ -1,4 +1,4 @@
-a    工    戈    Å    ā    á    ǎ    à
+a    工    戈    Å    ā    á    ǎ    à    あ    ア
 aa    式
 aaa    工
 aaaa    恭恭敬敬    㠭    工
@@ -3993,7 +3993,7 @@ ayyn    荒谬    荒废
 ayyt    荒诞
 ayyv    荒唐
 b    了    子
-ba    陈
+ba    陈    ば    バ
 baab    孤臣孽子
 baat    䧖
 badd    陈套
@@ -4310,7 +4310,7 @@ bdyt    随州
 bdyv    隋唐
 bdyw    承认
 bdyy    随访
-be    阴
+be    阴    べ    ベ
 beac    阴茎
 beal    阴功
 bean    隱
@@ -4618,7 +4618,7 @@ bhsr    阿卜杜拉
 bhtt    耻笑
 bhwv    㞣
 bhyg    承上启下
-bi    孙
+bi    孙    び    ビ
 biaa    出水芙蓉
 bib    函
 bibb    孙子
@@ -5069,7 +5069,7 @@ bnym    孔庙
 bnyt    也许
 bnyw    孔府
 bnyy    也该
-bo    耿
+bo    耿    ぼ    ボ
 bobo    耿耿
 bocn    阿米巴
 boex    取精用弘
@@ -5469,7 +5469,7 @@ btyl    降为
 btyr    承先启后
 btyt    降旗
 btyy    随行就市
-bu    联
+bu    联    ぶ    ブ
 buag    陪葬
 buah    聠
 buaj    職
@@ -6674,7 +6674,7 @@ chcg    骑虎难下
 chcw    难上难
 chcy    駊
 chdt    䮹
-chi    χ    Χ
+chi    χ    Χ    ち    チ
 chjh    䮓
 chlc    难上加难
 chpn    鸡皮鹤发
@@ -7511,7 +7511,7 @@ cyy    馼
 cyyi    驻京
 cyyw    圣诞夜
 d    在    大
-da    左
+da    左    だ    ダ
 daad    泰勒斯
 daal    礷
 daap    灰蒙蒙
@@ -8108,7 +8108,7 @@ ddys    大麻
 ddyt    大旗    大话    套话
 ddyv    大唐
 ddyy    大方
-de    胡
+de    胡    で    デ
 deab    有节
 dead    有期    䯷    鬕
 deae    䰒
@@ -9118,7 +9118,7 @@ dhyq    存底
 dhyt    存放
 dhyu    在说
 dhyw    在座
-di    砂
+di    砂    ぢ    ヂ
 dia    磲    耢
 diab    䣢
 diac    耯
@@ -10014,7 +10014,7 @@ dnyu    成说
 dnyv    盛唐
 dnyw    成夜
 dnyy    成文
-do    灰
+do    灰    ど    ド
 doam    灰黄
 dodq    百炼成钢
 dody    磷矿
@@ -10703,7 +10703,7 @@ dtyg    帮主
 dtyo    非我族类
 dtyt    寿诞
 dtyy    㚒
-du    磁
+du    磁    づ    ヅ
 duad    有效期
 duag    碰巧
 duah    硑
@@ -11343,7 +11343,7 @@ dyym    太高
 dyys    矿床
 dyyv    太郎
 dyyw    大庭广众
-e    有    月    ē    é    ě    è
+e    有    月    ē    é    ě    è    え    エ
 ea    肛
 eaat    䏼
 eaay    爱斯基摩
@@ -16722,7 +16722,7 @@ ftyu    老说
 ftyw    老鹰
 ftyx    增长率
 ftyy    教科文    圦
-fu    增
+fu    增    ふ    フ
 fuaa    封闭式
 fuad    幸甚
 fuaf    埋头苦干
@@ -17273,7 +17273,7 @@ fyxy    㙲
 fyy    坟
 fyyt    地方话
 g    一    王
-ga    开
+ga    开    が    ガ
 gaaa    形式    开工
 gaad    刑期
 gaah    弄臣
@@ -17930,7 +17930,7 @@ gdyu    表面文章
 gdyv    天良
 gdyw    天府
 gdyy    天文
-ge    表
+ge    表    げ    ゲ
 geaa    青工
 geac    青苔    䨼
 gead    青藏
@@ -18850,7 +18850,7 @@ ghyt    下放
 ghyv    下诏
 ghyw    政府    政论
 ghyy    正文    下方    下文
-gi    不    还
+gi    不    还    ぎ    ギ
 giad    不菲
 giaf    不甘
 giag    不巧
@@ -20003,7 +20003,7 @@ gnyu    不以为意
 gnyv    瓰
 gnyw    一心为公
 gnyy    殖民主义
-go    来
+go    来    ご    ゴ
 goal    灭菌
 goan    来世
 goaq    亚欧
@@ -20850,7 +20850,7 @@ gtyj    不知就里
 gtym    珠穆朗玛峰
 gtyt    一番话
 gtyw    天秤座
-gu    平
+gu    平    ぐ    グ
 guaa    一站式
 guae    夹菜
 guag    不辨菽麦
@@ -21509,7 +21509,7 @@ gyyv    逼良为娼
 gyyx    死亡率
 gyyy    天方夜谭
 h    上    目
-ha    虎
+ha    虎    は    ハ
 haa    虐
 haag    虐
 haah    虎牙
@@ -21853,7 +21853,7 @@ hdwo    鶪
 hdww    䀹    鿃
 hdxn    眬
 hdyn    瞭望
-he    肯
+he    肯    へ    ヘ
 hef    肯
 hefc    䁔
 hefg    肯干
@@ -22222,7 +22222,7 @@ hhys    上床
 hhyt    步步高升
 hhyw    上座
 hhyy    上访    上方    上文
-hi    步    频率
+hi    步    频率    ひ    ヒ
 hiaa    督工
 hiad    卡洛斯
 hibb    步子
@@ -22674,7 +22674,7 @@ hnxc    步履维艰
 hnxn    眤
 hnxx    卢比
 hnyn    瞩望
-ho    眯
+ho    眯    ほ    ホ
 hobc    齢
 hobj    歯
 hofh    眯起
@@ -22921,7 +22921,7 @@ htyb    睡熟
 htye    睡衣
 htyn    睡房
 htys    睡魔
-hu    瞳
+hu    瞳    ふ    フ
 huai    上善若水
 huax    止痛药
 hubn    瞳孔
@@ -23245,7 +23245,7 @@ hyx    眩
 hyxy    眩
 hyy    盿
 hyyx    上座率
-i    不    水    ī    í    ǐ    ì
+i    不    水    ī    í    ǐ    ì    い    イ
 ia    江
 iaaa    港式
 iaad    鸿基
@@ -28707,7 +28707,7 @@ jhyt    申谢
 jhyu    申说
 jhyw    申论
 jhyy    畅言
-ji    晃
+ji    晃    じ    ジ    ぢ    ヂ
 jiaa    时光荏苒
 jiai    晃荡
 jias    蟝
@@ -30255,7 +30255,7 @@ jyyn    影讯
 jyyo    影迹
 jyyp    电话亭
 k    中    口
-ka    呀
+ka    呀    か    カ
 kaah    咬牙切齿    㖑
 kaal    㘕
 kaax    中草药
@@ -30595,7 +30595,7 @@ kdyp    嘹亮
 kdyq    顺义
 kdyt    喊话
 kdyy    呔
-ke    吸
+ke    吸    け    ケ
 kead    哺乳期
 kebb    遗腹子
 kebc    吸取
@@ -31400,7 +31400,7 @@ khyt    贵州    贵族    蹾
 khyv    中庸    忠良
 khyx    蹗
 khyy    中文    遗言    中方
-ki    吵
+ki    吵    き    キ
 kiaw    啤酒花
 kibb    哨子
 kidd    蹈常袭故
@@ -32061,7 +32061,7 @@ knyf    噿
 knys    叫床
 knyw    叫座    㕽
 knyy    唯心主义    呎
-ko    噗
+ko    噗    こ    コ
 kog    噗
 kogf    嚉
 kogw    㗼
@@ -32585,7 +32585,7 @@ ktyg    吃请
 ktyi    响应    呼应
 ktyp    响亮
 ktyy    唯物主义    叺
-ku    啼
+ku    啼    く    ク
 kuah    咬牙
 kub    嗍
 kubb    哪门子
@@ -34454,6 +34454,7 @@ lo    辚
 logf    轛
 logy    轐
 loho    黑灯瞎火
+long    ⟸    ⟹    ⟺
 longleftarrow    ⟸
 longleftrightarrow    ⟺
 longrightarrow    ⟹
@@ -35295,7 +35296,7 @@ lywf    默认值
 lyxu    䍗
 lyxy    轻言细语
 m    同    山
-ma    曲
+ma    曲    ま    マ
 maaa    同甘共苦
 maad    典藏
 maah    典雅
@@ -35588,7 +35589,7 @@ mdxt    岩缝
 mdxy    賎
 mdyn    崖刻
 mdys    帆布床
-me    骨
+me    骨    め    メ
 meaa    髒
 meab    骨节
 meai    崩落
@@ -36236,7 +36237,7 @@ mhyk    由衷
 mhyq    㡆
 mhyu    贴谱
 mhyw    由谁
-mi    峭
+mi    峭    み    ミ
 midt    巌
 mie    峭
 mieg    峭
@@ -36621,7 +36622,7 @@ mny    赆
 mnyo    同性恋
 mnyt    凯旋
 mnyu    赆    䝲
-mo    赕
+mo    赕    も    モ
 moad    同类项
 mogf    㠚
 mogr    风烛残年
@@ -36642,7 +36643,7 @@ moqi    帕米尔
 mosm    内燃机
 mov    嵝
 movg    嵝
-mp    迪
+mp    迪    ∓
 mpad    贮藏
 mpaq    崇敬
 mpbb    败家子
@@ -37175,7 +37176,7 @@ mtyu    贬谪    㞥
 mtyw    几座
 mtyx    几率
 mtyy    见利忘义
-mu    赠    μ    Μ
+mu    赠    μ    Μ    む    ム
 muah    賆
 mubc    赚取
 mubn    赔了
@@ -37587,8 +37588,8 @@ myyg    赃证
 myyn    同义词
 myyv    凡庸
 myyy    风度翩翩
-n    民    已
-na    民
+n    民    已    ん    ン
+na    民    な    ナ
 naaa    民工
 naad    展期
 naae    㞡
@@ -38086,6 +38087,7 @@ ndym    居高
 ndyo    剧变
 ndyt    䎉    㤜
 ndyy    忲
+ne    ね    ネ
 nean    懚
 neax    避孕药
 nebw    以貌取人
@@ -38706,7 +38708,7 @@ nhys    收订
 nhyt    收讫    收放
 nhyv    疏朗
 nhyy    悼文
-ni    悄
+ni    悄    に    ニ
 niad    恍若
 nici    惊涛骇浪
 nidm    尿布
@@ -39302,7 +39304,7 @@ nnyp    书亭
 nnyu    快说
 nnyw    以己度人
 nnyy    乙方
-no    屡
+no    屡    の    ノ
 noaq    屡获
 nodc    发烧友
 node    屡有
@@ -39825,7 +39827,7 @@ ntys    改订    发麻
 ntyt    发放    发话
 ntyv    改良
 ntyy    发言    发文    发廊
-nu    习    买    ν    Ν
+nu    习    买    ν    Ν    ぬ    ヌ
 nua    屏
 nuae    买菜    飞散
 nuah    恲
@@ -40470,7 +40472,7 @@ nyys    心魔
 nyyw    昼夜
 nyyx    心率
 nyyy    民族主义
-o    为    火    ō    ó    ǒ    ò
+o    为    火    ō    ó    ǒ    ò    お    オ    ヲ    を
 oa    煤
 oaae    烧菜
 oaag    烒
@@ -42092,7 +42094,7 @@ oyyl    粮库
 oyyp    糖膏
 oyyy    灬
 p    这    之
-pa    宽
+pa    宽    ぱ    パ
 paai    空荡荡
 paam    密匝匝
 pabv    宽限
@@ -42359,7 +42361,7 @@ pdyt    寄放
 pdyv    豁朗
 pdyw    宏论
 pdyy    寡言
-pe    家
+pe    家    ぺ    ペ
 peaa    农工
 peah    家臣
 pean    家世    农艺
@@ -42880,7 +42882,7 @@ phqd    寂然
 phru    安卡拉
 phtr    初战告捷
 phu    㓀
-pi    宵    π    Π
+pi    宵    π    Π    ぴ    ピ
 piae    家常菜
 piaf    穿小鞋
 pibp    农学院
@@ -43141,7 +43143,7 @@ plye    军衣
 plyk    军训
 plyt    军旅    军旗
 plyy    军方    军国主义
-pm    宙
+pm    宙    ±
 pmad    宙斯
 pmau    剜肉医疮
 pmb    冗    宂
@@ -43307,7 +43309,7 @@ pnyt    官话
 pnyv    密诏
 pnyw    官府
 pnyy    官方
-po    灾
+po    灾    ぽ    ポ
 poaq    灾区
 poay    灾荒
 pobw    穿凿附会
@@ -43699,7 +43701,7 @@ ptya    额度
 ptyh    客店
 ptyn    客户    客房
 ptyw    客座
-pu    实    被
+pu    实    被    ぷ    プ
 pua    褡
 puaa    裓    䙁
 puac    襼
@@ -48796,7 +48798,7 @@ qyyo    留恋
 qyyq    留底
 qyyy    留言
 r    的    白
-ra    找
+ra    找    ら    ラ
 raa    拭
 raaa    拈花惹草
 raad    找茬
@@ -49552,7 +49554,7 @@ rdyp    推而广之
 rdyt    排放
 rdyw    拜认
 rdyy    拜访    扙
-re    扔
+re    扔    れ    レ
 read    援藏
 reai    摇荡
 rean    授艺
@@ -50383,7 +50385,7 @@ rhyu    年谱
 rhyv    牛郎
 rhyw    年夜
 rhyx    年率
-ri    朱
+ri    朱    り    リ
 riaa    托洛斯基
 rian    㧟
 riat    㦵
@@ -51404,7 +51406,7 @@ rnyt    扬州
 rnyu    所说    据说
 rnyw    拟    氦
 rnyy    拟议    撰文    扬言    択
-ro    搂
+ro    搂    ろ    ロ
 road    捉迷藏
 rodh    搂在
 rofg    热火朝天
@@ -52562,7 +52564,7 @@ rtyt    播放
 rtyw    插座
 rtyx    折射率
 rtyy    插言    扖
-ru    拉
+ru    拉    る    ル
 rua    拼
 ruab    拉萨
 ruad    接茬
@@ -53606,7 +53608,7 @@ ryyr    撤诉
 ryyt    年高望重
 ryyy    抗议    白话文
 s    要    木
-sa    械
+sa    械    さ    サ
 saa    械
 saaa    模式
 saag    栻
@@ -54110,7 +54112,7 @@ sdya    酸碱度
 sdyp    概而言之
 sdyw    椅座
 sdyy    杖
-se    极
+se    极    せ    セ
 sead    极其
 sean    檼
 seb    桴
@@ -54825,7 +54827,7 @@ shgx    相互    朴素
 shha    相瞒
 shhc    欔
 shhy    欋
-shi    椒
+shi    椒    し    シ
 shic    椒
 shif    想法
 shim    相沿    㰋
@@ -54936,7 +54938,7 @@ shyo    相变    相恋
 shyt    相许
 shyu    想说
 shyw    相认
-si    档
+si    档    し    シ
 siad    档期
 sial    根深蒂固
 siat    植党营私
@@ -55494,7 +55496,7 @@ snxn    柅
 snxu    核导弹
 sny    杺
 snyn    札记
-so    杰
+so    杰    そ    ソ
 soaw    楼花
 sobb    粟子
 sobm    杰出
@@ -56225,7 +56227,7 @@ styn    覆亡
 styq    桥底
 styt    梅州
 styy    格言    杁
-su    样
+su    样    す    ス
 suaa    样式
 suad    校勘
 suah    栟
@@ -56858,7 +56860,7 @@ syyt    杭州
 syyu    述说
 syyy    柱廊
 t    和    禾
-ta    长
+ta    长    た    タ
 taaa    长工
 taab    毛茸茸
 taad    长期
@@ -57516,7 +57518,7 @@ tdyu    乱说
 tdyv    嵇康
 tdyw    知府
 tdyy    短文    敌方    箴言    㣖
-te    秀
+te    秀    て    テ
 tea    舡    艨
 teaa    船工
 teab    筋节
@@ -58755,7 +58757,7 @@ thyu    自谦
 thyw    自认
 thyx    息率
 thyy    处方
-ti    秒
+ti    秒    ち    チ
 tiab    复活节
 tiai    毛泽东
 tiaq    自治区
@@ -59788,7 +59790,7 @@ tnyn    秘诀
 tnyr    得心应手
 tnyw    笖
 tnyy    秘方    鿈
-to    秋    →
+to    秋    →    と    ト
 toaa    翻工
 toad    愁苦
 toak    释惑
@@ -60549,7 +60551,7 @@ tstg    笨重
 tstk    䈷
 tsts    条条
 tstx    自查自纠
-tsu    条
+tsu    条    つ    ツ
 tswg    条例
 tswh    我醉欲眠
 tswr    条件
@@ -60783,7 +60785,7 @@ ttyo    笔迹    笔谈    笑谈
 ttyt    笑话
 ttyu    笑说
 ttyy    先入为主
-tu    科
+tu    科    つ    ツ
 tuab    冬节
 tuad    冬藏
 tuae    剩菜
@@ -61602,7 +61604,7 @@ tyyn    入户
 tyys    入魔
 tyyt    德高望重
 tyyw    入座
-u    产    立    ū    ú    ǔ    ù
+u    产    立    ū    ú    ǔ    ù    う    ウ
 ua    并
 uaaa    闭幕式
 uaal    并蒂莲
@@ -67563,7 +67565,7 @@ vyyj    丸剂
 vyyo    嬗变
 vyyp    姑妄言之
 w    人    你    他
-wa    代
+wa    代    わ    ワ
 waaa    代工
 waag    侙
 waah    㑘
@@ -69647,7 +69649,7 @@ wnyt    假话    癶
 wnyu    假说    侭
 wnyw    似    追认    舍己为人
 wnyy    伬
-wo    伙
+wo    伙    を    ヲ
 woah    㑞
 woat    含糊其辞
 woay    含糊其词
@@ -74141,7 +74143,7 @@ xyys    编订
 xyyx    统率
 xyyy    毋庸讳言
 y    主    言
-ya    度
+ya    度    や    ヤ
 yaa    试    诫
 yaaa    试工
 yaab    遮荫
@@ -76347,7 +76349,7 @@ ynyu    诚心诚意
 ynyv    永康    房
 ynyw    谬论
 ynyy    盲文    妄言    訳
-yo    变
+yo    变    よ    ヨ
 yoa    弈
 yoab    变节
 yoaf    变革
@@ -77304,7 +77306,7 @@ ytyt    谢谢    旖旎    旌旗
 ytyu    话说
 ytyw    施诊
 ytyy    放言
-yu    说
+yu    说    ゆ    ユ
 yuad    说项
 yuah    誁
 yuaj    識    旘
@@ -78123,4 +78125,9 @@ yyyt    广州
 yyyu    言说
 yyyw    言论    议论
 yyyy    方言    文言    谆谆    言
+za    ざ    ザ
+ze    ぜ    ゼ
 zeta    ζ    Ζ
+zi    じ    ジ
+zo    ぞ    ゾ
+zu    ず    ズ    づ    ヅ

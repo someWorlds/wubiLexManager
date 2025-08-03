@@ -4,6 +4,8 @@
 áa
 ǎa
 àa
+あa
+アa
 式aa
 工aaa
 恭恭敬敬aaaa
@@ -4457,6 +4459,8 @@
 了b
 子b
 陈ba
+ばba
+バba
 孤臣孽子baab
 陈套badd
 阿勒泰badw
@@ -4795,6 +4799,8 @@
 承认bdyw
 随访bdyy
 阴be
+べbe
+ベbe
 阴茎beac
 阴功beal
 隱bean
@@ -5110,6 +5116,8 @@
 耻笑bhtt
 承上启下bhyg
 孙bi
+びbi
+ビbi
 出水芙蓉biaa
 函bib
 孙子bibb
@@ -5580,6 +5588,8 @@
 孔府bnyw
 也该bnyy
 耿bo
+ぼbo
+ボbo
 耿耿bobo
 阿米巴bocn
 取精用弘boex
@@ -5972,6 +5982,8 @@
 降旗btyt
 随行就市btyy
 联bu
+ぶbu
+ブbu
 陪葬buag
 聠buah
 職buaj
@@ -7280,6 +7292,8 @@
 駊chcy
 χchi
 Χchi
+ちchi
+チchi
 难上加难chlc
 鸡皮鹤发chpn
 覌chqn
@@ -8137,6 +8151,8 @@
 在d
 大d
 左da
+だda
+ダda
 泰勒斯daad
 礷daal
 灰蒙蒙daap
@@ -8812,6 +8828,8 @@
 大唐ddyv
 大方ddyy
 胡de
+でde
+デde
 有节deab
 有期dead
 鬕dead
@@ -9943,6 +9961,8 @@
 在说dhyu
 在座dhyw
 砂di
+ぢdi
+ヂdi
 磲dia
 耢dia
 耯diac
@@ -10914,6 +10934,8 @@
 成夜dnyw
 成文dnyy
 灰do
+どdo
+ドdo
 灰黄doam
 百炼成钢dodq
 磷矿dody
@@ -11632,6 +11654,8 @@
 非我族类dtyo
 寿诞dtyt
 磁du
+づdu
+ヅdu
 有效期duad
 碰巧duag
 硑duah
@@ -12293,6 +12317,8 @@
 ée
 ěe
 èe
+えe
+エe
 肛ea
 爱斯基摩eaay
 爱莫能助eace
@@ -18205,6 +18231,8 @@
 教科文ftyy
 圦ftyy
 增fu
+ふfu
+フfu
 封闭式fuaa
 幸甚fuad
 埋头苦干fuaf
@@ -18814,6 +18842,8 @@
 一g
 王g
 开ga
+がga
+ガga
 形式gaaa
 开工gaaa
 刑期gaad
@@ -19536,6 +19566,8 @@
 天府gdyw
 天文gdyy
 表ge
+げge
+ゲge
 青工geaa
 青苔geac
 青藏gead
@@ -20583,6 +20615,8 @@
 下文ghyy
 不gi
 还gi
+ぎgi
+ギgi
 不菲giad
 不甘giaf
 不巧giag
@@ -21926,6 +21960,8 @@
 一心为公gnyw
 殖民主义gnyy
 来go
+ごgo
+ゴgo
 灭菌goal
 来世goan
 亚欧goaq
@@ -22870,6 +22906,8 @@
 一番话gtyt
 天秤座gtyw
 平gu
+ぐgu
+グgu
 一站式guaa
 夹菜guae
 不辨菽麦guag
@@ -23571,6 +23609,8 @@
 上h
 目h
 虎ha
+はha
+ハha
 虐haa
 虐haag
 虎牙haah
@@ -23884,6 +23924,8 @@
 眬hdxn
 瞭望hdyn
 肯he
+へhe
+ヘhe
 肯hef
 肯干hefg
 眀heg
@@ -24281,6 +24323,8 @@
 上文hhyy
 步hi
 频率hi
+ひhi
+ヒhi
 督工hiaa
 卡洛斯hiad
 步子hibb
@@ -24737,6 +24781,8 @@
 卢比hnxx
 瞩望hnyn
 眯ho
+ほho
+ホho
 齢hobc
 歯hobj
 眯起hofh
@@ -24967,6 +25013,8 @@
 睡房htyn
 睡魔htys
 瞳hu
+ふhu
+フhu
 上善若水huai
 止痛药huax
 瞳孔hubn
@@ -25291,6 +25339,8 @@
 íi
 ǐi
 ìi
+いi
+イi
 江ia
 港式iaaa
 鸿基iaad
@@ -31552,6 +31602,10 @@
 申论jhyw
 畅言jhyy
 晃ji
+じji
+ジji
+ぢji
+ヂji
 时光荏苒jiaa
 晃荡jiai
 蟝jias
@@ -33245,6 +33299,8 @@
 中k
 口k
 呀ka
+かka
+カka
 咬牙切齿kaah
 中草药kaax
 叫花子kabb
@@ -33606,6 +33662,8 @@
 喊话kdyt
 呔kdyy
 吸ke
+けke
+ケke
 哺乳期kead
 遗腹子kebb
 吸取kebc
@@ -34753,6 +34811,8 @@
 遗言khyy
 中方khyy
 吵ki
+きki
+キki
 啤酒花kiaw
 哨子kibb
 蹈常袭故kidd
@@ -35485,6 +35545,8 @@
 唯心主义knyy
 呎knyy
 噗ko
+こko
+コko
 噗kog
 嚉kogf
 噗kogy
@@ -36044,6 +36106,8 @@
 唯物主义ktyy
 叺ktyy
 啼ku
+くku
+クku
 咬牙kuah
 嗍kub
 哪门子kubb
@@ -38987,6 +39051,8 @@
 同m
 山m
 曲ma
+まma
+マma
 同甘共苦maaa
 典藏maad
 典雅maah
@@ -39281,6 +39347,8 @@
 崖刻mdyn
 帆布床mdys
 骨me
+めme
+メme
 髒meaa
 骨节meab
 崩落meai
@@ -39956,6 +40024,8 @@
 贴谱mhyu
 由谁mhyw
 峭mi
+みmi
+ミmi
 巌midt
 峭mie
 峭mieg
@@ -40364,6 +40434,8 @@
 凯旋mnyt
 赆mnyu
 赕mo
+もmo
+モmo
 同类项moad
 风烛残年mogr
 嶪mogw
@@ -40987,6 +41059,8 @@
 赠mu
 μmu
 Μmu
+むmu
+ムmu
 賆muah
 赚取mubc
 赔了mubn
@@ -41424,7 +41498,11 @@
 风度翩翩myyy
 民n
 已n
+んn
+ンn
 民na
+なna
+ナna
 民工naaa
 展期naad
 民革naaf
@@ -41943,6 +42021,8 @@
 居高ndym
 剧变ndyo
 忲ndyy
+ねne
+ネne
 懚nean
 避孕药neax
 以貌取人nebw
@@ -42645,6 +42725,8 @@
 疏朗nhyv
 悼文nhyy
 悄ni
+にni
+ニni
 恍若niad
 惊涛骇浪nici
 尿布nidm
@@ -43292,6 +43374,8 @@
 以己度人nnyw
 乙方nnyy
 屡no
+のno
+ノno
 屡获noaq
 发烧友nodc
 屡有node
@@ -43865,6 +43949,8 @@
 买nu
 νnu
 Νnu
+ぬnu
+ヌnu
 屏nua
 买菜nuae
 飞散nuae
@@ -44586,6 +44672,10 @@
 óo
 ǒo
 òo
+おo
+オo
+ヲo
+をo
 煤oa
 烧菜oaae
 烒oaag
@@ -46305,6 +46395,8 @@
 这p
 之p
 宽pa
+ぱpa
+パpa
 空荡荡paai
 密匝匝paam
 宽限pabv
@@ -46581,6 +46673,8 @@
 宏论pdyw
 寡言pdyy
 家pe
+ぺpe
+ペpe
 农工peaa
 家臣peah
 家世pean
@@ -47178,6 +47272,8 @@
 宵pi
 πpi
 Πpi
+ぴpi
+ピpi
 家常菜piae
 穿小鞋piaf
 农学院pibp
@@ -47445,6 +47541,7 @@
 军方plyy
 军国主义plyy
 宙pm
+±pm
 宙斯pmad
 剜肉医疮pmau
 冗pmb
@@ -47615,6 +47712,8 @@
 官府pnyw
 官方pnyy
 灾po
+ぽpo
+ポpo
 灾区poaq
 灾荒poay
 穿凿附会pobw
@@ -48014,6 +48113,8 @@
 客座ptyw
 实pu
 被pu
+ぷpu
+プpu
 褡pua
 裓puaa
 襼puac
@@ -54270,6 +54371,8 @@
 的r
 白r
 找ra
+らra
+ラra
 拭raa
 拈花惹草raaa
 找茬raad
@@ -55123,6 +55226,8 @@
 拜访rdyy
 扙rdyy
 扔re
+れre
+レre
 援藏read
 摇荡reai
 授艺rean
@@ -56063,6 +56168,8 @@
 年夜rhyw
 年率rhyx
 朱ri
+りri
+リri
 托洛斯基riaa
 挑花riaw
 邾rib
@@ -57203,6 +57310,8 @@
 扬言rnyy
 択rnyy
 搂ro
+ろro
+ロro
 捉迷藏road
 搂在rodh
 热火朝天rofg
@@ -58558,6 +58667,8 @@
 插言rtyy
 扖rtyy
 拉ru
+るru
+ルru
 拼rua
 拉萨ruab
 接茬ruad
@@ -59802,6 +59913,8 @@
 要s
 木s
 械sa
+さsa
+サsa
 械saa
 模式saaa
 栻saag
@@ -60338,6 +60451,8 @@
 椅座sdyw
 杖sdyy
 极se
+せse
+セse
 极其sead
 檼sean
 桴seb
@@ -61230,6 +61345,8 @@
 欔shhc
 欋shhy
 椒shi
+しshi
+シshi
 椒shic
 想法shif
 相沿shim
@@ -61356,6 +61473,8 @@
 想说shyu
 相认shyw
 档si
+しsi
+シsi
 档期siad
 根深蒂固sial
 植党营私siat
@@ -61923,6 +62042,8 @@
 杺sny
 札记snyn
 杰so
+そso
+ソso
 楼花soaw
 粟子sobb
 杰出sobm
@@ -62705,6 +62826,8 @@
 格言styy
 杁styy
 样su
+すsu
+スsu
 样式suaa
 校勘suad
 栟suah
@@ -63413,6 +63536,8 @@
 和t
 禾t
 长ta
+たta
+タta
 长工taaa
 毛茸茸taab
 长期taad
@@ -64186,6 +64311,8 @@
 敌方tdyy
 箴言tdyy
 秀te
+てte
+テte
 舡tea
 艨tea
 船工teaa
@@ -65843,6 +65970,8 @@
 息率thyx
 处方thyy
 秒ti
+ちti
+チti
 复活节tiab
 毛泽东tiai
 自治区tiaq
@@ -66992,6 +67121,8 @@
 秘方tnyy
 秋to
 →to
+とto
+トto
 翻工toaa
 愁苦toad
 释惑toak
@@ -67828,6 +67959,8 @@
 条条tsts
 自查自纠tstx
 条tsu
+つtsu
+ツtsu
 条例tswg
 我醉欲眠tswh
 条件tswr
@@ -68105,6 +68238,8 @@
 笑说ttyu
 先入为主ttyy
 科tu
+つtu
+ツtu
 冬节tuab
 冬藏tuad
 剩菜tuae
@@ -69002,6 +69137,8 @@
 úu
 ǔu
 ùu
+うu
+ウu
 并ua
 闭幕式uaaa
 并蒂莲uaal
@@ -75546,6 +75683,8 @@
 你w
 他w
 代wa
+わwa
+ワwa
 代工waaa
 侙waag
 代劳waap
@@ -77991,6 +78130,8 @@
 舍己为人wnyw
 伬wnyy
 伙wo
+をwo
+ヲwo
 含糊其辞woat
 含糊其词woay
 创业者woft
@@ -83131,6 +83272,8 @@
 主y
 言y
 度ya
+やya
+ヤya
 试yaa
 诫yaa
 试工yaaa
@@ -85722,6 +85865,8 @@
 妄言ynyy
 訳ynyy
 变yo
+よyo
+ヨyo
 弈yoa
 变节yoab
 变革yoaf
@@ -86814,6 +86959,8 @@
 施诊ytyw
 放言ytyy
 说yu
+ゆyu
+ユyu
 说项yuad
 誁yuah
 識yuaj
@@ -87793,5 +87940,17 @@
 文言yyyy
 谆谆yyyy
 言yyyy
+ざza
+ザza
+ぜze
+ゼze
 ζzeta
 Ζzeta
+じzi
+ジzi
+ぞzo
+ゾzo
+ずzu
+ズzu
+づzu
+ヅzu
