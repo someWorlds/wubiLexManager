@@ -60,8 +60,12 @@ i	í
 i	ǐ
 i	ì
 ic	泤
-iff	⇔
+iff	⟺
 im	没有
+impl	⟹
+impl	⟸
+impliedby	⟸
+implies	⟹
 in	∈
 inf	∞
 infty	∞
@@ -80,6 +84,9 @@ lamb	Λ
 lambda	λ
 lambda	Λ
 leq	≤
+longleftarrow	⟸
+longleftrightarrow	⟺
+longrightarrow	⟹
 lota	ι
 lota	Ι
 lti	输入法

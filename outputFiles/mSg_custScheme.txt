@@ -34261,6 +34261,7 @@ jndd	电大
 jnde	虬髯
 jndf	电压
 jndg	电厂
+jndg	电感
 jndg	蜛
 jndi	电耗
 jndu	电磁
@@ -70233,6 +70234,7 @@ tgu	秤
 tgub	重塑
 tgud	生养
 tgue	生前
+tgue	生煎
 tguf	重装
 tguf	埀
 tgug	生病
@@ -73408,6 +73410,7 @@ tuqk	䈮
 tuqm	税负
 tuqm	䆅
 tuqn	剩饭
+tuqn	生煎包
 tuqq	税金
 tuqt	特立独行
 tuqu	筊

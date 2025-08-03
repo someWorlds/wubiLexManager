@@ -56,7 +56,11 @@ i    í    50801
 i    ǐ    50802
 i    ì    50803
 ic    泤    50800
-iff    ⇔    50800
+iff    ⟺    50800
+impl    ⟹    50800
+impl    ⟸    50801
+impliedby    ⟸    50800
+implies    ⟹    50800
 in    ∈    50800
 inf    ∞    50800
 infty    ∞    50800
@@ -73,6 +77,9 @@ lamb    Λ    50801
 lambda    λ    50800
 lambda    Λ    50801
 leq    ≤    50800
+longleftarrow    ⟸    50800
+longleftrightarrow    ⟺    50800
+longrightarrow    ⟹    50800
 lota    ι    50800
 lota    Ι    50801
 mu    μ    50800

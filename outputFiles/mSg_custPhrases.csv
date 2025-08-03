@@ -50,7 +50,11 @@ i,í
 i,ǐ
 i,ì
 ic,泤
-iff,⇔
+iff,⟺
+impl,⟹
+impl,⟸
+impliedby,⟸
+implies,⟹
 in,∈
 inf,∞
 infty,∞
@@ -67,6 +71,9 @@ lamb,Λ
 lambda,λ
 lambda,Λ
 leq,≤
+longleftarrow,⟸
+longleftrightarrow,⟺
+longrightarrow,⟹
 lota,ι
 lota,Ι
 mu,μ

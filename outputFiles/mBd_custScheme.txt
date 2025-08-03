@@ -23990,7 +23990,7 @@ ifdx    潜龙
 ifef    汗脚
 ifeg    尘肺
 ifer    汗腺
-iff    尘    坔    洼    ⇔
+iff    尘    坔    洼    ⟺
 iffb    洼地
 iffc    尘埃    澐
 ifff    尘土    尘封    湗
@@ -25413,6 +25413,9 @@ impb    测字
 impf    没完
 impg    测定
 impi    漴
+impl    ⟹    ⟸
+impliedby    ⟸
+implies    ⟹
 impq    漏网之鱼
 impw    洞穴    洞察    洞穿
 imqa    没错
@@ -29052,7 +29055,7 @@ jndc    电码
 jndd    电大
 jnde    虬髯
 jndf    电压
-jndg    电厂    蜛
+jndg    电厂    电感    蜛
 jndi    电耗
 jndu    电磁
 jndy    晓以大义
@@ -34451,6 +34454,9 @@ lo    辚
 logf    轛
 logy    轐
 loho    黑灯瞎火
+longleftarrow    ⟸
+longleftrightarrow    ⟺
+longrightarrow    ⟹
 lood    黑糊糊
 loq    辚
 loqh    轔    疄    辚
@@ -58369,7 +58375,7 @@ tgty    征稿
 tgu    秤
 tgub    重塑
 tgud    生养
-tgue    生前
+tgue    生前    生煎
 tguf    重装    埀
 tgug    生病    生姜    重病
 tguh    秤
@@ -60896,7 +60902,7 @@ tuqe    得道多助
 tuqi    科尔
 tuqk    䈮
 tuqm    税负    䆅
-tuqn    剩饭
+tuqn    剩饭    生煎包
 tuqq    税金
 tuqt    特立独行
 tuqu    筊

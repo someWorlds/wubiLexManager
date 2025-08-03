@@ -31926,6 +31926,7 @@
 虬髯jnde
 电压jndf
 电厂jndg
+电感jndg
 蜛jndg
 电耗jndi
 电磁jndu
@@ -65350,6 +65351,7 @@
 重塑tgub
 生养tgud
 生前tgue
+生煎tgue
 重装tguf
 埀tguf
 生病tgug
@@ -68234,6 +68236,7 @@
 科尔tuqi
 税负tuqm
 剩饭tuqn
+生煎包tuqn
 税金tuqq
 特立独行tuqt
 筊tuqu
