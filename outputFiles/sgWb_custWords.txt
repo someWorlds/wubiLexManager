@@ -48651,6 +48651,7 @@ umgh	端正
 umgm	端丽
 umgq	凋残
 umhh	端上
+umhk	端点
 umhk	商战
 umif	商法
 umit	商洛
@@ -53864,6 +53865,7 @@ wtwk	作保
 wtwm	八仙
 wtwn	作假
 wtws	任何
+wtws	斜体
 wtwt	任凭
 wtwu	作伴
 wtwv	八分
