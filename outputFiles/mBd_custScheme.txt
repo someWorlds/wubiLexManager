@@ -1493,6 +1493,7 @@ aint    落发
 ainu    荧光屏
 aiod    藻类
 aios    荧光灯
+aiov    范数
 aipa    落寞
 aipe    东家
 aipg    落定
@@ -7435,6 +7436,7 @@ cybt    驐
 cyby    驻防
 cycg    能文能武
 cycl    驴骡
+cydc    验证码
 cyes    叉腰
 cyeu    䮍
 cyfb    驻地
@@ -10736,6 +10738,7 @@ dudt    破门而入
 dudu    碰碰
 dued    礲    龎
 dueg    礀
+duem    三头肌
 duep    礈
 duey    䃍
 dufb    厚颜无耻
@@ -11593,6 +11596,7 @@ edrt    用非所长
 edsk    䐀
 edsv    须要
 edtd    须知
+edue    肱三头肌
 eduh    䐻
 edui    膫
 edvf    胜友如云
@@ -11865,6 +11869,7 @@ efto    鶢
 efts    櫫
 efu    寽
 efuc    肚痛
+efue    肱二头肌
 efug    肝病
 efuh    脚丫
 efuk    肝癌
@@ -12175,6 +12180,7 @@ elsg    胆固醇
 elsy    㬷
 elts    肋条
 elty    䐃
+elue    股四头肌
 elv    爵
 elvf    爵
 elvg    膢    䝏
@@ -12281,6 +12287,7 @@ enr    肠
 enrg    䐲
 enrh    甩掉
 enrt    肠    甩手
+ensm    腿展机    腿收机    腿屈机
 entd    䐅
 enth    爱情片
 entp    肠管
@@ -12600,6 +12607,7 @@ errn    脾气
 errp    遥控
 errx    遥指
 ersh    遥想
+ersm    胸推机
 ert    脾
 ertd    遥知
 ertf    脾
@@ -12660,7 +12668,7 @@ eslt    彩轿
 eslw    采办
 esmq    采购
 esna    彩民
-esnh    采收
+esnh    采收    彩蛋
 esnu    彩屏
 esoa    采煤
 esog    采精
@@ -13109,6 +13117,7 @@ ewqc    脸色
 ewrc    脑袋瓜
 ewrm    股份制
 ewsh    脸相
+ewsm    腿伸机
 ewsr    胶合板
 ewsy    䏫
 ewta    用舍行藏
@@ -16750,7 +16759,7 @@ fueb    丧服
 fuec    增盈
 fued    壠    靇
 fuej    丧胆
-fuem    增肌
+fuem    二头肌    增肌
 fueu    丧
 fuf    幸    雴
 fufa    境域
@@ -17492,7 +17501,7 @@ gatu    理工科
 gatv    刑律
 gaty    开往
 gaua    开瓶
-gaud    开关    形状    开头
+gaud    形状    开关    开头
 gaue    五黄六月
 gauf    武装
 gaui    开阔
@@ -19824,7 +19833,7 @@ gmtf    现行    再造
 gmtg    再生    两重
 gmth    再版
 gmti    残山剩水
-gmtj    不由得    不见得
+gmtj    不由得    瑞利    不见得
 gmtk    两种
 gmtl    责备
 gmtm    现身    现役
@@ -20827,6 +20836,7 @@ gtts    一条条
 gtty    下笔千言
 gtu    麦
 gtud    亚特兰大
+gtum    瑞利商
 gtun    一片冰心
 gtuq    一等奖    一知半解
 gtut    再生产
@@ -20919,6 +20929,7 @@ guip    平常
 guiq    平光
 guir    不减当年
 guiv    平津
+guiw    平举
 guiy    夹注
 guj    璋
 gujc    夹紧
@@ -28842,6 +28853,7 @@ jjrt    日托
 jjs    蜾
 jjsf    电影票
 jjsg    日本
+jjsm    蝴蝶机
 jjst    晶格
 jjsy    蜾
 jjtg    暒    䗌
@@ -31089,7 +31101,7 @@ khgf    足球    踢球    忠于    跮    趶
 khgh    跪下    中下    足下    䟛    䟼    踕
 khgi    忠贞不渝    䟱    踈
 khgj    蹧
-khgk    遗事    踎
+khgk    中束    遗事    踎
 khgl    踾
 khgm    贵    貴    蹟    䫭    䠭
 khgo    中亚
@@ -34956,6 +34968,7 @@ ludf    畻    䡭
 ludh    圈在
 ludn    圏
 luec    圈肥
+luem    四头肌
 luep    䡵
 luer    甲状腺
 luf    畔
@@ -36193,7 +36206,7 @@ mhtb    幯
 mhtd    帽舌
 mhte    帆船
 mhtf    帲    㡖
-mhth    贴息
+mhth    贴片    贴息
 mhtj    由得
 mhtl    幡
 mhtm    贴身    㠶
@@ -43553,6 +43566,9 @@ prut    空手道
 pruy    牢门
 prxb    冟
 prxi    宁缺毋滥
+prxr    宽握绳索下拉    窄握绳索下拉
+prxt    窄握绳索划船
+prxw    宽握引体
 prya    牢度
 pryg    宾语    宾主
 pryn    牢记    牢房
@@ -49197,7 +49213,7 @@ rchv    抬眼
 rci    反
 rcif    返潮
 rcii    反水
-rcip    反常
+rcip    反常    反演
 rciq    反光
 rcir    摊派    反对派
 rcis    把酒
@@ -49950,7 +49966,7 @@ rggd    后天
 rgge    皇甫
 rggf    指天画地
 rggg    失不再来
-rggk    后事    挟带
+rggk    后事    后束    挟带
 rggo    后来
 rggq    揭不开锅
 rggs    缺一不可
@@ -51612,7 +51628,7 @@ rpwh    撺    㨓
 rpwi    擦
 rpwj    摍
 rpwk    㩈    搈
-rpwn    挖    近似    攛
+rpwn    近似    挖    攛
 rpwq    摉
 rpwr    控件
 rpws    探
@@ -53766,7 +53782,7 @@ sasv    枢要
 sasw    枢椎
 sasx    橙黄橘绿
 sat    桡
-sata    西藏自治区
+sata    模长    西藏自治区
 sate    棋盘
 satf    横行    㯵
 satg    横生
@@ -55237,7 +55253,7 @@ skwa    可供
 skwc    歌颂
 skwd    可做
 skwf    杏仁
-skwg    可使
+skwg    哥俩    可使
 skwm    歌仙
 skwu    哥们
 skww    机器人
@@ -56637,6 +56653,7 @@ swum    检疫
 swun    枪决
 swuq    榆次
 swuu    检阅
+swvb    哥俩好
 swvi    检录
 swvm    槝
 swvn    松鼠    枌
@@ -62309,7 +62326,7 @@ uegf    壟
 uegh    剪下
 uegi    龒
 uegj    蠪
-uegk    前事
+uegk    前事    前束
 uegm    冰肌玉骨
 uego    前来    鸗
 uegq    前列    煎熬
@@ -62722,7 +62739,7 @@ ugin    姜汤
 ugip    美学
 ugis    美酒
 ugiu    总政治部
-ugiw    美誉    羨
+ugiw    美誉    前平举    羨
 ugiy    美洲
 ugjf    竱
 ugjg    并不是
@@ -64282,6 +64299,8 @@ urvc    兿
 urwg    半斤八两
 urww    辩护人
 urxq    兠
+urxt    立握绳索划船
+urxw    立握引体
 uryg    总的说来
 uryn    辩护词
 uryy    前后文
@@ -68627,7 +68646,7 @@ wgin    例汤
 wgip    全党    伦理学
 wgit    全省    敛
 wgiv    便当
-wgiw    例举
+wgiw    例举    侧平举
 wgix    便溺
 wgiy    傲游    倒流    合流    伓
 wgj    便
@@ -72120,6 +72139,7 @@ xeyy    級    级
 xf    结
 xfab    结节
 xfag    繊    纎
+xfat    绳索划船
 xfbb    结子
 xfbc    续娶
 xfbi    约翰逊
@@ -75568,7 +75588,7 @@ ykg    误    衰
 ykgd    误    誤
 ykge    衰
 ykgj    襄理
-ykgk    误事
+ykgk    肩中束    误事
 ykgm    谴责
 ykgn    㲤
 ykgu    裹足不前
@@ -76821,7 +76841,7 @@ yrgc    诉至
 yrgf    亵玩
 yrgg    諻
 yrgj    应接不暇
-yrgk    诟    詬
+yrgk    肩后束    诟    詬
 yrgo    诛灭
 yrgr    放手一搏
 yrh    䜣    訢
@@ -77350,7 +77370,7 @@ yugg    席卷天下
 yugh    廉政
 yugi    斓    谰    斕    讕
 yugj    说理
-yugk    说事
+yugk    说事    肩前束
 yugo    说来
 yugp    席卷一空
 yugt    議

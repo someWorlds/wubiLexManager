@@ -969,6 +969,7 @@ aint	落发
 ainu	荧光屏
 aiod	藻类
 aios	荧光灯
+aiov	范数
 aipa	落寞
 aipe	东家
 aipg	落定
@@ -5295,6 +5296,7 @@ cybp	参议院
 cyby	驻防
 cycg	能文能武
 cycl	驴骡
+cydc	验证码
 cyes	叉腰
 cyfb	驻地
 cyfh	骗走
@@ -8000,6 +8002,7 @@ dudm	碰面
 dudn	有头有尾
 dudt	破门而入
 dudu	碰碰
+duem	三头肌
 dufb	厚颜无耻
 dufe	灰头土脸
 dufk	磁鼓
@@ -8614,6 +8617,7 @@ edrm	腌制
 edrt	用非所长
 edsv	须要
 edtd	须知
+edue	肱三头肌
 edvf	胜友如云
 edvu	胆大如斗
 edvw	须臾
@@ -8772,6 +8776,7 @@ efsr	脚板
 efst	悬索桥
 eftk	脚程
 efuc	肚痛
+efue	肱二头肌
 efug	肝病
 efuh	脚丫
 efuk	肝癌
@@ -8962,6 +8967,7 @@ elrm	胁制
 elrp	胁迫
 elsg	胆固醇
 elts	肋条
+elue	股四头肌
 elwu	爵位
 elww	胁从
 elxa	胭红
@@ -9026,6 +9032,9 @@ enoo	肠炎
 enpu	腹心之疾
 enrh	甩掉
 enrt	甩手
+ensm	腿展机
+ensm	腿收机
+ensm	腿屈机
 enth	爱情片
 entp	肠管
 enud	甩头
@@ -9261,6 +9270,7 @@ errn	脾气
 errp	遥控
 errx	遥指
 ersh	遥想
+ersm	胸推机
 ertd	遥知
 eruk	腺癌
 eruq	腺瘤
@@ -9314,6 +9324,7 @@ eslw	采办
 esmq	采购
 esna	彩民
 esnh	采收
+esnh	彩蛋
 esnu	彩屏
 esoa	采煤
 esog	采精
@@ -9649,6 +9660,7 @@ ewqc	脸色
 ewrc	脑袋瓜
 ewrm	股份制
 ewsh	脸相
+ewsm	腿伸机
 ewsr	胶合板
 ewta	用舍行藏
 ewte	脸盘
@@ -12698,6 +12710,7 @@ fudx	无疾而终
 fueb	丧服
 fuec	增盈
 fuej	丧胆
+fuem	二头肌
 fuem	增肌
 fufa	境域
 fufb	境地
@@ -13276,8 +13289,8 @@ gatu	理工科
 gatv	刑律
 gaty	开往
 gaua	开瓶
-gaud	开关
 gaud	形状
+gaud	开关
 gaud	开头
 gaue	五黄六月
 gauf	武装
@@ -15452,6 +15465,7 @@ gmtg	两重
 gmth	再版
 gmti	残山剩水
 gmtj	不由得
+gmtj	瑞利
 gmtj	不见得
 gmtk	两种
 gmtl	责备
@@ -16258,6 +16272,7 @@ gttq	一笑千金
 gtts	一条条
 gtty	下笔千言
 gtud	亚特兰大
+gtum	瑞利商
 gtun	一片冰心
 gtuq	一等奖
 gtuq	一知半解
@@ -16344,6 +16359,7 @@ guip	平常
 guiq	平光
 guir	不减当年
 guiv	平津
+guiw	平举
 guiy	夹注
 gujc	夹紧
 guje	平明
@@ -22368,6 +22384,7 @@ jjrs	蚍蜉撼树
 jjrt	日托
 jjsf	电影票
 jjsg	日本
+jjsm	蝴蝶机
 jjst	晶格
 jjth	晶片
 jjtk	日程
@@ -23908,6 +23925,7 @@ khgh	跪下
 khgh	中下
 khgh	足下
 khgi	忠贞不渝
+khgk	中束
 khgk	遗事
 khgo	中亚
 khgq	忠烈
@@ -26838,6 +26856,7 @@ lucw	较难
 ludd	圈套
 ludh	圈在
 luec	圈肥
+luem	四头肌
 luer	甲状腺
 lufb	圈地
 lufc	团总支
@@ -27605,6 +27624,7 @@ mhsr	帆板
 mhsr	贴板
 mhtd	帽舌
 mhte	帆船
+mhth	贴片
 mhth	贴息
 mhtj	由得
 mhtm	贴身
@@ -33145,6 +33165,10 @@ prud	牢头
 prut	空手道
 pruy	牢门
 prxi	宁缺毋滥
+prxr	宽握绳索下拉
+prxr	窄握绳索下拉
+prxt	窄握绳索划船
+prxw	宽握引体
 prya	牢度
 pryg	宾语
 pryg	宾主
@@ -36997,6 +37021,7 @@ rchv	抬眼
 rcif	返潮
 rcii	反水
 rcip	反常
+rcip	反演
 rciq	反光
 rcir	摊派
 rcir	反对派
@@ -37636,6 +37661,7 @@ rgge	皇甫
 rggf	指天画地
 rggg	失不再来
 rggk	后事
+rggk	后束
 rggk	挟带
 rggo	后来
 rggq	揭不开锅
@@ -40927,6 +40953,7 @@ sasu	模样
 sasv	枢要
 sasw	枢椎
 sasx	橙黄橘绿
+sata	模长
 sata	西藏自治区
 sate	棋盘
 satf	横行
@@ -41979,6 +42006,7 @@ skwa	可供
 skwc	歌颂
 skwd	可做
 skwf	杏仁
+skwg	哥俩
 skwg	可使
 skwm	歌仙
 skwu	哥们
@@ -42884,6 +42912,7 @@ swum	检疫
 swun	枪决
 swuq	榆次
 swuu	检阅
+swvb	哥俩好
 swvi	检录
 swvn	松鼠
 swwh	检修
@@ -47480,6 +47509,7 @@ uega	剪开
 uegd	前天
 uegh	剪下
 uegk	前事
+uegk	前束
 uegm	冰肌玉骨
 uego	前来
 uegq	前列
@@ -47850,6 +47880,7 @@ ugip	美学
 ugis	美酒
 ugiu	总政治部
 ugiw	美誉
+ugiw	前平举
 ugiy	美洲
 ugjg	并不是
 ugjh	病虫
@@ -49140,6 +49171,8 @@ urug	疯牛病
 uruy	半推半就
 urwg	半斤八两
 urww	辩护人
+urxt	立握绳索划船
+urxw	立握引体
 uryg	总的说来
 uryn	辩护词
 uryy	前后文
@@ -52412,6 +52445,7 @@ wgip	伦理学
 wgit	全省
 wgiv	便当
 wgiw	例举
+wgiw	侧平举
 wgix	便溺
 wgiy	傲游
 wgiy	倒流
@@ -55267,6 +55301,7 @@ xexu	绿肥红瘦
 xeyf	组诗
 xeyn	组词
 xfab	结节
+xfat	绳索划船
 xfbb	结子
 xfbc	续娶
 xfbi	约翰逊
@@ -57916,6 +57951,7 @@ ykft	衰老
 ykfu	吝啬
 ykfw	衰替
 ykgj	襄理
+ykgk	肩中束
 ykgk	误事
 ykgm	谴责
 ykgu	裹足不前
@@ -58977,6 +59013,7 @@ yrfi	诉求
 yrgc	诉至
 yrgf	亵玩
 yrgj	应接不暇
+yrgk	肩后束
 yrgo	诛灭
 yrgr	放手一搏
 yrif	亵渎
@@ -59411,6 +59448,7 @@ yugg	席卷天下
 yugh	廉政
 yugj	说理
 yugk	说事
+yugk	肩前束
 yugo	说来
 yugp	席卷一空
 yuha	谦虚

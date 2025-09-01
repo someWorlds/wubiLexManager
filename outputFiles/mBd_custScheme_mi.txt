@@ -1672,6 +1672,7 @@
 荧光屏ainu
 藻类aiod
 荧光灯aios
+范数aiov
 落寞aipa
 东家aipe
 落定aipg
@@ -8066,6 +8067,7 @@
 驻防cyby
 能文能武cycg
 驴骡cycl
+验证码cydc
 叉腰cyes
 驻地cyfb
 骗走cyfh
@@ -11694,6 +11696,7 @@
 礲dued
 龎dued
 礀dueg
+三头肌duem
 礈duep
 厚颜无耻dufb
 灰头土脸dufe
@@ -12561,6 +12564,7 @@
 用非所长edrt
 须要edsv
 须知edtd
+肱三头肌edue
 膫edui
 胜友如云edvf
 胆大如斗edvu
@@ -12843,6 +12847,7 @@
 櫫efts
 寽efu
 肚痛efuc
+肱二头肌efue
 肝病efug
 脚丫efuh
 肝癌efuk
@@ -13153,6 +13158,7 @@
 胁迫elrp
 胆固醇elsg
 肋条elts
+股四头肌elue
 爵elv
 爵elvf
 膢elvg
@@ -13255,6 +13261,9 @@
 甩掉enrh
 肠enrt
 甩手enrt
+腿展机ensm
+腿收机ensm
+腿屈机ensm
 爱情片enth
 肠管entp
 甩头enud
@@ -13585,6 +13594,7 @@
 遥控errp
 遥指errx
 遥想ersh
+胸推机ersm
 脾ert
 遥知ertd
 脾ertf
@@ -13648,6 +13658,7 @@
 采购esmq
 彩民esna
 采收esnh
+彩蛋esnh
 彩屏esnu
 采煤esoa
 采精esog
@@ -14123,6 +14134,7 @@
 脑袋瓜ewrc
 股份制ewrm
 脸相ewsh
+腿伸机ewsm
 胶合板ewsr
 用舍行藏ewta
 脸盘ewte
@@ -18264,6 +18276,7 @@
 壠fued
 靇fued
 丧胆fuej
+二头肌fuem
 增肌fuem
 丧fueu
 幸fuf
@@ -19091,8 +19104,8 @@
 刑律gatv
 开往gaty
 开瓶gaua
-开关gaud
 形状gaud
+开关gaud
 开头gaud
 五黄六月gaue
 武装gauf
@@ -21753,6 +21766,7 @@
 再版gmth
 残山剩水gmti
 不由得gmtj
+瑞利gmtj
 不见得gmtj
 两种gmtk
 责备gmtl
@@ -22881,6 +22895,7 @@
 下笔千言gtty
 麦gtu
 亚特兰大gtud
+瑞利商gtum
 一片冰心gtun
 一等奖gtuq
 一知半解gtuq
@@ -22982,6 +22997,7 @@
 平光guiq
 不减当年guir
 平津guiv
+平举guiw
 夹注guiy
 璋guj
 夹紧gujc
@@ -31755,6 +31771,7 @@
 蜾jjs
 电影票jjsf
 日本jjsg
+蝴蝶机jjsm
 晶格jjst
 蜾jjsy
 暒jjtg
@@ -34306,6 +34323,7 @@
 忠贞不渝khgi
 踈khgi
 蹧khgj
+中束khgk
 遗事khgk
 踎khgk
 踾khgl
@@ -38684,6 +38702,7 @@
 圈在ludh
 圏ludn
 圈肥luec
+四头肌luem
 甲状腺luer
 畔luf
 圈地lufb
@@ -39989,6 +40008,7 @@
 帽舌mhtd
 帆船mhte
 帲mhtf
+贴片mhth
 贴息mhth
 由得mhtj
 幡mhtl
@@ -47960,6 +47980,10 @@
 牢门pruy
 冟prxb
 宁缺毋滥prxi
+宽握绳索下拉prxr
+窄握绳索下拉prxr
+窄握绳索划船prxt
+宽握引体prxw
 牢度prya
 宾语pryg
 宾主pryg
@@ -54808,6 +54832,7 @@
 返潮rcif
 反水rcii
 反常rcip
+反演rcip
 反光rciq
 摊派rcir
 反对派rcir
@@ -55668,6 +55693,7 @@
 指天画地rggf
 失不再来rggg
 后事rggk
+后束rggk
 挟带rggk
 后来rggo
 揭不开锅rggq
@@ -57541,8 +57567,8 @@
 擦rpwi
 摍rpwj
 搈rpwk
-挖rpwn
 近似rpwn
+挖rpwn
 攛rpwn
 摉rpwq
 控件rpwr
@@ -60081,6 +60107,7 @@
 枢椎sasw
 橙黄橘绿sasx
 桡sat
+模长sata
 西藏自治区sata
 棋盘sate
 横行satf
@@ -61778,6 +61805,7 @@
 歌颂skwc
 可做skwd
 杏仁skwf
+哥俩skwg
 可使skwg
 歌仙skwm
 哥们skwu
@@ -63269,6 +63297,7 @@
 枪决swun
 榆次swuq
 检阅swuu
+哥俩好swvb
 检录swvi
 槝swvm
 松鼠swvn
@@ -69978,6 +70007,7 @@
 龒uegi
 蠪uegj
 前事uegk
+前束uegk
 冰肌玉骨uegm
 前来uego
 鸗uego
@@ -70447,6 +70477,7 @@
 美酒ugis
 总政治部ugiu
 美誉ugiw
+前平举ugiw
 羨ugiw
 美洲ugiy
 竱ugjf
@@ -72196,6 +72227,8 @@
 半斤八两urwg
 辩护人urww
 兠urxq
+立握绳索划船urxt
+立握引体urxw
 总的说来uryg
 辩护词uryn
 前后文uryy
@@ -76944,6 +76977,7 @@
 敛wgit
 便当wgiv
 例举wgiw
+侧平举wgiw
 便溺wgix
 傲游wgiy
 倒流wgiy
@@ -81020,6 +81054,7 @@
 结节xfab
 繊xfag
 纎xfag
+绳索划船xfat
 结子xfbb
 续娶xfbc
 约翰逊xfbi
@@ -84862,6 +84897,7 @@
 誤ykgd
 衰ykge
 襄理ykgj
+肩中束ykgk
 误事ykgk
 谴责ykgm
 裹足不前ykgu
@@ -86373,6 +86409,7 @@
 亵玩yrgf
 諻yrgg
 应接不暇yrgj
+肩后束yrgk
 诟yrgk
 詬yrgk
 诛灭yrgo
@@ -87016,6 +87053,7 @@
 讕yugi
 说理yugj
 说事yugk
+肩前束yugk
 说来yugo
 席卷一空yugp
 議yugt
