@@ -5830,6 +5830,7 @@
 孤弱brxu
 孤高brym
 阿bs
+阿甘bsaf
 耵聍bsbp
 阿附bsbw
 阿胶bseu
@@ -6922,9 +6923,9 @@
 骑术cdsy
 畚箕cdta
 参透cdte
+骑行cdtf
 参选cdtf
 参赞cdtf
-骑行cdtf
 鸡犬升天cdtg
 骑射cdtm
 骑乘cdtu
@@ -7015,6 +7016,7 @@
 通同cemg
 通则cemj
 通风cemq
+鸡胸肉cemw
 恿cen
 勇敢cenb
 勇悍cenj
@@ -12160,6 +12162,7 @@
 大张旗鼓dxyf
 詟dxyf
 龙床dxys
+龙族dxyt
 龙庭dxyt
 龙文dxyy
 太dy
@@ -15426,6 +15429,7 @@
 雨水fgii
 干渴fgij
 干涸fgil
+土豆泥fgin
 博学fgip
 雨淋fgis
 干活fgit
@@ -21096,6 +21100,7 @@
 一日千里gjtj
 更番gjto
 理科gjtu
+更新gju
 理疗gjub
 更美gjug
 一星半点gjuh
@@ -24669,6 +24674,7 @@
 战端hkum
 点将hkuq
 战刀hkvn
+点群hkvt
 点仓hkwb
 占优hkwd
 战俘hkwe
@@ -24682,6 +24688,7 @@
 战绩hkxg
 战线hkxg
 占线hkxg
+占比hkxx
 点评hkyg
 点亮hkyp
 战旗hkyt
@@ -32696,8 +32703,8 @@
 监牢jtpr
 紧身裤jtpu
 临安jtpv
-监察jtpw
 星空jtpw
+监察jtpw
 蜂窝jtpw
 监视jtpy
 临危jtqd
@@ -37692,6 +37699,7 @@
 贺函lkbi
 黑咕隆咚lkbk
 回聘lkbm
+圆孔lkbn
 贺联lkbu
 回防lkby
 驾lkc
@@ -56411,6 +56419,7 @@
 提早rjjh
 白晃晃rjji
 气昂昂rjjq
+提踵rjkh
 摱rjlc
 揾rjlg
 担架rjlk
@@ -58074,6 +58083,7 @@
 白兔rrqk
 白铜rrqm
 手提包rrqn
+手抓饭rrqn
 手抓饼rrqn
 白金rrqq
 白铁rrqr
@@ -59715,6 +59725,7 @@
 掠夺rydf
 挤压rydf
 擦肩而过rydf
+抗压rydf
 择主而事rydg
 摔破rydh
 搞成rydn
@@ -61878,6 +61889,7 @@
 樱花smaw
 椣smaw
 机子smbb
+柚子smbb
 机降smbt
 机能smce
 杸smcy
@@ -64978,6 +64990,7 @@
 告官tfpn
 告之tfpp
 待客tfpt
+等额tfpt
 毛袜tfpu
 行窃tfpw
 造福tfpy
@@ -70460,6 +70473,7 @@
 美玉uggy
 前事不忘uggy
 症ugh
+辣皮ughc
 症ughd
 盖上ughh
 疜ughi
@@ -73669,6 +73683,7 @@
 丸散膏丹vaym
 毁谤vayu
 好vb
+她vb
 好菜vbae
 女孩子vbbb
 好了vbbn
@@ -76455,6 +76470,7 @@
 仍为weyl
 促膝谈心weyn
 使用率weyx
+体脂率weyx
 八股文weyy
 伋weyy
 会wf
@@ -78676,6 +78692,7 @@
 体腔wsep
 体彩wses
 何用wset
+体脂wsex
 体裁wsfa
 何地wsfb
 何去wsfc
@@ -78892,6 +78909,7 @@
 仟wtfh
 斜坡wtfh
 仵wtfh
+仟吉wtfk
 俈wtfk
 作协wtfl
 凭wtfm
@@ -79817,6 +79835,7 @@
 价钱wwqg
 人名wwqk
 贫化铀wwqm
+煲仔饭wwqn
 众多wwqq
 八段锦wwqr
 从犯wwqt

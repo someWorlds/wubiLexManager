@@ -88,6 +88,7 @@ geq	≥
 gets	←
 gi	ぎ
 gi	ギ
+gju	更新
 go	ご
 go	ゴ
 gu	ぐ

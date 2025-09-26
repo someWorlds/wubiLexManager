@@ -6328,6 +6328,7 @@ brwr	阿拉伯
 brxu	孤弱
 brym	孤高
 bs	阿
+bsaf	阿甘
 bsbp	耵聍
 bsbw	阿附
 bseu	阿胶
@@ -7497,9 +7498,9 @@ cdsu	鸡犬相闻
 cdsy	骑术
 cdta	畚箕
 cdte	参透
+cdtf	骑行
 cdtf	参选
 cdtf	参赞
-cdtf	骑行
 cdtg	鸡犬升天
 cdtm	骑射
 cdtu	骑乘
@@ -7600,6 +7601,7 @@ cemb	通邮
 cemg	通同
 cemj	通则
 cemq	通风
+cemw	鸡胸肉
 cen	恿
 cenb	勇敢
 cenj	勇悍
@@ -13120,6 +13122,7 @@ dxye	袭
 dxyf	大张旗鼓
 dxyf	詟
 dxys	龙床
+dxyt	龙族
 dxyt	龙庭
 dxyy	龙文
 dy	太
@@ -16664,6 +16667,7 @@ fgih	干涉
 fgii	雨水
 fgij	干渴
 fgil	干涸
+fgin	土豆泥
 fgip	博学
 fgis	雨淋
 fgit	干活
@@ -22667,6 +22671,7 @@ gjtg	瑆
 gjtj	一日千里
 gjto	更番
 gjtu	理科
+gju	更新
 gjub	理疗
 gjug	更美
 gjuh	一星半点
@@ -26498,6 +26503,7 @@ hkuk	战况
 hkum	战端
 hkuq	点将
 hkvn	战刀
+hkvt	点群
 hkwb	点仓
 hkwd	占优
 hkwe	战俘
@@ -26511,6 +26517,7 @@ hkxc	点缀
 hkxg	战绩
 hkxg	战线
 hkxg	占线
+hkxx	占比
 hkyg	点评
 hkyp	点亮
 hkyt	战旗
@@ -35026,8 +35033,8 @@ jtpn	蜂蜜
 jtpr	监牢
 jtpu	紧身裤
 jtpv	临安
-jtpw	监察
 jtpw	星空
+jtpw	监察
 jtpw	蜂窝
 jtpy	监视
 jtqd	临危
@@ -40386,6 +40393,7 @@ lkbi	回函
 lkbi	贺函
 lkbk	黑咕隆咚
 lkbm	回聘
+lkbn	圆孔
 lkbu	贺联
 lkby	回防
 lkc	驾
@@ -60536,6 +60544,7 @@ rjjg	摄影师
 rjjh	提早
 rjji	白晃晃
 rjjq	气昂昂
+rjkh	提踵
 rjlc	摱
 rjlg	揾
 rjlk	担架
@@ -62287,6 +62296,7 @@ rrqf	銴
 rrqk	白兔
 rrqm	白铜
 rrqn	手提包
+rrqn	手抓饭
 rrqn	手抓饼
 rrqq	白金
 rrqr	白铁
@@ -63981,6 +63991,7 @@ rydd	扩大
 rydf	掠夺
 rydf	挤压
 rydf	擦肩而过
+rydf	抗压
 rydg	择主而事
 rydh	摔破
 rydn	搞成
@@ -66313,6 +66324,7 @@ smas	欁
 smaw	樱花
 smaw	椣
 smbb	机子
+smbb	柚子
 smbt	机降
 smce	机能
 smcy	杸
@@ -69695,6 +69707,7 @@ tfpn	告密
 tfpn	告官
 tfpp	告之
 tfpt	待客
+tfpt	等额
 tfpu	毛袜
 tfpw	行窃
 tfpy	造福
@@ -75686,6 +75699,7 @@ uggx	病毒
 uggy	美玉
 uggy	前事不忘
 ugh	症
+ughc	辣皮
 ughd	症
 ughh	盖上
 ughi	疜
@@ -79101,6 +79115,7 @@ vayc	毁弃
 vaym	丸散膏丹
 vayu	毁谤
 vb	好
+vb	她
 vbae	好菜
 vbbb	女孩子
 vbbn	好了
@@ -82118,6 +82133,7 @@ weyl	仍为
 weyn	促膝谈心
 weyo	鿪
 weyx	使用率
+weyx	体脂率
 weyy	八股文
 weyy	伋
 wf	会
@@ -84515,6 +84531,7 @@ wseg	舍本逐末
 wsep	体腔
 wses	体彩
 wset	何用
+wsex	体脂
 wsfa	体裁
 wsfb	何地
 wsfc	何去
@@ -84737,6 +84754,7 @@ wtfh	仟
 wtfh	斜坡
 wtfh	仵
 wtfi	䋕
+wtfk	仟吉
 wtfk	俈
 wtfl	作协
 wtfm	凭
@@ -85720,6 +85738,7 @@ wwqf	坐镇
 wwqg	价钱
 wwqk	人名
 wwqm	贫化铀
+wwqn	煲仔饭
 wwqq	众多
 wwqr	八段锦
 wwqt	从犯

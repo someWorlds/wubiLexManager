@@ -28851,6 +28851,7 @@ vawx	婲
 vawy	娂
 vay	㚤
 vb	好
+vb	她
 vbcy	娵
 vbde	嫷
 vbf	㜽
