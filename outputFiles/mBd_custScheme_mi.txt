@@ -248,6 +248,7 @@
 茁abmj
 芤abn
 芤abnb
+蒸蛋abnh
 蒸发abnt
 节煤aboa
 蒸烤abof
@@ -854,6 +855,7 @@
 靾afan
 韉afao
 芙蓉afap
+蒜蓉afap
 鞋匠afar
 鞢afas
 蔷薇afat
@@ -2659,6 +2661,7 @@
 恐怖主义anyy
 工业区aoaq
 蒌蒿aoay
+黄焖鸡aocq
 薠aodm
 蘱aodm
 营业厅aods
@@ -5943,6 +5946,7 @@
 降火btoo
 取长补短btpt
 出版社btpy
+孜然btqd
 降解btqe
 隆鑫btqq
 隐私权btsc
@@ -26882,6 +26886,7 @@
 小样ihsu
 涉枪ihsw
 小楷ihsx
+光频梳ihsy
 小iht
 波长ihta
 小径ihtc
@@ -28629,6 +28634,7 @@
 淦iqg
 渔iqg
 逃开iqga
+沃尔玛iqgc
 逃到iqgc
 浑然天成iqgd
 渔iqgg
@@ -28762,6 +28768,7 @@
 光栅iqsm
 油印机iqsm
 光板iqsr
+光梳iqsy
 光柱iqsy
 泖iqt
 潴iqt
@@ -58381,6 +58388,7 @@
 打谱rsyu
 拉丁文rsyy
 手rt
+斤rt
 托rta
 手工rtaa
 播种期rtad
@@ -71557,6 +71565,7 @@
 端正umgh
 痌umgk
 端丽umgm
+新凯来umgo
 凋残umgq
 凒umgu
 闓umgu
@@ -84838,6 +84847,7 @@
 齌yjou
 齑粉yjow
 课室yjpg
+充电宝yjpg
 刘禅yjpy
 谒yjq
 齐鲁yjqg

@@ -163,6 +163,7 @@ abjj	节日
 abjn	节电
 ablt	节略
 abmg	邛崃
+abnh	蒸蛋
 abnt	蒸发
 aboa	节煤
 abof	蒸烤
@@ -557,6 +558,7 @@ afaj	甘草
 afal	甘薯
 afam	蒜黄
 afap	芙蓉
+afap	蒜蓉
 afar	鞋匠
 afat	蔷薇
 afay	甘蔗
@@ -1577,6 +1579,7 @@ anyo	巨变
 anyy	恐怖主义
 aoaq	工业区
 aoay	蒌蒿
+aocq	黄焖鸡
 aods	营业厅
 aoig	苏炳添
 aojh	萤火虫
@@ -3728,6 +3731,7 @@ btnm	孤行己见
 btoo	降火
 btpt	取长补短
 btpy	出版社
+btqd	孜然
 btqe	降解
 btqq	隆鑫
 btsc	隐私权
@@ -18999,6 +19003,7 @@ ihst	小桥
 ihsu	小样
 ihsw	涉枪
 ihsx	小楷
+ihsy	光频梳
 ihta	波长
 ihtc	小径
 ihtd	小憩
@@ -20263,6 +20268,7 @@ iqfp	逃过
 iqfw	渔夫
 iqfy	沟壕
 iqga	逃开
+iqgc	沃尔玛
 iqgc	逃到
 iqgd	浑然天成
 iqgg	光环
@@ -20359,6 +20365,7 @@ iqsk	渔歌
 iqsm	光栅
 iqsm	油印机
 iqsr	光板
+iqsy	光梳
 iqsy	光柱
 iqtd	淆乱
 iqte	光盘
@@ -48693,6 +48700,7 @@ umfw	凋零
 umfw	商埠
 umgh	端正
 umgm	端丽
+umgo	新凯来
 umgq	凋残
 umhh	端上
 umhk	端点
@@ -57909,6 +57917,7 @@ yjny	齐心
 yjog	课业
 yjow	齑粉
 yjpg	课室
+yjpg	充电宝
 yjpy	刘禅
 yjqg	齐鲁
 yjqh	课外

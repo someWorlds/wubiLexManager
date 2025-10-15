@@ -263,6 +263,7 @@ abmg	邛崃
 abmj	茁
 abn	芤
 abnb	芤
+abnh	蒸蛋
 abnt	蒸发
 aboa	节煤
 abof	蒸烤
@@ -915,6 +916,7 @@ afam	蕡
 afan	靾
 afao	韉
 afap	芙蓉
+afap	蒜蓉
 afar	鞋匠
 afas	鞢
 afat	蔷薇
@@ -2932,6 +2934,7 @@ anyw	苡
 anyy	恐怖主义
 aoaq	工业区
 aoay	蒌蒿
+aocq	黄焖鸡
 aodm	薠
 aodm	蘱
 aods	营业厅
@@ -6457,6 +6460,7 @@ btoo	降火
 btoy	䎿
 btpt	取长补短
 btpy	出版社
+btqd	孜然
 btqe	降解
 btqq	隆鑫
 btsc	隐私权
@@ -28889,6 +28893,7 @@ ihst	小桥
 ihsu	小样
 ihsw	涉枪
 ihsx	小楷
+ihsy	光频梳
 iht	小
 ihta	波长
 ihtc	小径
@@ -30710,6 +30715,7 @@ iqfy	沟壕
 iqg	淦
 iqg	渔
 iqga	逃开
+iqgc	沃尔玛
 iqgc	逃到
 iqgd	浑然天成
 iqgg	渔
@@ -30846,6 +30852,7 @@ iqsk	渔歌
 iqsm	光栅
 iqsm	油印机
 iqsr	光板
+iqsy	光梳
 iqsy	光柱
 iqt	泖
 iqt	潴
@@ -62599,6 +62606,7 @@ rsys	打磨
 rsyu	打谱
 rsyy	拉丁文
 rt	手
+rt	斤
 rta	托
 rtaa	手工
 rtad	播种期
@@ -76859,6 +76867,7 @@ umgh	端正
 umgk	痌
 umgk	㓊
 umgm	端丽
+umgo	新凯来
 umgq	凋残
 umgt	㿂
 umgu	凒
@@ -91046,6 +91055,7 @@ yjog	课业
 yjou	齌
 yjow	齑粉
 yjpg	课室
+yjpg	充电宝
 yjpy	刘禅
 yjq	谒
 yjqg	齐鲁

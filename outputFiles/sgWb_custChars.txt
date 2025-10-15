@@ -22888,6 +22888,7 @@ rssi	㩒
 rssy	㨆
 rssy	搮
 rt	手
+rt	斤
 rta	托
 rtah	抍
 rtan	托
