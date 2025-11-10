@@ -8440,6 +8440,7 @@ dyse	太极
 dysg	硫酸
 dysh	太想
 dysi	大话西游
+dyst	有迹可循
 dytf	太行
 dyth	碎片
 dyti	百废待举
@@ -16428,9 +16429,9 @@ gutj	平利
 gutk	平和
 gutm	平躺
 gutn	整装待发
+gutq	平移
 gutq	平衡
 gutq	平稳
-gutq	平移
 guts	至关重要
 guty	夹入
 guud	平头
@@ -19101,8 +19102,8 @@ iidi	水泵
 iidi	汪洋大海
 iidk	津津有味
 iidl	泱泱大国
-iidm	水面
 iidm	油泼面
+iidm	水面
 iidn	水碾
 iidp	泛滥成灾
 iidq	沙砾
@@ -20835,6 +20836,7 @@ itqg	洗钱
 itqh	海外
 itqi	海尔
 itqj	海龟
+itqn	小笼包
 itqn	海蚀
 itqo	浑身解数
 itqt	少儿
@@ -24826,6 +24828,7 @@ krca	听戏
 krcl	听劝
 krdn	听成
 krdu	顺手牵羊
+krdy	顺势而为
 krea	听腻
 krfn	听声
 krfp	听过
@@ -33649,6 +33652,7 @@ pwbt	空降
 pwby	空防
 pwck	窗台
 pwcp	寝食难安
+pwcs	宫保鸡丁
 pwcw	空难
 pwdc	空码
 pwdd	安全套
@@ -35963,6 +35967,7 @@ qtay	锋芒
 qtbb	儿子
 qtbb	猴子
 qtbb	狮子
+qtbb	锤子
 qtbc	猎取
 qtbi	儿孙
 qtbj	夕阳
@@ -36453,6 +36458,7 @@ qwdf	锻压
 qwdm	锥面
 qwdq	久仰大名
 qwdt	争分夺秒
+qwea	钢化膜
 qwev	欠妥
 qwff	欠款
 qwfk	铃鼓
@@ -38449,6 +38455,7 @@ rlje	摆明
 rljg	押题
 rljt	舞星
 rlkh	舞蹈
+rlkk	握力器
 rllg	押车
 rllk	押回
 rllt	魅力四射
@@ -38765,6 +38772,7 @@ rnll	气田
 rnln	掉以轻心
 rnlp	所辖
 rnlt	气力
+rnlt	握力
 rnlw	拟办
 rnlx	所累
 rnma	扭曲
@@ -42402,6 +42410,7 @@ ssbe	禁阻
 ssbg	木耳
 ssca	样板戏
 sscn	木马
+sscn	森马
 ssdc	楚雄
 ssdd	梦魇
 ssdf	梦想成真
@@ -43478,6 +43487,7 @@ tdqj	乱象
 tdqk	知名
 tdqk	短句
 tdqn	矫饰
+tdqn	笼包
 tdra	筹措
 tdrc	甜瓜
 tdre	各有所爱
@@ -47965,6 +47975,7 @@ ugrt	辣手
 ugrv	病势
 ugrw	资不抵债
 ugsd	盖顶
+ugsg	辣丁
 ugsg	冷不丁
 ugsh	辣椒
 ugsj	病榻
@@ -47979,8 +47990,10 @@ ugtc	病笃
 ugtd	美籍
 ugtf	美德
 ugtg	病重
+ugth	辣片
 ugtk	病程
 ugtq	美称
+ugts	辣条
 uguc	病痛
 ugud	症状
 ugud	羔羊
@@ -48198,8 +48211,8 @@ ujai	单薄
 ujak	间或
 ujal	间苗
 ujap	童蒙
-ujaq	音区
 ujaq	韵苑
+ujaq	音区
 ujar	意匠
 ujax	意蕴
 ujbb	单子
@@ -52660,6 +52673,7 @@ wgwn	例假
 wgwo	合伙
 wgwq	倒爷
 wgws	全体
+wgws	合体
 wgwt	合作
 wgww	使人
 wgwx	僵化
@@ -57903,6 +57917,7 @@ yjji	亮晃晃
 yjjj	亮晶晶
 yjkh	裹足
 yjkj	齐唱
+yjkk	充电器
 yjkk	谩骂
 yjkq	齐鸣
 yjlg	齐国

@@ -11312,6 +11312,7 @@ dyse    太极
 dysg    硫酸
 dysh    太想
 dysi    大话西游
+dyst    有迹可循
 dyt    矿
 dytd    䃚
 dytf    太行
@@ -21002,7 +21003,7 @@ gutj    平利
 gutk    平和
 gutm    平躺
 gutn    整装待发
-gutq    平衡    平稳    平移
+gutq    平移    平衡    平稳
 guts    至关重要
 guty    夹入
 guud    平头
@@ -24715,7 +24716,7 @@ iidh    消夏
 iidi    消耗    水泵    汪洋大海
 iidk    津津有味
 iidl    泱泱大国
-iidm    水面    油泼面
+iidm    油泼面    水面
 iidn    水碾
 iidp    泛滥成灾
 iidq    沙砾
@@ -26780,7 +26781,7 @@ itqg    海鲜    省钱    洗钱
 itqh    海外
 itqi    海尔
 itqj    海龟
-itqn    海蚀
+itqn    小笼包    海蚀
 itqo    浑身解数
 itqt    少儿    混血儿
 itqy    海岛    海鸟    㝹
@@ -32310,6 +32311,7 @@ krd    嗥
 krdf    嗥    㗑
 krdn    听成
 krdu    顺手牵羊
+krdy    顺势而为
 kre    哌
 krea    听腻
 krey    哌
@@ -44242,7 +44244,7 @@ pwck    窗台    䆷
 pwcn    窓
 pwcp    寝食难安
 pwcq    䆓
-pwcs    梥
+pwcs    宫保鸡丁    梥
 pwcu    㝐
 pwcv    䆯
 pwcw    空难
@@ -47757,7 +47759,7 @@ qtaw    獚    猉
 qtax    猛药
 qtay    锋芒    獾
 qtb    犯    猛    卯    狲
-qtbb    儿子    猴子    狮子
+qtbb    儿子    猴子    狮子    锤子
 qtbc    猎取
 qtbg    㺦
 qtbh    卯
@@ -48468,6 +48470,7 @@ qwdf    锻压
 qwdm    锥面
 qwdq    久仰大名
 qwdt    争分夺秒
+qwea    钢化膜
 qwet    鉁
 qwev    欠妥
 qwff    欠款
@@ -50882,6 +50885,7 @@ rljg    押题
 rljt    舞星
 rlkg    拁
 rlkh    舞蹈
+rlkk    握力器
 rlle    攌    搚
 rllg    押车    㩸
 rllk    押回
@@ -51285,7 +51289,7 @@ rnlf    氛围    扭转
 rnll    气田    氳
 rnln    掉以轻心    㔕
 rnlp    所辖
-rnlt    气力
+rnlt    气力    握力
 rnlw    拟办
 rnlx    所累
 rnm    氙
@@ -55914,7 +55918,7 @@ ssbe    禁阻
 ssbg    木耳
 ssbh    郴
 ssca    样板戏
-sscn    木马
+sscn    木马    森马
 ssdc    楚雄
 ssdd    梦魇
 ssde    辳
@@ -57440,7 +57444,7 @@ tdqg    鸹
 tdqi    奥威尔    适销
 tdqj    乱象
 tdqk    知名    短句
-tdqn    矫饰
+tdqn    矫饰    笼包
 tdqy    䑛    舚
 tdra    筹措
 tdrc    甜瓜
@@ -62843,7 +62847,7 @@ ugrt    辣手
 ugrv    病势
 ugrw    资不抵债
 ugsd    盖顶
-ugsg    冷不丁
+ugsg    辣丁    冷不丁
 ugsh    辣椒
 ugsj    病榻
 ugso    盖楼
@@ -62858,9 +62862,11 @@ ugtc    病笃
 ugtd    美籍
 ugtf    美德
 ugtg    病重
+ugth    辣片
 ugtk    病程
 ugto    䴊
 ugtq    美称
+ugts    辣条
 ugtt    羲    義
 ugu    羡    瘗
 uguc    病痛
@@ -63119,7 +63125,7 @@ ujal    间苗
 ujam    贑
 ujan    戅
 ujap    童蒙
-ujaq    音区    韵苑
+ujaq    韵苑    音区
 ujar    意匠
 ujax    意蕴
 ujb    鄣
@@ -68861,7 +68867,7 @@ wgwl    公事公办
 wgwn    例假
 wgwo    合伙
 wgwq    倒爷    儞
-wgws    全体
+wgws    全体    合体
 wgwt    合作
 wgww    使人
 wgwx    僵化
@@ -75504,7 +75510,7 @@ yjju    螡
 yjjw    螤
 yjkh    裹足
 yjkj    齐唱
-yjkk    谩骂
+yjkk    充电器    谩骂
 yjkq    齐鸣
 yjl    谩
 yjlc    谩    謾

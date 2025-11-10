@@ -12282,6 +12282,7 @@
 硫酸dysg
 太想dysh
 大话西游dysi
+有迹可循dyst
 矿dyt
 太行dytf
 碎片dyth
@@ -23074,9 +23075,9 @@
 平和gutk
 平躺gutm
 整装待发gutn
+平移gutq
 平衡gutq
 平稳gutq
-平移gutq
 至关重要guts
 夹入guty
 平头guud
@@ -26992,8 +26993,8 @@
 汪洋大海iidi
 津津有味iidk
 泱泱大国iidl
-水面iidm
 油泼面iidm
+水面iidm
 水碾iidn
 泛滥成灾iidp
 沙砾iidq
@@ -29425,6 +29426,7 @@
 海外itqh
 海尔itqi
 海龟itqj
+小笼包itqn
 海蚀itqn
 浑身解数itqo
 少儿itqt
@@ -35814,6 +35816,7 @@
 嗥krdf
 听成krdn
 顺手牵羊krdu
+顺势而为krdy
 哌kre
 听腻krea
 哌krey
@@ -48803,6 +48806,7 @@
 窗台pwck
 窓pwcn
 寝食难安pwcp
+宫保鸡丁pwcs
 梥pwcs
 空难pwcw
 突pwd
@@ -52965,6 +52969,7 @@
 儿子qtbb
 猴子qtbb
 狮子qtbb
+锤子qtbb
 猎取qtbc
 卯qtbh
 儿孙qtbi
@@ -53948,6 +53953,7 @@
 锥面qwdm
 久仰大名qwdq
 争分夺秒qwdt
+钢化膜qwea
 鉁qwet
 欠妥qwev
 欠款qwff
@@ -56713,6 +56719,7 @@
 舞星rljt
 拁rlkg
 舞蹈rlkh
+握力器rlkk
 攌rlle
 搚rlle
 押车rllg
@@ -57170,6 +57177,7 @@
 掉以轻心rnln
 所辖rnlp
 气力rnlt
+握力rnlt
 拟办rnlw
 所累rnlx
 氙rnm
@@ -62511,6 +62519,7 @@
 郴ssbh
 样板戏ssca
 木马sscn
+森马sscn
 楚雄ssdc
 梦魇ssdd
 辳ssde
@@ -64211,6 +64220,7 @@
 知名tdqk
 短句tdqk
 矫饰tdqn
+笼包tdqn
 舚tdqy
 筹措tdra
 甜瓜tdrc
@@ -70605,6 +70615,7 @@
 病势ugrv
 资不抵债ugrw
 盖顶ugsd
+辣丁ugsg
 冷不丁ugsg
 辣椒ugsh
 病榻ugsj
@@ -70620,8 +70631,10 @@
 美籍ugtd
 美德ugtf
 病重ugtg
+辣片ugth
 病程ugtk
 美称ugtq
+辣条ugts
 羲ugtt
 義ugtt
 羡ugu
@@ -70900,8 +70913,8 @@
 贑ujam
 戅ujan
 童蒙ujap
-音区ujaq
 韵苑ujaq
+音区ujaq
 意匠ujar
 意蕴ujax
 鄣ujb
@@ -77301,6 +77314,7 @@
 倒爷wgwq
 儞wgwq
 全体wgws
+合体wgws
 合作wgwt
 使人wgww
 僵化wgwx
@@ -84825,6 +84839,7 @@
 螤yjjw
 裹足yjkh
 齐唱yjkj
+充电器yjkk
 谩骂yjkk
 齐鸣yjkq
 谩yjl
