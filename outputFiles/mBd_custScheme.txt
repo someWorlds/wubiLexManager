@@ -6979,7 +6979,7 @@ cnrn    马扎
 cnru    马尼拉
 cnsc    马桶
 cnse    马棚
-cnsg    巴西
+cnsg    巴西    马丁
 cnsk    马可
 cnss    巴林
 cnsy    马术
@@ -7175,6 +7175,7 @@ crwy    䭿
 crxg    对牛弹琴
 crxw    马拉维
 cs    骠
+csaf    马丁靴
 csbb    台柱子
 csbw    巴西队
 cscd    骠骑
@@ -12945,7 +12946,7 @@ euga    脱开
 eugg    膶
 eugh    脱下
 eugi    䑌
-eugk    胶囊
+eugk    胶囊    胶带
 eugx    脱毒
 eugy    脱班
 euhc    脱皮
@@ -13743,7 +13744,7 @@ fcsg    支配
 fcsm    动机
 fcss    云林
 fcsu    云梯
-fcsv    却要
+fcsv    却要    翅根
 fcsy    支柱
 fct    埃
 fctd    埃    运筹    动乱
@@ -18783,7 +18784,7 @@ ghqw    下欠
 ghrc    正反
 ghrd    下拜
 ghrl    下摆
-ghrn    正气
+ghrn    正气    正握
 ghrp    下探
 ghrt    下手
 ghru    下拉
@@ -20368,6 +20369,7 @@ gqjp    迾
 gqjq    鿞    銐
 gqjt    五角星
 gqjv    残照    姴
+gqjy    残影
 gqk    殒
 gqkf    殫
 gqkg    玽
@@ -36960,6 +36962,7 @@ mqye    风衣
 mqyf    见诸
 mqyg    见证
 mqyh    网店
+mqyj    网课
 mqyk    见识
 mqyl    嵧
 mqyn    风扇    购房
@@ -43098,7 +43101,7 @@ plia    军港
 plif    军法
 plip    军演
 plir    实力派
-pliw    穷困潦倒
+pliw    实力举    穷困潦倒
 plj    軍    军
 pljg    军师
 plkg    军号
@@ -51340,7 +51343,7 @@ rnqv    气急
 rnqw    所欠    㰟
 rnr    扬    摺
 rnrb    据报
-rnrc    抉择
+rnrc    抉择    握把
 rnre    摧眉折腰
 rnrf    气质
 rnrg    摺
@@ -53014,7 +53017,7 @@ rvtd    搜刮
 rvte    招租
 rvtf    执行    招待
 rvtg    招生    招徕
-rvth    招牌
+rvth    招牌    垫片
 rvtj    势利
 rvtk    捃
 rvtl    热血

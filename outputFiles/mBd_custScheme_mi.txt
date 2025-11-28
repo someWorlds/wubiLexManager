@@ -7606,6 +7606,7 @@
 马桶cnsc
 马棚cnse
 巴西cnsg
+马丁cnsg
 马可cnsk
 巴林cnss
 马术cnsy
@@ -7803,6 +7804,7 @@
 对牛弹琴crxg
 马拉维crxw
 骠cs
+马丁靴csaf
 台柱子csbb
 巴西队csbw
 骠骑cscd
@@ -13965,6 +13967,7 @@
 膶eugg
 脱下eugh
 胶囊eugk
+胶带eugk
 脱毒eugx
 脱班eugy
 脱皮euhc
@@ -14805,6 +14808,7 @@
 云林fcss
 云梯fcsu
 却要fcsv
+翅根fcsv
 支柱fcsy
 埃fct
 埃fctd
@@ -20533,6 +20537,7 @@
 下拜ghrd
 下摆ghrl
 正气ghrn
+正握ghrn
 下探ghrp
 下手ghrt
 下拉ghru
@@ -22365,6 +22370,7 @@
 五角星gqjt
 残照gqjv
 姴gqjv
+残影gqjy
 殒gqk
 殫gqkf
 玽gqkg
@@ -40824,6 +40830,7 @@
 见诸mqyf
 见证mqyg
 网店mqyh
+网课mqyj
 见识mqyk
 嵧mqyl
 风扇mqyn
@@ -47503,6 +47510,7 @@
 军法plif
 军演plip
 实力派plir
+实力举pliw
 穷困潦倒pliw
 軍plj
 军plj
@@ -57234,6 +57242,7 @@
 摺rnr
 据报rnrb
 抉择rnrc
+握把rnrc
 摧眉折腰rnre
 气质rnrf
 摺rnrg
@@ -59209,6 +59218,7 @@
 招生rvtg
 招徕rvtg
 招牌rvth
+垫片rvth
 势利rvtj
 捃rvtk
 热血rvtl
