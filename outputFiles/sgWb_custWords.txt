@@ -4493,6 +4493,7 @@ cegc	通到
 cegd	通天
 cegf	勇于
 cegi	能否
+cegk	能带
 cegk	通融
 cegk	通带
 cehc	熊皮
@@ -9332,6 +9333,7 @@ eslr	腰斩
 eslt	彩轿
 eslw	采办
 esmq	采购
+esmq	采风
 esna	彩民
 esnh	采收
 esnh	彩蛋
@@ -27655,6 +27657,7 @@ mhtr	由我
 mhtt	帐篷
 mhud	由头
 mhvb	贴好
+mhwf	幅值
 mhwg	贴合
 mhwq	由你
 mhww	由人
@@ -40167,6 +40170,7 @@ ruxm	接纳
 ruxt	接缝
 ruxu	招商引资
 ruxx	拉丝
+ruxx	拉比
 ruxy	摘编
 ruyc	摘译
 ruyd	探亲访友

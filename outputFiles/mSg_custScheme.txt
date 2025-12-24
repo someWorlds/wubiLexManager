@@ -7572,6 +7572,7 @@ cegf	勇于
 cegg	驵
 cegg	駔
 cegi	能否
+cegk	能带
 cegk	通融
 cegk	通带
 cegn	㼧
@@ -14778,6 +14779,7 @@ eslr	腰斩
 eslt	彩轿
 eslw	采办
 esmq	采购
+esmq	采风
 esna	彩民
 esnh	采收
 esnh	彩蛋
@@ -42990,6 +42992,7 @@ mhvb	贴好
 mhvy	㠴
 mhw	帷
 mhwd	帿
+mhwf	幅值
 mhwg	贴合
 mhwg	㡨
 mhwi	㡜
@@ -63246,6 +63249,7 @@ ruxt	接缝
 ruxt	挮
 ruxu	招商引资
 ruxx	拉丝
+ruxx	拉比
 ruxy	摘编
 ruyc	摘译
 ruyd	探亲访友

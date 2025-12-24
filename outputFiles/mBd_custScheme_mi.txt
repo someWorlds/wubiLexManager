@@ -6990,6 +6990,7 @@
 驵cegg
 駔cegg
 能否cegi
+能带cegk
 通融cegk
 通带cegk
 熊皮cehc
@@ -13666,6 +13667,7 @@
 彩轿eslt
 采办eslw
 采购esmq
+采风esmq
 彩民esna
 采收esnh
 彩蛋esnh
@@ -40054,6 +40056,7 @@
 贴好mhvb
 帷mhw
 帿mhwd
+幅值mhwf
 贴合mhwg
 帢mhwk
 由你mhwq
@@ -59009,6 +59012,7 @@
 挮ruxt
 招商引资ruxu
 拉丝ruxx
+拉比ruxx
 摘编ruxy
 摘译ruyc
 探亲访友ruyd
