@@ -9750,7 +9750,7 @@ dmsk    碋
 dmso    碉楼
 dmsr    面板
 dmsv    而要
-dmte    感同身受
+dmte    感同身受    面筋
 dmtf    布告
 dmtg    面生
 dmtj    碸
@@ -10888,7 +10888,7 @@ dwa    砼
 dwaa    三段式
 dwab    春节
 dwad    厚今薄古
-dwaf    春蕾
+dwaf    泰勒    春蕾
 dwag    砼
 dwai    硝化甘油
 dwaj    春草
@@ -11921,6 +11921,7 @@ egde    且有
 egdg    助威
 egdm    䪶
 ege    脯    膊    腈
+egea    膈膜
 egeb    胚乳
 egec    胚胎
 egef    膊
@@ -14372,7 +14373,7 @@ fgqr    地下铁
 fgqt    干犯
 fgqv    干急
 fgrd    干扰
-fgrg    士兵
+fgrg    士兵    雨后
 fgrh    十年    干掉
 fgrn    士气
 fgrq    替死鬼
@@ -35607,6 +35608,7 @@ mdui    嶚    嶛
 mduq    岩浆
 mduw    嶡    嶥
 mdwf    见面会
+mdwh    央企
 mdwj    賰    䞐
 mdwo    鴦
 mdwv    炭盆
@@ -39488,6 +39490,7 @@ nrgg    惶
 nrgk    怕事    㤧
 nrgq    怕死
 nrgt    屈指一算
+nrgu    习近平
 nrgw    己所不欲
 nrh    忻
 nrha    惶遽
@@ -46794,7 +46797,7 @@ qnkl    饯别    饲喂
 qnkm    馈
 qnkt    独辟蹊径
 qnku    鐴
-qnlf    包围    乌黑
+qnlf    包围    乌黑    饭团
 qnlg    包车
 qnlk    包圆
 qnlq    包罗
@@ -47809,7 +47812,7 @@ qte    犭    锈    狙
 qtea    猫腻
 qtec    猨
 qtee    猎豹
-qtef    猪脚
+qtef    猪肝    猪脚
 qteg    狙
 qteh    猙
 qtem    猺
@@ -57181,7 +57184,7 @@ tc    么    笖
 tca    径
 tcad    私藏
 tcag    径
-tcaj    笲
+tcaj    私募    笲
 tcap    私营
 tcay    私蓄
 tcb    笆
@@ -61772,7 +61775,7 @@ uayi    并就
 uayl    并为
 uayn    并肩
 uayq    瓶底
-ub    闻
+ub    闻    疗
 ubab    端阳节
 ubah    姜子牙
 ubaw    交际花
@@ -67878,7 +67881,7 @@ wbyy    他方
 wc    公    似
 wcaa    公式
 wcah    俊雅
-wcaj    公墓
+wcaj    公募    公墓
 wcap    公营
 wcaw    公共
 wcbb    公子
@@ -76272,6 +76275,7 @@ ynpb    刻字
 ynpe    赢家
 ynpf    鹿寨
 ynpg    房室
+ynpj    盲审
 ynpr    记牢
 ynpt    房客
 ynpv    永安
@@ -77195,7 +77199,7 @@ ytiw    谬种流传
 ytiy    旅游
 ytja    施暴
 ytjf    州里
-ytjg    话题
+ytjg    话题    放晴
 ytjh    誗
 ytjj    许昌
 ytjl    度德量力

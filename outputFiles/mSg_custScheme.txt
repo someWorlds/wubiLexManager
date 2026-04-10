@@ -11497,6 +11497,7 @@ dmso	碉楼
 dmsr	面板
 dmsv	而要
 dmte	感同身受
+dmte	面筋
 dmtf	布告
 dmtg	面生
 dmtj	碸
@@ -12773,6 +12774,7 @@ dwa	砼
 dwaa	三段式
 dwab	春节
 dwad	厚今薄古
+dwaf	泰勒
 dwaf	春蕾
 dwag	砼
 dwai	硝化甘油
@@ -13952,6 +13954,7 @@ egdm	䪶
 ege	脯
 ege	膊
 ege	腈
+egea	膈膜
 egeb	胚乳
 egec	胚胎
 egef	膊
@@ -16756,6 +16759,7 @@ fgqt	干犯
 fgqv	干急
 fgrd	干扰
 fgrg	士兵
+fgrg	雨后
 fgrh	十年
 fgrh	干掉
 fgrn	士气
@@ -42217,6 +42221,7 @@ mduq	岩浆
 mduw	嶡
 mduw	嶥
 mdwf	见面会
+mdwh	央企
 mdwj	賰
 mdwj	䞐
 mdwo	鴦
@@ -46809,6 +46814,7 @@ nrgk	怕事
 nrgk	㤧
 nrgq	怕死
 nrgt	屈指一算
+nrgu	习近平
 nrgw	己所不欲
 nrh	忻
 nrha	惶遽
@@ -55631,6 +55637,7 @@ qnkt	独辟蹊径
 qnku	鐴
 qnlf	包围
 qnlf	乌黑
+qnlf	饭团
 qnlg	包车
 qnlk	包圆
 qnlq	包罗
@@ -57004,6 +57011,7 @@ qte	狙
 qtea	猫腻
 qtec	猨
 qtee	猎豹
+qtef	猪肝
 qtef	猪脚
 qteg	狙
 qteh	猙
@@ -68508,6 +68516,7 @@ tc	么
 tca	径
 tcad	私藏
 tcag	径
+tcaj	私募
 tcaj	笲
 tcap	私营
 tcay	私蓄
@@ -81705,6 +81714,7 @@ wbyy	他方
 wc	公
 wcaa	公式
 wcah	俊雅
+wcaj	公募
 wcaj	公墓
 wcap	公营
 wcaw	公共
@@ -92066,6 +92076,7 @@ ynpb	刻字
 ynpe	赢家
 ynpf	鹿寨
 ynpg	房室
+ynpj	盲审
 ynpr	记牢
 ynpt	房客
 ynpv	永安
@@ -93197,6 +93208,7 @@ ytiy	旅游
 ytja	施暴
 ytjf	州里
 ytjg	话题
+ytjg	放晴
 ytjh	誗
 ytjj	许昌
 ytjl	度德量力
