@@ -8060,7 +8060,7 @@ ddvb    大好
 ddvc    大妈    大怒
 ddvd    大姑
 ddve    大姐
-ddvf    大建
+ddvf    套娃    大建
 ddvg    大姨
 ddvl    大舅
 ddvn    大刀
@@ -8396,7 +8396,7 @@ dfdd    夸大
 dfdh    磕破
 dfdj    礝
 dfdl    雄才大略
-dfdq    有声有色
+dfdq    夸克    有声有色
 dfdt    大吉大利
 dfdu    三十而立
 dfdx    左支右绌
@@ -9658,7 +9658,7 @@ dmh    布
 dmhc    面皮
 dmhh    面目
 dmhj    布
-dmhk    布点
+dmhk    面点    布点
 dmhw    面具
 dmia    布满
 dmib    三岁小孩
@@ -42154,6 +42154,7 @@ pajg    农艺师
 pajh    宽畅    冪
 pajj    寥若晨星
 pakf    宽叶
+pakh    宽距
 palp    宽边
 pam    宽
 pamh    宽幅
@@ -44347,7 +44348,7 @@ pwk    窜    窝
 pwka    䆛
 pwkb    祸从口出
 pwkd    空喊
-pwkh    空中    窜    䆔    䆗
+pwkh    空中    窜    窄距    䆔    䆗
 pwkk    窗口    容器
 pwkm    䆬
 pwkq    鹤鸣
@@ -44743,6 +44744,7 @@ pyri    祩
 pyrm    禠
 pyrn    福气    神气
 pyrp    神探
+pyrv    社招
 pyrw    祑
 pysc    神权
 pysd    禅杖
@@ -50223,7 +50225,7 @@ rhdw    反目成仇
 rhea    看腻
 rheb    牛乳
 rhee    年月
-rhef    牛肚
+rhef    牛腩    牛肚
 rheg    掯
 rheu    扑腾
 rhev    扯腿
@@ -50955,7 +50957,7 @@ rlwx    年轻化
 rlwy    捆住
 rlx    摞
 rlxd    捆绑
-rlxg    捆缚
+rlxg    摆线    捆缚
 rlxi    摞
 rlxy    攞
 rlym    摆设
@@ -55679,7 +55681,7 @@ sqab    柳荫
 sqah    桝
 sqaj    棔
 sqak    桰
-sqal    极乐世界
+sqal    榴莲    极乐世界
 sqas    榤
 sqay    柢
 sqbb    橡子
@@ -56369,6 +56371,7 @@ suqy    校
 surb    样报
 surq    橷
 surr    梳妆打扮
+surv    校招
 sus    榇    樽
 susa    可亲可敬
 susc    樟树
@@ -67655,7 +67658,7 @@ wafp    借壳
 wafq    伊斯坦布尔
 waft    代考
 wafu    侥幸
-wafw    代替
+wafw    代替    仰卧起坐
 wag    仜
 waga    代开
 wagb    休斯顿

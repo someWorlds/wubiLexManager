@@ -8774,6 +8774,7 @@
 大怒ddvc
 大姑ddvd
 大姐ddve
+套娃ddvf
 大建ddvf
 大姨ddvg
 大舅ddvl
@@ -9135,6 +9136,7 @@
 磕破dfdh
 礝dfdj
 雄才大略dfdl
+夸克dfdq
 有声有色dfdq
 大吉大利dfdt
 三十而立dfdu
@@ -10542,6 +10544,7 @@
 面皮dmhc
 面目dmhh
 布dmhj
+面点dmhk
 布点dmhk
 面具dmhw
 布满dmia
@@ -46479,6 +46482,7 @@
 冪pajh
 寥若晨星pajj
 宽叶pakf
+宽距pakh
 宽边palp
 宽pam
 宽幅pamh
@@ -48937,6 +48941,7 @@
 空喊pwkd
 空中pwkh
 窜pwkh
+窄距pwkh
 窗口pwkk
 容器pwkk
 鹤鸣pwkq
@@ -49413,6 +49418,7 @@
 福气pyrn
 神气pyrn
 神探pyrp
+社招pyrv
 祑pyrw
 神权pysc
 禅杖pysd
@@ -56000,6 +56006,7 @@
 看腻rhea
 牛乳rheb
 年月rhee
+牛腩rhef
 牛肚rhef
 掯rheg
 扑腾rheu
@@ -56807,6 +56814,7 @@
 捆住rlwy
 摞rlx
 捆绑rlxd
+摆线rlxg
 捆缚rlxg
 摞rlxi
 攞rlxy
@@ -62270,6 +62278,7 @@
 桝sqah
 棔sqaj
 桰sqak
+榴莲sqal
 极乐世界sqal
 榤sqas
 柢sqay
@@ -63020,6 +63029,7 @@
 样报surb
 橷surq
 梳妆打扮surr
+校招surv
 榇sus
 樽sus
 可亲可敬susa
@@ -75827,6 +75837,7 @@
 代考waft
 侥幸wafu
 代替wafw
+仰卧起坐wafw
 仜wag
 代开waga
 休斯顿wagb
