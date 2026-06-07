@@ -8035,6 +8035,7 @@
 难舍cwwf
 难倒cwwg
 难保cwwk
+鸡公煲cwwk
 马仰人翻cwwt
 难分cwwv
 难人cwww
@@ -64341,6 +64342,7 @@
 称奇道绝tdux
 辞退tdve
 筹建tdvf
+刮胡刀tdvn
 短刀tdvn
 辞灵tdvo
 乱杂tdvs
@@ -65980,6 +65982,7 @@
 算盘thte
 自行thtf
 自选thtf
+鼻毛thtf
 自重thtg
 处处thth
 自处thth
@@ -70180,6 +70183,7 @@
 亲朋好友uevd
 凈uevh
 剪刀uevn
+剃须刀uevn
 前嫌uevu
 前代uewa
 前段uewd

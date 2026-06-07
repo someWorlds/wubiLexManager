@@ -7405,7 +7405,7 @@ cwvp    逡巡
 cwvy    难忍
 cwwf    难舍
 cwwg    难倒
-cwwk    难保
+cwwk    难保    鸡公煲
 cwwt    马仰人翻
 cwwv    难分
 cwww    难人
@@ -57515,7 +57515,7 @@ tdux    称奇道绝
 tdve    辞退
 tdvf    筹建
 tdvk    䂏
-tdvn    短刀
+tdvn    刮胡刀    短刀
 tdvo    辞灵
 tdvs    乱杂
 tdw    矬    雉
@@ -58727,7 +58727,7 @@ thta    延长    处长
 thtc    怎么    自私
 thtd    自知    自筹
 thte    算盘
-thtf    自行    自选
+thtf    自行    自选    鼻毛
 thtg    自重
 thth    处处    自处
 thtj    自得
@@ -62450,7 +62450,7 @@ ueuy    前门
 uev    疓
 uevd    亲朋好友
 uevh    凈
-uevn    剪刀
+uevn    剪刀    剃须刀
 uevu    前嫌
 uewa    前代
 uewd    前段
